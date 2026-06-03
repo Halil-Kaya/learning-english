@@ -1,0 +1,16 @@
+# Set 5 — 15 kelime
+forlorn | sıfat | kederli, terk edilmiş, umutsuz | The {forlorn} puppy waited alone in the rain. | Kederli yavru köpek yağmurda yalnız başına bekledi.
+eavesdrop | fiil | gizlice dinlemek, kulak misafiri olmak | She tried to {eavesdrop} on their private conversation. | Onların özel konuşmasına kulak misafiri olmaya çalıştı.
+fundamental | sıfat | temel, esas | Trust is a {fundamental} part of any friendship. | Güven, her dostluğun temel bir parçasıdır.
+eventually | zarf | sonunda, eninde sonunda | He worked hard and {eventually} achieved his dream. | Çok çalıştı ve sonunda hayalini gerçekleştirdi.
+concur | fiil | hemfikir olmak, mutabık kalmak | The experts all {concur} with the new findings. | Uzmanların hepsi yeni bulgularla hemfikir.
+amusing | sıfat | eğlenceli, komik | The comedian told an {amusing} story about his childhood. | Komedyen çocukluğuyla ilgili eğlenceli bir hikaye anlattı.
+eldest | sıfat | en yaşlı, en büyük | Her {eldest} son is studying medicine abroad. | En büyük oğlu yurt dışında tıp okuyor.
+abundance | isim | bolluk, bereket | The garden produced an {abundance} of fresh vegetables. | Bahçe bol miktarda taze sebze verdi.
+flawless | sıfat | kusursuz, mükemmel | Her performance on stage was absolutely {flawless}. | Sahnedeki performansı kesinlikle kusursuzdu.
+sorrow | isim | keder, üzüntü, hüzün | She felt deep {sorrow} after losing her best friend. | En yakın arkadaşını kaybettikten sonra derin bir keder hissetti.
+behold | fiil | görmek, seyretmek, bakmak | They climbed the hill to {behold} the sunset. | Gün batımını seyretmek için tepeye tırmandılar.
+destruction | isim | yıkım, tahribat | The storm caused widespread {destruction} across the town. | Fırtına kasaba genelinde yaygın yıkıma neden oldu.
+siege | isim | kuşatma, abluka | The ancient city withstood a long {siege}. | Antik kent uzun bir kuşatmaya dayandı.
+devout | sıfat | dindar, sofu, adanmış | She is a {devout} believer who prays every day. | O, her gün dua eden dindar bir inanan.
+go bonkers | deyim | çıldırmak, delirmek, tepesi atmak | The fans will {go bonkers} when the band comes on stage. | Grup sahneye çıkınca hayranlar çıldıracak.

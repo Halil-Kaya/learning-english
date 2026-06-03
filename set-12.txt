@@ -1,0 +1,16 @@
+# Set 12 — 15 kelime
+slum | isim | gecekondu bölgesi, varoş | They grew up in a {slum} on the edge of the city. | Şehrin kenarındaki bir gecekondu bölgesinde büyüdüler.
+needy | sıfat | muhtaç, yardıma muhtaç, ihtiyaç sahibi | The charity provides food for {needy} families. | Hayır kurumu muhtaç ailelere yiyecek sağlıyor.
+pry | fiil | burnunu sokmak, kurcalamak, zorla açmak | Please stop trying to {pry} into my personal life. | Lütfen özel hayatıma burnunu sokmaya çalışmayı bırak.
+greed | isim | açgözlülük, hırs | His {greed} for money destroyed all his friendships. | Para hırsı bütün dostluklarını yok etti.
+subpoena | isim | mahkeme celbi | The witness received a {subpoena} to appear in court. | Tanık mahkemede hazır bulunması için bir mahkeme celbi aldı.
+tacky | sıfat | zevksiz, ucuz görünümlü | She thought the gold decorations looked a bit {tacky}. | Altın süslemelerin biraz zevksiz göründüğünü düşündü.
+understated | sıfat | gösterişsiz, sade, abartısız | He wore an {understated} gray suit to the meeting. | Toplantıya gösterişsiz gri bir takım elbise giydi.
+stay put | deyim | yerinde kalmak, kıpırdamamak | The police told everyone to {stay put} until help arrived. | Polis yardım gelene kadar herkese yerinde kalmasını söyledi.
+deputy | isim | yardımcı, vekil, muavin | The {deputy} took over while the manager was away. | Müdür yokken yardımcısı görevi devraldı.
+coup | isim | darbe, hükümet darbesi | The government was overthrown in a military {coup}. | Hükümet bir askeri darbeyle devrildi.
+hustle | fiil | acele etmek, didinmek, hızlı hareket etmek | You'll need to {hustle} if you want to catch the train. | Treni yakalamak istiyorsan acele etmen gerekecek.
+relegate | fiil | gerilere itmek, alt sıraya düşürmek | The team was {relegate} to a lower division after losing. | Takım maçı kaybedince alt lige düşürüldü.
+bail | isim | kefalet, teminat | His family paid the {bail} to get him out of jail. | Ailesi onu hapisten çıkarmak için kefalet ödedi.
+swindler | isim | dolandırıcı, sahtekâr | The {swindler} tricked elderly people out of their savings. | Dolandırıcı yaşlı insanları kandırarak birikimlerini aldı.
+eligible | sıfat | uygun, hak sahibi, ehil | Only students over eighteen are {eligible} for the program. | Yalnızca on sekiz yaş üstü öğrenciler programa katılmaya uygundur.

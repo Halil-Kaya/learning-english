@@ -1,0 +1,16 @@
+# Set 24 — 15 kelime
+befall | fiil | başına gelmek, gelip çatmak | A terrible misfortune may {befall} anyone at any moment. | Korkunç bir talihsizlik her an herkesin başına gelebilir.
+taint | fiil | kirletmek, lekelemek, bozmak | The scandal could {taint} the company's reputation forever. | Skandal şirketin itibarını sonsuza dek lekeleyebilir.
+drat | ünlem | hay aksi, lanet olsun | {drat}, I forgot my keys inside the house again. | Hay aksi, anahtarlarımı yine evde unuttum.
+proposal | isim | öneri, teklif | She accepted his marriage {proposal} with tears of joy. | Onun evlilik teklifini sevinç gözyaşlarıyla kabul etti.
+decent | sıfat | düzgün, iyi, dürüst | He is a {decent} man who always keeps his promises. | O her zaman sözünü tutan düzgün bir adamdır.
+wreck | isim | enkaz, harabe, kazada hurda olan şey | Rescuers searched the {wreck} for any survivors. | Kurtarıcılar enkazda hayatta kalan olup olmadığını aradı.
+priest | isim | rahip, papaz | The {priest} blessed the couple during the ceremony. | Rahip tören sırasında çifti kutsadı.
+nasty | sıfat | kötü, iğrenç, çirkin | He left a really {nasty} comment on her photo. | Onun fotoğrafına gerçekten iğrenç bir yorum bıraktı.
+restraint | isim | kısıtlama, öz denetim, ölçülülük | She showed great {restraint} despite the insults. | Hakaretlere rağmen büyük bir öz denetim gösterdi.
+accompany | fiil | eşlik etmek, refakat etmek | A nurse will {accompany} the patient to the hospital. | Bir hemşire hastaya hastaneye kadar eşlik edecek.
+deem | fiil | saymak, addetmek, kabul etmek | The judge will {deem} the evidence sufficient for a trial. | Hakim kanıtları dava için yeterli sayacaktır.
+nomadic | sıfat | göçebe, gezgin | The tribe lived a {nomadic} life across the desert. | Kabile çöl boyunca göçebe bir hayat sürdü.
+divert | fiil | yönünü değiştirmek, saptırmak, başka yöne çevirmek | Police had to {divert} the traffic away from the accident. | Polis trafiği kazadan uzağa yönlendirmek zorunda kaldı.
+disaster | isim | felaket, afet | The flood was the worst natural {disaster} in decades. | Sel, onyıllardır yaşanan en kötü doğal afetti.
+denial | isim | inkar, reddetme, yadsıma | His constant {denial} of the truth angered everyone. | Gerçeği sürekli inkar etmesi herkesi kızdırdı.

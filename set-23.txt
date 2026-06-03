@@ -1,0 +1,16 @@
+# Set 23 — 15 kelime
+resemblance | isim | benzerlik, andırma | The {resemblance} between the twins is striking. | İkizler arasındaki benzerlik çarpıcıdır.
+bizarre | sıfat | tuhaf, acayip, garip | She told us a {bizarre} story about a talking cat. | Bize konuşan bir kedi hakkında tuhaf bir hikaye anlattı.
+vain | sıfat | boşuna, nafile, kibirli | All our efforts to save the company were in {vain}. | Şirketi kurtarmak için tüm çabalarımız boşunaydı.
+go along | deyim | uymak, razı olmak, eşlik etmek | I decided to {go along} with their plan even though I had doubts. | Şüphelerim olmasına rağmen onların planına uymaya karar verdim.
+sike | ünlem | şaka şaka, kandırdım | I said I won the lottery, then yelled {sike}. | Piyangoyu kazandığımı söyledim, sonra şaka şaka diye bağırdım.
+breakthrough | isim | atılım, önemli gelişme, çığır | Scientists made a major {breakthrough} in cancer research. | Bilim insanları kanser araştırmasında büyük bir atılım yaptılar.
+dignity | isim | onur, haysiyet, vakar | He faced his illness with great {dignity}. | Hastalığıyla büyük bir onurla yüzleşti.
+implore | fiil | yalvarmak, yakarmak | She began to {implore} him not to leave. | Ona gitmemesi için yalvarmaya başladı.
+savage | sıfat | vahşi, acımasız, gaddar | The film shows a {savage} attack by wild animals. | Film vahşi hayvanların acımasız bir saldırısını gösteriyor.
+interrogate | fiil | sorgulamak, sorguya çekmek | The police will {interrogate} the suspect tomorrow. | Polis şüpheliyi yarın sorgulayacak.
+hospitability | isim | misafirperverlik, konukseverlik | Their warm {hospitability} made us feel at home. | Sıcak misafirperverlikleri bize kendimizi evimizde gibi hissettirdi.
+intense | sıfat | yoğun, şiddetli, gergin | The athletes went through an {intense} training session. | Sporcular yoğun bir antrenman seansından geçtiler.
+swindle | fiil | dolandırmak, kazıklamak | The con artist tried to {swindle} elderly people out of their savings. | Dolandırıcı yaşlı insanları birikimlerinden dolandırmaya çalıştı.
+quarters | isim | konut, kalacak yer, lojman | The soldiers returned to their {quarters} after the drill. | Askerler tatbikatın ardından konutlarına döndüler.
+confiscated | sıfat | el konulmuş, müsadere edilmiş | The {confiscated} goods were stored in a secure warehouse. | El konulmuş mallar güvenli bir depoda saklandı.

@@ -1,0 +1,16 @@
+# Set 29 — 15 kelime
+recreation | isim | eğlence, dinlence, boş zaman etkinliği | Hiking is her favorite form of {recreation}. | Doğa yürüyüşü onun en sevdiği dinlence biçimidir.
+negligible | sıfat | önemsiz, ihmal edilebilir, kayda değmeyen | The difference in price was {negligible}. | Fiyattaki fark önemsizdi.
+shortage | isim | kıtlık, eksiklik, yokluk | There is a serious water {shortage} this summer. | Bu yaz ciddi bir su kıtlığı var.
+proper | sıfat | uygun, doğru, gerektiği gibi | You need to wear the {proper} clothes for the job. | Bu iş için uygun kıyafetleri giymen gerekiyor.
+grieve | fiil | yas tutmak, kederlenmek, üzülmek | She still {grieve} for her late mother. | Hâlâ rahmetli annesinin yasını tutuyor.
+dealt | fiil | uğraştı, ilgilendi, ele aldı (deal fiilinin geçmiş hâli) | He {dealt} with the problem calmly. | Sorunla sakince ilgilendi.
+broom | isim | süpürge | She swept the floor with a {broom}. | Yeri bir süpürgeyle süpürdü.
+at will | ifade | istediği gibi, keyfine göre, serbestçe | The employees could come and go {at will}. | Çalışanlar istedikleri gibi gelip gidebiliyordu.
+teeming | sıfat | kaynayan, dolup taşan, cıvıl cıvıl | The market was {teeming} with people. | Pazar insanlarla dolup taşıyordu.
+subside | fiil | dinmek, yatışmak, azalmak | The pain began to {subside} after the medicine. | İlaçtan sonra ağrı dinmeye başladı.
+regrettably | zarf | maalesef, üzülerek, ne yazık ki | {regrettably}, we cannot offer you the job. | Maalesef size işi veremiyoruz.
+maul | fiil | hırpalamak, parçalamak, pençeyle yaralamak | The tourist was nearly {maul} by a bear. | Turist neredeyse bir ayı tarafından parçalanacaktı.
+explanation | isim | açıklama, izah | He gave a clear {explanation} of the rules. | Kuralların açık bir açıklamasını yaptı.
+radioed | fiil | telsizle haber verdi, telsizle bildirdi | The pilot {radioed} for help. | Pilot yardım için telsizle haber verdi.
+silly | sıfat | aptalca, saçma, budalaca | That was a {silly} mistake. | Bu aptalca bir hataydı.

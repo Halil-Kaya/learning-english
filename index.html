@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Learning English — Kelime Ezberleme</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,400&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">📚</span>
+      <h1>Learning&nbsp;English</h1>
+    </div>
+    <div class="data-actions">
+      <select id="set-select" class="set-select" title="Set seç"></select>
+      <span id="word-count" class="word-count">0 kelime</span>
+      <label class="file-btn">
+        📂 words.txt yükle
+        <input type="file" id="file-input" accept=".txt" hidden />
+      </label>
+    </div>
+  </header>
+
+  <!-- Mod sekmeleri -->
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-mode="cards">🃏 Kartlar</button>
+    <button class="tab" data-mode="test">🧠 Test</button>
+    <button class="tab" data-mode="match">🔗 Eşleştirme</button>
+    <button class="tab" data-mode="fill">✏️ Boşluk Doldur</button>
+    <button class="tab" data-mode="write">⌨️ Yazma</button>
+  </nav>
+
+  <!-- İstatistik şeridi -->
+  <section class="stats" id="stats">
+    <div class="stat"><div class="stat-num ok" id="s-know">0</div><div class="stat-lbl">Biliyorum</div></div>
+    <div class="stat"><div class="stat-num left" id="s-left">0</div><div class="stat-lbl">Kalan</div></div>
+    <div class="stat"><div class="stat-num bad" id="s-learn">0</div><div class="stat-lbl">Öğreniyorum</div></div>
+    <div class="stat"><div class="stat-num" id="s-score">0%</div><div class="stat-lbl">Başarı</div></div>
+  </section>
+
+  <div class="progress"><div class="progress-fill" id="progress-fill"></div></div>
+
+  <main id="main">
+
+    <!-- ============ KARTLAR ============ -->
+    <section class="view" id="view-cards">
+      <div class="flashcard-wrap">
+        <div class="flashcard" id="flashcard">
+          <div class="face front">
+            <span class="face-label">İNGİLİZCE</span>
+            <div class="big-word" id="fc-word">—</div>
+            <div class="word-type" id="fc-type"></div>
+            <button class="speak-btn" id="fc-speak" title="Sesli oku">🔊</button>
+            <span class="hint">karta tıkla · anlamı gör</span>
+          </div>
+          <div class="face back">
+            <span class="face-label">TÜRKÇE</span>
+            <div class="meaning" id="fc-meaning">—</div>
+            <div class="example" id="fc-example"></div>
+            <div class="example-tr" id="fc-example-tr"></div>
+          </div>
+        </div>
+      </div>
+      <div class="controls">
+        <button class="btn bad" id="c-learn">✗ Öğreniyorum</button>
+        <button class="btn nav" id="c-prev">←</button>
+        <button class="btn nav" id="c-next">→</button>
+        <button class="btn ok" id="c-know">✓ Biliyorum</button>
+      </div>
+    </section>
+
+    <!-- ============ TEST ============ -->
+    <section class="view hidden" id="view-test">
+      <div class="question-card">
+        <span class="face-label">BU KELİMENİN ANLAMI?</span>
+        <div class="big-word" id="q-word">—</div>
+        <div class="word-type" id="q-type"></div>
+        <button class="speak-btn" id="q-speak" title="Sesli oku">🔊</button>
+      </div>
+      <div class="options" id="q-options"></div>
+    </section>
+
+    <!-- ============ EŞLEŞTİRME ============ -->
+    <section class="view hidden" id="view-match">
+      <div class="match-bar">
+        <span id="match-timer">⏱️ 0.0s</span>
+        <span id="match-progress">0 / 0 eşleşti</span>
+        <button class="btn small" id="match-restart">🔄 Yeni Tur</button>
+      </div>
+      <div class="match-grid" id="match-grid"></div>
+      <div class="match-done hidden" id="match-done">
+        <div class="done-emoji">🎉</div>
+        <div class="done-title">Hepsini eşleştirdin!</div>
+        <div class="done-sub" id="match-done-sub"></div>
+        <button class="btn primary" id="match-again">🔄 Tekrar Oyna</button>
+      </div>
+    </section>
+
+    <!-- ============ BOŞLUK DOLDUR ============ -->
+    <section class="view hidden" id="view-fill">
+      <div class="fill-card">
+        <span class="face-label">CÜMLEDEKİ BOŞLUĞU DOLDUR</span>
+        <div class="fill-sentence" id="fill-sentence">—</div>
+        <div class="fill-tr" id="fill-tr"></div>
+        <div class="fill-meaning" id="fill-meaning"></div>
+        <div class="fill-input-row">
+          <input type="text" id="fill-input" placeholder="İngilizce kelimeyi yaz..." autocomplete="off" spellcheck="false" />
+          <button class="btn primary" id="fill-check">Kontrol Et</button>
+        </div>
+        <div class="fill-feedback" id="fill-feedback"></div>
+        <button class="btn small ghost hidden" id="fill-next">Sonraki →</button>
+      </div>
+    </section>
+
+    <!-- ============ YAZMA ============ -->
+    <section class="view hidden" id="view-write">
+      <div class="fill-card">
+        <span class="face-label">BU KELİMEYİ HARF HARF YAZ</span>
+        <div class="meaning" id="write-meaning">—</div>
+        <div class="word-type" id="write-type"></div>
+        <div class="write-slots" id="write-slots"></div>
+        <input type="text" id="write-input" class="write-input"
+               placeholder="harfleri yaz..." autocomplete="off"
+               autocapitalize="off" autocorrect="off" spellcheck="false" />
+        <div class="fill-tr" id="write-tr"></div>
+        <div class="write-actions">
+          <button class="btn small ghost" id="write-speak">🔊 Dinle</button>
+          <button class="btn small ghost" id="write-reveal">👁 Göster</button>
+          <button class="btn small ghost" id="write-skip">Atla →</button>
+        </div>
+        <div class="fill-feedback" id="write-feedback"></div>
+        <button class="btn primary hidden" id="write-next">Sonraki →</button>
+      </div>
+    </section>
+
+    <!-- ============ SONUÇ EKRANI ============ -->
+    <section class="view hidden" id="view-result">
+      <div class="result-card">
+        <div class="done-emoji" id="r-emoji">🎉</div>
+        <div class="done-title" id="r-title">Tamamlandı!</div>
+        <div class="done-sub" id="r-sub"></div>
+        <div class="result-actions">
+          <button class="btn primary" id="r-restart">🔄 Tümünü Tekrar Et</button>
+          <button class="btn ghost" id="r-wrong">📚 Sadece Yanlışları</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <div class="empty-state hidden" id="empty-state">
+    <div class="empty-emoji">📭</div>
+    <p>Henüz kelime yüklenmedi.</p>
+    <p class="small-muted">Aynı klasördeki <code>words.txt</code> bulunamadı.
+       Yukarıdaki <b>📂 words.txt yükle</b> butonuyla elle yükleyebilir
+       ya da yerel sunucu çalıştırabilirsin (bkz. README).</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

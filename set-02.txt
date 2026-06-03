@@ -1,0 +1,16 @@
+# Set 2 — 15 kelime
+recruitment | isim | işe alım, eleman toplama | The company started a new {recruitment} campaign this month. | Şirket bu ay yeni bir işe alım kampanyası başlattı.
+stain | isim | leke | There is a coffee {stain} on my shirt. | Gömleğimde bir kahve lekesi var.
+fishy | sıfat | şüpheli, kuşku uyandıran | Something about his story sounds {fishy} to me. | Onun hikayesiyle ilgili bir şey bana şüpheli geliyor.
+abomination | isim | iğrençlik, nefret edilen şey | The critics called the new building an {abomination}. | Eleştirmenler yeni binayı bir iğrençlik olarak nitelendirdi.
+misfit | isim | uyumsuz kişi, topluma uymayan | He always felt like a {misfit} at school. | Okulda kendini hep uyumsuz biri gibi hissetti.
+evacuate | fiil | tahliye etmek, boşaltmak | The police told everyone to {evacuate} the building immediately. | Polis herkese binayı derhal tahliye etmesini söyledi.
+marvelous | sıfat | harika, muhteşem | We had a {marvelous} time at the beach yesterday. | Dün plajda harika vakit geçirdik.
+magnitude | isim | büyüklük, önem derecesi | They did not understand the {magnitude} of the problem. | Sorunun büyüklüğünü anlamadılar.
+sludge | isim | çamur, balçık, atık çamuru | The bottom of the tank was full of thick {sludge}. | Tankın dibi koyu çamurla doluydu.
+pour | fiil | dökmek, boşaltmak | Could you {pour} me a glass of water? | Bana bir bardak su döker misin?
+ruin | fiil | mahvetmek, harap etmek | Don't let one mistake {ruin} your whole day. | Tek bir hatanın bütün gününü mahvetmesine izin verme.
+it's ruined | ifade | mahvoldu, berbat oldu | I dropped the cake on the floor and now {it's ruined}. | Pastayı yere düşürdüm ve artık mahvoldu.
+recognition | isim | tanınma, takdir | She finally received {recognition} for her hard work. | Sonunda sıkı çalışması için takdir gördü.
+agitate | fiil | tedirgin etmek, kışkırtmak, çalkalamak | Loud noises tend to {agitate} the baby. | Yüksek sesler bebeği tedirgin etme eğilimindedir.
+vanish | fiil | yok olmak, ortadan kaybolmak | The magician made the coin {vanish} in seconds. | Sihirbaz parayı saniyeler içinde yok etti.

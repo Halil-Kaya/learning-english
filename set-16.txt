@@ -1,0 +1,16 @@
+# Set 16 — 15 kelime
+immigration | isim | göç, göçmenlik | The government announced new {immigration} policies this year. | Hükümet bu yıl yeni göç politikaları açıkladı.
+screwed | sıfat | mahvolmuş, çuvallamış, başı belada | If we miss this deadline, we are completely {screwed}. | Bu son teslim tarihini kaçırırsak tamamen başımız belaya girer.
+clingy | sıfat | yapışkan, ilgi düşkünü, sürekli yakın durmak isteyen | Her new boyfriend is a bit too {clingy} for her taste. | Yeni erkek arkadaşı onun zevkine göre biraz fazla yapışkan.
+recite | fiil | ezbere okumak, nakletmek | The students had to {recite} the poem in front of the class. | Öğrenciler şiiri sınıfın önünde ezbere okumak zorundaydı.
+awkward | sıfat | garip, tuhaf, rahatsız edici | There was an {awkward} silence after his comment. | Onun yorumundan sonra tuhaf bir sessizlik oldu.
+criticism | isim | eleştiri, kınama | She handled the harsh {criticism} with surprising calm. | Sert eleştiriyi şaşırtıcı bir sakinlikle karşıladı.
+aggravate | fiil | kötüleştirmek, sinirlendirmek, ağırlaştırmak | Scratching the wound will only {aggravate} the infection. | Yarayı kaşımak enfeksiyonu yalnızca kötüleştirir.
+dunno | ifade | bilmiyorum (günlük konuşma) | I {dunno} why he left so early last night. | Dün gece neden bu kadar erken ayrıldığını bilmiyorum.
+shallow | sıfat | sığ, yüzeysel | The water near the shore is very {shallow}. | Kıyıya yakın su çok sığ.
+seizure | isim | nöbet, kriz, el koyma | The patient suffered a sudden {seizure} during the night. | Hasta gece boyunca ani bir nöbet geçirdi.
+parish | isim | cemaat, kilise bölgesi | The whole {parish} gathered for the Sunday service. | Bütün cemaat pazar ayini için bir araya geldi.
+court | isim | mahkeme, kort, saray | The case will be heard in {court} next month. | Dava gelecek ay mahkemede görülecek.
+brief | sıfat | kısa, özet niteliğinde | She gave a {brief} summary of the meeting. | Toplantının kısa bir özetini verdi.
+thrust | fiil | itmek, saplamak, sokmak | He {thrust} the letter into my hands and ran off. | Mektubu elime itip kaçtı.
+truce | isim | ateşkes, mütareke | The two sides finally agreed to a {truce}. | İki taraf nihayet bir ateşkes konusunda anlaştı.

@@ -1,0 +1,68 @@
+# ============================================================
+#  WORDS.TXT  —  Kelime veri dosyası
+# ============================================================
+#  Format (her satır bir kelime, alanlar  |  ile ayrılır):
+#
+#  kelime | tür | türkçe anlamı | örnek cümle (hedef kelime {süslü parantez} içinde) | cümlenin türkçesi
+#
+#  - # ile başlayan satırlar ve boş satırlar yok sayılır.
+#  - Örnek cümlede ezberlenecek kelimeyi {süslü parantez} içine al.
+#    Uygulama o kelimeyi cümleden çıkarıp boşluk bırakır, sen elinle yazarsın.
+#  - Detaylı açıklama için README.md dosyasına bak.
+# ============================================================
+
+vow | fiil / isim | yemin etmek, söz vermek | She made a {vow} to never give up. | Asla vazgeçmemeye yemin etti.
+sly | sıfat | kurnaz, sinsi | He gave a {sly} smile and walked away. | Kurnazca gülümsedi ve uzaklaştı.
+sharp | sıfat | keskin, zeki, sivri | She has a {sharp} mind for business. | İş konusunda keskin bir zekası var.
+freely | zarf | özgürce, serbestçe | You can speak {freely} here, no one is listening. | Burada özgürce konuşabilirsin, kimse dinlemiyor.
+insanity | isim | delilik, çılgınlık | It was pure {insanity} to go out in that storm. | O fırtınada dışarı çıkmak tam bir delilikti.
+crucial | sıfat | kritik, çok önemli | Sleep is {crucial} for your health. | Uyku sağlığın için kritik öneme sahip.
+insulate | fiil | yalıtmak, izole etmek | We need to {insulate} the walls to keep the house warm. | Evi sıcak tutmak için duvarları yalıtmamız gerekiyor.
+particular | sıfat | belirli, özel, seçici | She is very {particular} about what she eats. | Yedikleri konusunda çok seçici.
+deceiver | isim | aldatıcı, dolandırıcı | Don't trust him, he is a natural {deceiver}. | Ona güvenme, doğuştan bir aldatıcı.
+lunatic | isim / sıfat | deli, çılgın kişi | Only a {lunatic} would jump into that river. | O nehre ancak bir deli atlar.
+risen | fiil (3. hal) | yükselmiş, kalkmış | The sun had already {risen} by the time I woke up. | Uyandığımda güneş çoktan yükselmişti.
+commence | fiil | başlamak (resmi bağlamda) | The ceremony will {commence} at noon. | Tören öğlen başlayacak.
+evaluation | isim | değerlendirme | After a thorough {evaluation}, they hired her. | Kapsamlı bir değerlendirmenin ardından onu işe aldılar.
+velocity | isim | hız (teknik / fizik) | The ball was thrown with incredible {velocity}. | Top inanılmaz bir hızla fırlatıldı.
+retribution | isim | hak edilmiş ceza, intikam | He believed the disaster was divine {retribution}. | Felaketin ilahi bir ceza olduğuna inanıyordu.
+vanish | fiil | kaybolmak, yok olmak | The thief seemed to {vanish} into thin air. | Hırsız sanki havada kayboldu.
+relieve | fiil | rahatlatmak, hafifletmek | This medicine will {relieve} your pain. | Bu ilaç ağrını hafifletecek.
+intervene | fiil | müdahale etmek, araya girmek | The police had to {intervene} in the fight. | Polis kavgaya müdahale etmek zorunda kaldı.
+deceive | fiil | aldatmak, yanıltmak | He tried to {deceive} everyone with his lies. | Yalanlarıyla herkesi aldatmaya çalıştı.
+predicament | isim | çıkmaz, zor durum | He found himself in a terrible {predicament}. | Kendini korkunç bir çıkmazda buldu.
+weep | fiil | ağlamak, gözyaşı dökmek | She began to {weep} when she heard the news. | Haberi duyunca ağlamaya başladı.
+eavesdrop | fiil | gizlice dinlemek | He was caught {eavesdropping} on their conversation. | Konuşmalarını gizlice dinlerken yakalandı.
+abundance | isim | bolluk, bereket | There was an {abundance} of food at the feast. | Ziyafette bol bol yemek vardı.
+flawless | sıfat | kusursuz, mükemmel | Her performance was absolutely {flawless}. | Performansı kusursuzdu.
+sorrow | isim | keder, üzüntü | His eyes were filled with deep {sorrow}. | Gözleri derin bir kederle doluydu.
+sustain | fiil | sürdürmek, dayanmak | Can this land {sustain} that many people? | Bu topraklar bu kadar insanı besleyebilir mi?
+quarrel | isim / fiil | tartışma, kavga etmek | They had a {quarrel} over money. | Para yüzünden tartıştılar.
+thrive | fiil | gelişmek, başarılı olmak | Plants {thrive} in warm sunlight. | Bitkiler ılık güneş ışığında gelişir.
+dread | isim / fiil | korku, dehşet | She felt a sense of {dread} as night fell. | Gece çökerken içini bir korku kapladı.
+violate | fiil | ihlal etmek, çiğnemek | He {violated} the terms of the contract. | Sözleşmenin şartlarını ihlal etti.
+ransom | isim | fidye | The kidnappers demanded a {ransom}. | Kaçıranlar fidye talep etti.
+fugitive | isim / sıfat | kaçak, firari | The {fugitive} was hiding in the woods. | Firari ormanda saklanıyordu.
+brazen | sıfat | küstah, yüzsüz | It was a {brazen} act of theft in broad daylight. | Güpegündüz yapılan küstahça bir hırsızlıktı.
+corrupt | sıfat / fiil | yolsuz, yozlaşmış | The {corrupt} official accepted bribes. | Yozlaşmış yetkili rüşvet kabul etti.
+greed | isim | açgözlülük | {Greed} was his biggest downfall. | Açgözlülük en büyük çöküşüydü.
+grief | isim | yas, derin keder | She was overcome with {grief} after his death. | Onun ölümünden sonra büyük bir yasa boğuldu.
+mourn | fiil | yas tutmak | The whole country {mourned} the loss. | Tüm ülke kaybın yasını tuttu.
+diligence | isim | özen, çalışkanlık | His success came through {diligence}. | Başarısı çalışkanlıkla geldi.
+reputation | isim | itibar, şöhret | He had a {reputation} for being ruthless. | Acımasız olmakla ün salmıştı.
+integrity | isim | dürüstlük, bütünlük | She never compromised her {integrity}. | Dürüstlüğünden asla ödün vermedi.
+humble | sıfat | alçakgönüllü, mütevazı | Despite his fame, he remained {humble}. | Şöhretine rağmen mütevazı kaldı.
+immoral | sıfat | ahlaksız | His behavior was considered deeply {immoral}. | Davranışı son derece ahlaksız bulundu.
+prevail | fiil | galip gelmek, üstün gelmek | Justice will always {prevail}. | Adalet her zaman galip gelir.
+bizarre | sıfat | tuhaf, garip | It was a truly {bizarre} situation. | Gerçekten tuhaf bir durumdu.
+implore | fiil | yalvarmak, rica etmek | She {implored} him not to leave. | Gitmemesi için ona yalvardı.
+interrogate | fiil | sorgulamak | The detective {interrogated} the suspect for hours. | Dedektif şüpheliyi saatlerce sorguladı.
+compassion | isim | şefkat, merhamet | She showed great {compassion} toward the poor. | Yoksullara büyük şefkat gösterdi.
+gullible | sıfat | kolay kandırılır, saf | He was too {gullible} to see the trap. | Tuzağı görmeyecek kadar saftı.
+malice | isim | kötü niyet, kin | She acted with clear {malice}. | Açık bir kötü niyetle hareket etti.
+endure | fiil | dayanmak, katlanmak | They had to {endure} months of hardship. | Aylarca zorluğa katlanmak zorunda kaldılar.
+conscience | isim | vicdan | His {conscience} wouldn't let him lie. | Vicdanı yalan söylemesine izin vermedi.
+cruelty | isim | zalimlik, acımasızlık | The {cruelty} of the punishment shocked everyone. | Cezanın zalimliği herkesi şoke etti.
+eager | sıfat | hevesli, istekli | She was {eager} to start her new job. | Yeni işine başlamak için hevesliydi.
+haste | isim | acele, telaş | In his {haste}, he forgot his keys. | Acelesiyle anahtarlarını unuttu.
+dignity | isim | onur, haysiyet | She faced the criticism with great {dignity}. | Eleştiriye büyük bir onurla göğüs gerdi.

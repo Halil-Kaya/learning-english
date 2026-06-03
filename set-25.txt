@@ -1,0 +1,16 @@
+# Set 25 — 15 kelime
+intrusion | isim | izinsiz giriş, müdahale | The neighbors saw the late-night visit as an {intrusion} into their privacy. | Komşular gece geç saatteki ziyareti mahremiyetlerine bir müdahale olarak gördü.
+aging | sıfat | yaşlanan, yaşlanma | Caring for an {aging} parent can be emotionally exhausting. | Yaşlanan bir ebeveyne bakmak duygusal olarak yorucu olabilir.
+falter | fiil | sendelemek, duraksamak, tökezlemek | Her voice began to {falter} as she spoke about her late father. | Vefat eden babasından bahsederken sesi titremeye başladı.
+desperate | sıfat | çaresiz, umutsuz, gözü dönmüş | He was so {desperate} for money that he took two extra jobs. | Paraya o kadar muhtaçtı ki iki ek iş daha aldı.
+assertion | isim | iddia, sav, kesin ifade | There is no evidence to support his {assertion} that the system is safe. | Sistemin güvenli olduğuna dair iddiasını destekleyecek hiçbir kanıt yok.
+halt | fiil | durdurmak, durmak | The police ordered the driver to {halt} at the checkpoint. | Polis sürücüye kontrol noktasında durmasını emretti.
+resort | fiil | başvurmak, çare olarak kullanmak | We had to {resort} to legal action when negotiations failed. | Müzakereler başarısız olunca yasal yollara başvurmak zorunda kaldık.
+epiphany | isim | ani kavrayış, aydınlanma anı | She had an {epiphany} and decided to change her entire career. | Aniden bir aydınlanma yaşadı ve tüm kariyerini değiştirmeye karar verdi.
+convenient | sıfat | uygun, elverişli, kolay | Let me know a {convenient} time for us to meet next week. | Gelecek hafta buluşmamız için sana uygun bir zaman söyle.
+compassion | isim | şefkat, merhamet | The nurse treated every patient with great {compassion}. | Hemşire her hastaya büyük bir şefkatle davrandı.
+either | zarf | de, dahi, hiçbiri | If you don't go, I won't go {either}. | Sen gitmezsen, ben de gitmem.
+right out | deyim | açıkça, dolaysızca, dobra dobra | Just say it {right out} instead of hinting at it. | İma etmek yerine açıkça söyle gitsin.
+gullible | sıfat | saf, kolay kanan, her şeye inanan | He is so {gullible} that he believes every rumor he hears. | O kadar saf ki duyduğu her dedikoduya inanıyor.
+own up | deyim | itiraf etmek, kabullenmek | You should {own up} to your mistake and apologize. | Hatanı itiraf edip özür dilemelisin.
+renounced | fiil | vazgeçti, feragat etti, reddetti | She {renounced} her claim to the family fortune. | Aile servetindeki hakkından feragat etti.

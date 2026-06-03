@@ -1,0 +1,16 @@
+# Set 31 — 15 kelime
+implicitly | zarf | dolaylı olarak, üstü kapalı şekilde, kayıtsız şartsız | She trusted him {implicitly} and never questioned his decisions. | Ona kayıtsız şartsız güvendi ve kararlarını hiç sorgulamadı.
+deceiving | sıfat | aldatıcı, yanıltıcı | Appearances can be {deceiving}, so don't judge too quickly. | Görünüş aldatıcı olabilir, bu yüzden çok çabuk yargılama.
+occupation | isim | meslek, uğraş, işgal | Please write your name and {occupation} on the form. | Lütfen forma adınızı ve mesleğinizi yazın.
+rags | isim | paçavralar, eski püskü giysiler | The poor boy was dressed in {rags} and had no shoes. | Zavallı çocuk paçavralar giymişti ve ayakkabısı yoktu.
+conserve | fiil | korumak, muhafaza etmek, tasarruf etmek | We must {conserve} water during the hot summer months. | Sıcak yaz aylarında suyu korumalıyız.
+heretic | isim | kâfir, sapkın, dinden çıkan | He was burned at the stake for being a {heretic}. | Sapkın olduğu için kazığa bağlanıp yakıldı.
+substantial | sıfat | önemli, kayda değer, hatırı sayılır | The company made a {substantial} profit this year. | Şirket bu yıl kayda değer bir kâr elde etti.
+wipe | fiil | silmek, temizlemek | Please {wipe} the table after dinner. | Lütfen yemekten sonra masayı sil.
+bullied | fiil | zorbalık etti, kabadayılık etti | He was {bullied} at school for years before anyone noticed. | Kimse fark etmeden önce yıllarca okulda zorbalığa uğradı.
+liquid | isim | sıvı | Water is a {liquid} at room temperature. | Su oda sıcaklığında bir sıvıdır.
+addiction | isim | bağımlılık, tutku | He sought help to overcome his {addiction} to gambling. | Kumar bağımlılığını yenmek için yardım aradı.
+ashore | zarf | karaya, kıyıya | The sailors swam {ashore} after the ship sank. | Gemi battıktan sonra denizciler kıyıya yüzdü.
+barge | isim | mavna, yük teknesi | The coal was transported by {barge} along the river. | Kömür nehir boyunca mavnayla taşındı.
+mocking | sıfat | alaycı, küçümseyici | She gave him a {mocking} smile and walked away. | Ona alaycı bir gülümseme verip uzaklaştı.
+jaundice | isim | sarılık | The newborn baby was treated for {jaundice} in the hospital. | Yeni doğan bebek hastanede sarılık tedavisi gördü.

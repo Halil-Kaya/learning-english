@@ -1,0 +1,16 @@
+# Set 30 — 15 kelime
+evacuation | isim | tahliye, boşaltma | The {evacuation} of the building took only ten minutes. | Binanın tahliyesi sadece on dakika sürdü.
+dismissed | fiil | reddetti, görevden aldı, dağıttı | The teacher {dismissed} the class early today. | Öğretmen bugün sınıfı erken dağıttı.
+cawing | fiil | gaklama, karga sesi çıkarma | The crows kept {cawing} loudly all morning. | Kargalar bütün sabah yüksek sesle gakladı durdu.
+blizzard | isim | kar fırtınası, tipi | We were trapped indoors during the {blizzard}. | Kar fırtınası sırasında içeride mahsur kaldık.
+beast | isim | canavar, hayvan, yaratık | A wild {beast} roared in the dark forest. | Karanlık ormanda vahşi bir canavar kükredi.
+lash | fiil | kırbaçlamak, şiddetle çarpmak, bağlamak | The huge waves began to {lash} against the rocks. | Devasa dalgalar kayalara şiddetle çarpmaya başladı.
+gauge | fiil | ölçmek, değerlendirmek, tahmin etmek | It is hard to {gauge} how he really feels. | Onun gerçekte nasıl hissettiğini ölçmek zor.
+taunt | fiil | alay etmek, kışkırtmak, sataşmak | The boys began to {taunt} him about his accent. | Çocuklar onun aksanıyla alay etmeye başladılar.
+precious | sıfat | değerli, kıymetli | This old ring is very {precious} to my mother. | Bu eski yüzük annem için çok değerli.
+apprehended | fiil | yakaladı, tutukladı | The thief was finally {apprehended} by the police. | Hırsız sonunda polis tarafından yakalandı.
+overboard | zarf | gemiden denize, denize düşmüş şekilde | A sailor fell {overboard} during the storm. | Bir denizci fırtına sırasında gemiden denize düştü.
+wiser | sıfat | daha akıllı, daha bilge | After that mistake she became much {wiser}. | O hatadan sonra çok daha akıllı oldu.
+distract | fiil | dikkatini dağıtmak, oyalamak | Loud music can {distract} you from studying. | Yüksek sesli müzik ders çalışmaktan dikkatini dağıtabilir.
+detain | fiil | alıkoymak, gözaltına almak, geciktirmek | The guards tried to {detain} the suspect at the gate. | Muhafızlar şüpheliyi kapıda alıkoymaya çalıştılar.
+conspiracy | isim | komplo, suikast planı, gizli anlaşma | They uncovered a secret {conspiracy} to seize power. | İktidarı ele geçirmek için kurulan gizli bir komployu ortaya çıkardılar.

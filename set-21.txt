@@ -1,0 +1,16 @@
+# Set 21 — 15 kelime
+abattoir | isim | mezbaha, kesimhane | The cattle were taken to the {abattoir} early in the morning. | Sığırlar sabahın erken saatlerinde mezbahaya götürüldü.
+oblivious | sıfat | farkında olmayan, habersiz | She was completely {oblivious} to the danger around her. | Etrafındaki tehlikenin tamamen farkında değildi.
+contrite | sıfat | pişman, vicdan azabı çeken | He felt {contrite} after shouting at his mother. | Annesine bağırdıktan sonra çok pişman oldu.
+sigh | fiil | iç çekmek, derin nefes almak | She let out a deep {sigh} when she heard the news. | Haberi duyunca derin bir iç çekti.
+unfold | fiil | açılmak, ortaya çıkmak, açmak | The story slowly began to {unfold} before our eyes. | Hikaye gözlerimizin önünde yavaşça açılmaya başladı.
+adaptive | sıfat | uyum sağlayan, adaptif | The software uses an {adaptive} system to learn your habits. | Yazılım, alışkanlıklarınızı öğrenmek için adaptif bir sistem kullanır.
+alms | isim | sadaka, hayır parası | The old man gave {alms} to the poor every Friday. | Yaşlı adam her cuma fakirlere sadaka verirdi.
+drought | isim | kuraklık | The long {drought} destroyed most of the crops this year. | Uzun kuraklık bu yıl ürünlerin çoğunu yok etti.
+gander | isim | erkek kaz, bir bakış atma | He took a quick {gander} at the newspaper before leaving. | Çıkmadan önce gazeteye hızlıca bir göz attı.
+pavement | isim | kaldırım, yaya yolu | The children were playing on the {pavement} outside. | Çocuklar dışarıda kaldırımda oynuyorlardı.
+thick | sıfat | kalın, yoğun, koyu | The walls of the castle were incredibly {thick}. | Kalenin duvarları inanılmaz derecede kalındı.
+arrant | sıfat | tam, su katılmamış, apaçık | What he told you is {arrant} nonsense. | Sana söylediği şey su katılmamış saçmalıktı.
+sham | isim | sahtekarlık, göstermelik şey | The whole election turned out to be a complete {sham}. | Bütün seçim tamamen bir sahtekarlık çıktı.
+imply | fiil | ima etmek, dolaylı anlatmak | Are you trying to {imply} that I am lying? | Yalan söylediğimi mi ima etmeye çalışıyorsun?
+amusement | isim | eğlence, eğlenme, neşe | The clown's tricks were a source of great {amusement}. | Palyaçonun numaraları büyük bir eğlence kaynağıydı.

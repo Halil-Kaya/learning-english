@@ -1,0 +1,11 @@
+services:
+  learning-english:
+    build: .
+    container_name: learning-english
+    ports:
+      - "8080:80"
+    # Kelime/set dosyalarını canlı düzenleyebilmek için klasörü bağla
+    # (dosyayı değiştir → tarayıcıyı yenile, yeniden build gerekmez).
+    volumes:
+      - ./:/usr/share/nginx/html:ro
+    restart: unless-stopped

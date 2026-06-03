@@ -1,0 +1,16 @@
+# Set 17 — 15 kelime
+wrath | isim | öfke, gazap | The king's {wrath} was feared by everyone in the kingdom. | Kralın gazabından krallıktaki herkes korkardı.
+insolence | isim | küstahlık, saygısızlık | The teacher would not tolerate such {insolence} from a student. | Öğretmen bir öğrenciden böyle bir küstahlığı hoş görmezdi.
+gaze upon | deyim | gözünü dikip bakmak, seyretmek | Tourists come from afar to {gaze upon} the ancient ruins. | Turistler antik harabeleri seyretmek için uzaklardan gelir.
+penance | isim | kefaret, tövbe | He performed a long {penance} to atone for his sins. | Günahlarının kefaretini ödemek için uzun bir tövbe gerçekleştirdi.
+sanctuary | isim | sığınak, kutsal yer | The old church served as a {sanctuary} for those in danger. | Eski kilise tehlikedekiler için bir sığınak görevi gördü.
+mend | fiil | onarmak, tamir etmek | She tried to {mend} the torn shirt with a needle and thread. | Yırtık gömleği iğne iplikle onarmaya çalıştı.
+reek | fiil | pis kokmak, kötü kokmak | The whole room began to {reek} of smoke and burnt food. | Bütün oda duman ve yanmış yemek kokmaya başladı.
+lean | fiil | yaslanmak, eğilmek | He likes to {lean} against the wall while he waits. | Beklerken duvara yaslanmayı sever.
+hollow | sıfat | içi boş, oyuk | The children hid their treasure inside a {hollow} tree. | Çocuklar hazinelerini içi boş bir ağacın içine sakladılar.
+ripe | sıfat | olgun, olmuş | The peaches are finally {ripe} and ready to eat. | Şeftaliler nihayet olgunlaştı ve yenmeye hazır.
+rind | isim | kabuk, dış kabuk | She grated the lemon {rind} to add flavor to the cake. | Keke lezzet katmak için limon kabuğunu rendeledi.
+awareness | isim | farkındalık, bilinç | The campaign aims to raise {awareness} about climate change. | Kampanya iklim değişikliği konusunda farkındalık yaratmayı amaçlıyor.
+alter | fiil | değiştirmek, değişiklik yapmak | We had to {alter} our plans because of the bad weather. | Kötü hava yüzünden planlarımızı değiştirmek zorunda kaldık.
+contemptuous | sıfat | küçümseyici, hor gören | She gave him a {contemptuous} look and walked away. | Ona küçümseyici bir bakış attı ve uzaklaştı.
+executioner | isim | cellat, infazcı | In the past, the {executioner} carried out the king's death sentences. | Geçmişte cellat, kralın ölüm cezalarını yerine getirirdi.

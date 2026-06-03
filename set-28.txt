@@ -1,0 +1,16 @@
+# Set 28 — 15 kelime
+interstitial | sıfat | aradaki, ara boşlukta olan | The {interstitial} ad appeared between two pages of the app. | Ara reklam uygulamanın iki sayfası arasında belirdi.
+fearsome | sıfat | korkunç, ürkütücü | The dragon was a {fearsome} sight to the villagers. | Ejderha köylüler için korkunç bir görüntüydü.
+menace | isim | tehdit, tehlike | Reckless drivers are a {menace} to everyone on the road. | Dikkatsiz sürücüler yoldaki herkes için bir tehdittir.
+prosecute | fiil | dava açmak, kovuşturmak | The state decided to {prosecute} the company for fraud. | Devlet şirketi dolandırıcılıktan kovuşturmaya karar verdi.
+scour | fiil | iyice aramak, ovarak temizlemek | They had to {scour} the entire house to find the lost keys. | Kayıp anahtarları bulmak için tüm evi iyice aramak zorunda kaldılar.
+afterward | zarf | sonradan, daha sonra | We had dinner and went for a walk {afterward}. | Akşam yemeği yedik ve sonradan yürüyüşe çıktık.
+bigot | isim | bağnaz, dar kafalı kimse | He was a {bigot} who refused to listen to other opinions. | Diğer görüşleri dinlemeyi reddeden bağnaz biriydi.
+species | isim | tür, canlı türü | This rare {species} of bird lives only on the island. | Bu nadir kuş türü yalnızca adada yaşar.
+accordingly | zarf | buna göre, bu nedenle | The rules changed, so we adjusted our plans {accordingly}. | Kurallar değişti, bu yüzden planlarımızı buna göre ayarladık.
+the matter is closed | ifade | konu kapanmıştır, mesele bitti | I have made my decision and {the matter is closed}. | Kararımı verdim ve konu kapanmıştır.
+cruelty | isim | zulüm, gaddarlık | The film exposes the {cruelty} of war. | Film savaşın zulmünü gözler önüne seriyor.
+remarkable | sıfat | dikkat çekici, olağanüstü | She showed {remarkable} courage during the crisis. | Kriz sırasında olağanüstü bir cesaret gösterdi.
+tribe | isim | kabile, oymak | The ancient {tribe} lived deep in the forest. | Antik kabile ormanın derinliklerinde yaşıyordu.
+resolution | isim | karar, çözüm, çözünürlük | They reached a peaceful {resolution} to the dispute. | Anlaşmazlığa barışçıl bir çözüm buldular.
+whether | edat | -ip -mediği, olup olmadığı | I don't know {whether} she will come tonight. | Bu gece gelip gelmeyeceğini bilmiyorum.

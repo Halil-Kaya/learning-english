@@ -1,0 +1,17 @@
+# Set 33 — 16 kelime
+bandit | isim | haydut, eşkıya | The {bandit} robbed the travelers on the mountain road. | Haydut, dağ yolunda yolculara saldırıp soydu.
+intruder | isim | davetsiz misafir, izinsiz giren | The alarm went off when an {intruder} entered the house. | Bir davetsiz misafir eve girdiğinde alarm çaldı.
+riddance | isim | kurtulma, başından atma | Good {riddance} to all those old problems. | Bütün o eski sorunlardan kurtulmak iyi oldu.
+aqua | isim | su yeşili, açık mavi-yeşil renk | She painted the walls a soft {aqua}. | Duvarları yumuşak bir su yeşiline boyadı.
+bunk | isim | ranza, yatak | The children slept in a {bunk} bed in the cabin. | Çocuklar kulübede ranzalı bir yatakta uyudu.
+enormous | sıfat | çok büyük, devasa | The elephant was an {enormous} animal. | Fil devasa bir hayvandı.
+bust | fiil | kırmak, parçalamak, basmak | The police are planning to {bust} the drug ring tonight. | Polis bu gece uyuşturucu çetesini çökertmeyi planlıyor.
+rely | fiil | güvenmek, bel bağlamak | You can always {rely} on your true friends. | Gerçek arkadaşlarına her zaman güvenebilirsin.
+intact | sıfat | sağlam, bütün, zarar görmemiş | The package arrived completely {intact}. | Paket tamamen sağlam bir şekilde ulaştı.
+institute | fiil | başlatmak, kurmak, uygulamaya koymak | The government decided to {institute} new safety rules. | Hükümet yeni güvenlik kurallarını uygulamaya koymaya karar verdi.
+haste | isim | acele, telaş | In her {haste}, she forgot her keys at home. | Telaşı yüzünden anahtarlarını evde unuttu.
+arrange | fiil | düzenlemek, ayarlamak, tertip etmek | I will {arrange} a meeting for next week. | Gelecek hafta için bir toplantı ayarlayacağım.
+farce | isim | saçmalık, gülünç durum, komedi | The trial turned into a complete {farce}. | Duruşma tam bir saçmalığa dönüştü.
+unforeseen | sıfat | öngörülemeyen, beklenmedik | The project was delayed due to {unforeseen} problems. | Proje, öngörülemeyen sorunlar nedeniyle gecikti.
+aware | sıfat | farkında, haberdar | Are you {aware} of the risks involved? | İçerdiği risklerin farkında mısın?
+regarding | edat | hakkında, ile ilgili | I have a question {regarding} your last email. | Son e-postanız hakkında bir sorum var.

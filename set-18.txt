@@ -1,0 +1,16 @@
+# Set 18 — 15 kelime
+saint | isim | aziz, ermiş, çok iyi kalpli kişi | She is such a {saint} for taking care of everyone. | Herkesle ilgilendiği için tam bir aziz gibi.
+expellee | isim | sürgün edilen kişi, yurdundan çıkarılan kimse | The town welcomed every {expellee} after the war. | Kasaba savaştan sonra her sürgünü bağrına bastı.
+swung | fiil | salladı, sallandı (swing fiilinin geçmişi) | The door slowly {swung} open in the wind. | Kapı rüzgârda yavaşça açılarak sallandı.
+narrow | sıfat | dar, ensiz | We walked down a {narrow} street between the old houses. | Eski evlerin arasındaki dar bir sokakta yürüdük.
+slope | isim | yokuş, eğim, yamaç | They skied down the steep {slope} all afternoon. | Bütün öğleden sonra dik yamaçtan kayarak indiler.
+dump | fiil | atmak, boşaltmak, dökmek | Please do not {dump} your trash on the street. | Lütfen çöpünü sokağa atma.
+faintly | zarf | hafifçe, belli belirsiz | I could {faintly} hear music coming from the next room. | Yan odadan gelen müziği belli belirsiz duyabiliyordum.
+glitter | fiil | parıldamak, ışıldamak | The stars seemed to {glitter} above the quiet lake. | Yıldızlar sakin gölün üzerinde parıldıyor gibiydi.
+instinct | isim | içgüdü, sezgi | A mother's {instinct} told her something was wrong. | Bir annenin içgüdüsü ona bir şeylerin yanlış olduğunu söyledi.
+presence | isim | varlık, mevcudiyet, bulunma | Her calm {presence} made everyone feel safe. | Onun sakin varlığı herkese güvende hissettirdi.
+commencement | isim | başlangıç, mezuniyet töreni | The {commencement} of the project was delayed by a week. | Projenin başlangıcı bir hafta ertelendi.
+porch | isim | veranda, sundurma, giriş sahanlığı | We sat on the {porch} and watched the rain fall. | Verandada oturup yağmurun yağışını izledik.
+equivalent | sıfat | eşdeğer, denk | One dollar is roughly {equivalent} to a hundred cents. | Bir dolar kabaca yüz sente eşdeğerdir.
+distinctly | zarf | açıkça, belirgin biçimde | I {distinctly} remember locking the front door. | Ön kapıyı kilitlediğimi açıkça hatırlıyorum.
+incredulously | zarf | inanmaz biçimde, şaşkınlıkla | He stared at me {incredulously} when I told the news. | Haberi söylediğimde bana inanmaz bir ifadeyle baktı.

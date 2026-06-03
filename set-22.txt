@@ -1,0 +1,16 @@
+# Set 22 — 15 kelime
+meticulously | zarf | titizlikle, özenle | She {meticulously} checked every detail of the report. | Raporun her detayını titizlikle kontrol etti.
+cease | fiil | durmak, son vermek | The soldiers were ordered to {cease} fire immediately. | Askerlere derhal ateşi kesmeleri emredildi.
+induce | fiil | neden olmak, teşvik etmek | The medication can {induce} drowsiness in some patients. | İlaç bazı hastalarda uyku haline neden olabilir.
+immoral | sıfat | ahlaksız, ahlak dışı | Many people consider lying to be {immoral}. | Birçok insan yalan söylemeyi ahlaksız olarak görür.
+prevail | fiil | galip gelmek, hüküm sürmek | Justice will eventually {prevail} over corruption. | Adalet sonunda yolsuzluğa karşı galip gelecek.
+depravity | isim | ahlaki çöküntü, sefahat | The novel explores the {depravity} of a corrupt society. | Roman, yozlaşmış bir toplumun ahlaki çöküntüsünü inceler.
+authority | isim | yetki, otorite | The police have the {authority} to make arrests. | Polisin tutuklama yapma yetkisi vardır.
+depose | fiil | tahttan indirmek, görevden almak | The rebels planned to {depose} the king. | İsyancılar kralı tahttan indirmeyi planladı.
+oblige | fiil | mecbur etmek, minnettar bırakmak | The contract will {oblige} you to pay monthly fees. | Sözleşme sizi aylık ücret ödemeye mecbur edecek.
+grace | isim | zarafet, lütuf | She moved across the stage with effortless {grace}. | Sahnede zahmetsiz bir zarafetle hareket etti.
+tailor | fiil | uyarlamak, terzilik yapmak | We can {tailor} the course to suit your needs. | Kursu ihtiyaçlarınıza uyacak şekilde uyarlayabiliriz.
+reluctance | isim | isteksizlik, gönülsüzlük | He agreed to help, but with great {reluctance}. | Yardım etmeyi kabul etti, ama büyük bir isteksizlikle.
+blackmail | fiil | şantaj yapmak | They tried to {blackmail} him with old photographs. | Eski fotoğraflarla ona şantaj yapmaya çalıştılar.
+salvation | isim | kurtuluş, kurtarılma | Many believe faith is the path to {salvation}. | Birçok kişi inancın kurtuluşa giden yol olduğuna inanır.
+rapture | isim | büyük mutluluk, coşku | She listened to the music in pure {rapture}. | Müziği saf bir coşkuyla dinledi.

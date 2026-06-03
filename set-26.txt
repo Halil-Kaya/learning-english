@@ -1,0 +1,16 @@
+# Set 26 — 15 kelime
+charming | sıfat | çekici, sevimli, büyüleyici | She has a {charming} smile that wins everyone over. | Herkesi kendine çeken çekici bir gülümsemesi var.
+indulge | fiil | kendini bırakmak, şımartmak, düşkünlük göstermek | On weekends I like to {indulge} in a slice of chocolate cake. | Hafta sonları kendimi bir dilim çikolatalı pastaya bırakmayı severim.
+beyond | edat | öte, ötesinde, dışında | The mountains stretch far {beyond} the horizon. | Dağlar ufkun çok ötesine kadar uzanıyor.
+perceives | fiil | algılar, fark eder, sezer | A child often {perceives} more than adults realize. | Bir çocuk çoğu zaman yetişkinlerin sandığından daha fazlasını algılar.
+grasp | fiil | kavramak, anlamak, tutmak | It took me a while to {grasp} the basic idea of the theory. | Teorinin temel fikrini kavramam biraz zamanımı aldı.
+faint | sıfat | hafif, belli belirsiz, soluk | We could hear a {faint} sound coming from the next room. | Yan odadan gelen hafif bir ses duyabiliyorduk.
+witty | sıfat | nüktedan, esprili, zeki | His {witty} remarks made everyone at the table laugh. | Nüktedan sözleri masadaki herkesi güldürdü.
+corruption | isim | yolsuzluk, ahlaki bozulma, rüşvet | The new law aims to fight {corruption} in the government. | Yeni yasa hükümetteki yolsuzlukla mücadele etmeyi amaçlıyor.
+spoiled | sıfat | şımarık, bozulmuş, çürümüş | The {spoiled} child refused to share any of his toys. | Şımarık çocuk oyuncaklarının hiçbirini paylaşmayı reddetti.
+malice | isim | kötü niyet, kin, garez | She said it without any {malice}, just as a joke. | Bunu hiçbir kötü niyet olmadan, sadece şaka olsun diye söyledi.
+assert | fiil | iddia etmek, savunmak, ileri sürmek | He continued to {assert} that he was innocent. | Masum olduğunu iddia etmeyi sürdürdü.
+cultivate | fiil | yetiştirmek, geliştirmek, ekip biçmek | It is important to {cultivate} good habits early in life. | Hayatın erken döneminde iyi alışkanlıklar geliştirmek önemlidir.
+marvel | fiil | hayran kalmak, hayret etmek | Tourists often {marvel} at the beauty of the old city. | Turistler çoğu zaman eski şehrin güzelliğine hayran kalır.
+presumably | zarf | muhtemelen, herhâlde, sanırım | He is not here yet, {presumably} stuck in traffic. | Henüz burada değil, muhtemelen trafiğe takılmıştır.
+relish | fiil | zevk almak, keyifle yapmak, tadını çıkarmak | She seems to {relish} every challenge that comes her way. | Karşısına çıkan her zorluktan zevk alıyor gibi görünüyor.

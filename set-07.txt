@@ -1,0 +1,16 @@
+# Set 7 — 15 kelime
+disorder | isim | düzensizlik, bozukluk, rahatsızlık | The room was in complete {disorder} after the party. | Parti sonrası oda tam bir düzensizlik içindeydi.
+almighty | sıfat | her şeye kadir, çok güçlü | They prayed to the {almighty} God for protection. | Korunmak için her şeye kadir Tanrı'ya dua ettiler.
+quarrel | isim | kavga, ağız dalaşı, tartışma | The brothers had a bitter {quarrel} over the money. | Kardeşler para yüzünden acı bir kavga yaşadı.
+above all | deyim | her şeyden önce, en önemlisi | {above all}, you must stay calm during the exam. | Her şeyden önce sınav boyunca sakin kalmalısın.
+province | isim | il, eyalet, bölge | She grew up in a small {province} far from the capital. | Başkenttan uzak küçük bir ilde büyüdü.
+domestic | sıfat | yerli, evcil, iç (ülke içi) | The airline mostly operates {domestic} flights. | Havayolu çoğunlukla yerli uçuşlar yapıyor.
+testimony | isim | tanıklık, ifade, kanıt | Her {testimony} convinced the jury of his guilt. | Tanıklığı jüriyi onun suçlu olduğuna ikna etti.
+tear out | deyim | koparıp çıkarmak, sökmek | He decided to {tear out} the old carpet from the floor. | Yerdeki eski halıyı söküp atmaya karar verdi.
+revert | fiil | geri dönmek, eski hâline dönmek | If the update fails, the system will {revert} to the old version. | Güncelleme başarısız olursa sistem eski sürüme geri döner.
+mishap | isim | aksilik, talihsizlik, kaza | The trip went smoothly without a single {mishap}. | Gezi tek bir aksilik olmadan sorunsuz geçti.
+solitary | sıfat | yalnız, tek başına, ıssız | He led a {solitary} life in a cabin in the woods. | Ormandaki bir kulübede yalnız bir hayat sürdü.
+vigilante | isim | kanunu kendi eline alan kişi, çetin gözcü | The masked {vigilante} patrolled the streets at night. | Maskeli kanun adamı geceleri sokaklarda devriye gezdi.
+outweigh | fiil | ağır basmak, daha önemli olmak | The benefits of the plan {outweigh} the risks. | Planın faydaları risklerinden ağır basıyor.
+thrive | fiil | gelişmek, serpilmek, başarılı olmak | These plants {thrive} in warm and humid climates. | Bu bitkiler sıcak ve nemli iklimlerde gelişir.
+indulgence | isim | düşkünlük, şımartma, hoşgörü | Eating chocolate every day is her one {indulgence}. | Her gün çikolata yemek onun tek düşkünlüğü.

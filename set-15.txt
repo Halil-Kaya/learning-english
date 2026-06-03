@@ -1,0 +1,16 @@
+# Set 15 — 15 kelime
+spectacle | isim | gösteri, manzara | The fireworks display was an amazing {spectacle}. | Havai fişek gösterisi muhteşem bir manzaraydı.
+grind | fiil | öğütmek, ezmek, didinmek | She had to {grind} the coffee beans before brewing. | Demlemeden önce kahve çekirdeklerini öğütmek zorundaydı.
+choke | fiil | boğmak, tıkanmak, boğulmak | He started to {choke} on a piece of food. | Bir lokma yiyecekle boğulmaya başladı.
+expose | fiil | açığa çıkarmak, maruz bırakmak, ifşa etmek | The journalist worked hard to {expose} the corruption. | Gazeteci yolsuzluğu açığa çıkarmak için çok çalıştı.
+resent | fiil | içerlemek, gücenmek, kin tutmak | She began to {resent} the extra work given to her. | Kendisine verilen fazla işe içerlemeye başladı.
+passionate | sıfat | tutkulu, ateşli | He is {passionate} about playing the guitar. | Gitar çalmaya tutkuyla bağlıdır.
+penchant | isim | düşkünlük, eğilim, merak | She has a {penchant} for expensive shoes. | Pahalı ayakkabılara düşkünlüğü vardır.
+addict | isim | bağımlı, tiryaki | He is a complete video game {addict}. | Tam bir video oyunu bağımlısıdır.
+impulsive | sıfat | düşünmeden hareket eden, ani, dürtüsel | Buying that car was an {impulsive} decision. | O arabayı almak ani bir karardı.
+instinctual | sıfat | içgüdüsel | A mother's protection of her child is {instinctual}. | Bir annenin çocuğunu koruması içgüdüseldir.
+scapegoat | isim | günah keçisi, şamar oğlanı | They made him the {scapegoat} for the team's failure. | Onu takımın başarısızlığının günah keçisi yaptılar.
+bare | sıfat | çıplak, boş, yalın | He walked across the room with {bare} feet. | Odada çıplak ayakla yürüdü.
+reputation | isim | itibar, ün, şöhret | The company has a strong {reputation} for quality. | Şirketin kalite konusunda güçlü bir itibarı vardır.
+precede | fiil | önce gelmek, öncülük etmek | A short speech will {precede} the awards ceremony. | Ödül töreninden önce kısa bir konuşma yapılacak.
+lay off | deyim | işten çıkarmak | The company had to {lay off} hundreds of workers. | Şirket yüzlerce işçiyi işten çıkarmak zorunda kaldı.

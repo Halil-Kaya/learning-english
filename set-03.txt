@@ -1,0 +1,16 @@
+# Set 3 — 15 kelime
+sue | fiil | dava açmak | She threatened to {sue} the company for negligence. | Şirketi ihmalden dava etmekle tehdit etti.
+carcass | isim | leş, hayvan ölüsü | Vultures circled the {carcass} in the desert. | Akbabalar çöldeki leşin etrafında döndü.
+shrine | isim | tapınak, türbe, kutsal yer | Pilgrims travel for miles to visit the ancient {shrine}. | Hacılar antik türbeyi ziyaret etmek için kilometrelerce yol kat eder.
+relieve | fiil | rahatlatmak, hafifletmek | A glass of water can {relieve} a mild headache. | Bir bardak su hafif bir baş ağrısını rahatlatabilir.
+disgrace | isim | utanç, rezalet, gözden düşme | His behavior brought {disgrace} upon the whole family. | Davranışı tüm aileye utanç getirdi.
+demure | sıfat | utangaç, ağırbaşlı, çekingen | She gave a {demure} smile and looked away. | Utangaç bir gülümseme verdi ve başka yöne baktı.
+adversity | isim | zorluk, sıkıntı, ters talih | He showed great courage in the face of {adversity}. | Zorluklar karşısında büyük cesaret gösterdi.
+intervene | fiil | araya girmek, müdahale etmek | The teacher had to {intervene} to stop the fight. | Öğretmen kavgayı durdurmak için müdahale etmek zorunda kaldı.
+aid | isim | yardım, destek | The government sent {aid} to the flooded region. | Hükümet sel basan bölgeye yardım gönderdi.
+deceive | fiil | aldatmak, kandırmak | He tried to {deceive} his friends with a false story. | Arkadaşlarını uydurma bir hikayeyle kandırmaya çalıştı.
+omens | isim | alametler, işaretler, kehanetler | The villagers believed the storm clouds were bad {omens}. | Köylüler fırtına bulutlarının kötü alametler olduğuna inanıyordu.
+misfortune | isim | talihsizlik, şanssızlık | They faced one {misfortune} after another that year. | O yıl peş peşe talihsizliklerle karşılaştılar.
+appease | fiil | yatıştırmak, sakinleştirmek | He offered a gift to {appease} his angry boss. | Öfkeli patronunu yatıştırmak için bir hediye sundu.
+piss off | deyim | sinirlendirmek, bezdirmek | His constant complaining really started to {piss off} the team. | Sürekli şikayet etmesi ekibi gerçekten sinirlendirmeye başladı.
+contain | fiil | içermek, barındırmak, zapt etmek | This bottle can {contain} two liters of water. | Bu şişe iki litre su alabilir.

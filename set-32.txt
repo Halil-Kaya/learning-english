@@ -1,0 +1,16 @@
+# Set 32 — 15 kelime
+conceit | isim | kibir, kendini beğenmişlik | His {conceit} made it hard for anyone to work with him. | Kibri yüzünden kimsenin onunla çalışması zordu.
+bunker | isim | sığınak, beton korunak | The soldiers hid in an underground {bunker} during the attack. | Askerler saldırı sırasında yer altındaki bir sığınakta saklandı.
+prick | fiil | iğnelemek, batırmak, delmek | Be careful not to {prick} your finger on that needle. | O iğneyle parmağını delmemeye dikkat et.
+forsaken | sıfat | terk edilmiş, ıssız | They lived in a {forsaken} village far from the city. | Şehirden uzakta terk edilmiş bir köyde yaşıyorlardı.
+consent | isim | rıza, onay, izin | The doctor needs your written {consent} before the surgery. | Doktorun ameliyattan önce yazılı onayına ihtiyacı var.
+eager | sıfat | istekli, hevesli | The children were {eager} to open their presents. | Çocuklar hediyelerini açmaya can atıyordu.
+worship | fiil | tapmak, ibadet etmek | People gather here every week to {worship} together. | İnsanlar birlikte ibadet etmek için her hafta burada toplanır.
+impassable | sıfat | geçilmez, aşılamaz | Heavy snow made the mountain road {impassable}. | Yoğun kar dağ yolunu geçilmez hale getirdi.
+regard | fiil | saymak, görmek, addetmek | Many people {regard} him as the best player in the league. | Birçok kişi onu ligin en iyi oyuncusu olarak görüyor.
+anticipate | fiil | öngörmek, beklemek, ummak | We {anticipate} a large crowd at tonight's concert. | Bu geceki konserde büyük bir kalabalık bekliyoruz.
+reception | isim | karşılama, resepsiyon, alımlama | The new film received a warm {reception} from critics. | Yeni film eleştirmenlerden sıcak bir karşılama gördü.
+harsh | sıfat | sert, acımasız, haşin | The desert has a {harsh} climate with extreme heat. | Çölde aşırı sıcaklıklarla sert bir iklim hakimdir.
+vividly | zarf | canlı bir şekilde, net olarak | I can still {vividly} remember my first day at school. | Okuldaki ilk günümü hâlâ canlı bir şekilde hatırlayabiliyorum.
+spouse | isim | eş, hayat arkadaşı | You may bring your {spouse} to the company dinner. | Şirket yemeğine eşinizi getirebilirsiniz.
+recon | isim | keşif, gözetleme | The team went ahead to do some {recon} before the mission. | Ekip görevden önce biraz keşif yapmak için ileri gitti.
