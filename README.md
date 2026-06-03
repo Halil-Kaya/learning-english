@@ -59,10 +59,11 @@ seferde değil, paket paket ezberlemek.
 ## ✍️ words.txt İçin Veri Nasıl Üretilir?
 
 Her satır **bir kelimedir**. Alanlar **dikey çizgi `|`** ile ayrılır.
-Toplam **5 alan** vardır:
+İlk **3 alan** sabittir; sonrasında **örnek cümle çiftleri** gelir
+(her kelime için **10 örnek** önerilir):
 
 ```
-kelime | tür | türkçe anlamı | örnek cümle | cümlenin türkçesi
+kelime | tür | türkçe anlamı | en1 | tr1 | en2 | tr2 | ... | en10 | tr10
 ```
 
 | # | Alan | Açıklama | Örnek |
@@ -70,31 +71,38 @@ kelime | tür | türkçe anlamı | örnek cümle | cümlenin türkçesi
 | 1 | **kelime** | Ezberlenecek İngilizce kelime | `vow` |
 | 2 | **tür** | Kelime türü (isim, fiil, sıfat, zarf...) | `fiil / isim` |
 | 3 | **türkçe anlamı** | Virgülle birden fazla anlam yazılabilir | `yemin etmek, söz vermek` |
-| 4 | **örnek cümle** | Hedef kelime **`{süslü parantez}`** içinde olmalı | `She made a {vow} to never give up.` |
-| 5 | **cümlenin türkçesi** | Örnek cümlenin Türkçe karşılığı | `Asla vazgeçmemeye yemin etti.` |
+| 4, 6, 8… | **örnek cümle (enX)** | Hedef kelime **`{süslü parantez}`** içinde olmalı | `She made a {vow} to never give up.` |
+| 5, 7, 9… | **çevirisi (trX)** | Bir önceki cümlenin Türkçesi | `Asla vazgeçmemeye yemin etti.` |
+
+> Örnek çiftleri istediğin kadar uzayabilir (en–tr, en–tr, …). Kart arkasında
+> **hepsi** listelenir; Boşluk Doldur ve Yazma her seferinde **rastgele bir
+> örnek** seçer. En az **1** örnek yeterli (eski tek-örnekli satırlar da çalışır).
 
 ### Önemli Kurallar
 
-1. **Süslü parantez `{}` zorunlu.** Örnek cümlede ezberlenecek kelimeyi
-   `{}` içine al. Uygulama "boşluk doldurma" modunda o kelimeyi cümleden
-   çıkarıp `_____` boşluğu bırakır, sen elinle yazarsın.
+1. **Süslü parantez `{}` zorunlu.** Her örnek cümlede ezberlenecek kelimeyi
+   `{}` içine al. Uygulama "Boşluk Doldur" / "Yazma" modunda o kelimeyi
+   cümleden çıkarıp boşluk bırakır, sen yazarsın.
    - ✅ `He gave a {sly} smile.`
    - ❌ `He gave a sly smile.`  (parantez yok → boşluk doldurma çalışmaz)
 
-2. Cümledeki kelime, 1. alandaki kelimeden biraz farklı olabilir
-   (çekimli hali). Sorun değil — kontrol esnek yapılmıştır.
-   - `mourn` → `The whole country {mourned} the loss.` ✓
+2. Parantez içi, 1. alandaki kelimeyle **birebir aynı** olmalı (cevap eşleşmesi
+   için). Cümleyi kelimenin temel hâli doğal duracak şekilde kur.
 
-3. `#` ile başlayan satırlar **yorumdur**, yok sayılır.
-   Boş satırlar da yok sayılır.
+3. `#` ile başlayan satırlar **yorumdur**, yok sayılır. Boş satırlar da.
 
-4. Bir alanı boş bırakmak istersen yine de `|` koy:
-   `word | isim | anlam |  | ` (cümle yoksa o moda dahil edilmez)
+4. Hiçbir alanın **içinde `|` olmamalı** (sütunları bozar).
 
 ### Tam Bir Satır Örneği
 
+Tek örnekli (en sade) hâli:
 ```
 crucial | sıfat | kritik, çok önemli | Sleep is {crucial} for your health. | Uyku sağlığın için kritik öneme sahip.
+```
+
+Çok örnekli hâli (önerilen — kısaltılmış gösterim):
+```
+crucial | sıfat | kritik, çok önemli | Sleep is {crucial} for your health. | Uyku sağlığın için kritik. | Water is {crucial} for life. | Su yaşam için kritik. | ... (10 örneğe kadar)
 ```
 
 > 💡 **İpucu:** Yeni kelime eklemek için Claude'a kelime listesini ver,
@@ -106,10 +114,11 @@ crucial | sıfat | kritik, çok önemli | Sleep is {crucial} for your health. | 
 
 | Mod | Ne yapar? |
 |-----|-----------|
-| 🃏 **Kartlar** | Kelimeyi gör, çevir, anlamı + örnek cümleyi gör. "Biliyorum / Öğreniyorum" işaretle. |
+| 🃏 **Kartlar** | Kelimeyi gör, çevir; anlamı + **tüm örnek cümleleri** (10 adet) gör. "Biliyorum / Öğreniyorum" işaretle. |
 | 🧠 **Test** | Kelime gösterilir, karıştırılmış 4 şık arasından doğru anlamı seçersin. |
 | 🔗 **Eşleştirme** | Quizlet tarzı hafıza oyunu: kelimeleri anlamlarıyla eşleştir, süreyle yarış. |
-| ✏️ **Boşluk Doldur** | Örnek cümlede boşluk + Türkçesi gösterilir, doğru kelimeyi elinle yazarsın. |
+| ✏️ **Boşluk Doldur** | Örnek cümlede boşluk + Türkçesi gösterilir, doğru kelimeyi yazarsın (her seferinde rastgele örnek). |
+| ⌨️ **Yazma** | Türkçe anlamı görürsün, İngilizce kelimeyi **harf harf** yazarsın; yalnızca doğru harf ilerletir. |
 
 ### Ekstra Özellikler
 - 🔀 Kartlar her turda **karıştırılır** (spaced practice mantığı).
@@ -117,6 +126,7 @@ crucial | sıfat | kritik, çok önemli | Sleep is {crucial} for your health. | 
 - 🔁 **Sadece yanlışları tekrar et** — bilemediğin kelimelere odaklan.
 - 🔊 Telaffuz: kelimeye tıklayınca tarayıcı sesli okur (Web Speech API).
 - 🗂️ Seçtiğin **set tarayıcıda hatırlanır** (yenileyince kaldığın setten açılır).
+- 📚 Her kelime için **10 örnek cümle** — kart arkasında listelenir, yazma/boşluk modunda çeşitlenir.
 
 ---
 

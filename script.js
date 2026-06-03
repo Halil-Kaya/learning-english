@@ -86,9 +86,21 @@ function parseWords(text) {
     if (!line || line.startsWith("#")) continue;
     const parts = line.split("|").map((p) => p.trim());
     if (parts.length < 3) continue;
-    const [word, type, meaning, example = "", exampleTr = ""] = parts;
+    const [word, type, meaning] = parts;
     if (!word || !meaning) continue;
-    out.push({ word, type, meaning, example, exampleTr });
+    // 4. alandan itibaren örnek çiftleri: en1 | tr1 | en2 | tr2 | ...
+    const rest = parts.slice(3);
+    const examples = [];
+    for (let i = 0; i < rest.length; i += 2) {
+      const en = rest[i];
+      if (en) examples.push({ en, tr: rest[i + 1] || "" });
+    }
+    out.push({
+      word, type, meaning, examples,
+      // geriye uyum (ilk örnek)
+      example: examples[0] ? examples[0].en : "",
+      exampleTr: examples[0] ? examples[0].tr : "",
+    });
   }
   WORDS = out;
   if (WORDS.length === 0) { showEmpty(true); return; }
@@ -135,10 +147,35 @@ function speak(word) {
   speechSynthesis.speak(u);
 }
 
-// Örnek cümlede {kelime} -> <b>kelime</b>
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+// Örnek cümlede {kelime} -> <b>kelime</b> (önce HTML kaçışı)
 function highlightExample(ex) {
   if (!ex) return "";
-  return ex.replace(/\{([^}]+)\}/g, "<b>$1</b>");
+  return escapeHtml(ex).replace(/\{([^}]+)\}/g, "<b>$1</b>");
+}
+// Rastgele bir örnek seç (yoksa null)
+function pickExample(w) {
+  if (w.examples && w.examples.length) {
+    return w.examples[Math.floor(Math.random() * w.examples.length)];
+  }
+  return w.example ? { en: w.example, tr: w.exampleTr } : null;
+}
+// Bir kelimenin tüm örneklerini numaralı liste olarak çiz
+function renderExamples(container, examples) {
+  container.innerHTML = "";
+  if (!examples || !examples.length) return;
+  examples.forEach((ex, i) => {
+    const item = document.createElement("div");
+    item.className = "ex-item";
+    item.innerHTML =
+      `<span class="ex-num">${i + 1}</span>` +
+      `<div class="ex-body"><div class="ex-en">${highlightExample(ex.en)}</div>` +
+      `<div class="ex-tr">${escapeHtml(ex.tr || "")}</div></div>`;
+    container.appendChild(item);
+  });
 }
 // {kelime} -> doğru cevap (parantez içi)
 function blankFromExample(ex) {
@@ -210,8 +247,8 @@ function renderCard() {
   $("fc-word").textContent = w.word;
   $("fc-type").textContent = w.type;
   $("fc-meaning").textContent = w.meaning;
-  $("fc-example").innerHTML = highlightExample(w.example);
-  $("fc-example-tr").textContent = w.exampleTr || "";
+  renderExamples($("fc-examples"), w.examples);
+  $("fc-examples").scrollTop = 0;
   updateStats(deck.length);
 }
 
@@ -353,11 +390,12 @@ $("match-again").addEventListener("click", startMatch);
 // ============================================================
 let fillDeck = [];
 let fillIdx = 0;
+let fillCurrentEx = null; // o anki soruda kullanılan örnek
 
 function renderFill() {
-  // sadece örnek cümlesi {} içeren kelimeler
+  // sadece örnek cümlesi olan kelimeler
   if (fillDeck.length === 0 || fillIdx === 0) {
-    fillDeck = shuffle(deck.filter((w) => blankFromExample(w.example)));
+    fillDeck = shuffle(deck.filter((w) => pickExample(w)));
     fillIdx = 0;
   }
   if (fillDeck.length === 0) {
@@ -368,8 +406,9 @@ function renderFill() {
   if (fillIdx >= fillDeck.length) return finish();
 
   const w = fillDeck[fillIdx];
-  $("fill-sentence").innerHTML = exampleWithBlank(w.example);
-  $("fill-tr").textContent = w.exampleTr || "";
+  fillCurrentEx = pickExample(w); // her soruda rastgele bir örnek
+  $("fill-sentence").innerHTML = exampleWithBlank(fillCurrentEx.en);
+  $("fill-tr").textContent = fillCurrentEx.tr || "";
   $("fill-meaning").textContent = "İpucu: " + w.meaning;
   $("fill-input").value = "";
   $("fill-input").disabled = false;
@@ -384,7 +423,7 @@ function renderFill() {
 
 function checkFill() {
   const w = fillDeck[fillIdx];
-  const answer = blankFromExample(w.example) || w.word;
+  const answer = (fillCurrentEx && blankFromExample(fillCurrentEx.en)) || w.word;
   const guess = $("fill-input").value.trim().toLowerCase();
   if (!guess) return;
   const correct = guess === answer.toLowerCase();
@@ -427,7 +466,8 @@ function renderWrite() {
   writeTarget = w.word;
   $("write-meaning").textContent = w.meaning;
   $("write-type").textContent = w.type || "";
-  $("write-tr").textContent = w.exampleTr || "";
+  const wex = pickExample(w);
+  $("write-tr").textContent = wex ? wex.tr || "" : "";
   const fb = $("write-feedback");
   fb.textContent = ""; fb.className = "fill-feedback";
   const inp = $("write-input");

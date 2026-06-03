@@ -181,7 +181,7 @@ main { width: 100%; max-width: 760px; }
 .flashcard {
   position: relative;
   width: 100%;
-  height: 300px;
+  height: 360px;
   transform-style: preserve-3d;
   transition: transform 0.55s cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
@@ -211,12 +211,30 @@ main { width: 100%; max-width: 760px; }
     radial-gradient(circle at 78% 80%, rgba(247, 177, 90, 0.12), transparent 60%),
     var(--surface-2);
   transform: rotateY(180deg);
+  justify-content: flex-start;
+  overflow-y: auto;
+  padding: 24px 22px;
 }
 .hint { font-size: 0.72rem; color: var(--muted); opacity: 0.7; margin-top: 16px; }
 .meaning { font-size: 1.45rem; font-weight: 600; margin: 10px 0 14px; }
-.example { font-size: 0.92rem; font-style: italic; color: var(--text); line-height: 1.5; }
-.example b { color: var(--accent-2); font-style: normal; }
-.example-tr { font-size: 0.82rem; color: var(--muted); margin-top: 8px; }
+
+/* Örnek listesi (kart arkası) */
+.examples { width: 100%; display: flex; flex-direction: column; gap: 10px; text-align: left; }
+.ex-item { display: flex; gap: 10px; align-items: flex-start; }
+.ex-num {
+  flex: 0 0 auto;
+  width: 20px; height: 20px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.68rem; font-weight: 600;
+  color: var(--accent);
+  background: rgba(124, 106, 247, 0.14);
+  border-radius: 6px;
+  margin-top: 2px;
+}
+.ex-body { flex: 1 1 auto; }
+.ex-en { font-size: 0.9rem; line-height: 1.45; color: var(--text); }
+.ex-en b { color: var(--accent-2); }
+.ex-tr { font-size: 0.78rem; color: var(--muted); margin-top: 2px; }
 .speak-btn {
   margin-top: 12px;
   background: var(--surface-2);
