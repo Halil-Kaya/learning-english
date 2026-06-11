@@ -37,16 +37,62 @@ npx tsc --noEmit                 # tip kontrolü
 npx expo export -p ios           # tüm grafiği bundle'layıp doğrular (Xcode gerekmez)
 ```
 
-## Üretim Derlemesi (EAS)
+## iOS'ta Yayınlama — TestFlight (arkadaşlara feedback için)
 
+Bulutta (EAS Build) derleyip TestFlight ile dağıtırız; Mac'te Xcode imzalama
+uğraşı yok. **Apple Developer Program** üyeliği gerekir (yıllık $99).
+
+Kimlik: `com.halilkaya.kelimeezber` ([app.json](app.json)) · Profiller: [eas.json](eas.json)
+
+### Tek seferlik kurulum
 ```bash
-npm install -g eas-cli
-eas build -p android --profile preview   # APK
-eas build -p ios --profile preview       # iOS (Apple hesabı gerekir)
+npm install -g eas-cli           # EAS komut satırı
+cd mobile
+eas login                        # Expo hesabı (yoksa ücretsiz aç)
+eas init                         # projeyi Expo'ya bağlar (projectId yazar)
 ```
 
-> Reklam (AdMob) ve abonelik (IAP) eklenince Expo Go yetmez; **dev build**
-> gerekir: `npx expo install expo-dev-client` + `eas build --profile development`.
+### Derle + TestFlight'a gönder
+```bash
+eas build -p ios --profile production
+# İlk seferde Apple hesabına giriş ister; sertifika/provisioning'i
+# OTOMATİK oluşturur. Derleme bulutta ~15-20 dk sürer.
+
+eas submit -p ios --latest
+# Derlemeyi App Store Connect'e yükler. İstenirse App Store Connect
+# API anahtarı / Apple ID ister; uygulama kaydını gerekiyorsa oluşturur.
+```
+
+### Arkadaşları davet et
+1. [App Store Connect](https://appstoreconnect.apple.com) → **TestFlight** sekmesi.
+2. Derleme işlenince (~birkaç dk): **Internal Testing** (ekibindeki en çok 100 kişi,
+   anında) ya da **External Testing** (link ile en çok 10.000 kişi; ilk derlemede
+   kısa bir "Beta App Review" var, genelde hızlı).
+3. Arkadaşların telefonuna **TestFlight** uygulamasını kurar, gönderdiğin
+   davet linkine dokunur → uygulama yüklenir.
+
+> **Senin cihazın:** kendini *internal tester* olarak ekle → her yeni derleme
+> anında düşer. TestFlight derlemeleri **90 gün** geçerli; süre dolunca ya da
+> değişiklik yapınca `eas build` + `eas submit` tekrar.
+>
+> **Sürüm artırma:** `production` profilinde `autoIncrement` açık + EAS uzaktan
+> build numarası yönetir; her gönderimde otomatik artar.
+
+### Alternatif: TestFlight'sız hızlı paylaşım (ad-hoc)
+Birkaç kişiye, Apple incelemesi olmadan doğrudan kurulum:
+```bash
+eas device:create                       # her arkadaşın cihaz UDID'sini kaydet
+eas build -p ios --profile preview       # internal dağıtım derlemesi
+# Çıkan linki paylaş; kayıtlı cihazlar doğrudan kurar (yılda 100 cihaz sınırı)
+```
+
+> Reklam (AdMob) / abonelik (IAP) eklenince geliştirme için **dev build**:
+> `npx expo install expo-dev-client` + `eas build --profile development`.
+
+## Android Derlemesi (opsiyonel)
+```bash
+eas build -p android --profile preview   # paylaşılabilir APK
+```
 
 ## Klasör Yapısı
 

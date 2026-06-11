@@ -8,9 +8,12 @@
     "scheme": "mobile",
     "userInterfaceStyle": "dark",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.halilkaya.kelimeezber",
+      "supportsTablet": true
     },
     "android": {
+      "package": "com.halilkaya.kelimeezber",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
