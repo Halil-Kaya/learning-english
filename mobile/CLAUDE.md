@@ -50,8 +50,7 @@ Example { target, source }   // target: öğrenilen dil, terim {süslü} işaret
 ```
 
 Kurallar:
-- **Set = 15 girdi** (son katalog seti 16). Kullanıcı 15'i aşan liste girerse
-  `create-set` otomatik 15'lik setlere böler.
+- **Katalog setleri = 15 girdi** (son sette 16). **Kullanıcı setleri = sınırsız** (40+ kelime serbest, otomatik bölme kaldırıldı).
 - `kind`: tek kelime `"word"`, çok kelimeli bağlam/öbek `"phrase"`
   (örn. `come` ≠ `come by`). Boşluk içeren terim öbek sayılır.
 - `examples[].target` içinde terim **`{süslü parantez}`** ile işaretlenir.

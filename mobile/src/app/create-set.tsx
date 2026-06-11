@@ -1,8 +1,9 @@
 import { useRouter } from "expo-router";
-import { useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import {
   KeyboardAvoidingView,
   Platform,
+  Pressable,
   ScrollView,
   StyleSheet,
   Text,
@@ -11,6 +12,7 @@ import {
 } from "react-native";
 import { Button } from "../components/Button";
 import { Screen } from "../components/Screen";
+import { getCatalogSets } from "../data/catalog";
 import type { Entry, WordSet } from "../data/types";
 import { t } from "../i18n";
 import { useLibrary } from "../store/library";
@@ -27,7 +29,6 @@ interface Draft {
 
 const empty: Draft = { term: "", type: "", meaning: "", exTarget: "", exSource: "" };
 
-/** Örnek cümlede terimi {süslü} yap (kullanıcı işaretlemediyse). */
 function ensureBraced(target: string, term: string): string {
   if (!target) return "";
   if (target.includes("{")) return target;
@@ -36,11 +37,10 @@ function ensureBraced(target: string, term: string): string {
   return target.slice(0, i) + "{" + target.slice(i, i + term.length) + "}" + target.slice(i + term.length);
 }
 
-/** entries'i 15'lik setlere böl. */
-function chunk<T>(arr: T[], size: number): T[][] {
-  const out: T[][] = [];
-  for (let i = 0; i < arr.length; i += size) out.push(arr.slice(i, i + size));
-  return out;
+function normalize(s: string): string {
+  return s.toLowerCase().trim()
+    .replace(/[ğ]/g, "g").replace(/[ı]/g, "i").replace(/[ş]/g, "s")
+    .replace(/[ü]/g, "u").replace(/[ö]/g, "o").replace(/[ç]/g, "c");
 }
 
 export default function CreateSet() {
@@ -53,10 +53,43 @@ export default function CreateSet() {
   const [draft, setDraft] = useState<Draft>(empty);
   const [entries, setEntries] = useState<Omit<Entry, "id">[]>([]);
   const [error, setError] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState("");
+  const searchRef = useRef<TextInput>(null);
+
+  const catalogEntries = useMemo(
+    () => getCatalogSets(pair).flatMap((s) => s.entries),
+    [pair]
+  );
+
+  const searchResults = useMemo(() => {
+    const q = normalize(searchQuery);
+    if (q.length < 2) return [];
+    return catalogEntries
+      .filter(
+        (e) =>
+          !entries.some((a) => a.term.toLowerCase() === e.term.toLowerCase()) &&
+          (normalize(e.term).includes(q) || normalize(e.meaning).includes(q))
+      )
+      .slice(0, 8);
+  }, [searchQuery, catalogEntries, entries]);
+
+  const addFromCatalog = (entry: Entry) => {
+    const { id: _id, ...rest } = entry;
+    setEntries((list) => [...list, rest]);
+    setSearchQuery("");
+  };
+
+  const removeEntry = (idx: number) => {
+    setEntries((list) => list.filter((_, i) => i !== idx));
+  };
 
   const addWord = () => {
     if (!draft.term.trim() || !draft.meaning.trim()) {
       setError("Terim ve anlam zorunlu.");
+      return;
+    }
+    if (entries.some((e) => e.term.toLowerCase() === draft.term.trim().toLowerCase())) {
+      setError("Bu terim zaten eklendi.");
       return;
     }
     const examples = draft.exTarget.trim()
@@ -82,24 +115,23 @@ export default function CreateSet() {
       return;
     }
     const base = name.trim() || "Benim Setim";
-    const chunks = chunk(entries, 15);
     const ts = Date.now();
-    const sets: WordSet[] = chunks.map((group, ci) => {
-      const setId = `${pair}-user-${ts}-${ci}`;
-      return {
-        id: setId,
-        languagePair: pair,
-        name: chunks.length > 1 ? `${base} (${ci + 1})` : base,
-        level: "beginner",
-        category: "my-sets",
-        source: "user",
-        entries: group.map((e, i) => ({ id: `${setId}-${i}`, ...e })),
-      };
-    });
-    addUserSets(pair, sets);
-    sets.forEach((s) => addToList(pair, s.id));
+    const setId = `${pair}-user-${ts}`;
+    const set: WordSet = {
+      id: setId,
+      languagePair: pair,
+      name: base,
+      level: "beginner",
+      category: "my-sets",
+      source: "user",
+      entries: entries.map((e, i) => ({ id: `${setId}-${i}`, ...e })),
+    };
+    addUserSets(pair, [set]);
+    addToList(pair, setId);
     router.back();
   };
+
+  const showResults = searchQuery.trim().length >= 2;
 
   return (
     <Screen>
@@ -112,32 +144,86 @@ export default function CreateSet() {
           <Button title="✕" variant="surface" small onPress={() => router.back()} />
         </View>
 
-        <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={styles.body} keyboardShouldPersistTaps="handled">
+        <ScrollView
+          showsVerticalScrollIndicator={false}
+          contentContainerStyle={styles.body}
+          keyboardShouldPersistTaps="handled"
+        >
           <Field label={t("createSetName")} value={name} onChange={setName} />
 
           <View style={styles.divider} />
+
           <Text style={styles.count}>
-            {entries.length} {t("createWordCount")} · {t("createSplitNote")}
+            {entries.length} {t("createWordCount")}
           </Text>
 
           {entries.length > 0 && (
             <View style={styles.chips}>
               {entries.map((e, i) => (
-                <Text key={i} style={styles.wordChip}>
-                  {e.term}
-                </Text>
+                <Pressable key={i} style={styles.chip} onPress={() => removeEntry(i)}>
+                  <Text style={styles.chipTerm}>{e.term}</Text>
+                  <Text style={styles.chipX}>✕</Text>
+                </Pressable>
               ))}
             </View>
           )}
 
           <View style={styles.divider} />
+
+          {/* Arama */}
+          <Text style={styles.sectionLabel}>{t("createSearchLabel")}</Text>
+          <View style={styles.searchRow}>
+            <Text style={styles.searchIcon}>🔍</Text>
+            <TextInput
+              ref={searchRef}
+              style={styles.searchInput}
+              placeholder={t("createSearchPlaceholder")}
+              placeholderTextColor={colors.muted}
+              value={searchQuery}
+              onChangeText={setSearchQuery}
+              autoCapitalize="none"
+              autoCorrect={false}
+              returnKeyType="search"
+            />
+            {searchQuery.length > 0 && (
+              <Pressable onPress={() => setSearchQuery("")} style={styles.clearBtn}>
+                <Text style={styles.clearBtnText}>✕</Text>
+              </Pressable>
+            )}
+          </View>
+
+          {showResults && (
+            <View style={styles.results}>
+              {searchResults.length === 0 ? (
+                <Text style={styles.noResults}>{t("createNoResults")}</Text>
+              ) : (
+                searchResults.map((entry) => (
+                  <Pressable
+                    key={entry.id}
+                    style={({ pressed }) => [styles.resultRow, pressed && styles.resultRowPressed]}
+                    onPress={() => addFromCatalog(entry)}
+                  >
+                    <View style={styles.resultTexts}>
+                      <Text style={styles.resultTerm}>{entry.term}</Text>
+                      <Text style={styles.resultMeaning}>{entry.meaning}</Text>
+                    </View>
+                    <Text style={styles.resultAdd}>+ Ekle</Text>
+                  </Pressable>
+                ))
+              )}
+            </View>
+          )}
+
+          <View style={styles.divider} />
+
+          {/* Elle giriş */}
+          <Text style={styles.sectionLabel}>{t("createManualLabel")}</Text>
           <Field label={t("createTerm")} value={draft.term} onChange={(v) => setDraft({ ...draft, term: v })} />
           <Field label={t("createType")} value={draft.type} onChange={(v) => setDraft({ ...draft, type: v })} />
           <Field label={t("createMeaning")} value={draft.meaning} onChange={(v) => setDraft({ ...draft, meaning: v })} />
           <Field label={t("createExampleTarget")} value={draft.exTarget} onChange={(v) => setDraft({ ...draft, exTarget: v })} />
           <Field label={t("createExampleSource")} value={draft.exSource} onChange={(v) => setDraft({ ...draft, exSource: v })} />
           <Text style={styles.hint}>{t("createHintBraces")}</Text>
-
           <Button title={t("createAddWord")} variant="surface" onPress={addWord} style={styles.add} />
 
           {error && <Text style={styles.error}>{error}</Text>}
@@ -186,15 +272,57 @@ const styles = StyleSheet.create({
   divider: { height: StyleSheet.hairlineWidth, backgroundColor: colors.border, marginVertical: spacing.md },
   count: { color: colors.muted, fontSize: 12 },
   chips: { flexDirection: "row", flexWrap: "wrap", gap: spacing.xs, marginTop: spacing.sm },
-  wordChip: {
-    color: colors.text,
+  chip: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 4,
     backgroundColor: colors.surface2,
     borderRadius: radius.pill,
     paddingHorizontal: 10,
     paddingVertical: 4,
-    fontSize: 13,
+  },
+  chipTerm: { color: colors.text, fontSize: 13 },
+  chipX: { color: colors.muted, fontSize: 11 },
+  sectionLabel: { color: colors.muted, fontSize: 11, fontWeight: "700", textTransform: "uppercase", letterSpacing: 0.6, marginBottom: spacing.xs },
+  searchRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    backgroundColor: colors.bgSoft,
+    borderWidth: 1,
+    borderColor: colors.border,
+    borderRadius: radius.md,
+    paddingHorizontal: spacing.md,
+    marginTop: 2,
+  },
+  searchIcon: { fontSize: 15, marginRight: 6 },
+  searchInput: {
+    flex: 1,
+    color: colors.text,
+    fontSize: 15,
+    paddingVertical: 11,
+  },
+  clearBtn: { padding: 4 },
+  clearBtnText: { color: colors.muted, fontSize: 12 },
+  results: {
+    marginTop: spacing.sm,
+    borderWidth: 1,
+    borderColor: colors.border,
+    borderRadius: radius.md,
     overflow: "hidden",
   },
+  resultRow: {
+    flexDirection: "row",
+    alignItems: "center",
+    padding: spacing.md,
+    borderBottomWidth: StyleSheet.hairlineWidth,
+    borderBottomColor: colors.border,
+  },
+  resultRowPressed: { backgroundColor: colors.surface2 },
+  resultTexts: { flex: 1, gap: 2 },
+  resultTerm: { color: colors.text, fontSize: 15, fontWeight: "600" },
+  resultMeaning: { color: colors.muted, fontSize: 13 },
+  resultAdd: { color: colors.accent, fontSize: 13, fontWeight: "700" },
+  noResults: { color: colors.muted, fontSize: 14, padding: spacing.md, textAlign: "center" },
   field: { gap: 4, marginTop: spacing.sm },
   fieldLabel: { color: colors.muted, fontSize: 12, fontWeight: "600" },
   input: {

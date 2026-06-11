@@ -105,14 +105,17 @@ export const tr = {
   createMeaning: "Anlam (Türkçe)",
   createExampleTarget: "Örnek cümle (İngilizce)",
   createExampleSource: "Çeviri (Türkçe)",
-  createAddWord: "+ Kelime ekle",
+  createAddWord: "+ Elle ekle",
   createSave: "Seti kaydet",
   createSetName: "Set adı",
   createHintBraces:
     "İpucu: örnek cümlede terimi {süslü parantez} ile işaretle — boşluk doldur ve ezber modu bunu kullanır.",
-  createSplitNote: "15 kelimeyi aşan listeler otomatik 15'lik setlere bölünür.",
   createNeedWords: "En az 1 kelime ekle.",
   createWordCount: "kelime eklendi",
+  createSearchLabel: "Katalogda Ara",
+  createSearchPlaceholder: "İngilizce veya Türkçe ile ara…",
+  createNoResults: "Sonuç bulunamadı",
+  createManualLabel: "Elle Giriş",
 
   // memorize phases
   memDown: "1/4 · KELİMEYE BAKARAK YAZ",

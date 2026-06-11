@@ -1,0 +1,887 @@
+[
+  {
+    "id": "en-tr-beginner-01",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 1",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-01-0",
+        "kind": "word",
+        "term": "achieve",
+        "type": "fiil",
+        "meaning": "başarmak, elde etmek",
+        "examples": [
+          {"target": "She worked hard to {achieve} her dream of becoming a doctor.", "source": "Doktor olma hayalini gerçekleştirmek için çok çalıştı."},
+          {"target": "It takes time and effort to {achieve} great things.", "source": "Büyük şeyler başarmak zaman ve çaba gerektirir."},
+          {"target": "He finally {achieved} the promotion he had been waiting for.", "source": "Sonunda beklediği terfiyi elde etti."},
+          {"target": "Our team {achieved} all of its goals this year.", "source": "Ekibimiz bu yıl tüm hedeflerini başardı."},
+          {"target": "You cannot {achieve} success without facing some failures.", "source": "Bazı başarısızlıklarla yüzleşmeden başarı elde edemezsin."},
+          {"target": "She {achieved} top marks in every subject at school.", "source": "Okulda her derste en yüksek notları aldı."},
+          {"target": "Together we can {achieve} much more than we can alone.", "source": "Birlikte tek başımıza olduğumuzdan çok daha fazlasını başarabiliriz."},
+          {"target": "The athlete {achieved} a world record in the final race.", "source": "Atlet son yarışta dünya rekoru kırdı."},
+          {"target": "What do you hope to {achieve} with this project?", "source": "Bu projeyle ne elde etmeyi umuyorsun?"},
+          {"target": "Small daily steps help you {achieve} long-term goals.", "source": "Küçük günlük adımlar uzun vadeli hedeflere ulaşmana yardımcı olur."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-1",
+        "kind": "word",
+        "term": "accept",
+        "type": "fiil",
+        "meaning": "kabul etmek",
+        "examples": [
+          {"target": "I {accept} your apology and I forgive you.", "source": "Özrünü kabul ediyorum ve seni affediyorum."},
+          {"target": "She was thrilled when the university {accepted} her application.", "source": "Üniversite başvurusunu kabul ettiğinde çok heyecanlandı."},
+          {"target": "You need to {accept} that some things cannot be changed.", "source": "Bazı şeylerin değiştirilemeyeceğini kabul etmen gerekiyor."},
+          {"target": "He {accepted} the job offer without hesitation.", "source": "İş teklifini tereddütsüz kabul etti."},
+          {"target": "The store does not {accept} cash payments anymore.", "source": "Mağaza artık nakit ödeme kabul etmiyor."},
+          {"target": "Please {accept} this small gift as a token of my gratitude.", "source": "Lütfen bu küçük hediyeyi şükran belirtisi olarak kabul et."},
+          {"target": "They refused to {accept} defeat and kept fighting.", "source": "Yenilgiyi kabul etmeyi reddedip savaşmaya devam ettiler."},
+          {"target": "It was hard for him to {accept} the loss of his job.", "source": "İşini kaybetmeyi kabullenmek onun için zordu."},
+          {"target": "Children learn to {accept} differences at an early age.", "source": "Çocuklar küçük yaşta farklılıkları kabul etmeyi öğrenir."},
+          {"target": "She finally {accepted} help from her friends.", "source": "Sonunda arkadaşlarının yardımını kabul etti."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-2",
+        "kind": "word",
+        "term": "allow",
+        "type": "fiil",
+        "meaning": "izin vermek, bırakmak",
+        "examples": [
+          {"target": "My parents don't {allow} me to stay out after midnight.", "source": "Ailem gece yarısından sonra dışarıda kalmama izin vermiyor."},
+          {"target": "Please {allow} me to introduce myself.", "source": "Lütfen kendimi tanıtmama izin verin."},
+          {"target": "Smoking is not {allowed} inside the building.", "source": "Bina içinde sigara içmek yasak."},
+          {"target": "The new rule {allows} employees to work from home twice a week.", "source": "Yeni kural çalışanların haftada iki kez evden çalışmasına izin veriyor."},
+          {"target": "She {allowed} her daughter to go to the concert.", "source": "Kızının konsere gitmesine izin verdi."},
+          {"target": "The doctor {allowed} him to leave the hospital after three days.", "source": "Doktor üç gün sonra hastaneden çıkmasına izin verdi."},
+          {"target": "This ticket {allows} you to enter the museum twice.", "source": "Bu bilet müzeye iki kez girmenizi sağlar."},
+          {"target": "Dogs are not {allowed} on the beach during summer.", "source": "Yazın köpeklerin sahile girmesi yasak."},
+          {"target": "They {allowed} the children to choose their own bedtime.", "source": "Çocukların kendi yatma saatlerini seçmelerine izin verdiler."},
+          {"target": "Please {allow} at least three days for delivery.", "source": "Lütfen teslimat için en az üç gün süre tanıyın."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-3",
+        "kind": "word",
+        "term": "apply",
+        "type": "fiil",
+        "meaning": "başvurmak; uygulamak",
+        "examples": [
+          {"target": "I decided to {apply} for the position advertised online.", "source": "Çevrimiçi ilan edilen pozisyona başvurmaya karar verdim."},
+          {"target": "You should {apply} sunscreen before going to the beach.", "source": "Sahile gitmeden önce güneş kremi sürmelisin."},
+          {"target": "The same rules {apply} to everyone in this office.", "source": "Aynı kurallar bu ofisteki herkese uygulanır."},
+          {"target": "She {applied} to five different universities last year.", "source": "Geçen yıl beş farklı üniversiteye başvurdu."},
+          {"target": "{Apply} gentle pressure to the wound to stop the bleeding.", "source": "Kanamayı durdurmak için yaraya hafifçe baskı uygulayın."},
+          {"target": "He {applied} his knowledge of chemistry to solve the problem.", "source": "Problemi çözmek için kimya bilgisini uyguladı."},
+          {"target": "The discount only {applies} to items in the sale section.", "source": "İndirim yalnızca kampanya bölümündeki ürünler için geçerlidir."},
+          {"target": "You can {apply} for a visa at the nearest embassy.", "source": "En yakın büyükelçilikte vize başvurusunda bulunabilirsin."},
+          {"target": "The doctor {applied} a bandage to the injured knee.", "source": "Doktor yaralanan dize bandaj uyguladı."},
+          {"target": "These safety guidelines {apply} to all staff members.", "source": "Bu güvenlik kuralları tüm personel için geçerlidir."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-4",
+        "kind": "word",
+        "term": "avoid",
+        "type": "fiil",
+        "meaning": "kaçınmak, uzak durmak",
+        "examples": [
+          {"target": "Try to {avoid} eating too much sugar.", "source": "Çok fazla şeker yemekten kaçınmaya çalış."},
+          {"target": "She {avoided} making eye contact during the argument.", "source": "Tartışma sırasında göz temasından kaçındı."},
+          {"target": "He takes a different route to {avoid} traffic jams.", "source": "Trafik tıkanıklığından kaçınmak için farklı bir rota kullanıyor."},
+          {"target": "I always {avoid} reading the news before going to bed.", "source": "Yatmadan önce haber okumaktan her zaman kaçınırım."},
+          {"target": "You should {avoid} swimming alone at night.", "source": "Geceleri yalnız yüzmekten kaçınmalısın."},
+          {"target": "The new vaccine helps people {avoid} serious illness.", "source": "Yeni aşı insanların ciddi hastalıktan korunmasına yardımcı oluyor."},
+          {"target": "She {avoided} the topic whenever her ex was mentioned.", "source": "Eski sevgilisi söz konusu olduğunda her seferinde konudan kaçındı."},
+          {"target": "To {avoid} confusion, please read the instructions carefully.", "source": "Karışıklıktan kaçınmak için lütfen talimatları dikkatlice okuyun."},
+          {"target": "He {avoided} answering the difficult question.", "source": "Zor soruyu cevaplamaktan kaçındı."},
+          {"target": "The company tried to {avoid} any negative publicity.", "source": "Şirket olumsuz tanıtımdan kaçınmaya çalıştı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-5",
+        "kind": "word",
+        "term": "build",
+        "type": "fiil",
+        "meaning": "inşa etmek, kurmak",
+        "examples": [
+          {"target": "They plan to {build} a new school in our neighbourhood.", "source": "Mahallemize yeni bir okul inşa etmeyi planlıyorlar."},
+          {"target": "It took two years to {build} the bridge.", "source": "Köprüyü inşa etmek iki yıl aldı."},
+          {"target": "She wants to {build} her own business from scratch.", "source": "Kendi işini sıfırdan kurmak istiyor."},
+          {"target": "Exercise helps you {build} stronger muscles.", "source": "Egzersiz daha güçlü kaslar oluşturmanıza yardımcı olur."},
+          {"target": "The children used wooden blocks to {build} a tower.", "source": "Çocuklar tahta bloklarla kule inşa etti."},
+          {"target": "Trust is not easy to {build} but easy to destroy.", "source": "Güven inşa etmek kolay değildir ama yıkmak kolaydır."},
+          {"target": "He {built} his career through years of hard work.", "source": "Kariyerini yıllarca süren sıkı çalışmayla kurdu."},
+          {"target": "The team is working to {build} a stronger defence.", "source": "Takım daha güçlü bir savunma oluşturmak için çalışıyor."},
+          {"target": "They {built} their house on top of a hill.", "source": "Evlerini bir tepenin üzerine inşa ettiler."},
+          {"target": "Reading every day helps you {build} a richer vocabulary.", "source": "Her gün okumak daha zengin bir kelime dağarcığı oluşturmanıza yardımcı olur."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-6",
+        "kind": "word",
+        "term": "cause",
+        "type": "fiil/isim",
+        "meaning": "neden olmak; sebep, dava",
+        "examples": [
+          {"target": "Smoking can {cause} serious health problems.", "source": "Sigara içmek ciddi sağlık sorunlarına yol açabilir."},
+          {"target": "Heavy rain {caused} flooding in the city centre.", "source": "Yoğun yağmur şehir merkezinde sele neden oldu."},
+          {"target": "What was the {cause} of the accident?", "source": "Kazanın sebebi neydi?"},
+          {"target": "She devoted her life to the {cause} of human rights.", "source": "Hayatını insan hakları davasına adadı."},
+          {"target": "Stress can {cause} both physical and mental health issues.", "source": "Stres hem fiziksel hem de zihinsel sağlık sorunlarına yol açabilir."},
+          {"target": "The delay was {caused} by a technical problem.", "source": "Gecikme teknik bir sorundan kaynaklandı."},
+          {"target": "There is no {cause} for alarm at this stage.", "source": "Bu aşamada endişeye gerek yok."},
+          {"target": "Loud music can {cause} permanent hearing damage.", "source": "Yüksek sesli müzik kalıcı işitme hasarına neden olabilir."},
+          {"target": "The fire was {caused} by an electrical fault.", "source": "Yangın elektrik arızasından çıktı."},
+          {"target": "They are fighting for a worthy {cause}.", "source": "Değerli bir dava için savaşıyorlar."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-7",
+        "kind": "word",
+        "term": "choose",
+        "type": "fiil",
+        "meaning": "seçmek, tercih etmek",
+        "examples": [
+          {"target": "It was hard to {choose} between the two job offers.", "source": "İki iş teklifi arasında seçim yapmak zordu."},
+          {"target": "You can {choose} any colour you like for the walls.", "source": "Duvarlar için istediğin herhangi bir rengi seçebilirsin."},
+          {"target": "She {chose} to study medicine instead of law.", "source": "Hukuk yerine tıp okumayı seçti."},
+          {"target": "Every morning I {choose} what to have for breakfast.", "source": "Her sabah kahvaltıda ne yiyeceğimi seçerim."},
+          {"target": "He always {chooses} the window seat on aeroplanes.", "source": "Uçaklarda her zaman pencere kenarı koltuk seçer."},
+          {"target": "They {chose} the smaller house because it was closer to work.", "source": "İşe daha yakın olduğu için daha küçük evi seçtiler."},
+          {"target": "You have the right to {choose} your own path in life.", "source": "Hayatta kendi yolunu seçme hakkın var."},
+          {"target": "The committee will {choose} the winner next week.", "source": "Komite gelecek hafta kazananı seçecek."},
+          {"target": "I can't decide — can you help me {choose}?", "source": "Karar veremiyorum — seçmeme yardım edebilir misin?"},
+          {"target": "She carefully {chose} her words before speaking.", "source": "Konuşmadan önce kelimelerini dikkatlice seçti."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-8",
+        "kind": "word",
+        "term": "collect",
+        "type": "fiil",
+        "meaning": "toplamak, biriktirmek",
+        "examples": [
+          {"target": "He loves to {collect} old coins from around the world.", "source": "Dünyanın dört bir yanından eski para biriktirmeyi sever."},
+          {"target": "Please {collect} all the rubbish before leaving the park.", "source": "Parktan ayrılmadan önce lütfen tüm çöpleri toplayın."},
+          {"target": "The teacher asked students to {collect} data for the project.", "source": "Öğretmen öğrencilerden proje için veri toplamasını istedi."},
+          {"target": "The library {collects} donations of second-hand books.", "source": "Kütüphane ikinci el kitap bağışı kabul ediyor."},
+          {"target": "She {collected} her thoughts before giving her speech.", "source": "Konuşmasını yapmadan önce düşüncelerini topladı."},
+          {"target": "The city {collects} recycling every Tuesday morning.", "source": "Şehir her Salı sabahı geri dönüşüm malzemelerini topluyor."},
+          {"target": "He {collected} his daughter from school at three o'clock.", "source": "Kızını saat üçte okuldan aldı."},
+          {"target": "The researcher spent years {collecting} data in the field.", "source": "Araştırmacı yıllarca sahada veri topladı."},
+          {"target": "She has been {collecting} stamps since she was a child.", "source": "Çocukluğundan beri pul biriktiriyor."},
+          {"target": "Can you {collect} the parcels from the post office?", "source": "Posta ofisinden paketleri alabilir misin?"}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-9",
+        "kind": "word",
+        "term": "complete",
+        "type": "fiil/sıfat",
+        "meaning": "tamamlamak; eksiksiz, tam",
+        "examples": [
+          {"target": "She managed to {complete} the report before the deadline.", "source": "Raporu son tarihten önce tamamlamayı başardı."},
+          {"target": "Please {complete} the form and return it to reception.", "source": "Lütfen formu doldurun ve resepsiyona iade edin."},
+          {"target": "He {completed} the race despite feeling exhausted.", "source": "Bitkin hissetmesine rağmen yarışı tamamladı."},
+          {"target": "The renovation work will be {complete} by the end of the month.", "source": "Tadilat çalışmaları ay sonunda tamamlanacak."},
+          {"target": "This set is not {complete} — two pieces are missing.", "source": "Bu set eksik — iki parça kayıp."},
+          {"target": "She gave a {complete} answer to every question.", "source": "Her soruya eksiksiz bir cevap verdi."},
+          {"target": "The project took three months to {complete}.", "source": "Projeyi tamamlamak üç ay sürdü."},
+          {"target": "It was a {complete} surprise when she won the award.", "source": "Ödülü kazandığında tam anlamıyla sürpriz oldu."},
+          {"target": "He {completed} his degree in four years.", "source": "Lisans eğitimini dört yılda tamamladı."},
+          {"target": "The silence in the room was {complete}.", "source": "Odadaki sessizlik mutlaktı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-10",
+        "kind": "word",
+        "term": "consider",
+        "type": "fiil",
+        "meaning": "düşünmek, değerlendirmek",
+        "examples": [
+          {"target": "Please {consider} my proposal before making a decision.", "source": "Karar vermeden önce lütfen teklifimi değerlendirin."},
+          {"target": "Have you {considered} moving to a different city?", "source": "Farklı bir şehre taşınmayı düşündün mü?"},
+          {"target": "She {considers} honesty to be the most important value.", "source": "Dürüstlüğü en önemli değer olarak görüyor."},
+          {"target": "The committee will {consider} all applications next week.", "source": "Komite gelecek hafta tüm başvuruları değerlendirecek."},
+          {"target": "He is {considering} changing his career path.", "source": "Kariyer yolunu değiştirmeyi düşünüyor."},
+          {"target": "You should {consider} the risks before investing your money.", "source": "Paranı yatırmadan önce riskleri göz önünde bulundurmalısın."},
+          {"target": "I {consider} her one of my closest friends.", "source": "Onu en yakın arkadaşlarımdan biri olarak görüyorum."},
+          {"target": "They {considered} every possible solution to the problem.", "source": "Sorunun her olası çözümünü değerlendirdiler."},
+          {"target": "{Consider} how your actions might affect others.", "source": "Eylemlerinin başkalarını nasıl etkileyebileceğini düşün."},
+          {"target": "The doctor {considered} several treatment options.", "source": "Doktor birkaç tedavi seçeneğini değerlendirdi."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-11",
+        "kind": "word",
+        "term": "decide",
+        "type": "fiil",
+        "meaning": "karar vermek",
+        "examples": [
+          {"target": "I need more time to {decide} which option is better.", "source": "Hangi seçeneğin daha iyi olduğuna karar vermek için daha fazla zamana ihtiyacım var."},
+          {"target": "She {decided} to quit her job and travel the world.", "source": "İşini bırakıp dünyayı gezmeye karar verdi."},
+          {"target": "Have you {decided} where you want to go for dinner?", "source": "Akşam yemeği için nereye gitmek istediğine karar verdin mi?"},
+          {"target": "The judge will {decide} the outcome of the case.", "source": "Hâkim davanın sonucuna karar verecek."},
+          {"target": "They {decided} to postpone the meeting until Friday.", "source": "Toplantıyı Cuma gününe ertelemeye karar verdiler."},
+          {"target": "It is difficult to {decide} between two things you love.", "source": "Sevdiğin iki şey arasında karar vermek zordur."},
+          {"target": "He {decided} against buying the car after seeing the price.", "source": "Fiyatı görünce arabayı almamaya karar verdi."},
+          {"target": "The team {decided} to change their strategy at halftime.", "source": "Takım devre arasında stratejilerini değiştirmeye karar verdi."},
+          {"target": "I haven't {decided} yet — let me think about it.", "source": "Henüz karar vermedim — biraz düşüneyim."},
+          {"target": "Once you {decide}, there is no going back.", "source": "Bir kez karar verince geri dönüş yok."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-12",
+        "kind": "word",
+        "term": "describe",
+        "type": "fiil",
+        "meaning": "tarif etmek, anlatmak",
+        "examples": [
+          {"target": "Can you {describe} the person you saw at the scene?", "source": "Olay yerinde gördüğün kişiyi tarif edebilir misin?"},
+          {"target": "It is hard to {describe} how happy I felt at that moment.", "source": "O anda ne kadar mutlu hissettiğimi tarif etmek zor."},
+          {"target": "The author {describes} the city in great detail.", "source": "Yazar şehri büyük bir ayrıntıyla anlatıyor."},
+          {"target": "She {described} the symptoms to the doctor.", "source": "Belirtileri doktora anlattı."},
+          {"target": "How would you {describe} your leadership style?", "source": "Liderlik tarzını nasıl tarif ederdin?"},
+          {"target": "The police asked witnesses to {describe} what they saw.", "source": "Polis tanıklardan gördüklerini anlatmasını istedi."},
+          {"target": "Words cannot {describe} the beauty of the landscape.", "source": "Manzaranın güzelliğini kelimelerle anlatmak mümkün değil."},
+          {"target": "He {described} his journey across the desert in vivid detail.", "source": "Çöl boyunca yaptığı yolculuğu canlı ayrıntılarla anlattı."},
+          {"target": "{Describe} a time when you had to make a difficult decision.", "source": "Zor bir karar vermek zorunda kaldığın bir zamanı anlat."},
+          {"target": "The menu {describes} each dish and its ingredients.", "source": "Menü her yemeği ve içindekilerini tarif ediyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-13",
+        "kind": "word",
+        "term": "discover",
+        "type": "fiil",
+        "meaning": "keşfetmek, bulmak",
+        "examples": [
+          {"target": "Scientists {discovered} a new species deep in the rainforest.", "source": "Bilim insanları yağmur ormanının derinliklerinde yeni bir tür keşfetti."},
+          {"target": "She {discovered} her passion for painting at the age of twelve.", "source": "On iki yaşında resme olan tutkusunu keşfetti."},
+          {"target": "The explorer was the first to {discover} this remote island.", "source": "Kaşif bu ıssız adayı keşfeden ilk kişiydi."},
+          {"target": "I {discovered} a great coffee shop near the office.", "source": "Ofisin yakınında harika bir kahve dükkanı keşfettim."},
+          {"target": "Researchers hope to {discover} a cure for the disease.", "source": "Araştırmacılar hastalık için bir tedavi keşfetmeyi umuyor."},
+          {"target": "He {discovered} that he had been lied to for years.", "source": "Yıllarca yalan söylendiğini öğrendi."},
+          {"target": "Children love to {discover} new things about the world.", "source": "Çocuklar dünya hakkında yeni şeyler keşfetmeyi sever."},
+          {"target": "The accountant {discovered} a large error in the accounts.", "source": "Muhasebeci hesaplarda büyük bir hata keşfetti."},
+          {"target": "We {discovered} a hidden path through the forest.", "source": "Orman boyunca gizli bir patika keşfettik."},
+          {"target": "You never know what you might {discover} if you keep looking.", "source": "Aramaya devam edersen ne keşfedebileceğini hiç bilemezsin."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-01-14",
+        "kind": "word",
+        "term": "enjoy",
+        "type": "fiil",
+        "meaning": "zevk almak, keyif çıkarmak",
+        "examples": [
+          {"target": "I really {enjoy} hiking in the mountains on weekends.", "source": "Hafta sonları dağlarda yürüyüş yapmaktan gerçekten zevk alıyorum."},
+          {"target": "Did you {enjoy} the film last night?", "source": "Dün gece filmi beğendin mi?"},
+          {"target": "She {enjoys} cooking for her family every Sunday.", "source": "Her pazar ailesi için yemek yapmaktan keyif alıyor."},
+          {"target": "We {enjoyed} every moment of our holiday in Spain.", "source": "İspanya tatilimizin her anının tadını çıkardık."},
+          {"target": "He doesn't {enjoy} crowded places very much.", "source": "Kalabalık yerlerden pek hoşlanmıyor."},
+          {"target": "The children {enjoyed} playing in the snow all afternoon.", "source": "Çocuklar bütün öğleden sonra karda oynamanın tadını çıkardı."},
+          {"target": "I hope you {enjoy} the dinner I prepared.", "source": "Hazırladığım yemeğin tadını çıkarmanı umuyorum."},
+          {"target": "She {enjoyed} a quiet morning coffee on the balcony.", "source": "Balkonda sakin bir sabah kahvesinin tadını çıkardı."},
+          {"target": "They {enjoy} long walks along the beach in the evening.", "source": "Akşamları sahil boyunca uzun yürüyüşlerden zevk alıyorlar."},
+          {"target": "{Enjoy} every small moment — life is short.", "source": "Her küçük anın tadını çıkar — hayat kısa."}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-02",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 2",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-02-0",
+        "kind": "word",
+        "term": "advise",
+        "type": "fiil",
+        "meaning": "tavsiye etmek, önermek",
+        "examples": [
+          {"target": "The doctor {advised} him to rest for at least a week.", "source": "Doktor ona en az bir hafta dinlenmesini tavsiye etti."},
+          {"target": "I would {advise} you to save your work frequently.", "source": "Çalışmanı sık sık kaydetmeni tavsiye ederim."},
+          {"target": "She {advised} her students to read widely.", "source": "Öğrencilerine geniş çaplı okuma yapmalarını tavsiye etti."},
+          {"target": "The lawyer {advised} his client to remain silent.", "source": "Avukat müvekkiline sessiz kalmasını tavsiye etti."},
+          {"target": "Can you {advise} me on which computer to buy?", "source": "Hangi bilgisayarı satın almam gerektiği konusunda bana tavsiye verebilir misin?"},
+          {"target": "I strongly {advise} against travelling during the storm.", "source": "Fırtına sırasında seyahat etmenizi kesinlikle tavsiye etmiyorum."},
+          {"target": "The guide {advised} us to carry plenty of water.", "source": "Rehber bol su taşımamızı tavsiye etti."},
+          {"target": "Parents are {advised} to supervise their children online.", "source": "Ebeveynlerin çocuklarını çevrimiçi ortamda denetlemeleri tavsiye edilir."},
+          {"target": "She {advised} him to apply for the scholarship.", "source": "Bursa başvurmasını tavsiye etti."},
+          {"target": "He {advised} caution when dealing with strangers.", "source": "Yabancılarla muhatap olurken dikkatli olunmasını tavsiye etti."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-1",
+        "kind": "word",
+        "term": "agree",
+        "type": "fiil",
+        "meaning": "katılmak, aynı fikirde olmak",
+        "examples": [
+          {"target": "I completely {agree} with what you just said.", "source": "Az önce söylediklerine tamamen katılıyorum."},
+          {"target": "They finally {agreed} on a date for the meeting.", "source": "Sonunda toplantı için bir tarih üzerinde anlaştılar."},
+          {"target": "Do you {agree} that we need more parks in the city?", "source": "Şehirde daha fazla parka ihtiyacımız olduğuna katılıyor musun?"},
+          {"target": "She didn't {agree} with the doctor's diagnosis.", "source": "Doktorun teşhisiyle hemfikir değildi."},
+          {"target": "We all {agreed} to share the cost equally.", "source": "Hepimiz masrafları eşit paylaşmayı kabul ettik."},
+          {"target": "He {agreed} to help us move the furniture.", "source": "Mobilyaları taşımamıza yardım etmeyi kabul etti."},
+          {"target": "I don't {agree} with that decision at all.", "source": "Bu kararla hiç aynı fikirde değilim."},
+          {"target": "The two scientists {agreed} on the results of the experiment.", "source": "İki bilim insanı deneyin sonuçları konusunda hemfikir oldu."},
+          {"target": "She {agreed} to the terms of the contract.", "source": "Sözleşmenin koşullarını kabul etti."},
+          {"target": "We {agreed} that it was the best solution.", "source": "Bunun en iyi çözüm olduğu konusunda hemfikir olduk."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-2",
+        "kind": "word",
+        "term": "announce",
+        "type": "fiil",
+        "meaning": "duyurmak, ilan etmek",
+        "examples": [
+          {"target": "The company will {announce} the results tomorrow morning.", "source": "Şirket yarın sabah sonuçları açıklayacak."},
+          {"target": "The president {announced} a new economic plan.", "source": "Cumhurbaşkanı yeni bir ekonomik plan açıkladı."},
+          {"target": "She {announced} her engagement at the family dinner.", "source": "Aile yemeğinde nişanlandığını duyurdu."},
+          {"target": "The airline {announced} a delay of two hours.", "source": "Havayolu şirketi iki saatlik bir gecikme duyurdu."},
+          {"target": "They {announced} the winner of the competition.", "source": "Yarışmanın galibi açıklandı."},
+          {"target": "He {announced} his retirement after thirty years of service.", "source": "Otuz yıllık görevinin ardından emekliliğini duyurdu."},
+          {"target": "The school {announced} a holiday for the following Friday.", "source": "Okul gelecek Cuma için tatil ilan etti."},
+          {"target": "Please wait while the captain {announces} the landing time.", "source": "Kaptan iniş saatini açıklarken lütfen bekleyin."},
+          {"target": "The government {announced} new measures to tackle pollution.", "source": "Hükümet kirliliği gidermek için yeni tedbirler açıkladı."},
+          {"target": "She proudly {announced} that she had passed her exams.", "source": "Sınavlarını geçtiğini gururla duyurdu."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-3",
+        "kind": "word",
+        "term": "argue",
+        "type": "fiil",
+        "meaning": "tartışmak, münakaşa etmek",
+        "examples": [
+          {"target": "The children were {arguing} over who gets the last piece of cake.", "source": "Çocuklar son pasta dilimini kimin alacağı konusunda tartışıyordu."},
+          {"target": "He {argued} that the plan would not work.", "source": "Planın işe yaramayacağını savundu."},
+          {"target": "It is pointless to {argue} with someone who refuses to listen.", "source": "Dinlemeyi reddeden biriyle tartışmak anlamsızdır."},
+          {"target": "She {argued} her case confidently in front of the jury.", "source": "Davasını jürinin önünde kendinden emin bir şekilde savundu."},
+          {"target": "They {argued} for hours without reaching an agreement.", "source": "Bir anlaşmaya varmadan saatlerce tartıştılar."},
+          {"target": "I would {argue} that education is the key to progress.", "source": "Eğitimin ilerlemenin anahtarı olduğunu savunurum."},
+          {"target": "My neighbours {argue} loudly every evening.", "source": "Komşularım her akşam yüksek sesle tartışır."},
+          {"target": "She {argued} that the evidence was not strong enough.", "source": "Kanıtların yeterince güçlü olmadığını öne sürdü."},
+          {"target": "Stop {arguing} and start finding a solution.", "source": "Tartışmayı bırak ve çözüm bulmaya başla."},
+          {"target": "He always {argues} his point of view very clearly.", "source": "Her zaman kendi bakış açısını çok net bir şekilde savunur."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-4",
+        "kind": "word",
+        "term": "complain",
+        "type": "fiil",
+        "meaning": "şikâyet etmek",
+        "examples": [
+          {"target": "She always {complains} about the noise from the street.", "source": "Her zaman sokaktaki gürültüden şikâyet eder."},
+          {"target": "He {complained} to the manager about the poor service.", "source": "Kötü hizmet nedeniyle yöneticiye şikâyette bulundu."},
+          {"target": "Don't {complain} — just fix the problem.", "source": "Şikâyet etme — sadece sorunu çöz."},
+          {"target": "The customers {complained} that the product was defective.", "source": "Müşteriler ürünün hatalı olduğundan şikâyet etti."},
+          {"target": "She {complained} of a headache all morning.", "source": "Bütün sabah baş ağrısından şikâyet etti."},
+          {"target": "The children never {complain} when they are playing outside.", "source": "Çocuklar dışarıda oynarken hiç şikâyet etmez."},
+          {"target": "He {complained} that the food was too salty.", "source": "Yemeğin çok tuzlu olduğundan şikâyet etti."},
+          {"target": "You have the right to {complain} if you are treated unfairly.", "source": "Adaletsiz muamele görürsen şikâyet etme hakkın var."},
+          {"target": "She {complained} about the cold weather all winter.", "source": "Bütün kış boyunca soğuk havadan şikâyet etti."},
+          {"target": "Instead of {complaining}, try to do something about it.", "source": "Şikâyet etmek yerine bir şeyler yapmaya çalış."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-5",
+        "kind": "word",
+        "term": "confirm",
+        "type": "fiil",
+        "meaning": "onaylamak, doğrulamak",
+        "examples": [
+          {"target": "Please {confirm} your booking at least 24 hours in advance.", "source": "Lütfen rezervasyonunuzu en az 24 saat önceden onaylayın."},
+          {"target": "The tests {confirmed} that the patient had recovered fully.", "source": "Testler hastanın tamamen iyileştiğini doğruladı."},
+          {"target": "Can you {confirm} that the meeting is still on for Tuesday?", "source": "Toplantının hâlâ Salı günü olduğunu teyit edebilir misin?"},
+          {"target": "She {confirmed} her attendance by sending an email.", "source": "E-posta göndererek katılımını teyit etti."},
+          {"target": "The police have not yet {confirmed} the identity of the suspect.", "source": "Polis şüphelinin kimliğini henüz doğrulamadı."},
+          {"target": "He {confirmed} that all the details in the report were accurate.", "source": "Rapordaki tüm ayrıntıların doğru olduğunu onayladı."},
+          {"target": "The weather forecast was {confirmed} by the satellite images.", "source": "Hava tahmini uydu görüntüleriyle doğrulandı."},
+          {"target": "I'll call you to {confirm} the time and place.", "source": "Seni arayarak saat ve yeri teyit edeceğim."},
+          {"target": "The results {confirmed} our initial hypothesis.", "source": "Sonuçlar başlangıçtaki hipotezimizi doğruladı."},
+          {"target": "Please {confirm} your password to complete the registration.", "source": "Kaydı tamamlamak için lütfen şifrenizi onaylayın."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-6",
+        "kind": "word",
+        "term": "deny",
+        "type": "fiil",
+        "meaning": "inkâr etmek, reddetmek",
+        "examples": [
+          {"target": "He {denied} taking the money from the drawer.", "source": "Çekmeceden para aldığını inkâr etti."},
+          {"target": "She {denied} that there was any problem between them.", "source": "Aralarında herhangi bir sorun olduğunu reddetti."},
+          {"target": "The company {denied} responsibility for the accident.", "source": "Şirket kaza için sorumluluğu reddetti."},
+          {"target": "No one can {deny} the importance of a good education.", "source": "Kimse iyi bir eğitimin önemini inkâr edemez."},
+          {"target": "He strongly {denied} the accusations against him.", "source": "Kendisine yönelik suçlamaları şiddetle inkâr etti."},
+          {"target": "The government {denied} access to the journalists.", "source": "Hükümet gazetecilerin erişimini engelledi."},
+          {"target": "She {denied} ever meeting the suspect.", "source": "Şüpheliyle hiç karşılaşmadığını inkâr etti."},
+          {"target": "It would be wrong to {deny} children the right to play.", "source": "Çocukların oynama hakkını elinden almak yanlış olur."},
+          {"target": "He cannot {deny} that he was there that night.", "source": "O gece orada olduğunu inkâr edemez."},
+          {"target": "The prisoner {denied} all the charges against him.", "source": "Mahkûm kendisine yöneltilen tüm suçlamaları reddetti."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-7",
+        "kind": "word",
+        "term": "discuss",
+        "type": "fiil",
+        "meaning": "tartışmak, görüşmek, ele almak",
+        "examples": [
+          {"target": "We need to {discuss} the budget before the end of the week.", "source": "Hafta sonundan önce bütçeyi görüşmemiz gerekiyor."},
+          {"target": "The team {discussed} the results of the survey.", "source": "Takım anketin sonuçlarını ele aldı."},
+          {"target": "She was asked to {discuss} her research at the conference.", "source": "Araştırmasını konferansta sunması istendi."},
+          {"target": "Let's {discuss} this issue over lunch.", "source": "Bu konuyu öğle yemeğinde konuşalım."},
+          {"target": "The students {discussed} the poem in small groups.", "source": "Öğrenciler şiiri küçük gruplar halinde tartıştı."},
+          {"target": "They refused to {discuss} the matter further.", "source": "Konuyu daha fazla ele almayı reddettiler."},
+          {"target": "The book {discusses} the causes of the First World War.", "source": "Kitap Birinci Dünya Savaşı'nın nedenlerini ele alıyor."},
+          {"target": "Can we {discuss} the changes to the plan?", "source": "Plandaki değişiklikleri konuşabilir miyiz?"},
+          {"target": "She {discussed} her concerns with her manager.", "source": "Endişelerini yöneticisiyle görüştü."},
+          {"target": "The doctors {discussed} the best treatment for the patient.", "source": "Doktorlar hasta için en iyi tedaviyi görüştü."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-8",
+        "kind": "word",
+        "term": "explain",
+        "type": "fiil",
+        "meaning": "açıklamak, izah etmek",
+        "examples": [
+          {"target": "Can you {explain} how this machine works?", "source": "Bu makinenin nasıl çalıştığını açıklayabilir misin?"},
+          {"target": "She {explained} the rules of the game to the new players.", "source": "Yeni oyunculara oyunun kurallarını açıkladı."},
+          {"target": "He couldn't {explain} why he was late.", "source": "Neden geç kaldığını açıklayamadı."},
+          {"target": "The teacher {explained} the concept clearly and simply.", "source": "Öğretmen kavramı açık ve sade bir şekilde anlattı."},
+          {"target": "Please {explain} your decision to the board.", "source": "Lütfen kararınızı yönetim kuruluna açıklayın."},
+          {"target": "I need you to {explain} exactly what happened.", "source": "Tam olarak ne olduğunu açıklamanı istiyorum."},
+          {"target": "She {explained} that she had no intention of leaving.", "source": "Gitme niyetinin olmadığını açıkladı."},
+          {"target": "The diagram helps to {explain} the process visually.", "source": "Diyagram süreci görsel olarak açıklamaya yardımcı oluyor."},
+          {"target": "He {explained} the situation to the police.", "source": "Durumu polise anlattı."},
+          {"target": "Let me {explain} — it is not as complicated as it seems.", "source": "İzin ver açıklayayım — göründüğü kadar karmaşık değil."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-9",
+        "kind": "word",
+        "term": "express",
+        "type": "fiil",
+        "meaning": "ifade etmek, dile getirmek",
+        "examples": [
+          {"target": "It can be difficult to {express} your feelings in words.", "source": "Duygularını kelimelerle ifade etmek zor olabilir."},
+          {"target": "She {expressed} her gratitude with a warm smile.", "source": "Minnettarlığını sıcak bir gülümsemeyle ifade etti."},
+          {"target": "Art gives us a way to {express} ourselves.", "source": "Sanat kendimizi ifade etmemiz için bir yol sunar."},
+          {"target": "He {expressed} his opinion without hesitation.", "source": "Görüşünü tereddütsüz dile getirdi."},
+          {"target": "Everyone should have the right to {express} their views freely.", "source": "Herkes görüşlerini özgürce ifade etme hakkına sahip olmalıdır."},
+          {"target": "She {expressed} concern about the safety of the building.", "source": "Binanın güvenliğiyle ilgili endişesini dile getirdi."},
+          {"target": "Music can {express} emotions that words cannot.", "source": "Müzik, kelimelerin ifade edemediği duyguları aktarabilir."},
+          {"target": "He found it hard to {express} how much she meant to him.", "source": "Onun için ne kadar önemli olduğunu ifade etmeyi zor buldu."},
+          {"target": "The letter {expressed} deep sorrow for the loss.", "source": "Mektup kaybın derin üzüntüsünü dile getiriyordu."},
+          {"target": "Children often {express} their emotions through drawing.", "source": "Çocuklar çoğunlukla duygularını çizim yoluyla ifade eder."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-10",
+        "kind": "word",
+        "term": "mention",
+        "type": "fiil",
+        "meaning": "bahsetmek, söz etmek",
+        "examples": [
+          {"target": "Did she {mention} when she would be back?", "source": "Ne zaman döneceğinden bahsetti mi?"},
+          {"target": "He {mentioned} your name during the meeting.", "source": "Toplantı sırasında adından söz etti."},
+          {"target": "I forgot to {mention} that the event starts at seven.", "source": "Etkinliğin yedide başladığından bahsetmeyi unuttum."},
+          {"target": "She never {mentions} her childhood.", "source": "Çocukluğundan hiç bahsetmez."},
+          {"target": "Don't {mention} it — it was my pleasure to help.", "source": "Bahsetme bile — yardım etmek benim için zevkti."},
+          {"target": "He {mentioned} that he was looking for a new job.", "source": "Yeni iş aradığından söz etti."},
+          {"target": "The report didn't {mention} any specific figures.", "source": "Rapor herhangi bir özel rakamdan söz etmiyordu."},
+          {"target": "I should {mention} that the deadline has been moved.", "source": "Son tarihin değiştiğinden bahsetmem gerekiyor."},
+          {"target": "She {mentioned} seeing a strange car outside.", "source": "Dışarıda garip bir araba gördüğünden söz etti."},
+          {"target": "Not to {mention} the fact that it is very expensive.", "source": "Bir de çok pahalı olduğunu söylemeye gerek bile yok."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-11",
+        "kind": "word",
+        "term": "promise",
+        "type": "fiil/isim",
+        "meaning": "söz vermek; söz, vaat",
+        "examples": [
+          {"target": "He {promised} to call her as soon as he arrived.", "source": "Varır varmaz onu arayacağına söz verdi."},
+          {"target": "She kept her {promise} and came back the next day.", "source": "Sözünü tuttu ve ertesi gün geri döndü."},
+          {"target": "Don't make a {promise} you can't keep.", "source": "Tutamayacağın bir söz verme."},
+          {"target": "I {promise} I will never let you down again.", "source": "Seni bir daha hayal kırıklığına uğratmayacağıma söz veriyorum."},
+          {"target": "The new medicine shows a lot of {promise}.", "source": "Yeni ilaç çok umut vaat ediyor."},
+          {"target": "She {promised} her children a trip to the seaside.", "source": "Çocuklarına deniz kenarına bir gezi vaat etti."},
+          {"target": "A {promise} is a {promise} — you must keep your word.", "source": "Söz sözdür — sözünü tutmalısın."},
+          {"target": "He {promised} to be more careful in the future.", "source": "Gelecekte daha dikkatli olacağına söz verdi."},
+          {"target": "The young artist showed great {promise} from an early age.", "source": "Genç sanatçı küçük yaştan itibaren büyük bir yetenek vaat ediyordu."},
+          {"target": "I {promised} myself I would finish the book this week.", "source": "Kitabı bu hafta bitireceğime kendime söz verdim."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-12",
+        "kind": "word",
+        "term": "suggest",
+        "type": "fiil",
+        "meaning": "önermek, tavsiye etmek",
+        "examples": [
+          {"target": "Can you {suggest} a good restaurant near here?", "source": "Yakın çevrede iyi bir restoran önerebilir misin?"},
+          {"target": "She {suggested} taking the train instead of the bus.", "source": "Otobüs yerine trenle gitmeyi önerdi."},
+          {"target": "The research {suggests} that exercise improves mood.", "source": "Araştırma, egzersizin ruh halini iyileştirdiğini ileri sürüyor."},
+          {"target": "He {suggested} meeting at the café on Friday.", "source": "Cuma günü kafede buluşmayı önerdi."},
+          {"target": "I would {suggest} reading the instructions first.", "source": "Önce talimatları okumanı öneririm."},
+          {"target": "The doctor {suggested} a change in diet.", "source": "Doktor diyet değişikliği önerdi."},
+          {"target": "What do you {suggest} we do about this problem?", "source": "Bu sorun için ne yapmamızı önerirsin?"},
+          {"target": "Her tone of voice {suggested} that she was angry.", "source": "Ses tonu onun kızgın olduğunu hissettiriyordu."},
+          {"target": "He {suggested} that they delay the launch.", "source": "Lansmanı ertelemeyi önerdi."},
+          {"target": "Are you {suggesting} that I am wrong?", "source": "Yanıldığımı mı ima ediyorsun?"}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-13",
+        "kind": "word",
+        "term": "warn",
+        "type": "fiil",
+        "meaning": "uyarmak",
+        "examples": [
+          {"target": "The signs {warn} drivers about the sharp bend ahead.", "source": "İşaretler sürücüleri ilerideki keskin viraj konusunda uyarıyor."},
+          {"target": "She {warned} him not to trust that person.", "source": "Ona o kişiye güvenmemesini söyleyerek uyardı."},
+          {"target": "The weather forecast {warns} of heavy snow tonight.", "source": "Hava tahmini bu gece yoğun kar yağışı konusunda uyarıyor."},
+          {"target": "I {warned} you that this would happen.", "source": "Bunun olacağı konusunda seni uyarmıştım."},
+          {"target": "They {warned} the public about a possible gas leak.", "source": "Olası bir gaz sızıntısı konusunda halkı uyardılar."},
+          {"target": "The label {warns} users to keep the product away from children.", "source": "Etiket kullanıcıları ürünü çocuklardan uzak tutmaları konusunda uyarıyor."},
+          {"target": "He {warned} the students about the difficulty of the exam.", "source": "Öğrencileri sınavın zorluğu konusunda uyardı."},
+          {"target": "The doctor {warned} her to avoid stress as much as possible.", "source": "Doktor ona mümkün olduğunca stresten kaçınmasını söyledi."},
+          {"target": "Please {warn} me if you are going to be late.", "source": "Eğer geç kalacaksan lütfen beni önceden uyar."},
+          {"target": "The alarm system {warns} the residents in case of fire.", "source": "Alarm sistemi yangın durumunda sakinleri uyarıyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-02-14",
+        "kind": "word",
+        "term": "wonder",
+        "type": "fiil/isim",
+        "meaning": "merak etmek; hayret, mucize",
+        "examples": [
+          {"target": "I often {wonder} what my life would be like in another country.", "source": "Hayatımın başka bir ülkede nasıl olacağını sık sık merak ederim."},
+          {"target": "She {wondered} why he had not replied to her message.", "source": "Mesajına neden cevap vermediğini merak etti."},
+          {"target": "Have you ever {wondered} how birds find their way home?", "source": "Kuşların eve yolu nasıl bulduğunu hiç merak ettin mi?"},
+          {"target": "The children looked at the fireworks with {wonder}.", "source": "Çocuklar hayranlıkla havai fişeklere baktı."},
+          {"target": "No {wonder} he is tired — he worked all night.", "source": "Yorgun olması şaşırtıcı değil — bütün gece çalıştı."},
+          {"target": "It is a {wonder} that no one was hurt in the accident.", "source": "Kazada kimsenin yaralanmaması gerçekten şaşırtıcı."},
+          {"target": "I {wonder} if the train will be on time today.", "source": "Trenin bugün zamanında gelip gelmeyeceğini merak ediyorum."},
+          {"target": "She stood in {wonder} at the size of the ancient temple.", "source": "Antik tapınağın büyüklüğü karşısında hayrete düştü."},
+          {"target": "He {wondered} whether he had made the right decision.", "source": "Doğru karar verip vermediğini merak etti."},
+          {"target": "The natural {wonders} of the world draw millions of visitors.", "source": "Dünyanın doğal harikaları milyonlarca ziyaretçi çekiyor."}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-03",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 3",
+    "level": "beginner",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-03-0",
+        "kind": "word",
+        "term": "arrive",
+        "type": "fiil",
+        "meaning": "varmak, ulaşmak",
+        "examples": [
+          {"target": "The train is expected to {arrive} at six in the evening.", "source": "Trenin akşam altıda varması bekleniyor."},
+          {"target": "She {arrived} at the party just as it was ending.", "source": "Parti tam biterken orada göründü."},
+          {"target": "We {arrived} in Paris after a long flight.", "source": "Uzun bir uçuşun ardından Paris'e vardık."},
+          {"target": "He always {arrives} early for his appointments.", "source": "Randevularına her zaman erken gelir."},
+          {"target": "The package {arrived} in perfect condition.", "source": "Paket mükemmel durumda ulaştı."},
+          {"target": "By the time I {arrived}, everyone had already left.", "source": "Ben vardığımda herkes çoktan gitmişti."},
+          {"target": "Spring always {arrives} late in this part of the country.", "source": "Ülkenin bu bölgesinde ilkbahar her zaman geç gelir."},
+          {"target": "The guests {arrived} one by one throughout the evening.", "source": "Misafirler akşam boyunca birer birer geldi."},
+          {"target": "They {arrived} at a decision after a long discussion.", "source": "Uzun bir tartışmanın ardından bir karara vardılar."},
+          {"target": "Please let me know when you {arrive} safely.", "source": "Güvenli bir şekilde vardığında lütfen haber ver."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-1",
+        "kind": "word",
+        "term": "cook",
+        "type": "fiil/isim",
+        "meaning": "pişirmek; aşçı",
+        "examples": [
+          {"target": "She loves to {cook} new recipes at the weekend.", "source": "Hafta sonları yeni tarifler pişirmeyi seviyor."},
+          {"target": "He {cooked} dinner for the whole family.", "source": "Tüm aile için akşam yemeği pişirdi."},
+          {"target": "The soup needs to {cook} for at least thirty minutes.", "source": "Çorbanın en az otuz dakika pişmesi gerekiyor."},
+          {"target": "She is an excellent {cook} who makes everything from scratch.", "source": "Her şeyi sıfırdan yapan mükemmel bir aşçı."},
+          {"target": "Can you {cook} pasta without a recipe?", "source": "Tarif olmadan makarna pişirebilir misin?"},
+          {"target": "The chef {cooked} the steak to perfection.", "source": "Şef bifteği mükemmel şekilde pişirdi."},
+          {"target": "I {cook} my own meals instead of ordering food.", "source": "Yemek sipariş etmek yerine kendi yemeğimi kendim pişiriyorum."},
+          {"target": "Always {cook} chicken thoroughly to avoid illness.", "source": "Hastalıktan korunmak için tavuğu her zaman iyice pişir."},
+          {"target": "He learnt to {cook} when he moved out of his parents' house.", "source": "Ailesinin evinden ayrıldığında yemek pişirmeyi öğrendi."},
+          {"target": "The smell of freshly {cooked} bread filled the kitchen.", "source": "Taze pişmiş ekmeğin kokusu mutfağı doldurdu."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-2",
+        "kind": "word",
+        "term": "drop",
+        "type": "fiil",
+        "meaning": "düşürmek; bırakmak; azalmak",
+        "examples": [
+          {"target": "Be careful not to {drop} the glass — it might break.", "source": "Bardağı düşürmemeye dikkat et — kırılabilir."},
+          {"target": "She {dropped} her keys on the way out.", "source": "Çıkarken anahtarlarını düşürdü."},
+          {"target": "Temperatures are expected to {drop} below zero tonight.", "source": "Bu gece sıcaklıkların sıfırın altına düşmesi bekleniyor."},
+          {"target": "He {dropped} his voice to a whisper.", "source": "Sesini fısıltıya indirdi."},
+          {"target": "Can you {drop} me at the station on your way?", "source": "Yolun üzerinde beni istasyona bırakabilir misin?"},
+          {"target": "Sales {dropped} significantly last quarter.", "source": "Geçen çeyrekte satışlar önemli ölçüde düştü."},
+          {"target": "She {dropped} the subject when she saw his expression.", "source": "Yüzünü görünce konuyu kapattı."},
+          {"target": "The company {dropped} its prices to attract more customers.", "source": "Şirket daha fazla müşteri çekmek için fiyatlarını düşürdü."},
+          {"target": "He {dropped} out of university in his second year.", "source": "İkinci yılında üniversiteyi bıraktı."},
+          {"target": "{Drop} by whenever you are in the neighbourhood.", "source": "Mahalleye geldiğinde uğra."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-3",
+        "kind": "word",
+        "term": "earn",
+        "type": "fiil",
+        "meaning": "kazanmak (para/saygı/hak)",
+        "examples": [
+          {"target": "She works two jobs to {earn} enough money for rent.", "source": "Kira için yeterli para kazanmak adına iki iş yapıyor."},
+          {"target": "You have to {earn} trust — it is not given for free.", "source": "Güven kazanılır — bedavaya verilmez."},
+          {"target": "He {earned} a good reputation as a fair manager.", "source": "Adil bir yönetici olarak iyi bir itibar kazandı."},
+          {"target": "Athletes train hard to {earn} their place on the team.", "source": "Sporcular takımda yer kazanmak için sıkı antrenman yapar."},
+          {"target": "How much do you {earn} per month?", "source": "Ayda ne kadar kazanıyorsun?"},
+          {"target": "The film {earned} millions at the box office.", "source": "Film gişede milyonlar kazandı."},
+          {"target": "She {earned} a scholarship through her excellent grades.", "source": "Mükemmel notları sayesinde burs kazandı."},
+          {"target": "You {earn} more when you have more experience.", "source": "Daha fazla deneyime sahip olduğunda daha fazla kazanırsın."},
+          {"target": "He finally {earned} the respect of his colleagues.", "source": "Sonunda meslektaşlarının saygısını kazandı."},
+          {"target": "The extra hours she works help her {earn} a bonus.", "source": "Yaptığı fazla mesai prim kazanmasına yardımcı oluyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-4",
+        "kind": "word",
+        "term": "feed",
+        "type": "fiil",
+        "meaning": "beslemek, yemek vermek",
+        "examples": [
+          {"target": "She gets up early every morning to {feed} the cat.", "source": "Her sabah erken kalkıp kediyi besliyor."},
+          {"target": "Please do not {feed} the animals in the zoo.", "source": "Lütfen hayvanat bahçesindeki hayvanları beslemeyin."},
+          {"target": "He {fed} the baby carefully with a small spoon.", "source": "Bebeği küçük bir kaşıkla özenle besledi."},
+          {"target": "The river {feeds} water into the lake all year round.", "source": "Nehir yıl boyunca gölü suyla besliyor."},
+          {"target": "They {fed} the guests with traditional local food.", "source": "Misafirleri geleneksel yerel yiyeceklerle doyurdular."},
+          {"target": "Curiosity {feeds} the desire to learn.", "source": "Merak öğrenme isteğini besler."},
+          {"target": "The volunteers {fed} hundreds of homeless people that evening.", "source": "Gönüllüler o akşam yüzlerce evsizi besledi."},
+          {"target": "You should {feed} your plants with fertiliser once a month.", "source": "Bitkilerine ayda bir gübre vermelisin."},
+          {"target": "She {fed} the fire with dry wood to keep it burning.", "source": "Ateşin yanmaya devam etmesi için kuru odun attı."},
+          {"target": "Bad news only {feeds} panic among the public.", "source": "Kötü haberler halk arasındaki paniği besler."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-5",
+        "kind": "word",
+        "term": "fix",
+        "type": "fiil",
+        "meaning": "onarmak, düzeltmek; sabitlemek",
+        "examples": [
+          {"target": "Can you {fix} the broken chair before the guests arrive?", "source": "Misafirler gelmeden önce kırık sandalyeyi onarabilir misin?"},
+          {"target": "He {fixed} the leaking tap in less than an hour.", "source": "Damlayan musluğu bir saatten kısa sürede tamir etti."},
+          {"target": "The mechanic {fixed} the car and it runs perfectly now.", "source": "Tamirci arabayı tamir etti ve şimdi mükemmel çalışıyor."},
+          {"target": "We need to {fix} this problem before it gets worse.", "source": "Bu sorunu daha da kötüleşmeden önce çözmemiz gerekiyor."},
+          {"target": "She {fixed} her gaze on the horizon.", "source": "Gözlerini ufka sabitledi."},
+          {"target": "The photo was {fixed} to the wall with a small nail.", "source": "Fotoğraf küçük bir çiviyle duvara sabitlendi."},
+          {"target": "Let me {fix} that spelling mistake before we send the email.", "source": "E-postayı göndermeden önce şu yazım hatasını düzelteyim."},
+          {"target": "They hired a professional to {fix} the roof after the storm.", "source": "Fırtınanın ardından çatıyı onarmak için profesyonel tuttular."},
+          {"target": "I {fixed} the shelf so it will not fall again.", "source": "Rafı sabitleştirdim, artık düşmeyecek."},
+          {"target": "She always {fixes} a proper breakfast before work.", "source": "İşe gitmeden önce her zaman düzgün bir kahvaltı hazırlar."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-6",
+        "kind": "word",
+        "term": "forget",
+        "type": "fiil",
+        "meaning": "unutmak",
+        "examples": [
+          {"target": "Don't {forget} to lock the door when you leave.", "source": "Çıkarken kapıyı kilitlemeyi unutma."},
+          {"target": "She {forgot} her umbrella on the bus.", "source": "Şemsiyesini otobüste unuttu."},
+          {"target": "I always {forget} names but never forget faces.", "source": "İsimleri her zaman unuturum ama yüzleri asla unutmam."},
+          {"target": "He {forgot} to set his alarm and woke up late.", "source": "Alarmını kurmayı unuttu ve geç uyandı."},
+          {"target": "Try not to {forget} what really matters in life.", "source": "Hayatta gerçekten önemli olanı unutmamaya çalış."},
+          {"target": "I will never {forget} the day we first met.", "source": "İlk tanıştığımız günü asla unutmayacağım."},
+          {"target": "She {forgot} to mention one important detail.", "source": "Önemli bir ayrıntıdan bahsetmeyi unuttu."},
+          {"target": "People often {forget} to take regular breaks at work.", "source": "İnsanlar işte düzenli mola almayı çoğunlukla unutur."},
+          {"target": "He {forgot} his password and had to reset it.", "source": "Şifresini unuttu ve sıfırlamak zorunda kaldı."},
+          {"target": "{Forget} it — let's just move on.", "source": "Unut gitsin — devam edelim."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-7",
+        "kind": "word",
+        "term": "join",
+        "type": "fiil",
+        "meaning": "katılmak, üye olmak; birleştirmek",
+        "examples": [
+          {"target": "Would you like to {join} us for dinner tonight?", "source": "Bu akşam bizimle yemeğe katılmak ister misin?"},
+          {"target": "She decided to {join} a gym to get fit.", "source": "Forma girmek için bir spor salonuna üye olmaya karar verdi."},
+          {"target": "He {joined} the company straight after university.", "source": "Üniversitenin hemen ardından şirkete katıldı."},
+          {"target": "They {joined} hands and walked along the beach.", "source": "Ellerini tutarak sahil boyunca yürüdüler."},
+          {"target": "The two roads {join} just before the village.", "source": "İki yol köyün hemen öncesinde birleşiyor."},
+          {"target": "More than two thousand people {joined} the protest.", "source": "İkiden fazla bin kişi protestoya katıldı."},
+          {"target": "You can {join} the club by filling in this form.", "source": "Bu formu doldurarak kulübe üye olabilirsin."},
+          {"target": "She {joined} the queue and waited patiently.", "source": "Kuyruğa girdi ve sabırla bekledi."},
+          {"target": "He {joined} the army at the age of eighteen.", "source": "On sekiz yaşında orduya katıldı."},
+          {"target": "They {joined} forces to tackle the problem together.", "source": "Problemi birlikte çözmek için güçlerini birleştirdiler."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-8",
+        "kind": "word",
+        "term": "lift",
+        "type": "fiil/isim",
+        "meaning": "kaldırmak; asansör; moral vermek",
+        "examples": [
+          {"target": "Can you help me {lift} this heavy box?", "source": "Bu ağır kutuyu kaldırmama yardım edebilir misin?"},
+          {"target": "He {lifted} the child onto his shoulders.", "source": "Çocuğu omuzlarına kaldırdı."},
+          {"target": "The fog finally {lifted} in the afternoon.", "source": "Sis öğleden sonra sonunda çekildi."},
+          {"target": "Can I get a {lift} to the station?", "source": "İstasyona kadar bir yol verebilir misin?"},
+          {"target": "The government decided to {lift} the restrictions.", "source": "Hükümet kısıtlamaları kaldırmaya karar verdi."},
+          {"target": "The good news really {lifted} everyone's spirits.", "source": "İyi haber gerçekten herkesin moralini yükseltti."},
+          {"target": "She took the {lift} to the tenth floor.", "source": "Asansörle onuncu kata çıktı."},
+          {"target": "He {lifted} his eyes from the book and looked at her.", "source": "Gözlerini kitaptan kaldırıp ona baktı."},
+          {"target": "A good cup of coffee can {lift} your mood in the morning.", "source": "Sabahları iyi bir fincan kahve ruh halini düzeltebilir."},
+          {"target": "They used a crane to {lift} the heavy equipment.", "source": "Ağır ekipmanı kaldırmak için vinç kullandılar."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-9",
+        "kind": "word",
+        "term": "miss",
+        "type": "fiil",
+        "meaning": "özlemek; kaçırmak; ıskalamak",
+        "examples": [
+          {"target": "I {miss} my family so much when I am away.", "source": "Uzaktayken ailemi çok özlüyorum."},
+          {"target": "She {missed} the bus by just two minutes.", "source": "Otobüsü yalnızca iki dakika farkla kaçırdı."},
+          {"target": "He {missed} an easy goal and the crowd groaned.", "source": "Kolay bir golü kaçırdı ve kalabalık homurdandı."},
+          {"target": "Don't {miss} this chance — it won't come again.", "source": "Bu fırsatı kaçırma — bir daha gelmez."},
+          {"target": "She {missed} three days of school because of a cold.", "source": "Nezle nedeniyle üç gün okula gidemedi."},
+          {"target": "I really {miss} the old neighbourhood.", "source": "Eski mahalleyi gerçekten özlüyorum."},
+          {"target": "He {missed} the point of the joke completely.", "source": "Şakayı tamamen anlayamadı."},
+          {"target": "You shouldn't {miss} the sunset from this hilltop.", "source": "Bu tepeden gün batımını kaçırmamalısın."},
+          {"target": "She {missed} her flight because of the traffic.", "source": "Trafik nedeniyle uçağını kaçırdı."},
+          {"target": "I {miss} talking to you every evening.", "source": "Her akşam seninle konuşmayı özlüyorum."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-10",
+        "kind": "word",
+        "term": "offer",
+        "type": "fiil/isim",
+        "meaning": "teklif etmek, sunmak; teklif",
+        "examples": [
+          {"target": "He {offered} to carry her bags to the car.", "source": "Çantalarını arabaya taşımayı teklif etti."},
+          {"target": "The company {offered} her a higher salary.", "source": "Şirket ona daha yüksek bir maaş teklif etti."},
+          {"target": "Can I {offer} you a cup of tea?", "source": "Sana bir fincan çay ikram edebilir miyim?"},
+          {"target": "She accepted the {offer} without hesitation.", "source": "Teklifi tereddütsüz kabul etti."},
+          {"target": "The supermarket has a special {offer} on this product today.", "source": "Süpermarket bugün bu ürün için özel kampanya sunuyor."},
+          {"target": "He {offered} his seat to an elderly woman on the bus.", "source": "Otobüste yaşlı bir kadına yerini teklif etti."},
+          {"target": "The hotel {offers} a free breakfast to all guests.", "source": "Otel tüm misafirlere ücretsiz kahvaltı sunuyor."},
+          {"target": "I can only {offer} my support and understanding.", "source": "Yalnızca desteğimi ve anlayışımı sunabilirim."},
+          {"target": "They {offered} to fix the problem at no extra charge.", "source": "Sorunu ek ücret almadan düzeltmeyi teklif ettiler."},
+          {"target": "She {offered} a warm smile as a greeting.", "source": "Selamlama olarak sıcak bir gülümseme sundu."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-11",
+        "kind": "word",
+        "term": "return",
+        "type": "fiil/isim",
+        "meaning": "dönmek; iade etmek; geri dönüş",
+        "examples": [
+          {"target": "She {returned} home after a year abroad.", "source": "Yurt dışında bir yılın ardından eve döndü."},
+          {"target": "Please {return} the books to the library by Friday.", "source": "Kitapları lütfen Cuma'ya kadar kütüphaneye iade edin."},
+          {"target": "He bought a {return} ticket for the journey.", "source": "Yolculuk için gidiş-dönüş bilet satın aldı."},
+          {"target": "She {returned} the call as soon as she saw the missed call.", "source": "Cevapsız aramayı görür görmez geri aradı."},
+          {"target": "The warm weather will {return} next week.", "source": "Sıcak hava gelecek hafta geri dönecek."},
+          {"target": "He {returned} the smile and sat down.", "source": "Gülümsemeye karşılık verdi ve oturdu."},
+          {"target": "On her {return}, she found that everything had changed.", "source": "Döndüğünde her şeyin değiştiğini gördü."},
+          {"target": "The company promises a full {return} if you are not satisfied.", "source": "Şirket memnun kalmamanız halinde tam iade garantisi veriyor."},
+          {"target": "He {returned} to his hometown after many years.", "source": "Uzun yılların ardından memleketi ne döndü."},
+          {"target": "She always {returns} kindness with kindness.", "source": "İyiliğe her zaman iyilikle karşılık verir."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-12",
+        "kind": "word",
+        "term": "save",
+        "type": "fiil",
+        "meaning": "kurtarmak; biriktirmek; kaydetmek",
+        "examples": [
+          {"target": "The firefighters {saved} three people from the burning building.", "source": "İtfaiyeciler yanan binadan üç kişiyi kurtardı."},
+          {"target": "She is trying to {save} money for a holiday.", "source": "Tatil için para biriktirmeye çalışıyor."},
+          {"target": "Don't forget to {save} your document before closing.", "source": "Kapatmadan önce belgenizi kaydetmeyi unutmayın."},
+          {"target": "This shortcut will {save} us at least ten minutes.", "source": "Bu kısayol bize en az on dakika kazandıracak."},
+          {"target": "He {saved} his best performance for the final.", "source": "En iyi performansını final için sakladı."},
+          {"target": "The surgery {saved} his life.", "source": "Ameliyat hayatını kurtardı."},
+          {"target": "She {saved} a seat for her friend at the front.", "source": "Önde arkadaşı için bir yer ayırdı."},
+          {"target": "You can {save} energy by switching off lights when not needed.", "source": "Ihtiyaç olmadığında ışıkları kapatarak enerji tasarrufu yapabilirsin."},
+          {"target": "He {saved} the penalty and the crowd erupted.", "source": "Penaltıyı kurtardı ve kalabalık coştu."},
+          {"target": "Plant a tree and {save} the planet — every action counts.", "source": "Bir ağaç dik ve gezegeni kurtar — her eylem önemli."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-13",
+        "kind": "word",
+        "term": "share",
+        "type": "fiil/isim",
+        "meaning": "paylaşmak; pay, hisse",
+        "examples": [
+          {"target": "She always {shares} her lunch with colleagues.", "source": "Öğle yemeğini her zaman meslektaşlarıyla paylaşır."},
+          {"target": "Please {share} this information with the rest of the team.", "source": "Lütfen bu bilgiyi ekibin geri kalanıyla paylaşın."},
+          {"target": "He {shared} his experience with the audience.", "source": "Deneyimini izleyicilerle paylaştı."},
+          {"target": "They decided to {share} the cost of the taxi.", "source": "Taksi ücretini paylaşmaya karar verdiler."},
+          {"target": "Children must learn to {share} from a young age.", "source": "Çocuklar küçük yaştan itibaren paylaşmayı öğrenmeli."},
+          {"target": "The post was {shared} thousands of times on social media.", "source": "Gönderi sosyal medyada binlerce kez paylaşıldı."},
+          {"target": "She bought a {share} in the company last year.", "source": "Geçen yıl şirkette bir hisse satın aldı."},
+          {"target": "We {share} a passion for travelling.", "source": "Seyahat etme tutkusunu paylaşıyoruz."},
+          {"target": "He is not willing to {share} his ideas with anyone.", "source": "Fikirlerini kimseyle paylaşmak istemiyor."},
+          {"target": "Doing your fair {share} of housework is important.", "source": "Ev işlerinde hakkın kadar katkı sağlamak önemlidir."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-03-14",
+        "kind": "word",
+        "term": "wake",
+        "type": "fiil",
+        "meaning": "uyanmak; uyandırmak",
+        "examples": [
+          {"target": "I usually {wake} up at seven every morning.", "source": "Genellikle her sabah yedide uyanırım."},
+          {"target": "The loud noise {woke} me up in the middle of the night.", "source": "Yüksek ses beni gece yarısı uyandırdı."},
+          {"target": "She {woke} her children gently for school.", "source": "Çocuklarını okul için nazikçe uyandırdı."},
+          {"target": "He {woke} up feeling refreshed after a good night's sleep.", "source": "İyi bir gecenin ardından dinlenmiş hissederek uyandı."},
+          {"target": "The smell of coffee {wakes} me up every morning.", "source": "Kahvenin kokusu beni her sabah uyandırır."},
+          {"target": "Please don't {wake} the baby — she just fell asleep.", "source": "Lütfen bebeği uyandırma — az önce uyudu."},
+          {"target": "He {woke} to find snow covering the garden.", "source": "Uyandığında bahçenin karla örtüldüğünü gördü."},
+          {"target": "She set three alarms to make sure she would {wake} on time.", "source": "Zamanında uyanmak için üç alarm kurdu."},
+          {"target": "The trip really {woke} him up to the problems of poverty.", "source": "Yolculuk gerçekten gözlerini fakirlik sorunlarına açtı."},
+          {"target": "I could not {wake} up early no matter how hard I tried.", "source": "Ne kadar çalışsam da erken uyanamıyordum."}
+        ]
+      }
+    ]
+  }
+]
