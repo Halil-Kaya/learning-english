@@ -12,8 +12,11 @@ import {
 } from "react-native";
 import { Button } from "../components/Button";
 import { Screen } from "../components/Screen";
+import { WordDiscovery } from "../components/WordDiscovery";
 import { getCatalogSets } from "../data/catalog";
 import type { Entry, WordSet } from "../data/types";
+import { useAllSets } from "../data/useSets";
+import { shuffle } from "../engine";
 import { t } from "../i18n";
 import { useLibrary } from "../store/library";
 import { useSettings } from "../store/settings";
@@ -48,18 +51,57 @@ export default function CreateSet() {
   const pair = useSettings((s) => s.languagePair);
   const addUserSets = useLibrary((s) => s.addUserSets);
   const addToList = useLibrary((s) => s.addToStudyList);
+  const allSets = useAllSets();
+  const studyIds = useLibrary((s) => s.studyList[pair]);
+  const history = useLibrary((s) => s.history[pair]);
+  const userSets = useLibrary((s) => s.userSets[pair]);
 
   const [name, setName] = useState("");
   const [draft, setDraft] = useState<Draft>(empty);
   const [entries, setEntries] = useState<Omit<Entry, "id">[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
+  const [discovering, setDiscovering] = useState(false);
   const searchRef = useRef<TextInput>(null);
 
   const catalogEntries = useMemo(
     () => getCatalogSets(pair).flatMap((s) => s.entries),
     [pair]
   );
+
+  // Keşfet havuzu: hedef listesi + geçmiş + kullanıcı setleri + taslaktaki
+  // kelimeler hariç, terime göre tekilleştirilmiş ve karıştırılmış.
+  const discoveryPool = useMemo(() => {
+    const byId = new Map(allSets.map((s) => [s.id, s]));
+    const excluded = new Set<string>();
+    const addSet = (set?: WordSet) =>
+      set?.entries.forEach((e) => excluded.add(e.term.toLowerCase()));
+    (studyIds ?? []).forEach((id) => addSet(byId.get(id)));
+    (history ?? []).forEach((h) => addSet(byId.get(h.setId)));
+    (userSets ?? []).forEach(addSet);
+    entries.forEach((e) => excluded.add(e.term.toLowerCase()));
+
+    const seen = new Set<string>();
+    const out: Entry[] = [];
+    for (const e of catalogEntries) {
+      const k = e.term.toLowerCase();
+      if (excluded.has(k) || seen.has(k)) continue;
+      seen.add(k);
+      out.push(e);
+    }
+    return shuffle(out);
+  }, [allSets, studyIds, history, userSets, catalogEntries, entries]);
+
+  const onDiscoveryDone = (collected: Entry[]) => {
+    setEntries((list) => {
+      const have = new Set(list.map((e) => e.term.toLowerCase()));
+      const additions = collected
+        .filter((e) => !have.has(e.term.toLowerCase()))
+        .map(({ id: _id, ...rest }) => rest);
+      return [...list, ...additions];
+    });
+    setDiscovering(false);
+  };
 
   const searchResults = useMemo(() => {
     const q = normalize(searchQuery);
@@ -135,6 +177,13 @@ export default function CreateSet() {
 
   return (
     <Screen>
+      {discovering && (
+        <WordDiscovery
+          pool={discoveryPool}
+          onDone={onDiscoveryDone}
+          onClose={() => setDiscovering(false)}
+        />
+      )}
       <KeyboardAvoidingView
         style={styles.flex}
         behavior={Platform.OS === "ios" ? "padding" : undefined}
@@ -167,6 +216,19 @@ export default function CreateSet() {
               ))}
             </View>
           )}
+
+          <View style={styles.divider} />
+
+          {/* Kelime Keşfet (Tinder) */}
+          <Button
+            title="🔍  Kelime Keşfet"
+            variant="surface"
+            onPress={() => setDiscovering(true)}
+            style={styles.discoverBtn}
+          />
+          <Text style={styles.discoverHint}>
+            Bilmediğin kelimeleri kaydırarak keşfet ve sete ekle
+          </Text>
 
           <View style={styles.divider} />
 
@@ -271,6 +333,8 @@ const styles = StyleSheet.create({
   body: { paddingBottom: spacing.xl, gap: spacing.xs },
   divider: { height: StyleSheet.hairlineWidth, backgroundColor: colors.border, marginVertical: spacing.md },
   count: { color: colors.muted, fontSize: 12 },
+  discoverBtn: { marginTop: spacing.xs },
+  discoverHint: { color: colors.muted, fontSize: 12, textAlign: "center", marginTop: spacing.xs },
   chips: { flexDirection: "row", flexWrap: "wrap", gap: spacing.xs, marginTop: spacing.sm },
   chip: {
     flexDirection: "row",
