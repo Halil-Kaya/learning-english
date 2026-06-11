@@ -73,6 +73,12 @@ React Native (Expo SDK 54, TypeScript, Expo Router). ~3.5K satır TS/TSX, 45 dos
 **Çalıştırma:** `cd mobile && npm install && npx expo start` → QR'ı Expo Go ile okut.
 Ayrıntı + build: [mobile/README.md](mobile/README.md).
 
+**iOS dağıtımı (TestFlight):** EAS Build ile bulutta derle → TestFlight'tan arkadaşlara.
+- Bundle id: `com.halilkaya.kelimeezber` · EAS profilleri: [mobile/eas.json](mobile/eas.json) · projectId & owner (`halil.kaya`): [mobile/app.json](mobile/app.json)
+- Akış: `eas login` → `eas init` → `eas build -p ios --profile production` → `eas submit -p ios --latest` → App Store Connect ▸ TestFlight ▸ tester davet.
+- Apple ID = normal Apple giriş e-postan (EAS sorunca yaz); Team ID otomatik; `eas submit` API key'i kendi üretir.
+- Tam adımlar + Apple bilgileri tablosu: [mobile/README.md](mobile/README.md#iosta-yayınlama--testflight-arkadaşlara-feedback-için)
+
 ---
 
 ## 🔑 Anahtar Kavramlar

@@ -52,15 +52,28 @@ eas login                        # Expo hesabı (yoksa ücretsiz aç)
 eas init                         # projeyi Expo'ya bağlar (projectId yazar)
 ```
 
+### Apple hesabı bilgileri (EAS ne sorar?)
+Çoğu şeyi EAS otomatik halleder — genelde sadece Apple ID girişi yeter.
+
+| Bilgi | Nedir / Nereden | Not |
+|---|---|---|
+| **Apple ID** | Apple'a giriş yaptığın **e-posta** + şifre + 2FA kodu | `eas build` sorunca yaz; ayrı bir şey bulman gerekmez |
+| **Team ID** | [developer.apple.com](https://developer.apple.com) → Account → Membership → Team ID (10 hane) | EAS giriş sonrası genelde **otomatik** algılar |
+| **App Store Connect API Key** | `eas submit` sorunca "generate a new key?" → **Yes** (EAS oluşturur) | Elle: App Store Connect → Users and Access → Integrations → Keys → verir: Issuer ID, Key ID, `.p8` dosyası |
+
+> İlk seferde **Apple ID + şifre + 2FA** ile ilerle; `eas submit`'te API key
+> oluşturmasına izin ver → bir daha şifre/2FA istemez. `ITSAppUsesNonExemptEncryption: false`
+> ([app.json](app.json)) sayesinde "export compliance" sorusu da atlanır.
+
 ### Derle + TestFlight'a gönder
 ```bash
 eas build -p ios --profile production
-# İlk seferde Apple hesabına giriş ister; sertifika/provisioning'i
-# OTOMATİK oluşturur. Derleme bulutta ~15-20 dk sürer.
+# İlk seferde Apple hesabına giriş ister (Apple ID e-posta + şifre + 2FA);
+# sertifika/provisioning'i OTOMATİK oluşturur. Derleme bulutta ~15-20 dk sürer.
 
 eas submit -p ios --latest
-# Derlemeyi App Store Connect'e yükler. İstenirse App Store Connect
-# API anahtarı / Apple ID ister; uygulama kaydını gerekiyorsa oluşturur.
+# Derlemeyi App Store Connect'e yükler. İstenirse App Store Connect API
+# anahtarı oluşturur; uygulama kaydı yoksa onu da açar.
 ```
 
 ### Arkadaşları davet et
