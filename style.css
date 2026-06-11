@@ -446,6 +446,43 @@ main { width: 100%; max-width: 760px; }
 }
 .write-slots.shake { animation: wshake 0.32s ease; }
 
+/* ---------- Ezber ---------- */
+.mem-steps {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 14px;
+}
+.mstep {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--muted);
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  padding: 4px 10px;
+  border-radius: 99px;
+  transition: 0.2s;
+}
+.mstep.active { color: #fff; background: var(--accent); border-color: var(--accent); }
+.mstep.done { color: var(--ok); border-color: rgba(74, 222, 128, 0.35); }
+.mem-sentence {
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.6;
+  margin: 18px 0 10px;
+}
+.mem-sentence .mch { color: var(--muted); opacity: 0.5; white-space: pre-wrap; }
+.mem-sentence .mch.done { color: var(--ok); opacity: 1; }
+.mem-sentence .mch.cur {
+  color: var(--text);
+  opacity: 1;
+  border-bottom: 2px solid var(--accent);
+}
+.mem-sentence.shake { animation: wshake 0.32s ease; }
+#view-memorize .write-slots { min-height: 44px; }
+#mem-next { margin-top: 16px; }
+
 /* ---------- Result ---------- */
 .result-card,
 .match-done {
@@ -475,4 +512,5 @@ main { width: 100%; max-width: 760px; }
   .match-grid { grid-template-columns: repeat(2, 1fr); }
   .big-word { font-size: 1.7rem; }
   .fill-sentence { font-size: 1.15rem; }
+  .mem-sentence { font-size: 1.05rem; }
 }

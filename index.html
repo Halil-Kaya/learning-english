@@ -33,6 +33,7 @@
     <button class="tab" data-mode="match">🔗 Eşleştirme</button>
     <button class="tab" data-mode="fill">✏️ Boşluk Doldur</button>
     <button class="tab" data-mode="write">⌨️ Yazma</button>
+    <button class="tab" data-mode="memorize">🧗 Ezber</button>
   </nav>
 
   <!-- İstatistik şeridi -->
@@ -134,6 +135,31 @@
         </div>
         <div class="fill-feedback" id="write-feedback"></div>
         <button class="btn primary hidden" id="write-next">Sonraki →</button>
+      </div>
+    </section>
+
+    <!-- ============ EZBER ============ -->
+    <section class="view hidden" id="view-memorize">
+      <div class="fill-card">
+        <span class="face-label" id="mem-label">EZBER</span>
+        <div class="mem-steps" id="mem-steps"></div>
+        <div class="big-word" id="mem-word">—</div>
+        <div class="word-type" id="mem-type"></div>
+        <div class="meaning" id="mem-meaning">—</div>
+        <div class="write-slots" id="mem-slots"></div>
+        <div class="mem-sentence hidden" id="mem-sentence"></div>
+        <div class="fill-tr hidden" id="mem-tr"></div>
+        <input type="text" id="mem-input" class="write-input"
+               placeholder="harfleri yaz..." autocomplete="off"
+               autocapitalize="off" autocorrect="off" spellcheck="false" />
+        <div class="write-actions">
+          <button class="btn small ghost" id="mem-speak">🔊 Dinle</button>
+          <button class="btn small ghost hidden" id="mem-reveal">👁 Göster</button>
+          <button class="btn small ghost" id="mem-skip">Atla →</button>
+          <button class="btn small primary hidden" id="mem-check">Kontrol Et</button>
+        </div>
+        <div class="fill-feedback" id="mem-feedback"></div>
+        <button class="btn primary hidden" id="mem-next">Sonraki →</button>
       </div>
     </section>
 

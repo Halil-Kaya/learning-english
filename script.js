@@ -1,6 +1,6 @@
 /* ============================================================
    Learning English — Kelime Ezberleme
-   Modlar: Kartlar · Test · Eşleştirme · Boşluk Doldur
+   Modlar: Kartlar · Test · Eşleştirme · Boşluk Doldur · Yazma · Ezber
    ============================================================ */
 
 "use strict";
@@ -209,7 +209,7 @@ document.querySelectorAll(".tab").forEach((t) => {
 });
 
 function showView(name) {
-  ["cards", "test", "match", "fill", "write", "result"].forEach((v) => {
+  ["cards", "test", "match", "fill", "write", "memorize", "result"].forEach((v) => {
     $("view-" + v).classList.add("hidden");
   });
   if (name) $("view-" + name).classList.remove("hidden");
@@ -228,6 +228,7 @@ function startMode(m, useAll) {
   else if (m === "match") { showView("match"); startMatch(); }
   else if (m === "fill") { showView("fill"); renderFill(); }
   else if (m === "write") { showView("write"); renderWrite(); }
+  else if (m === "memorize") { showView("memorize"); memScored.clear(); renderMemorize(); }
   updateStats(deck.length);
 }
 
@@ -558,6 +559,281 @@ $("write-speak").addEventListener("click", () => speak(writeTarget));
 $("write-reveal").addEventListener("click", revealWrite);
 $("write-skip").addEventListener("click", () => { learn++; pushWrong(deck[idx]); idx++; renderWrite(); });
 $("write-next").addEventListener("click", nextWrite);
+
+// ============================================================
+//  6) EZBER (piramit iniş/çıkış + cümle + final test)
+// ============================================================
+let memPhase = "down";              // down | up | sentence | final
+let memSteps = { downs: [], ups: [] };
+let memStep = 0;                    // piramitte basamak indeksi
+let memPos = 0;                     // basamak/cümle içindeki harf konumu
+let memWord = null;                 // o anki kelime objesi
+let memSentence = "";               // yazılacak örnek cümle ({} işaretsiz)
+let memSentenceTr = "";
+let memPeeked = false;              // 👁 Göster kullanıldı mı
+let memDone = false;                // final sonucu gösteriliyor
+const memScored = new Set();        // ilk sonucu işlenmiş kelimeler
+
+const MEM_LABELS = {
+  down: "1/4 · KELİMEYE BAKARAK YAZ",
+  up: "2/4 · HAFIZADAN TAMAMLA",
+  sentence: "3/4 · CÜMLEYİ YAZ",
+  final: "4/4 · HİÇ BAKMADAN YAZ",
+};
+
+// Harf olmayan her şey (boşluk, noktalama) otomatik geçilir
+const memIsAuto = (ch) => !/[a-z]/i.test(ch);
+
+// Piramit basamakları: deceiver→d (iniş), de→deceiver (çıkış).
+// Sonu harf olmayan basamaklar (boşlukta biten önekler) atlanır.
+function buildPyramid(word) {
+  const downs = [], ups = [];
+  const endsWithLetter = (s) => !memIsAuto(s[s.length - 1]);
+  for (let len = word.length; len >= 1; len--) {
+    const s = word.slice(0, len);
+    if (endsWithLetter(s)) downs.push(s);
+  }
+  for (let len = 2; len <= word.length; len++) {
+    const s = word.slice(0, len);
+    if (endsWithLetter(s)) ups.push(s);
+  }
+  return { downs, ups };
+}
+
+function memTarget() {
+  if (memPhase === "sentence") return memSentence;
+  if (memPhase === "down") return memSteps.downs[memStep] || "";
+  if (memPhase === "up") return memSteps.ups[memStep] || "";
+  return "";
+}
+
+function memSkipAutos() {
+  const target = memTarget();
+  while (memPos < target.length && memIsAuto(target[memPos])) memPos++;
+}
+
+function renderMemorize() {
+  if (idx >= deck.length) return finish();
+  const w = deck[idx];
+  memWord = w;
+  memPhase = "down"; memStep = 0; memPos = 0;
+  memPeeked = false; memDone = false;
+  memSteps = buildPyramid(w.word);
+  const ex = pickExample(w);
+  memSentence = ex ? ex.en.replace(/[{}]/g, "") : "";
+  memSentenceTr = ex ? ex.tr || "" : "";
+  memSkipAutos();
+  $("mem-meaning").textContent = w.meaning;
+  $("mem-type").textContent = w.type || "";
+  const fb = $("mem-feedback");
+  fb.textContent = ""; fb.className = "fill-feedback";
+  const inp = $("mem-input");
+  inp.value = ""; inp.disabled = false;
+  $("mem-next").classList.add("hidden");
+  updateMemView();
+  inp.focus();
+  updateStats(deck.length);
+}
+
+// Aşamaya göre görünürlük + etiket + içerik
+function updateMemView() {
+  $("mem-label").textContent = MEM_LABELS[memPhase];
+  renderMemChips();
+  const showWord = memPhase === "down";
+  $("mem-word").classList.toggle("hidden", !showWord);
+  if (showWord) $("mem-word").textContent = memWord.word;
+  $("mem-slots").classList.toggle("hidden", memPhase === "sentence" || memPhase === "final");
+  $("mem-sentence").classList.toggle("hidden", memPhase !== "sentence");
+  $("mem-tr").classList.toggle("hidden", memPhase !== "sentence");
+  $("mem-reveal").classList.toggle("hidden", memPhase !== "up");
+  $("mem-check").classList.toggle("hidden", memPhase !== "final" || memDone);
+  $("mem-input").placeholder =
+    memPhase === "final" ? "kelimeyi hatırla ve yaz..." : "harfleri yaz...";
+  if (memPhase === "down" || memPhase === "up") renderMemSlots();
+  else if (memPhase === "sentence") {
+    renderMemSentence();
+    $("mem-tr").textContent = memSentenceTr;
+  }
+}
+
+// Aşama çipleri: İniş 3/8 · Çıkış · Cümle · Final
+function renderMemChips() {
+  const order = ["down", "up", "sentence", "final"];
+  const names = { down: "İniş", up: "Çıkış", sentence: "Cümle", final: "Final" };
+  const box = $("mem-steps");
+  box.innerHTML = "";
+  const cur = order.indexOf(memPhase);
+  order.forEach((p, i) => {
+    if (p === "sentence" && !memSentence) return;
+    const el = document.createElement("span");
+    el.className = "mstep" + (i < cur ? " done" : i === cur ? " active" : "");
+    let label = names[p];
+    if (i === cur && (p === "down" || p === "up")) {
+      const total = p === "down" ? memSteps.downs.length : memSteps.ups.length;
+      label += ` ${Math.min(memStep + 1, total)}/${total}`;
+    }
+    el.textContent = label;
+    box.appendChild(el);
+  });
+}
+
+// O anki basamağın harf kutucukları
+function renderMemSlots() {
+  const box = $("mem-slots");
+  box.innerHTML = "";
+  [...memTarget()].forEach((ch, i) => {
+    const s = document.createElement("span");
+    if (memIsAuto(ch)) { s.className = "wslot space"; box.appendChild(s); return; }
+    s.className = "wslot";
+    if (i < memPos) { s.classList.add("filled"); s.textContent = ch; }
+    else if (i === memPos) s.classList.add("current");
+    box.appendChild(s);
+  });
+}
+
+// Cümle: yazılan kısım yeşil, sıradaki harf imleçli, gerisi soluk
+function renderMemSentence() {
+  const box = $("mem-sentence");
+  box.innerHTML = "";
+  [...memSentence].forEach((ch, i) => {
+    const s = document.createElement("span");
+    s.textContent = ch;
+    s.className = "mch" + (i < memPos ? " done" : i === memPos ? " cur" : "");
+    box.appendChild(s);
+  });
+}
+
+function onMemInput() {
+  if (memDone || memPhase === "final") return; // final: serbest yazım, Enter ile kontrol
+  const inp = $("mem-input");
+  const typed = inp.value;
+  inp.value = "";
+  for (const ch of typed) {
+    if (!processMemChar(ch)) break;
+  }
+}
+
+function processMemChar(ch) {
+  if (memIsAuto(ch)) return true; // boşluk/noktalama yazılırsa yok say
+  const target = memTarget();
+  if (memPos >= target.length) return true;
+  if (ch.toLowerCase() === target[memPos].toLowerCase()) {
+    memPos++;
+    memSkipAutos();
+    if (memPos >= target.length) { memStepComplete(); return false; }
+    if (memPhase === "sentence") renderMemSentence(); else renderMemSlots();
+    return true;
+  }
+  memMistake();
+  return false;
+}
+
+function memStepComplete() {
+  if (memPhase === "down") {
+    memStep++;
+    if (memStep >= memSteps.downs.length) {
+      memPhase = "up"; memStep = 0;
+      if (memSteps.ups.length === 0) memPhase = memSentence ? "sentence" : "final";
+    }
+  } else if (memPhase === "up") {
+    memStep++;
+    if (memStep >= memSteps.ups.length) memPhase = memSentence ? "sentence" : "final";
+  } else if (memPhase === "sentence") {
+    memPhase = "final";
+  }
+  memPos = 0;
+  if (memPhase !== "final") memSkipAutos();
+  const fb = $("mem-feedback");
+  fb.textContent = ""; fb.className = "fill-feedback";
+  updateMemView();
+  $("mem-input").focus();
+}
+
+// Yanlış harf: cümlede o cümle, piramitte tüm piramit baştan
+function memMistake() {
+  flashMemError();
+  const fb = $("mem-feedback");
+  if (memPhase === "sentence") {
+    memPos = 0; memSkipAutos();
+    fb.textContent = "✗ Yanlış harf — cümle baştan";
+    renderMemSentence();
+  } else {
+    memPhase = "down"; memStep = 0; memPos = 0; memSkipAutos();
+    fb.textContent = "✗ Yanlış harf — piramit baştan!";
+    updateMemView();
+  }
+  fb.className = "fill-feedback bad";
+}
+
+function flashMemError() {
+  const box = memPhase === "sentence" ? $("mem-sentence") : $("mem-slots");
+  box.classList.remove("shake");
+  void box.offsetWidth; // reflow → animasyonu yeniden tetikle
+  box.classList.add("shake");
+}
+
+// 👁 Göster (sadece çıkış aşaması): kelime 1.6 sn görünür, tekrar havuzuna düşer
+function memReveal() {
+  if (memPhase !== "up" || memDone) return;
+  memPeeked = true;
+  pushWrong(memWord);
+  const box = $("mem-slots");
+  box.innerHTML = "";
+  [...memWord.word].forEach((ch) => {
+    const s = document.createElement("span");
+    s.className = "wslot " + (memIsAuto(ch) ? "space" : "reveal");
+    if (!memIsAuto(ch)) s.textContent = ch;
+    box.appendChild(s);
+  });
+  setTimeout(() => { if (!memDone && memPhase === "up") renderMemSlots(); }, 1600);
+}
+
+function checkMemFinal() {
+  if (memPhase !== "final" || memDone) return;
+  const guess = $("mem-input").value.trim().toLowerCase();
+  if (!guess) return;
+  memDone = true;
+  const correct = guess === memWord.word.toLowerCase();
+  // Puanlama yalnızca kelimenin İLK final denemesinde işlenir
+  if (!memScored.has(memWord.word)) {
+    memScored.add(memWord.word);
+    if (correct && !memPeeked) know++;
+    else { learn++; pushWrong(memWord); }
+  }
+  const fb = $("mem-feedback");
+  if (correct) {
+    fb.textContent = "✓ Doğru! — " + memWord.word;
+    fb.className = "fill-feedback good";
+    speak(memWord.word);
+  } else {
+    fb.textContent = `✗ Yanlış. Doğrusu: "${memWord.word}" — kelime destenin sonuna eklendi`;
+    fb.className = "fill-feedback bad";
+    deck.push(memWord); // piramit bu kelime için ileride tekrar gelir
+  }
+  $("mem-input").disabled = true;
+  $("mem-check").classList.add("hidden");
+  $("mem-next").classList.remove("hidden");
+  $("mem-next").focus();
+  updateStats(deck.length);
+}
+
+function nextMemorize() { idx++; renderMemorize(); }
+
+$("mem-input").addEventListener("input", onMemInput);
+$("mem-input").addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && memPhase === "final" && !memDone) checkMemFinal();
+});
+$("mem-speak").addEventListener("click", () => { if (memWord) speak(memWord.word); });
+$("mem-reveal").addEventListener("click", memReveal);
+$("mem-check").addEventListener("click", checkMemFinal);
+$("mem-next").addEventListener("click", nextMemorize);
+$("mem-skip").addEventListener("click", () => {
+  if (memWord && !memScored.has(memWord.word)) {
+    memScored.add(memWord.word);
+    learn++; pushWrong(memWord);
+  }
+  idx++; renderMemorize();
+});
 
 // ============================================================
 //  YANLIŞ HAVUZU + SONUÇ
