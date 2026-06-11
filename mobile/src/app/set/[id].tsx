@@ -34,7 +34,7 @@ export default function SetDetail() {
   const mastered = masteredCount(states, set.entries.map((e) => e.id));
 
   return (
-    <Screen>
+    <Screen edges={["top", "left", "right", "bottom"]}>
       <FlatList
         data={set.entries}
         keyExtractor={(e) => e.id}

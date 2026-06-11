@@ -21,7 +21,7 @@ export default function Onboarding() {
   };
 
   return (
-    <Screen>
+    <Screen edges={["top", "left", "right", "bottom"]}>
       <Text style={styles.logo}>📚 {t("appName")}</Text>
       <Text style={styles.title}>{t("onboardingTitle")}</Text>
       <Text style={styles.subtitle}>{t("onboardingSubtitle")}</Text>

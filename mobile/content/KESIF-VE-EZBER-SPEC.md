@@ -58,6 +58,12 @@ politikası (final test, mastered) korunur.
 
 ---
 
-## Sıra
-1. İş 1 (Ezber) → onay → 2. İş 2 (Keşfet) → onay → 3. İş 3 (Responsive) → onay →
-   Parti 3 içeriğe dönülür.
+## Sıra / Durum
+1. [x] İş 1 (Ezber düzeltmeleri) ✓ 2026-06-11
+2. [x] İş 2 (Kelime Keşfet / Tinder) ✓ 2026-06-11
+3. [x] İş 3 (Responsive — alt güvenli alan) ✓ 2026-06-11
+   - `Screen`'e `edges` prop'u; sekme dışı ekranlarda (onboarding, create-set,
+     study, set) `bottom` açıldı → home indicator çakışması giderildi.
+     Sekme ekranları tab bar nedeniyle değişmedi. WordDiscovery zaten bottom'lu.
+
+→ Sıradaki: **Parti 3** içerik üretimi (Başlangıç 21–30, sıklık 301–450).

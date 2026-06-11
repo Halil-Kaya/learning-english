@@ -176,7 +176,7 @@ export default function CreateSet() {
   const showResults = searchQuery.trim().length >= 2;
 
   return (
-    <Screen>
+    <Screen edges={["top", "left", "right", "bottom"]}>
       {discovering && (
         <WordDiscovery
           pool={discoveryPool}

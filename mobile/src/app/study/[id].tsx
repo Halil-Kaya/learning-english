@@ -104,7 +104,7 @@ export default function StudySession() {
   }
 
   return (
-    <Screen>
+    <Screen edges={["top", "left", "right", "bottom"]}>
       <Header title={set.name} onClose={() => router.back()} />
       <View style={styles.flex}>{body}</View>
     </Screen>
