@@ -1,0 +1,887 @@
+[
+  {
+    "id": "en-tr-beginner-04",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 4",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-04-0",
+        "kind": "word",
+        "term": "ancient",
+        "type": "sıfat",
+        "meaning": "antik, çok eski",
+        "examples": [
+          {"target": "The museum displays {ancient} artefacts from thousands of years ago.", "source": "Müze, binlerce yıl öncesine ait antik eserleri sergiliyor."},
+          {"target": "Rome is a city full of {ancient} history and culture.", "source": "Roma, antik tarih ve kültürle dolu bir şehirdir."},
+          {"target": "Scientists discovered an {ancient} burial site near the river.", "source": "Bilim insanları nehir yakınında antik bir mezarlık buldu."},
+          {"target": "The {ancient} temple was built more than two thousand years ago.", "source": "Antik tapınak iki binden fazla yıl önce inşa edildi."},
+          {"target": "She has always been fascinated by {ancient} civilisations.", "source": "Her zaman antik uygarlıklara büyülenmişti."},
+          {"target": "The {ancient} ruins attract tourists from all over the world.", "source": "Antik kalıntılar dünyanın her yerinden turist çekiyor."},
+          {"target": "He studied {ancient} Greek at university.", "source": "Üniversitede Antik Yunan dili okudu."},
+          {"target": "The {ancient} forest had trees that were hundreds of years old.", "source": "Antik ormanın yüzlerce yaşında ağaçları vardı."},
+          {"target": "Many {ancient} traditions are still practised today.", "source": "Pek çok kadim gelenek bugün hâlâ yaşatılmaktadır."},
+          {"target": "The {ancient} manuscript was carefully preserved in the library.", "source": "Antik el yazması kütüphanede özenle korunuyordu."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-1",
+        "kind": "word",
+        "term": "capable",
+        "type": "sıfat",
+        "meaning": "yetenekli, muktedir, -e muktedir",
+        "examples": [
+          {"target": "She is a very {capable} manager who handles pressure well.", "source": "Baskıyla iyi başa çıkan çok yetenekli bir yönetici."},
+          {"target": "I believe you are {capable} of achieving much more.", "source": "Çok daha fazlasını başarabilecek kapasitede olduğuna inanıyorum."},
+          {"target": "The new robot is {capable} of performing complex tasks.", "source": "Yeni robot karmaşık görevleri yerine getirme kapasitesine sahip."},
+          {"target": "He proved himself {capable} under difficult conditions.", "source": "Zor koşullar altında kendini yetenekli olarak kanıtladı."},
+          {"target": "Are you {capable} of finishing this on your own?", "source": "Bunu kendi başına bitirebilir misin?"},
+          {"target": "She is perfectly {capable} of making her own decisions.", "source": "Kendi kararlarını almaya tamamen muktedir."},
+          {"target": "The team is {capable} of winning the championship.", "source": "Takım şampiyonluğu kazanabilecek kapasitede."},
+          {"target": "Everyone is {capable} of learning a new skill.", "source": "Herkes yeni bir beceri öğrenebilecek kapasitededir."},
+          {"target": "A {capable} student does not need constant guidance.", "source": "Yetenekli bir öğrenci sürekli rehberliğe ihtiyaç duymaz."},
+          {"target": "He was not {capable} of hiding his excitement.", "source": "Heyecanını gizleyemiyordu."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-2",
+        "kind": "word",
+        "term": "certain",
+        "type": "sıfat",
+        "meaning": "kesin, emin; belirli",
+        "examples": [
+          {"target": "I am {certain} that I left my keys on the table.", "source": "Anahtarlarımı masanın üzerinde bıraktığımdan eminm."},
+          {"target": "There is a {certain} charm to old buildings.", "source": "Eski binaların kendine has bir çekiciliği var."},
+          {"target": "She was not {certain} what to do next.", "source": "Bundan sonra ne yapacağından emin değildi."},
+          {"target": "It is {certain} that prices will rise next year.", "source": "Fiyatların gelecek yıl artacağı kesin."},
+          {"target": "A {certain} amount of stress can actually be helpful.", "source": "Belirli miktarda stres aslında faydalı olabilir."},
+          {"target": "He spoke with {certain} confidence about the results.", "source": "Sonuçlar hakkında belirgin bir özgüvenle konuştu."},
+          {"target": "Under {certain} conditions, the experiment may fail.", "source": "Belirli koşullar altında deney başarısız olabilir."},
+          {"target": "I am not {certain} whether she will come or not.", "source": "Gelip gelmeyeceğinden emin değilim."},
+          {"target": "He made it {certain} that everyone understood the rules.", "source": "Herkesin kuralları anladığından emin oldu."},
+          {"target": "There are {certain} things money cannot buy.", "source": "Paranın satın alamayacağı belirli şeyler vardır."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-3",
+        "kind": "word",
+        "term": "comfortable",
+        "type": "sıfat",
+        "meaning": "rahat, konforlu",
+        "examples": [
+          {"target": "This sofa is incredibly {comfortable} — I could sleep on it.", "source": "Bu kanepe inanılmaz derecede rahat — üzerinde uyuyabilirim."},
+          {"target": "She felt {comfortable} in the new neighbourhood very quickly.", "source": "Yeni mahallede çok kısa sürede kendini rahat hissetti."},
+          {"target": "Are you {comfortable} with public speaking?", "source": "Topluluk önünde konuşmakla rahat mısın?"},
+          {"target": "The hotel room was clean, warm, and {comfortable}.", "source": "Otel odası temiz, sıcak ve rahattı."},
+          {"target": "He wore {comfortable} shoes for the long walk.", "source": "Uzun yürüyüş için rahat ayakkabı giydi."},
+          {"target": "Make yourself {comfortable} — the meeting will start shortly.", "source": "Kendinizi rahat hissettirin — toplantı kısa süre sonra başlayacak."},
+          {"target": "I am not {comfortable} sharing my personal details online.", "source": "Kişisel bilgilerimi çevrimiçi paylaşmak konusunda rahat değilim."},
+          {"target": "The journey was long but {comfortable}.", "source": "Yolculuk uzundu ama rahattı."},
+          {"target": "She chose a {comfortable} chair to read in all afternoon.", "source": "Bütün öğleden sonra okumak için rahat bir sandalye seçti."},
+          {"target": "They live a {comfortable} life thanks to years of hard work.", "source": "Yıllarca süren sıkı çalışmaları sayesinde rahat bir hayat yaşıyorlar."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-4",
+        "kind": "word",
+        "term": "empty",
+        "type": "sıfat/fiil",
+        "meaning": "boş; boşaltmak",
+        "examples": [
+          {"target": "The fridge is almost {empty} — we need to go shopping.", "source": "Buzdolabı neredeyse boş — alışverişe gitmemiz gerekiyor."},
+          {"target": "She walked into the {empty} classroom and sat down.", "source": "Boş sınıfa girdi ve oturdu."},
+          {"target": "He {emptied} his pockets and put everything on the table.", "source": "Ceplerindekileri boşalttı ve her şeyi masanın üzerine koydu."},
+          {"target": "The town felt {empty} after all the tourists had left.", "source": "Tüm turistler ayrıldıktan sonra şehir boş hissettirdi."},
+          {"target": "Please {empty} the bin before you go to bed.", "source": "Yatmadan önce lütfen çöp kutusunu boşalt."},
+          {"target": "An {empty} promise is worse than no promise at all.", "source": "Boş bir söz, hiç söz vermemekten daha kötüdür."},
+          {"target": "The bottle was {empty} when she picked it up.", "source": "Şişeyi aldığında boştu."},
+          {"target": "She felt a deep, {empty} feeling after he left.", "source": "O ayrıldıktan sonra derin bir boşluk hissetti."},
+          {"target": "The car park was completely {empty} on Sunday morning.", "source": "Pazar sabahı otopark tamamen boştu."},
+          {"target": "He {emptied} the glass in one long drink.", "source": "Bardağı uzun bir yudumda boşalttı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-5",
+        "kind": "word",
+        "term": "exact",
+        "type": "sıfat",
+        "meaning": "tam, kesin, dakik",
+        "examples": [
+          {"target": "Can you tell me the {exact} time the train arrives?", "source": "Trenin tam olarak kaçta geldiğini söyleyebilir misin?"},
+          {"target": "The {exact} location of the treasure remains unknown.", "source": "Hazinenin tam yeri hâlâ bilinmiyor."},
+          {"target": "She is very {exact} in her work — no mistakes allowed.", "source": "İşinde çok titiz — hiç hataya yer yok."},
+          {"target": "I cannot remember the {exact} words he used.", "source": "Kullandığı tam kelimeleri hatırlayamıyorum."},
+          {"target": "The {exact} same problem occurred last year.", "source": "Tam olarak aynı sorun geçen yıl da yaşandı."},
+          {"target": "Please give me the {exact} measurements of the room.", "source": "Lütfen odanın tam ölçülerini bana verin."},
+          {"target": "It was the {exact} moment I had been waiting for.", "source": "Beklediğim tam o andı."},
+          {"target": "His {exact} words were 'I will be back by noon'.", "source": "Tam sözleri şuydu: 'Öğlene kadar döneceğim'."},
+          {"target": "Scientists need {exact} data to draw accurate conclusions.", "source": "Bilim insanları doğru sonuçlara ulaşmak için kesin verilere ihtiyaç duyar."},
+          {"target": "The copy was an {exact} replica of the original painting.", "source": "Kopya, orijinal tablonun birebir aynısıydı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-6",
+        "kind": "word",
+        "term": "expensive",
+        "type": "sıfat",
+        "meaning": "pahalı",
+        "examples": [
+          {"target": "The restaurant was delicious but very {expensive}.", "source": "Restoran lezzetliydi ama çok pahalıydı."},
+          {"target": "Buying a house in the city centre is extremely {expensive}.", "source": "Şehir merkezinde ev almak son derece pahalı."},
+          {"target": "She bought an {expensive} dress for the wedding.", "source": "Düğün için pahalı bir elbise aldı."},
+          {"target": "The repair turned out to be more {expensive} than expected.", "source": "Tamir beklenenden daha pahalıya patladi."},
+          {"target": "Quality materials are often {expensive} but last longer.", "source": "Kaliteli malzemeler çoğunlukla pahalıdır ama daha uzun dayanır."},
+          {"target": "He could not afford the {expensive} treatment.", "source": "Pahalı tedavinin masrafını karşılayamadı."},
+          {"target": "Eating out every day can be quite {expensive}.", "source": "Her gün dışarıda yemek yemek oldukça pahalı olabilir."},
+          {"target": "The most {expensive} item on the menu was the lobster.", "source": "Menüdeki en pahalı yemek ıstakozdu."},
+          {"target": "She prefers simple, affordable clothes to {expensive} brands.", "source": "Pahalı markalar yerine sade ve uygun fiyatlı kıyafetleri tercih ediyor."},
+          {"target": "Good education should not be so {expensive}.", "source": "İyi eğitim bu kadar pahalı olmamalı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-7",
+        "kind": "word",
+        "term": "familiar",
+        "type": "sıfat",
+        "meaning": "tanıdık, aşina, bildik",
+        "examples": [
+          {"target": "Her face looks {familiar} but I can't remember her name.", "source": "Yüzü tanıdık geliyor ama adını hatırlayamıyorum."},
+          {"target": "The smell of fresh bread was {familiar} and comforting.", "source": "Taze ekmeğin kokusu tanıdık ve rahatlatıcıydı."},
+          {"target": "Are you {familiar} with this software programme?", "source": "Bu yazılım programına aşina mısın?"},
+          {"target": "He spoke in a {familiar} tone that put everyone at ease.", "source": "Herkesi rahatlatacak samimi bir tonla konuştu."},
+          {"target": "The route was {familiar} — she had driven it many times before.", "source": "Rota tanıdıktı — daha önce defalarca orada geçmişti."},
+          {"target": "This melody sounds {familiar} — where have I heard it?", "source": "Bu melodi tanıdık geliyor — nerede duymuştum?"},
+          {"target": "He was not {familiar} with the local customs.", "source": "Yerel geleneklere aşina değildi."},
+          {"target": "The name rang a {familiar} bell but she couldn't place it.", "source": "İsim tanıdık bir şeyler çağrıştırdı ama tam olarak belirleyemedi."},
+          {"target": "I feel very {familiar} with this style of writing.", "source": "Bu yazı üslubuyla çok aşinayım."},
+          {"target": "The place felt {familiar} even though she had never been there.", "source": "Hiç gitmemiş olmasına rağmen yer tanıdık hissettirdi."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-8",
+        "kind": "word",
+        "term": "foreign",
+        "type": "sıfat",
+        "meaning": "yabancı, dış",
+        "examples": [
+          {"target": "She has always been interested in {foreign} languages.", "source": "Her zaman yabancı dillere ilgi duymuştur."},
+          {"target": "The government is planning to increase {foreign} investment.", "source": "Hükümet yabancı yatırımı artırmayı planlıyor."},
+          {"target": "He felt like a {foreign} visitor in his own country.", "source": "Kendi ülkesinde yabancı bir ziyaretçi gibi hissetti."},
+          {"target": "Many {foreign} students come to study at this university.", "source": "Pek çok yabancı öğrenci bu üniversitede okumaya geliyor."},
+          {"target": "Corruption is {foreign} to her nature.", "source": "Yolsuzluk onun doğasına tamamen yabancı."},
+          {"target": "The company exports its products to {foreign} markets.", "source": "Şirket ürünlerini yabancı pazarlara ihraç ediyor."},
+          {"target": "Learning about {foreign} cultures broadens your perspective.", "source": "Yabancı kültürler hakkında öğrenmek bakış açını genişletir."},
+          {"target": "She studied {foreign} policy at university.", "source": "Üniversitede dış politika okudu."},
+          {"target": "The idea was completely {foreign} to him.", "source": "Fikir ona tamamen yabancıydı."},
+          {"target": "He worked as a {foreign} correspondent for ten years.", "source": "On yıl boyunca yurt dışı muhabiri olarak çalıştı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-9",
+        "kind": "word",
+        "term": "healthy",
+        "type": "sıfat",
+        "meaning": "sağlıklı, sıhhatli",
+        "examples": [
+          {"target": "Eating vegetables every day keeps you {healthy}.", "source": "Her gün sebze yemek seni sağlıklı tutar."},
+          {"target": "She has a {healthy} appetite and enjoys all kinds of food.", "source": "Sağlıklı bir iştahı var ve her tür yiyeceğin tadını çıkarıyor."},
+          {"target": "Regular exercise is essential for a {healthy} lifestyle.", "source": "Sağlıklı bir yaşam tarzı için düzenli egzersiz şarttır."},
+          {"target": "He looks much more {healthy} since he stopped smoking.", "source": "Sigarayı bıraktığından bu yana çok daha sağlıklı görünüyor."},
+          {"target": "A {healthy} diet includes a balance of proteins and vegetables.", "source": "Sağlıklı bir diyet protein ve sebzelerin dengesini içerir."},
+          {"target": "The baby was born perfectly {healthy}.", "source": "Bebek tamamen sağlıklı doğdu."},
+          {"target": "Competition can be {healthy} if it motivates people to improve.", "source": "Rekabet, insanları iyileşmeye motive ediyorsa sağlıklı olabilir."},
+          {"target": "She maintained a {healthy} work-life balance.", "source": "Sağlıklı bir iş-yaşam dengesi korudu."},
+          {"target": "Fresh air and sleep are key to staying {healthy}.", "source": "Sağlıklı kalmak için temiz hava ve uyku anahtardır."},
+          {"target": "The economy is {healthy} and growing steadily.", "source": "Ekonomi sağlıklı ve istikrarlı bir şekilde büyüyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-10",
+        "kind": "word",
+        "term": "likely",
+        "type": "sıfat/zarf",
+        "meaning": "muhtemel, olası; büyük ihtimalle",
+        "examples": [
+          {"target": "It is {likely} to rain this afternoon, so take an umbrella.", "source": "Bu öğleden sonra yağmur yağması muhtemel, şemsiyeni al."},
+          {"target": "She is {likely} the best candidate for the job.", "source": "Büyük ihtimalle iş için en iyi aday o."},
+          {"target": "What is the most {likely} cause of the problem?", "source": "Sorunun en olası nedeni nedir?"},
+          {"target": "He is {likely} to arrive late given the traffic.", "source": "Trafiği düşünürsek geç gelmesi kuvvetle muhtemel."},
+          {"target": "That explanation seems {likely} given all the evidence.", "source": "Tüm kanıtlar göz önünde bulundurulduğunda bu açıklama olası görünüyor."},
+          {"target": "It is {likely} that the meeting will be postponed.", "source": "Toplantının ertelenmesi muhtemel."},
+          {"target": "She is a {likely} winner of the competition.", "source": "Yarışmanın büyük ihtimalle galibi o."},
+          {"target": "The most {likely} outcome is a delay.", "source": "En olası sonuç bir gecikmedir."},
+          {"target": "He is {likely} to change his mind once he thinks it over.", "source": "Üzerinde düşününce fikrini değiştirmesi muhtemel."},
+          {"target": "This is the most {likely} explanation for the strange noise.", "source": "Tuhaf ses için en olası açıklama bu."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-11",
+        "kind": "word",
+        "term": "natural",
+        "type": "sıfat",
+        "meaning": "doğal; normal, olağan",
+        "examples": [
+          {"target": "She has a {natural} talent for music.", "source": "Müzik için doğal bir yeteneği var."},
+          {"target": "The park is full of {natural} beauty.", "source": "Park doğal güzelliklerle dolu."},
+          {"target": "It is {natural} to feel nervous before a big exam.", "source": "Büyük bir sınavdan önce sinirli hissetmek doğaldır."},
+          {"target": "He prefers {natural} ingredients in his food.", "source": "Yiyeceklerinde doğal malzemeleri tercih ediyor."},
+          {"target": "The river follows its {natural} course through the valley.", "source": "Nehir vadiden kendi doğal yatağını izliyor."},
+          {"target": "She has {natural} curiosity about everything around her.", "source": "Çevresindeki her şeye karşı doğal bir merakı var."},
+          {"target": "The {natural} light in this room makes it feel warm.", "source": "Bu odadaki doğal ışık onu sıcak hissettiriyor."},
+          {"target": "It was a {natural} reaction to the unexpected news.", "source": "Beklenmedik habere karşı doğal bir tepkiydi."},
+          {"target": "{Natural} disasters affect millions of people every year.", "source": "Doğal afetler her yıl milyonlarca insanı etkiliyor."},
+          {"target": "His acting looked completely {natural} on screen.", "source": "Oyunculuğu ekranda tamamen doğal görünüyordu."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-12",
+        "kind": "word",
+        "term": "ordinary",
+        "type": "sıfat",
+        "meaning": "sıradan, olağan, alelade",
+        "examples": [
+          {"target": "It was just an {ordinary} day — nothing special happened.", "source": "Sıradan bir gündi — özel bir şey olmadı."},
+          {"target": "She looks like an {ordinary} person but is actually a scientist.", "source": "Sıradan biri gibi görünüyor ama aslında bir bilim insanı."},
+          {"target": "The {ordinary} citizens were most affected by the new law.", "source": "Yeni yasadan en çok sıradan vatandaşlar etkilendi."},
+          {"target": "His life story is far from {ordinary}.", "source": "Hayat hikâyesi sıradanlıktan çok uzak."},
+          {"target": "An {ordinary} evening turned into something magical.", "source": "Sıradan bir akşam sihirli bir şeye dönüştü."},
+          {"target": "The food was good but nothing out of the {ordinary}.", "source": "Yemek iyiydi ama olağandışı bir şey yoktu."},
+          {"target": "She makes the {ordinary} seem extraordinary.", "source": "Sıradanı olağanüstü gibi gösteriyor."},
+          {"target": "He was an {ordinary} student who later became famous.", "source": "Sonradan ünlü olan sıradan bir öğrenciydi."},
+          {"target": "In {ordinary} circumstances, I would agree with you.", "source": "Normal koşullarda seninle aynı fikirde olurdum."},
+          {"target": "The painting looked {ordinary} at first but had great depth.", "source": "Tablo ilk bakışta sıradan görünüyordu ama büyük derinliği vardı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-13",
+        "kind": "word",
+        "term": "popular",
+        "type": "sıfat",
+        "meaning": "popüler, gözde, yaygın",
+        "examples": [
+          {"target": "This song was very {popular} in the 1990s.", "source": "Bu şarkı 1990'larda çok popülerdi."},
+          {"target": "She is the most {popular} teacher in the school.", "source": "Okulun en sevilen öğretmeni."},
+          {"target": "Pizza is a {popular} dish all around the world.", "source": "Pizza dünya genelinde popüler bir yemek."},
+          {"target": "The new app became {popular} almost overnight.", "source": "Yeni uygulama neredeyse bir gecede popüler oldu."},
+          {"target": "He made a {popular} decision that pleased everyone.", "source": "Herkesi memnun eden popüler bir karar aldı."},
+          {"target": "Social media has made it easier for ideas to become {popular}.", "source": "Sosyal medya fikirlerin yayılmasını kolaylaştırdı."},
+          {"target": "The beach is a {popular} destination in summer.", "source": "Sahil, yazın gözde bir destinasyon."},
+          {"target": "Science fiction is a {popular} genre among young readers.", "source": "Bilim kurgu, genç okuyucular arasında popüler bir tür."},
+          {"target": "She became {popular} after her first film was released.", "source": "İlk filmi yayınlandıktan sonra popüler oldu."},
+          {"target": "The {popular} belief is that breakfast is the most important meal.", "source": "Yaygın kanıya göre kahvaltı en önemli öğündür."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-04-14",
+        "kind": "word",
+        "term": "simple",
+        "type": "sıfat",
+        "meaning": "basit, sade, kolay",
+        "examples": [
+          {"target": "The recipe is very {simple} — even beginners can do it.", "source": "Tarif çok basit — yeni başlayanlar bile yapabilir."},
+          {"target": "She prefers a {simple} lifestyle without too many possessions.", "source": "Çok fazla eşyası olmayan sade bir yaşam tarzını tercih ediyor."},
+          {"target": "The answer is {simple}: just ask for help.", "source": "Cevap basit: sadece yardım isteyin."},
+          {"target": "He designed a {simple} but elegant logo for the company.", "source": "Şirket için sade ama zarif bir logo tasarladı."},
+          {"target": "It is not as {simple} as it looks.", "source": "Göründüğü kadar basit değil."},
+          {"target": "A {simple} smile can change someone's day.", "source": "Sade bir gülümseme birisinin gününü değiştirebilir."},
+          {"target": "She explained it in {simple} language everyone could understand.", "source": "Herkesin anlayabileceği basit bir dille açıkladı."},
+          {"target": "The {simple} truth is that we made a mistake.", "source": "Basit gerçek şu ki bir hata yaptık."},
+          {"target": "He lived a {simple} life in a small village.", "source": "Küçük bir köyde sade bir hayat sürdü."},
+          {"target": "Good design is often beautifully {simple}.", "source": "İyi tasarım çoğunlukla güzel biçimde sadedir."}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-05",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 5",
+    "level": "beginner",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-05-0",
+        "kind": "word",
+        "term": "benefit",
+        "type": "isim/fiil",
+        "meaning": "fayda, yarar; yararlanmak",
+        "examples": [
+          {"target": "Exercise has many {benefits} for both body and mind.", "source": "Egzersizin hem beden hem de zihin için pek çok faydası vardır."},
+          {"target": "All students {benefit} from a good night's sleep.", "source": "Tüm öğrenciler iyi bir gece uykusundan fayda görür."},
+          {"target": "The new policy will {benefit} low-income families the most.", "source": "Yeni politikadan en çok düşük gelirli aileler fayda görecek."},
+          {"target": "There is little {benefit} in worrying about things you cannot change.", "source": "Değiştiremediğin şeyler için endişelenmekte fazla bir fayda yok."},
+          {"target": "She {benefited} greatly from her mentor's advice.", "source": "Mentorünün tavsiyelerinden büyük ölçüde yararlandı."},
+          {"target": "The village {benefits} from a clean water supply.", "source": "Köy temiz su kaynağından yararlanıyor."},
+          {"target": "What are the main {benefits} of learning a second language?", "source": "İkinci bir dil öğrenmenin temel faydaları nelerdir?"},
+          {"target": "Regular breaks at work are a {benefit} for productivity.", "source": "İş yerinde düzenli molalar verimlilik açısından faydalıdır."},
+          {"target": "He joined the gym mainly for the health {benefits}.", "source": "Spor salonuna katılmasının temel nedeni sağlık faydalarıydı."},
+          {"target": "The whole community will {benefit} from this project.", "source": "Tüm topluluk bu projeden fayda görecek."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-1",
+        "kind": "word",
+        "term": "career",
+        "type": "isim",
+        "meaning": "kariyer, meslek yaşamı",
+        "examples": [
+          {"target": "She built a successful {career} in journalism over twenty years.", "source": "Yirmi yıl boyunca gazetecilik alanında başarılı bir kariyer inşa etti."},
+          {"target": "Choosing the right {career} is one of life's biggest decisions.", "source": "Doğru kariyeri seçmek hayatın en büyük kararlarından biridir."},
+          {"target": "His {career} took off after his first published novel.", "source": "Kariyeri ilk yayımlanan romanının ardından yükselişe geçti."},
+          {"target": "She is at the peak of her {career} right now.", "source": "Şu an kariyerinin zirvesinde."},
+          {"target": "He changed {career} at the age of forty and never regretted it.", "source": "Kırk yaşında kariyer değiştirdi ve hiç pişman olmadı."},
+          {"target": "A good education is the foundation of a strong {career}.", "source": "İyi bir eğitim, güçlü bir kariyerin temelidir."},
+          {"target": "Her {career} in medicine spanned over thirty years.", "source": "Tıp alanındaki kariyeri otuz yılı aşkın süre devam etti."},
+          {"target": "He is just starting out in his {career} and has a lot to learn.", "source": "Kariyerine yeni başlıyor ve öğrenecek çok şeyi var."},
+          {"target": "The job offer was a huge step forward in her {career}.", "source": "İş teklifi, kariyerinde büyük bir ilerleme adımıydı."},
+          {"target": "Taking risks early in your {career} can pay off later.", "source": "Kariyerinin başında risk almak ilerleyen dönemde meyvesini verebilir."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-2",
+        "kind": "word",
+        "term": "citizen",
+        "type": "isim",
+        "meaning": "vatandaş",
+        "examples": [
+          {"target": "Every {citizen} has the right to vote in elections.", "source": "Her vatandaşın seçimlerde oy kullanma hakkı vardır."},
+          {"target": "She became a {citizen} of her new country after five years.", "source": "Beş yıl sonra yeni ülkesinin vatandaşı oldu."},
+          {"target": "It is the duty of every {citizen} to obey the law.", "source": "Yasalara uymak her vatandaşın görevidir."},
+          {"target": "The government must protect the rights of all its {citizens}.", "source": "Hükümet tüm vatandaşların haklarını korumalıdır."},
+          {"target": "He was born abroad but is a {citizen} by descent.", "source": "Yurt dışında doğdu ama soydan vatandaş."},
+          {"target": "As a responsible {citizen}, she always votes in local elections.", "source": "Sorumlu bir vatandaş olarak yerel seçimlerde her zaman oy kullanıyor."},
+          {"target": "The city offers free education to all its {citizens}.", "source": "Şehir, tüm vatandaşlarına ücretsiz eğitim sunuyor."},
+          {"target": "A good {citizen} contributes to the well-being of society.", "source": "İyi bir vatandaş toplumun refahına katkıda bulunur."},
+          {"target": "She applied for {citizen}ship after living there for ten years.", "source": "On yıl orada yaşadıktan sonra vatandaşlık başvurusunda bulundu."},
+          {"target": "Senior {citizens} receive a discount on public transport.", "source": "Yaşlı vatandaşlar toplu taşımada indirim alıyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-3",
+        "kind": "word",
+        "term": "community",
+        "type": "isim",
+        "meaning": "topluluk, cemaat, mahalle",
+        "examples": [
+          {"target": "The local {community} came together to clean up the park.", "source": "Yerel topluluk parkı temizlemek için bir araya geldi."},
+          {"target": "She is a valued member of our {community}.", "source": "Topluluğumuzun değerli bir üyesi."},
+          {"target": "The school works closely with the surrounding {community}.", "source": "Okul çevre toplulukla yakın işbirliği içinde çalışıyor."},
+          {"target": "A sense of {community} makes a neighbourhood a better place.", "source": "Topluluk duygusu bir mahalleyi daha güzel bir yer yapar."},
+          {"target": "The online {community} shared tips and advice freely.", "source": "Çevrimiçi topluluk ipuçlarını ve tavsiyelerini serbestçe paylaştı."},
+          {"target": "He volunteered at the {community} centre every weekend.", "source": "Her hafta sonu toplum merkezinde gönüllü olarak çalıştı."},
+          {"target": "The new library will serve the whole {community}.", "source": "Yeni kütüphane tüm topluluğa hizmet edecek."},
+          {"target": "Building a strong {community} takes time and effort.", "source": "Güçlü bir topluluk oluşturmak zaman ve emek ister."},
+          {"target": "The {community} raised money to support local families.", "source": "Topluluk yerel aileleri desteklemek için para topladı."},
+          {"target": "She felt a deep connection to her {community} and its traditions.", "source": "Topluluğuna ve geleneklerine derin bir bağ hissediyordu."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-4",
+        "kind": "word",
+        "term": "culture",
+        "type": "isim",
+        "meaning": "kültür",
+        "examples": [
+          {"target": "Travelling is a great way to experience different {cultures}.", "source": "Seyahat etmek farklı kültürleri deneyimlemenin harika bir yolu."},
+          {"target": "Music and art are central to our {culture}.", "source": "Müzik ve sanat kültürümüzün merkezindedir."},
+          {"target": "She studied the {culture} of ancient Egypt for her thesis.", "source": "Tezi için Antik Mısır kültürünü inceledi."},
+          {"target": "The company has built a strong work {culture} over the years.", "source": "Şirket yıllar içinde güçlü bir çalışma kültürü oluşturdu."},
+          {"target": "Food is a huge part of any {culture}.", "source": "Yemek her kültürün büyük bir parçasıdır."},
+          {"target": "Understanding another person's {culture} builds respect.", "source": "Başka birinin kültürünü anlamak saygı inşa eder."},
+          {"target": "The city is known for its rich history and vibrant {culture}.", "source": "Şehir zengin tarihi ve canlı kültürüyle tanınıyor."},
+          {"target": "He immersed himself in the local {culture} during his stay.", "source": "Konaklama süresince yerel kültüre kendini kaptırdı."},
+          {"target": "Pop {culture} influences fashion, language, and behaviour.", "source": "Popüler kültür moda, dil ve davranışı etkiler."},
+          {"target": "{Culture} shock is common when you move to a new country.", "source": "Yeni bir ülkeye taşındığınızda kültür şoku yaygındır."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-5",
+        "kind": "word",
+        "term": "education",
+        "type": "isim",
+        "meaning": "eğitim, öğrenim",
+        "examples": [
+          {"target": "A good {education} opens doors that would otherwise remain closed.", "source": "İyi bir eğitim, aksi halde kapalı kalacak kapıları açar."},
+          {"target": "She values {education} above almost everything else.", "source": "Eğitimi neredeyse her şeyin üzerinde tutuyor."},
+          {"target": "The government is investing more in public {education}.", "source": "Hükümet devlet eğitimine daha fazla yatırım yapıyor."},
+          {"target": "He received his {education} in three different countries.", "source": "Eğitimini üç farklı ülkede aldı."},
+          {"target": "{Education} is the most powerful tool we have.", "source": "Eğitim sahip olduğumuz en güçlü araçtır."},
+          {"target": "Higher {education} gives students specialised knowledge.", "source": "Yükseköğretim öğrencilere uzmanlaşmış bilgi kazandırır."},
+          {"target": "Access to {education} should be a right, not a privilege.", "source": "Eğitime erişim bir ayrıcalık değil hak olmalıdır."},
+          {"target": "Physical {education} teaches children the importance of sport.", "source": "Beden eğitimi çocuklara sporun önemini öğretir."},
+          {"target": "Her {education} prepared her well for her future career.", "source": "Eğitimi, ilerleyen kariyer hayatına çok iyi hazırladı."},
+          {"target": "Lifelong {education} keeps the mind sharp and active.", "source": "Yaşam boyu eğitim zihni keskin ve aktif tutar."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-6",
+        "kind": "word",
+        "term": "environment",
+        "type": "isim",
+        "meaning": "çevre, ortam, doğal çevre",
+        "examples": [
+          {"target": "We must do more to protect the {environment}.", "source": "Çevreyi korumak için daha fazlasını yapmalıyız."},
+          {"target": "The office {environment} has a big impact on employee morale.", "source": "Ofis ortamı çalışan moralini büyük ölçüde etkiler."},
+          {"target": "Pollution is one of the greatest threats to the {environment}.", "source": "Kirlilik, çevre için en büyük tehditlerden biridir."},
+          {"target": "Children grow best in a safe and caring {environment}.", "source": "Çocuklar güvenli ve şefkatli bir ortamda en iyi gelişir."},
+          {"target": "The company is committed to reducing its impact on the {environment}.", "source": "Şirket, çevre üzerindeki etkisini azaltmaya kararlı."},
+          {"target": "A positive learning {environment} helps students focus.", "source": "Olumlu bir öğrenme ortamı öğrencilerin odaklanmasına yardımcı olur."},
+          {"target": "Sea animals depend on a clean ocean {environment}.", "source": "Deniz hayvanları temiz bir okyanus ortamına bağımlıdır."},
+          {"target": "He thrives in a competitive work {environment}.", "source": "Rekabetçi bir iş ortamında başarılı oluyor."},
+          {"target": "Changes in the {environment} affect all living things.", "source": "Çevredeki değişiklikler tüm canlıları etkiler."},
+          {"target": "The {environment} needs urgent protection from industrial waste.", "source": "Çevre, sanayi atıklarından acil korumaya ihtiyaç duyuyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-7",
+        "kind": "word",
+        "term": "event",
+        "type": "isim",
+        "meaning": "etkinlik, olay, hadise",
+        "examples": [
+          {"target": "The music festival is the biggest {event} of the summer.", "source": "Müzik festivali yazın en büyük etkinliği."},
+          {"target": "The earthquake was a tragic {event} that affected thousands.", "source": "Deprem binlerce kişiyi etkileyen trajik bir olaydı."},
+          {"target": "She organised the charity {event} entirely on her own.", "source": "Yardım etkinliğini tamamen kendi başına düzenledi."},
+          {"target": "The opening ceremony was a memorable {event}.", "source": "Açılış töreni unutulmaz bir etkinlikti."},
+          {"target": "In the {event} of an emergency, follow the exit signs.", "source": "Bir acil durumda çıkış işaretlerini takip edin."},
+          {"target": "The school calendar is full of sporting {events}.", "source": "Okul takvimi spor etkinlikleriyle dolu."},
+          {"target": "His wedding was the most important {event} of the year.", "source": "Düğünü yılın en önemli olayıydı."},
+          {"target": "The news {event} was broadcast live around the world.", "source": "Haber olayı dünya genelinde canlı yayınlandı."},
+          {"target": "She covered major political {events} as a journalist.", "source": "Gazeteci olarak büyük siyasi olayları haberleştirdi."},
+          {"target": "The company holds a team-building {event} every year.", "source": "Şirket her yıl bir takım kurma etkinliği düzenleniyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-8",
+        "kind": "word",
+        "term": "experience",
+        "type": "isim/fiil",
+        "meaning": "deneyim, tecrübe; yaşamak, deneyimlemek",
+        "examples": [
+          {"target": "She has years of {experience} working in finance.", "source": "Finans sektöründe yıllarca çalışma deneyimi var."},
+          {"target": "Travelling gave him the {experience} of a lifetime.", "source": "Seyahat ona bir ömürlük deneyim yaşattı."},
+          {"target": "Children learn through {experience}, not just instruction.", "source": "Çocuklar yalnızca öğretimle değil, deneyimle öğrenir."},
+          {"target": "She {experienced} great sadness after the loss of her friend.", "source": "Arkadaşını kaybetmenin ardından büyük bir üzüntü yaşadı."},
+          {"target": "The job requires at least three years of {experience}.", "source": "İş en az üç yıllık deneyim gerektiriyor."},
+          {"target": "I have never {experienced} anything like that before.", "source": "Daha önce böyle bir şey yaşamamıştım."},
+          {"target": "Living abroad is an {experience} that changes you forever.", "source": "Yurt dışında yaşamak seni sonsuza dek değiştiren bir deneyim."},
+          {"target": "His wide {experience} made him the ideal candidate.", "source": "Geniş deneyimi onu ideal aday yaptı."},
+          {"target": "She {experienced} a moment of pure joy when she heard the news.", "source": "Haberi duyduğunda saf bir mutluluk anı yaşadı."},
+          {"target": "The restaurant offers a unique dining {experience}.", "source": "Restoran eşsiz bir yemek deneyimi sunuyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-9",
+        "kind": "word",
+        "term": "freedom",
+        "type": "isim",
+        "meaning": "özgürlük, hürriyet",
+        "examples": [
+          {"target": "{Freedom} of speech is a fundamental right in a democracy.", "source": "İfade özgürlüğü demokraside temel bir haktır."},
+          {"target": "She felt a great sense of {freedom} after leaving the city.", "source": "Şehri terk ettikten sonra büyük bir özgürlük hissetti."},
+          {"target": "The prisoners were finally given their {freedom}.", "source": "Mahkûmlar sonunda özgürlüklerine kavuştu."},
+          {"target": "Children need {freedom} to explore and make mistakes.", "source": "Çocukların keşfetmek ve hata yapmak için özgürlüğe ihtiyacı var."},
+          {"target": "He fought for the {freedom} of his people.", "source": "Halkının özgürlüğü için savaştı."},
+          {"target": "Working from home gives employees more {freedom}.", "source": "Evden çalışmak çalışanlara daha fazla özgürlük sağlıyor."},
+          {"target": "True {freedom} comes with responsibility.", "source": "Gerçek özgürlük sorumlulukla birlikte gelir."},
+          {"target": "The new law restricts {freedom} of movement.", "source": "Yeni yasa hareket özgürlüğünü kısıtlıyor."},
+          {"target": "She treasures her personal {freedom} above all else.", "source": "Kişisel özgürlüğüne her şeyin üzerinde değer veriyor."},
+          {"target": "Education gives people the {freedom} to think for themselves.", "source": "Eğitim insanlara kendi başlarına düşünme özgürlüğü tanır."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-10",
+        "kind": "word",
+        "term": "government",
+        "type": "isim",
+        "meaning": "hükümet, yönetim",
+        "examples": [
+          {"target": "The {government} announced a new health care plan.", "source": "Hükümet yeni bir sağlık hizmetleri planı açıkladı."},
+          {"target": "Citizens have the right to criticise their {government}.", "source": "Vatandaşların hükümetlerini eleştirme hakkı vardır."},
+          {"target": "The {government} increased spending on education this year.", "source": "Hükümet bu yıl eğitime yapılan harcamaları artırdı."},
+          {"target": "She works for the local {government} as an adviser.", "source": "Yerel yönetimde danışman olarak çalışıyor."},
+          {"target": "The {government} introduced new rules to reduce pollution.", "source": "Hükümet kirliliği azaltmak için yeni kurallar getirdi."},
+          {"target": "A democratic {government} is elected by the people.", "source": "Demokratik bir hükümet halk tarafından seçilir."},
+          {"target": "The {government} failed to respond quickly enough to the crisis.", "source": "Hükümet krize yeterince hızlı yanıt vermeyi başaramadı."},
+          {"target": "He criticised the {government}'s handling of the situation.", "source": "Hükümetin durumu ele alış biçimini eleştirdi."},
+          {"target": "The {government} provides financial support to low-income families.", "source": "Hükümet düşük gelirli ailelere mali destek sağlıyor."},
+          {"target": "Trust in {government} has declined over recent years.", "source": "Son yıllarda hükümete olan güven azaldı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-11",
+        "kind": "word",
+        "term": "health",
+        "type": "isim",
+        "meaning": "sağlık",
+        "examples": [
+          {"target": "Your {health} is more important than any job.", "source": "Sağlığın herhangi bir işten daha önemlidir."},
+          {"target": "She takes good care of her {health} by eating well.", "source": "İyi beslenerek sağlığını iyi koruyor."},
+          {"target": "Mental {health} is just as important as physical {health}.", "source": "Ruh sağlığı fiziksel sağlık kadar önemlidir."},
+          {"target": "The report highlighted the link between poverty and poor {health}.", "source": "Rapor yoksulluk ile kötü sağlık arasındaki bağlantıyı vurguladı."},
+          {"target": "He had to take time off work due to {health} problems.", "source": "Sağlık sorunları nedeniyle işten izin almak zorunda kaldı."},
+          {"target": "Regular exercise is essential for good {health}.", "source": "Düzenli egzersiz iyi sağlık için şarttır."},
+          {"target": "The government invested heavily in public {health}.", "source": "Hükümet halk sağlığına büyük yatırım yaptı."},
+          {"target": "She drank to the {health} of the bride and groom.", "source": "Gelin ve damadın sağlığına içti."},
+          {"target": "Smoking has a very negative effect on your {health}.", "source": "Sigara içmek sağlığın üzerinde çok olumsuz bir etki bırakır."},
+          {"target": "Good {health} allows you to enjoy life to the fullest.", "source": "İyi sağlık hayatı en dolu şekilde yaşamanı sağlar."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-12",
+        "kind": "word",
+        "term": "leader",
+        "type": "isim",
+        "meaning": "lider, önder",
+        "examples": [
+          {"target": "A great {leader} listens as much as they speak.", "source": "Büyük bir lider konuştuğu kadar dinler."},
+          {"target": "She was elected as the {leader} of the student union.", "source": "Öğrenci birliğinin lideri seçildi."},
+          {"target": "The {leader} of the expedition guided the team safely.", "source": "Keşif gezisinin lideri ekibi güvenle yönlendirdi."},
+          {"target": "World {leaders} met to discuss the climate crisis.", "source": "Dünya liderleri iklim krizini görüşmek için bir araya geldi."},
+          {"target": "He is a natural {leader} who others follow instinctively.", "source": "Başkalarının içgüdüsel olarak peşinden gittiği doğal bir lider."},
+          {"target": "A good {leader} takes responsibility for their team's mistakes.", "source": "İyi bir lider ekibinin hatalarının sorumluluğunu üstlenir."},
+          {"target": "The company needs a strong {leader} during this difficult period.", "source": "Şirketin bu zor dönemde güçlü bir lidere ihtiyacı var."},
+          {"target": "She proved herself as a competent {leader} from day one.", "source": "İlk günden itibaren kendini yetkin bir lider olarak kanıtladı."},
+          {"target": "The community {leader} organised a meeting for all residents.", "source": "Topluluk lideri tüm sakinler için bir toplantı düzenledi."},
+          {"target": "Every successful team needs a clear {leader}.", "source": "Her başarılı ekibin açık bir lidere ihtiyacı vardır."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-13",
+        "kind": "word",
+        "term": "society",
+        "type": "isim",
+        "meaning": "toplum, cemiyet",
+        "examples": [
+          {"target": "Education plays a vital role in a healthy {society}.", "source": "Eğitim, sağlıklı bir toplumda hayati bir rol oynar."},
+          {"target": "We all have a responsibility to contribute to {society}.", "source": "Hepimizin topluma katkıda bulunma sorumluluğu var."},
+          {"target": "Technology has changed {society} in ways we never expected.", "source": "Teknoloji toplumu hiç beklemediğimiz biçimlerde değiştirdi."},
+          {"target": "A fair {society} treats all its members with equal respect.", "source": "Adil bir toplum tüm üyelerine eşit saygıyla davranır."},
+          {"target": "She is a valued member of this {society}.", "source": "Bu toplumun değerli bir üyesi."},
+          {"target": "Poverty remains one of the biggest challenges facing {society}.", "source": "Yoksulluk toplumun karşılaştığı en büyük zorluklardan biri olmaya devam ediyor."},
+          {"target": "The book examines the role of women in Victorian {society}.", "source": "Kitap Viktorya dönemindeki toplumda kadının rolünü inceliyor."},
+          {"target": "He dedicated his life to improving {society}.", "source": "Hayatını toplumu iyileştirmeye adadı."},
+          {"target": "Democracy depends on an informed and engaged {society}.", "source": "Demokrasi bilinçli ve katılımcı bir topluma bağlıdır."},
+          {"target": "Art reflects the values and fears of the {society} that creates it.", "source": "Sanat onu yaratan toplumun değerlerini ve korkularını yansıtır."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-05-14",
+        "kind": "word",
+        "term": "tradition",
+        "type": "isim",
+        "meaning": "gelenek, töre",
+        "examples": [
+          {"target": "It is a family {tradition} to gather every Sunday for lunch.", "source": "Her Pazar öğle yemeği için bir araya gelmek aile geleneği."},
+          {"target": "The festival celebrates an old {tradition} dating back centuries.", "source": "Festival yüzyıllara dayanan eski bir geleneği kutluyor."},
+          {"target": "She wanted to honour the {tradition} of her ancestors.", "source": "Atalarının geleneğine saygı göstermek istedi."},
+          {"target": "Breaking with {tradition} can be both exciting and frightening.", "source": "Gelenekten kopmak hem heyecan verici hem de ürkütücü olabilir."},
+          {"target": "The {tradition} of giving gifts at Christmas is very old.", "source": "Noel'de hediye verme geleneği çok eskidir."},
+          {"target": "He studied the oral {traditions} of the indigenous people.", "source": "Yerli halkın sözlü geleneklerini inceledi."},
+          {"target": "Every culture has its own {traditions} and customs.", "source": "Her kültürün kendine özgü gelenekleri ve adetleri vardır."},
+          {"target": "The school has a long {tradition} of academic excellence.", "source": "Okulun akademik mükemmeliyette uzun bir geleneği var."},
+          {"target": "She hoped to pass the {tradition} on to her children.", "source": "Geleneği çocuklarına aktarmayı umuyordu."},
+          {"target": "Some {traditions} evolve over time while others stay the same.", "source": "Bazı gelenekler zaman içinde gelişirken bazıları aynı kalır."}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-06",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 6",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-06-0",
+        "kind": "word",
+        "term": "continue",
+        "type": "fiil",
+        "meaning": "devam etmek, sürmek",
+        "examples": [
+          {"target": "Please {continue} with what you were saying.", "source": "Lütfen söylemeye devam et."},
+          {"target": "The rain {continued} for three days without stopping.", "source": "Yağmur üç gün durmaksızın devam etti."},
+          {"target": "She {continued} working even after everyone else had left.", "source": "Diğer herkes gittikten sonra bile çalışmaya devam etti."},
+          {"target": "He {continued} his studies at a university abroad.", "source": "Eğitimine yurt dışındaki bir üniversitede devam etti."},
+          {"target": "The meeting will {continue} after a short break.", "source": "Toplantı kısa bir aradan sonra devam edecek."},
+          {"target": "Despite the difficulties, they {continued} to move forward.", "source": "Zorluklara rağmen ilerlemeye devam ettiler."},
+          {"target": "The story {continues} in the second book of the series.", "source": "Hikâye serinin ikinci kitabında devam ediyor."},
+          {"target": "We need to {continue} this conversation another time.", "source": "Bu konuşmaya başka bir zaman devam etmemiz gerekiyor."},
+          {"target": "The programme {continues} to attract new participants.", "source": "Program yeni katılımcılar çekmeye devam ediyor."},
+          {"target": "She {continued} to smile even when things were difficult.", "source": "Her şey zor olduğunda bile gülümsemeye devam etti."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-1",
+        "kind": "word",
+        "term": "control",
+        "type": "fiil/isim",
+        "meaning": "kontrol etmek, denetlemek; kontrol, denetim",
+        "examples": [
+          {"target": "She found it hard to {control} her emotions during the speech.", "source": "Konuşma sırasında duygularını kontrol etmeyi zor buldu."},
+          {"target": "The pilot {controlled} the aircraft with great skill.", "source": "Pilot uçağı büyük bir ustalıkla yönetti."},
+          {"target": "The fire was brought under {control} after several hours.", "source": "Yangın birkaç saat sonra kontrol altına alındı."},
+          {"target": "He likes to {control} every detail of the project.", "source": "Projenin her ayrıntısını kontrol etmeyi seviyor."},
+          {"target": "Air traffic {control} guides planes safely to the runway.", "source": "Hava trafik kontrolü uçakları güvenle piste yönlendiriyor."},
+          {"target": "She lost {control} of her car on the icy road.", "source": "Buzlu yolda arabasının kontrolünü kaybetti."},
+          {"target": "Governments try to {control} inflation through economic policy.", "source": "Hükümetler ekonomik politikayla enflasyonu kontrol altında tutmaya çalışır."},
+          {"target": "Keep {control} of your spending to avoid debt.", "source": "Borçtan kaçınmak için harcamalarını kontrol altında tut."},
+          {"target": "The situation was chaotic and completely out of {control}.", "source": "Durum kaotikti ve tamamen kontrolden çıkmıştı."},
+          {"target": "He learned to {control} his temper over the years.", "source": "Yıllar içinde öfkesini kontrol etmeyi öğrendi."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-2",
+        "kind": "word",
+        "term": "create",
+        "type": "fiil",
+        "meaning": "yaratmak, oluşturmak",
+        "examples": [
+          {"target": "She used recycled materials to {create} a beautiful sculpture.", "source": "Güzel bir heykel oluşturmak için geri dönüştürülmüş malzeme kullandı."},
+          {"target": "The new policy will {create} thousands of jobs.", "source": "Yeni politika binlerce iş yaratacak."},
+          {"target": "He {created} a warm atmosphere at every gathering.", "source": "Her buluşmada sıcak bir ortam yarattı."},
+          {"target": "Art allows us to {create} something out of nothing.", "source": "Sanat bize hiçten bir şeyler yaratma imkânı tanır."},
+          {"target": "The chef {created} a new dish using local ingredients.", "source": "Şef yerel malzemeleri kullanarak yeni bir yemek yarattı."},
+          {"target": "Technology has {created} new opportunities for communication.", "source": "Teknoloji iletişim için yeni fırsatlar yarattı."},
+          {"target": "She {created} a study plan to prepare for her exams.", "source": "Sınavlarına hazırlanmak için bir çalışma planı oluşturdu."},
+          {"target": "The noise was {created} by a loose pipe in the wall.", "source": "Gürültü duvardaki gevşek bir borudan kaynaklanıyordu."},
+          {"target": "He wants to {create} a better future for his children.", "source": "Çocukları için daha iyi bir gelecek yaratmak istiyor."},
+          {"target": "{Create} habits that support your long-term goals.", "source": "Uzun vadeli hedeflerini destekleyen alışkanlıklar oluştur."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-3",
+        "kind": "word",
+        "term": "develop",
+        "type": "fiil",
+        "meaning": "geliştirmek; gelişmek, büyümek",
+        "examples": [
+          {"target": "Scientists are working to {develop} a vaccine for the disease.", "source": "Bilim insanları hastalık için aşı geliştirmek üzere çalışıyor."},
+          {"target": "She wants to {develop} her skills in public speaking.", "source": "Topluluk önünde konuşma becerilerini geliştirmek istiyor."},
+          {"target": "The city has {developed} rapidly over the past decade.", "source": "Şehir son on yılda hızla gelişti."},
+          {"target": "Reading regularly helps you {develop} a strong vocabulary.", "source": "Düzenli okumak güçlü bir kelime dağarcığı geliştirmene yardımcı olur."},
+          {"target": "He {developed} an interest in photography at a young age.", "source": "Genç yaşta fotoğrafçılığa ilgi geliştirdi."},
+          {"target": "The company plans to {develop} new products next year.", "source": "Şirket gelecek yıl yeni ürünler geliştirmeyi planlıyor."},
+          {"target": "Children {develop} language skills very quickly.", "source": "Çocuklar dil becerilerini çok hızlı geliştirir."},
+          {"target": "She {developed} a close friendship with her neighbour.", "source": "Komşusuyla yakın bir arkadaşlık geliştirdi."},
+          {"target": "The problem {developed} slowly before anyone noticed.", "source": "Sorun, kimse fark etmeden yavaşça gelişti."},
+          {"target": "He is working hard to {develop} his business.", "source": "İşini geliştirmek için sıkı çalışıyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-4",
+        "kind": "word",
+        "term": "expand",
+        "type": "fiil",
+        "meaning": "genişlemek, büyütmek, yaymak",
+        "examples": [
+          {"target": "The company plans to {expand} into new markets next year.", "source": "Şirket gelecek yıl yeni pazarlara genişlemeyi planlıyor."},
+          {"target": "Metal {expands} when heated and contracts when cooled.", "source": "Metal ısındığında genişler, soğuduğunda büzülür."},
+          {"target": "She wants to {expand} her knowledge of history.", "source": "Tarih bilgisini genişletmek istiyor."},
+          {"target": "The city has {expanded} significantly over the past twenty years.", "source": "Şehir son yirmi yılda önemli ölçüde büyüdü."},
+          {"target": "Can you {expand} on that point a little more?", "source": "Bu konuyu biraz daha açabilir misin?"},
+          {"target": "The airline {expanded} its network to include ten new destinations.", "source": "Havayolu şirketi ağını on yeni destinasyonu kapsayacak şekilde genişletti."},
+          {"target": "Reading {expands} your understanding of the world.", "source": "Okumak dünya anlayışını genişletir."},
+          {"target": "The government plans to {expand} the public transport system.", "source": "Hükümet toplu taşıma sistemini genişletmeyi planlıyor."},
+          {"target": "She {expanded} her business from one shop to a chain of five.", "source": "İşini bir mağazadan beş mağazalı bir zincire büyüttü."},
+          {"target": "The universe has been {expanding} since the Big Bang.", "source": "Evren Büyük Patlama'dan bu yana genişlemeye devam ediyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-5",
+        "kind": "word",
+        "term": "grow",
+        "type": "fiil",
+        "meaning": "büyümek, gelişmek; yetiştirmek",
+        "examples": [
+          {"target": "Children {grow} so fast — it is hard to keep up.", "source": "Çocuklar o kadar hızlı büyüyor ki ayak uydurmak zor."},
+          {"target": "She {grew} up in a small town near the coast.", "source": "Kıyıya yakın küçük bir kasabada büyüdü."},
+          {"target": "He is trying to {grow} vegetables in his garden.", "source": "Bahçesinde sebze yetiştirmeye çalışıyor."},
+          {"target": "The business {grew} quickly thanks to social media.", "source": "İş, sosyal medya sayesinde hızla büyüdü."},
+          {"target": "Her confidence has {grown} a lot this year.", "source": "Özgüveni bu yıl çok arttı."},
+          {"target": "Plants need sunlight and water to {grow}.", "source": "Bitkilerin büyümesi için güneş ışığına ve suya ihtiyaçları var."},
+          {"target": "He {grew} a beard during the winter months.", "source": "Kış aylarında sakal bıraktı."},
+          {"target": "The town has {grown} into a busy city over the decades.", "source": "Kasaba on yıllar içinde hareketli bir şehre dönüştü."},
+          {"target": "She {grew} tired of waiting and left.", "source": "Beklemeye çabuk geldi ve ayrıldı."},
+          {"target": "You have to {grow} through what you go through.", "source": "Yaşadıklarından geçerek büyümek zorundasın."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-6",
+        "kind": "word",
+        "term": "improve",
+        "type": "fiil",
+        "meaning": "geliştirmek, iyileştirmek; gelişmek",
+        "examples": [
+          {"target": "She practises every day to {improve} her guitar playing.", "source": "Gitar çalışını geliştirmek için her gün pratik yapıyor."},
+          {"target": "The weather is expected to {improve} over the weekend.", "source": "Havanın hafta sonu iyileşmesi bekleniyor."},
+          {"target": "He worked hard to {improve} his grades at school.", "source": "Okuldaki notlarını geliştirmek için sıkı çalıştı."},
+          {"target": "The new management has {improved} the service significantly.", "source": "Yeni yönetim hizmeti önemli ölçüde iyileştirdi."},
+          {"target": "Reading every day will {improve} your writing skills.", "source": "Her gün okumak yazma becerilerini geliştirecek."},
+          {"target": "She {improved} steadily throughout the season.", "source": "Sezon boyunca istikrarlı bir şekilde gelişti."},
+          {"target": "There is always room to {improve}, no matter how good you are.", "source": "Ne kadar iyi olursan ol, her zaman gelişim için alan vardır."},
+          {"target": "Exercise can {improve} both your mood and your health.", "source": "Egzersiz hem ruh halini hem de sağlığını iyileştirebilir."},
+          {"target": "The road conditions have {improved} since the repairs.", "source": "Onarımların ardından yol koşulları iyileşti."},
+          {"target": "He is determined to {improve} his communication skills.", "source": "İletişim becerilerini geliştirmeye kararlı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-7",
+        "kind": "word",
+        "term": "increase",
+        "type": "fiil/isim",
+        "meaning": "artmak, artırmak; artış",
+        "examples": [
+          {"target": "The price of food has {increased} sharply this year.", "source": "Bu yıl gıda fiyatları keskin biçimde arttı."},
+          {"target": "Exercise can {increase} your energy levels throughout the day.", "source": "Egzersiz gün boyunca enerji seviyenizi artırabilir."},
+          {"target": "There has been a significant {increase} in online shopping.", "source": "Çevrimiçi alışverişte önemli bir artış oldu."},
+          {"target": "She asked her employer for a pay {increase}.", "source": "İşvereninden maaş zammı istedi."},
+          {"target": "The population of the city {increased} by ten percent last year.", "source": "Şehrin nüfusu geçen yıl yüzde on arttı."},
+          {"target": "Stress can {increase} the risk of heart disease.", "source": "Stres kalp hastalığı riskini artırabilir."},
+          {"target": "The company {increased} production to meet demand.", "source": "Şirket talebi karşılamak için üretimi artırdı."},
+          {"target": "There is an {increase} in the number of students studying abroad.", "source": "Yurt dışında okuyan öğrenci sayısında artış var."},
+          {"target": "The temperature {increased} steadily throughout the afternoon.", "source": "Öğleden sonra boyunca sıcaklık istikrarlı biçimde arttı."},
+          {"target": "She {increased} her pace as she neared the finish line.", "source": "Bitiş çizgisine yaklaştıkça hızını artırdı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-8",
+        "kind": "word",
+        "term": "manage",
+        "type": "fiil",
+        "meaning": "idare etmek, başarmak; yönetmek",
+        "examples": [
+          {"target": "She {manages} a team of twenty people at the company.", "source": "Şirkette yirmi kişilik bir ekibi yönetiyor."},
+          {"target": "He {managed} to finish the project on time despite the challenges.", "source": "Zorluklara rağmen projeyi zamanında bitirmeyi başardı."},
+          {"target": "Can you {manage} without my help?", "source": "Benim yardımım olmadan idare edebilir misin?"},
+          {"target": "She {manages} her time very efficiently.", "source": "Zamanını çok verimli kullanıyor."},
+          {"target": "I don't know how he {manages} to stay so calm.", "source": "Bu kadar sakin kalmayı nasıl başardığını bilmiyorum."},
+          {"target": "The hotel is {managed} by a team of professionals.", "source": "Otel bir profesyoneller ekibi tarafından yönetiliyor."},
+          {"target": "She somehow {managed} to get tickets for the sold-out show.", "source": "Nasıl olduysa tükenen gösteriye bilet almayı başardı."},
+          {"target": "He {manages} stress by exercising every morning.", "source": "Her sabah egzersiz yaparak stresini yönetiyor."},
+          {"target": "The new software helps businesses {manage} their accounts.", "source": "Yeni yazılım işletmelerin hesaplarını yönetmesine yardımcı oluyor."},
+          {"target": "I barely {managed} to catch the last train home.", "source": "Eve giden son treni güçlükle yakaladım."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-9",
+        "kind": "word",
+        "term": "prepare",
+        "type": "fiil",
+        "meaning": "hazırlamak, hazırlanmak",
+        "examples": [
+          {"target": "She spent two hours {preparing} for the job interview.", "source": "İş görüşmesine hazırlanmak için iki saat harcadı."},
+          {"target": "He {prepared} a delicious meal for his guests.", "source": "Misafirleri için lezzetli bir yemek hazırladı."},
+          {"target": "The school {prepares} students for the challenges of adult life.", "source": "Okul öğrencileri yetişkin hayatının zorluklarına hazırlar."},
+          {"target": "We need to {prepare} a detailed report by Friday.", "source": "Cuma gününe kadar ayrıntılı bir rapor hazırlamamız gerekiyor."},
+          {"target": "She {prepared} herself mentally for the difficult conversation.", "source": "Zor konuşma için kendini zihinsel olarak hazırladı."},
+          {"target": "Always {prepare} for the worst and hope for the best.", "source": "Her zaman en kötüsüne hazırlıklı ol ve en iyisini umut et."},
+          {"target": "The chef {prepares} fresh ingredients every morning.", "source": "Şef her sabah taze malzemeleri hazırlıyor."},
+          {"target": "He {prepared} his children for the long journey ahead.", "source": "Çocuklarını ilerideki uzun yolculuğa hazırladı."},
+          {"target": "The army {prepared} for battle by training for months.", "source": "Ordu aylarca eğitim yaparak savaşa hazırlandı."},
+          {"target": "Make sure you are {prepared} before the exam.", "source": "Sınav öncesinde hazırlıklı olduğundan emin ol."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-10",
+        "kind": "word",
+        "term": "produce",
+        "type": "fiil/isim",
+        "meaning": "üretmek, meydana getirmek; ürün",
+        "examples": [
+          {"target": "The factory {produces} over a thousand cars every day.", "source": "Fabrika her gün binden fazla araba üretiyor."},
+          {"target": "She {produced} a brilliant piece of writing for the competition.", "source": "Yarışma için parlak bir yazı üretti."},
+          {"target": "The farm {produces} fresh vegetables and eggs.", "source": "Çiftlik taze sebze ve yumurta üretiyor."},
+          {"target": "Hard work {produces} results — never give up.", "source": "Sıkı çalışma sonuç verir — asla vazgeçme."},
+          {"target": "He {produced} a series of successful films in the 1980s.", "source": "1980'lerde bir dizi başarılı film üretti."},
+          {"target": "The country {produces} large amounts of coffee for export.", "source": "Ülke ihracat için büyük miktarda kahve üretiyor."},
+          {"target": "The sun {produces} energy that powers life on Earth.", "source": "Güneş Dünya'daki yaşama güç veren enerji üretir."},
+          {"target": "Fresh {produce} from local farms is sold at the market.", "source": "Yerel çiftliklerin taze ürünleri pazarda satılıyor."},
+          {"target": "She {produced} evidence to support her argument.", "source": "Argümanını desteklemek için kanıt sundu."},
+          {"target": "The workshop {produces} handmade goods sold worldwide.", "source": "Atölye dünya genelinde satılan el yapımı ürünler üretiyor."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-11",
+        "kind": "word",
+        "term": "reduce",
+        "type": "fiil",
+        "meaning": "azaltmak, düşürmek",
+        "examples": [
+          {"target": "We need to {reduce} the amount of plastic we use.", "source": "Kullandığımız plastik miktarını azaltmamız gerekiyor."},
+          {"target": "Exercise can {reduce} the risk of many serious illnesses.", "source": "Egzersiz pek çok ciddi hastalık riskini azaltabilir."},
+          {"target": "The company {reduced} its prices to attract more customers.", "source": "Şirket daha fazla müşteri çekmek için fiyatlarını düşürdü."},
+          {"target": "She {reduced} her working hours after having a baby.", "source": "Bebek doğduktan sonra çalışma saatlerini azalttı."},
+          {"target": "The new medicine helps to {reduce} pain effectively.", "source": "Yeni ilaç ağrıyı etkili biçimde azaltmaya yardımcı oluyor."},
+          {"target": "Turning off lights when not needed will {reduce} energy bills.", "source": "Gereksiz yerde ışıkları kapatmak enerji faturalarını düşürür."},
+          {"target": "The government aims to {reduce} unemployment by five percent.", "source": "Hükümet işsizliği yüzde beş azaltmayı hedefliyor."},
+          {"target": "Deep breathing can help {reduce} stress and anxiety.", "source": "Derin nefes alma stres ve kaygıyı azaltmaya yardımcı olabilir."},
+          {"target": "The sauce needs to {reduce} on low heat for ten minutes.", "source": "Sosun kısık ateşte on dakika koyulaşması gerekiyor."},
+          {"target": "Recycling helps {reduce} the amount of waste going to landfill.", "source": "Geri dönüşüm çöp depolama alanına giden atık miktarını azaltmaya yardımcı olur."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-12",
+        "kind": "word",
+        "term": "replace",
+        "type": "fiil",
+        "meaning": "değiştirmek, yerine koymak",
+        "examples": [
+          {"target": "She needed to {replace} the broken screen on her phone.", "source": "Telefonunun kırık ekranını değiştirmesi gerekiyordu."},
+          {"target": "He was {replaced} by a younger manager after retiring.", "source": "Emekli olduktan sonra daha genç bir yöneticiyle değiştirildi."},
+          {"target": "Nothing can ever {replace} a real human connection.", "source": "Hiçbir şey gerçek bir insan bağının yerini alamaz."},
+          {"target": "The company {replaced} all its old computers with new ones.", "source": "Şirket tüm eski bilgisayarlarını yenileriyle değiştirdi."},
+          {"target": "Can you {replace} the milk we used this morning?", "source": "Bu sabah kullandığımız sütü alabilir misin?"},
+          {"target": "Renewable energy will gradually {replace} fossil fuels.", "source": "Yenilenebilir enerji zamanla fosil yakıtların yerini alacak."},
+          {"target": "The worn tyres need to be {replaced} before winter.", "source": "Aşınmış lastiklerin kıştan önce değiştirilmesi gerekiyor."},
+          {"target": "She {replaced} the old curtains with something brighter.", "source": "Eski perdeleri daha parlak bir şeyle değiştirdi."},
+          {"target": "Automation is {replacing} many jobs that used to be done by people.", "source": "Otomasyon, insanların yaptığı pek çok işin yerini alıyor."},
+          {"target": "Please {replace} the lid after using the container.", "source": "Kabı kullandıktan sonra lütfen kapağı yerine koyun."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-13",
+        "kind": "word",
+        "term": "result",
+        "type": "isim/fiil",
+        "meaning": "sonuç; sonuçlanmak",
+        "examples": [
+          {"target": "The {result} of the election surprised everyone.", "source": "Seçim sonucu herkesi şaşırttı."},
+          {"target": "Hard work usually {results} in success.", "source": "Sıkı çalışma genellikle başarıyla sonuçlanır."},
+          {"target": "She was pleased with the {result} of her efforts.", "source": "Çabalarının sonucundan memnundu."},
+          {"target": "The accident {resulted} in serious injuries.", "source": "Kaza ciddi yaralanmalarla sonuçlandı."},
+          {"target": "The test {results} will be available next week.", "source": "Test sonuçları gelecek hafta açıklanacak."},
+          {"target": "What was the final {result} of the match?", "source": "Maçın nihai sonucu neydi?"},
+          {"target": "Poor planning often {results} in wasted time and money.", "source": "Kötü planlama çoğunlukla zaman ve para israfıyla sonuçlanır."},
+          {"target": "The {result} of the experiment confirmed our hypothesis.", "source": "Deneyin sonucu hipotezimizi doğruladı."},
+          {"target": "She achieved great {results} through consistent effort.", "source": "Tutarlı çabayla harika sonuçlar elde etti."},
+          {"target": "His actions {resulted} in a major change in company policy.", "source": "Eylemleri şirket politikasında büyük bir değişiklikle sonuçlandı."}
+        ]
+      },
+      {
+        "id": "en-tr-beginner-06-14",
+        "kind": "word",
+        "term": "support",
+        "type": "fiil/isim",
+        "meaning": "desteklemek; destek",
+        "examples": [
+          {"target": "She always {supports} her friends when they are going through hard times.", "source": "Arkadaşları zor dönemlerden geçerken her zaman onları destekler."},
+          {"target": "The government {supports} small businesses with grants.", "source": "Hükümet küçük işletmeleri hibe ile destekliyor."},
+          {"target": "The wooden beam {supports} the entire roof.", "source": "Ahşap kiriş tüm çatıyı destekliyor."},
+          {"target": "He gave her emotional {support} during a difficult time.", "source": "Zor bir dönemde ona duygusal destek verdi."},
+          {"target": "The data {supports} the conclusion of the report.", "source": "Veriler raporun sonucunu destekliyor."},
+          {"target": "Thousands of fans came to {support} the team.", "source": "Binlerce taraftar takımı desteklemeye geldi."},
+          {"target": "She relies on the {support} of her family.", "source": "Ailesinin desteğine güveniyor."},
+          {"target": "The charity {supports} homeless people in the city.", "source": "Hayır kurumu şehirdeki evsiz insanları destekliyor."},
+          {"target": "Please {support} local businesses whenever possible.", "source": "Mümkün olduğunda lütfen yerel işletmeleri destekleyin."},
+          {"target": "He {supported} the idea from the very beginning.", "source": "Fikri en başından beri destekledi."}
+        ]
+      }
+    ]
+  }
+]

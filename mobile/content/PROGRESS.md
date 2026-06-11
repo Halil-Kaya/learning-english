@@ -6,7 +6,7 @@
 ## Durum: Faz 0 Tamamlandı
 
 - [x] Faz 0 — Altyapı (validate-catalog.mjs, PROGRESS.md, create-set arama özelliği)
-- [ ] Parti 1 — Kelimeler 1–150 (sıklık: Başlangıç 1–10)
+- [x] Parti 1 — Kelimeler 1–150 (sıklık: Başlangıç 1–10) ✓ 2026-06-11
 - [ ] Parti 2 — Kelimeler 151–300
 - [ ] Parti 3 — Kelimeler 301–450
 - [ ] Parti 4 — Kelimeler 451–600
@@ -46,15 +46,15 @@
 
 ## Mevcut Katalog Durumu
 
-- Mevcut set sayısı: 33 (Set 1–33, orijinal web setleri)
-- Mevcut girdi sayısı: 496
+- Mevcut set sayısı: 43 (Set 1–33 orijinal + Başlangıç 1–10 Parti 1)
+- Mevcut girdi sayısı: 646
 - Son güncelleme: 2026-06-11
 
 ## Sıradaki Adım
 
-**Parti 1** — Başlangıç kelimeler, sıklık 1–150
+**Parti 2** — Başlangıç kelimeler, sıklık 151–300 (Başlangıç 11–20)
 
-"Devam et" veya "kelime partisine başla" dediğinde buradan başlanacak.
+"Devam et" dediğinde buradan devam edilecek.
 
 ## Kurallar (Hatırlatma)
 
