@@ -1,0 +1,2237 @@
+[
+  {
+    "id": "en-tr-beginner-11",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 11",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-11-0",
+        "kind": "word",
+        "term": "borrow",
+        "type": "fiil",
+        "meaning": "ödünç almak, borç almak",
+        "examples": [
+          {
+            "target": "Can I {borrow} your pen for a moment?",
+            "source": "Kısa bir süre için kaleminizi ödünç alabilir miyim?"
+          },
+          {
+            "target": "She {borrowed} money from her friend to pay the rent.",
+            "source": "Kirayı ödemek için arkadaşından para ödünç aldı."
+          },
+          {
+            "target": "He often {borrows} books from the library.",
+            "source": "Kütüphaneden sık sık kitap ödünç alır."
+          },
+          {
+            "target": "May I {borrow} your umbrella — it has started to rain?",
+            "source": "Şemsiyeni ödünç alabilir miyim — yağmur başladı?"
+          },
+          {
+            "target": "She {borrowed} the recipe from her grandmother.",
+            "source": "Tarifi büyükannesinden aldı."
+          },
+          {
+            "target": "He {borrows} without asking and never returns things.",
+            "source": "Sormadan ödünç alır ve hiçbir şeyi geri vermez."
+          },
+          {
+            "target": "I need to {borrow} a ladder to fix the roof.",
+            "source": "Çatıyı onarmak için merdiven ödünç almam gerekiyor."
+          },
+          {
+            "target": "She {borrowed} her sister's dress for the wedding.",
+            "source": "Düğün için kız kardeşinin elbisesini ödünç aldı."
+          },
+          {
+            "target": "Can I {borrow} your phone charger — mine is broken?",
+            "source": "Telefon şarjını ödünç alabilir miyim — benimki bozuk?"
+          },
+          {
+            "target": "He {borrowed} the idea from an article he had read.",
+            "source": "Fikri okuduğu bir makaleden aldı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-1",
+        "kind": "word",
+        "term": "cancel",
+        "type": "fiil",
+        "meaning": "iptal etmek, vazgeçmek",
+        "examples": [
+          {
+            "target": "She had to {cancel} her dentist appointment.",
+            "source": "Diş hekimi randevusunu iptal etmek zorunda kaldı."
+          },
+          {
+            "target": "The airline {cancelled} the flight due to bad weather.",
+            "source": "Havayolu kötü hava nedeniyle uçuşu iptal etti."
+          },
+          {
+            "target": "He {cancelled} his gym membership after two months.",
+            "source": "İki ay sonra spor salonu üyeliğini iptal etti."
+          },
+          {
+            "target": "Please {cancel} my subscription if I don't reply.",
+            "source": "Cevap vermezsem aboneliğimi iptal edin lütfen."
+          },
+          {
+            "target": "The concert was {cancelled} at the last minute.",
+            "source": "Konser son dakikada iptal edildi."
+          },
+          {
+            "target": "She {cancelled} the meeting and rescheduled for next week.",
+            "source": "Toplantıyı iptal edip gelecek haftaya erteledi."
+          },
+          {
+            "target": "The order was {cancelled} before it was shipped.",
+            "source": "Sipariş gönderilmeden önce iptal edildi."
+          },
+          {
+            "target": "He asked the hotel to {cancel} his reservation.",
+            "source": "Otelden rezervasyonunu iptal etmesini istedi."
+          },
+          {
+            "target": "The sports event was {cancelled} because of heavy rain.",
+            "source": "Spor etkinliği yoğun yağmur nedeniyle iptal edildi."
+          },
+          {
+            "target": "Can I {cancel} my order if it hasn't been shipped yet?",
+            "source": "Sipariş henüz gönderilmediyse iptal edebilir miyim?"
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-2",
+        "kind": "word",
+        "term": "charge",
+        "type": "fiil/isim",
+        "meaning": "ücretlendirmek; şarj etmek; suçlamak; ücret, şarj",
+        "examples": [
+          {
+            "target": "The restaurant {charged} us extra for the service.",
+            "source": "Restoran servis için bize fazladan ücret kesti."
+          },
+          {
+            "target": "I need to {charge} my phone before we leave.",
+            "source": "Gitmeden önce telefonumu şarj etmem gerekiyor."
+          },
+          {
+            "target": "He was {charged} with theft by the police.",
+            "source": "Polis tarafından hırsızlıkla suçlandı."
+          },
+          {
+            "target": "There is no extra {charge} for using the pool.",
+            "source": "Havuzu kullanmak için fazladan ücret alınmıyor."
+          },
+          {
+            "target": "She {charged} her laptop overnight to be ready in the morning.",
+            "source": "Sabah hazır olması için laptopunu gece boyunca şarj etti."
+          },
+          {
+            "target": "The museum does not {charge} children under five.",
+            "source": "Müze beş yaşın altındaki çocuklardan ücret almıyor."
+          },
+          {
+            "target": "How much do you {charge} for a one-hour lesson?",
+            "source": "Bir saatlik ders için ne kadar ücret alıyorsunuz?"
+          },
+          {
+            "target": "The battery is low — please put it on {charge}.",
+            "source": "Pil az — lütfen şarj edin."
+          },
+          {
+            "target": "She is in {charge} of the entire project.",
+            "source": "Tüm projenin sorumluluğu onda."
+          },
+          {
+            "target": "He {charged} into the room without knocking.",
+            "source": "Kapıyı çalmadan odaya daldı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-3",
+        "kind": "word",
+        "term": "clean",
+        "type": "fiil/sıfat",
+        "meaning": "temizlemek; temiz",
+        "examples": [
+          {
+            "target": "She spent the morning {cleaning} the kitchen.",
+            "source": "Sabahı mutfağı temizleyerek geçirdi."
+          },
+          {
+            "target": "The table is not {clean} — please wipe it again.",
+            "source": "Masa temiz değil — lütfen tekrar sil."
+          },
+          {
+            "target": "He always {cleans} his shoes before an important meeting.",
+            "source": "Önemli bir toplantıdan önce her zaman ayakkabılarını temizler."
+          },
+          {
+            "target": "Please {clean} your room before your guests arrive.",
+            "source": "Misafirleriniz gelmeden önce lütfen odanı temizle."
+          },
+          {
+            "target": "The water here is {clean} and safe to drink.",
+            "source": "Buradaki su temiz ve içmesi güvenli."
+          },
+          {
+            "target": "She {cleaned} the wound carefully before bandaging it.",
+            "source": "Sarmadan önce yarayı dikkatle temizledi."
+          },
+          {
+            "target": "A {clean} environment helps people feel more focused.",
+            "source": "Temiz bir ortam insanların daha odaklanmış hissetmesine yardımcı olur."
+          },
+          {
+            "target": "He {cleaned} out his car before the long road trip.",
+            "source": "Uzun yol gezisinden önce arabasını temizledi."
+          },
+          {
+            "target": "The windows are finally {clean} after all that rain.",
+            "source": "Tüm o yağmurun ardından pencereler sonunda temiz."
+          },
+          {
+            "target": "She uses natural products to {clean} the house.",
+            "source": "Evi temizlemek için doğal ürünler kullanıyor."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-4",
+        "kind": "word",
+        "term": "connect",
+        "type": "fiil",
+        "meaning": "bağlamak, bağlantı kurmak",
+        "examples": [
+          {
+            "target": "Can you help me {connect} the printer to my laptop?",
+            "source": "Yazıcıyı laptopuma bağlamama yardımcı olabilir misin?"
+          },
+          {
+            "target": "The bridge {connects} the two parts of the city.",
+            "source": "Köprü şehrin iki bölümünü birbirine bağlıyor."
+          },
+          {
+            "target": "She found it hard to {connect} with people in a new city.",
+            "source": "Yeni bir şehirde insanlarla bağlantı kurmayı zor buldu."
+          },
+          {
+            "target": "He {connected} his phone to the speaker via Bluetooth.",
+            "source": "Telefonunu Bluetooth aracılığıyla hoparlöre bağladı."
+          },
+          {
+            "target": "The tunnel {connects} the two countries under the sea.",
+            "source": "Tünel iki ülkeyi denizin altından birbirine bağlıyor."
+          },
+          {
+            "target": "Music can {connect} people from very different backgrounds.",
+            "source": "Müzik çok farklı geçmişlere sahip insanları birbirine bağlayabilir."
+          },
+          {
+            "target": "I can't {connect} to the internet — the signal is weak.",
+            "source": "İnternete bağlanamıyorum — sinyal zayıf."
+          },
+          {
+            "target": "The two events are {connected} — one caused the other.",
+            "source": "İki olay birbiriyle bağlantılı — biri diğerine yol açtı."
+          },
+          {
+            "target": "She felt instantly {connected} to her new colleagues.",
+            "source": "Yeni meslektaşlarıyla anında bir bağ kurdu."
+          },
+          {
+            "target": "The new road will {connect} the village to the main highway.",
+            "source": "Yeni yol köyü ana karayoluna bağlayacak."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-5",
+        "kind": "word",
+        "term": "delay",
+        "type": "fiil/isim",
+        "meaning": "geciktirmek, ertelemek; gecikme",
+        "examples": [
+          {
+            "target": "The storm {delayed} the flight by two hours.",
+            "source": "Fırtına uçuşu iki saat geciktirdi."
+          },
+          {
+            "target": "Please don't {delay} — the meeting starts soon.",
+            "source": "Lütfen gecikme — toplantı yakında başlıyor."
+          },
+          {
+            "target": "There was a long {delay} at the border crossing.",
+            "source": "Sınır kapısında uzun bir gecikme yaşandı."
+          },
+          {
+            "target": "She {delayed} her decision until she had all the facts.",
+            "source": "Tüm gerçeklere sahip olana kadar kararını erteledi."
+          },
+          {
+            "target": "The construction caused serious {delays} on the main road.",
+            "source": "İnşaat ana yolda ciddi gecikmelere yol açtı."
+          },
+          {
+            "target": "He {delayed} replying to the email for three days.",
+            "source": "E-postayı yanıtlamayı üç gün erteledi."
+          },
+          {
+            "target": "Any further {delay} could put the whole project at risk.",
+            "source": "Daha fazla gecikme tüm projeyi tehlikeye atabilir."
+          },
+          {
+            "target": "The train was {delayed} by fifteen minutes.",
+            "source": "Tren on beş dakika geç kaldı."
+          },
+          {
+            "target": "She apologised for the {delay} in responding.",
+            "source": "Yanıt vermedeki gecikme için özür diledi."
+          },
+          {
+            "target": "Don't {delay} seeing a doctor if you feel unwell.",
+            "source": "Kendinizi iyi hissetmiyorsanız doktora gitmeyi ertelemeyin."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-6",
+        "kind": "word",
+        "term": "deliver",
+        "type": "fiil",
+        "meaning": "teslim etmek, ulaştırmak; sunmak",
+        "examples": [
+          {
+            "target": "The courier {delivered} the package to the wrong address.",
+            "source": "Kurye paketi yanlış adrese teslim etti."
+          },
+          {
+            "target": "She promised to {deliver} the report by Friday.",
+            "source": "Raporu Cuma'ya kadar teslim edeceğine söz verdi."
+          },
+          {
+            "target": "The shop {delivers} to all parts of the country.",
+            "source": "Dükkan ülkenin her yerine teslimat yapıyor."
+          },
+          {
+            "target": "He {delivered} a powerful speech that moved the audience.",
+            "source": "İzleyiciyi etkileyen güçlü bir konuşma yaptı."
+          },
+          {
+            "target": "The doctor {delivered} good news — all results were normal.",
+            "source": "Doktor iyi haber getirdi — tüm sonuçlar normaldi."
+          },
+          {
+            "target": "The milk is {delivered} fresh every morning.",
+            "source": "Süt her sabah taze olarak teslim ediliyor."
+          },
+          {
+            "target": "He {delivered} his lines perfectly in the play.",
+            "source": "Oyunda repliklerini mükemmel biçimde seslendirdi."
+          },
+          {
+            "target": "Can you {deliver} this letter to the principal?",
+            "source": "Bu mektubu müdüre ulaştırabilir misin?"
+          },
+          {
+            "target": "The pizza was {delivered} in under thirty minutes.",
+            "source": "Pizza otuz dakikadan kısa sürede teslim edildi."
+          },
+          {
+            "target": "She always {delivers} on her promises.",
+            "source": "Sözlerini her zaman tutar."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-7",
+        "kind": "word",
+        "term": "depend",
+        "type": "fiil",
+        "meaning": "bağlı olmak, güvenmek; değişmek",
+        "examples": [
+          {
+            "target": "Children {depend} on their parents for food and shelter.",
+            "source": "Çocuklar yiyecek ve barınak için ebeveynlerine bağlıdır."
+          },
+          {
+            "target": "The result will {depend} on how hard you work.",
+            "source": "Sonuç ne kadar çok çalıştığına bağlı olacak."
+          },
+          {
+            "target": "She {depends} on coffee to get through the morning.",
+            "source": "Sabahı atlatmak için kahveye bağımlıdır."
+          },
+          {
+            "target": "It {depends} on the weather — we might go or not.",
+            "source": "Havaya bağlı — gidebiliriz de gitmeyebiliriz de."
+          },
+          {
+            "target": "You can always {depend} on him — he never lets you down.",
+            "source": "Her zaman ona güvenebilirsin — hiç hayal kırıklığına uğratmaz."
+          },
+          {
+            "target": "The success of the plan {depends} on everyone's cooperation.",
+            "source": "Planın başarısı herkesin iş birliğine bağlı."
+          },
+          {
+            "target": "She doesn't like to {depend} on others for help.",
+            "source": "Yardım için başkalarına bağlı olmaktan hoşlanmıyor."
+          },
+          {
+            "target": "The price {depends} on the size you choose.",
+            "source": "Fiyat seçtiğiniz boyuta göre değişir."
+          },
+          {
+            "target": "He {depended} on his instincts in difficult situations.",
+            "source": "Zor durumlarda içgüdülerine güvendi."
+          },
+          {
+            "target": "Whether we succeed {depends} entirely on our preparation.",
+            "source": "Başarıp başaramayacağımız tamamen hazırlığımıza bağlı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-8",
+        "kind": "word",
+        "term": "divide",
+        "type": "fiil",
+        "meaning": "bölmek, paylaştırmak; ayrılmak",
+        "examples": [
+          {
+            "target": "She {divided} the cake equally among the children.",
+            "source": "Pastayı çocuklar arasında eşit olarak böldü."
+          },
+          {
+            "target": "The river {divides} the city into two parts.",
+            "source": "Nehir şehri ikiye böler."
+          },
+          {
+            "target": "Eight {divided} by two is four.",
+            "source": "Sekizi ikiye bölersek dört eder."
+          },
+          {
+            "target": "The issue {divided} the country — half for, half against.",
+            "source": "Mesele ülkeyi ikiye böldü — yarısı lehte, yarısı aleyhte."
+          },
+          {
+            "target": "He {divided} the work fairly between the two teams.",
+            "source": "İşi iki takım arasında adil biçimde paylaştırdı."
+          },
+          {
+            "target": "The path {divides} here — take the one on the left.",
+            "source": "Yol burada ikiye ayrılıyor — soldakini al."
+          },
+          {
+            "target": "They {divided} the profits according to each person's share.",
+            "source": "Kârı her kişinin payına göre böldüler."
+          },
+          {
+            "target": "A curtain {divided} the room into two sections.",
+            "source": "Bir perde odayı iki bölüme ayırıyordu."
+          },
+          {
+            "target": "The class was {divided} into groups of four.",
+            "source": "Sınıf dört kişilik gruplara bölündü."
+          },
+          {
+            "target": "The topic {divides} opinion — there is no easy answer.",
+            "source": "Konu görüşleri birbirinden ayırıyor — kolay bir cevabı yok."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-9",
+        "kind": "word",
+        "term": "draw",
+        "type": "fiil/isim",
+        "meaning": "çizmek; çekmek; beraberlik",
+        "examples": [
+          {
+            "target": "She loves to {draw} portraits of the people she meets.",
+            "source": "Tanıştığı insanların portrelerini çizmeyi seviyor."
+          },
+          {
+            "target": "He {drew} a map to help his friend find the place.",
+            "source": "Arkadaşının yeri bulmasına yardımcı olmak için bir harita çizdi."
+          },
+          {
+            "target": "The film {drew} large audiences every weekend.",
+            "source": "Film her hafta sonu büyük kitleler çekti."
+          },
+          {
+            "target": "She {drew} a deep breath before stepping onto the stage.",
+            "source": "Sahneye adım atmadan önce derin bir nefes çekti."
+          },
+          {
+            "target": "The match ended in a {draw} — nobody won.",
+            "source": "Maç beraberlikle bitti — kimse kazanamadı."
+          },
+          {
+            "target": "He can {draw} very well — his sketches look like photographs.",
+            "source": "Çok iyi çizim yapabiliyor — eskizleri fotoğraf gibi görünüyor."
+          },
+          {
+            "target": "The advertisement {drew} attention to the new product.",
+            "source": "Reklam yeni ürüne dikkat çekti."
+          },
+          {
+            "target": "She {drew} the curtains to block out the light.",
+            "source": "Işığı kapatmak için perdeleri çekti."
+          },
+          {
+            "target": "Children often {draw} pictures of their families.",
+            "source": "Çocuklar sık sık ailelerinin resimlerini çizer."
+          },
+          {
+            "target": "The speech {drew} a standing ovation from the crowd.",
+            "source": "Konuşma kalabalıktan ayakta alkış aldı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-10",
+        "kind": "word",
+        "term": "dress",
+        "type": "fiil/isim",
+        "meaning": "giyinmek, giydirmek; elbise",
+        "examples": [
+          {
+            "target": "She {dressed} quickly because she was running late.",
+            "source": "Geç kaldığı için çabucak giyindi."
+          },
+          {
+            "target": "He always {dresses} well for work.",
+            "source": "İşe her zaman iyi giyinir."
+          },
+          {
+            "target": "She wore a beautiful red {dress} to the wedding.",
+            "source": "Düğüne güzel bir kırmızı elbise giydi."
+          },
+          {
+            "target": "He {dressed} the wound with a clean bandage.",
+            "source": "Yarayı temiz bir sargıyla sardı."
+          },
+          {
+            "target": "The children {dressed} up as superheroes for the party.",
+            "source": "Çocuklar parti için süper kahraman kıyafeti giydi."
+          },
+          {
+            "target": "Please {dress} warmly — it is cold outside today.",
+            "source": "Lütfen sıcak giy — bugün dışarısı soğuk."
+          },
+          {
+            "target": "She bought a new {dress} for the celebration.",
+            "source": "Kutlama için yeni bir elbise satın aldı."
+          },
+          {
+            "target": "He helped his young daughter {dress} in the morning.",
+            "source": "Sabah küçük kızının giyinmesine yardım etti."
+          },
+          {
+            "target": "The actor {dressed} as a soldier for the film.",
+            "source": "Oyuncu film için asker kıyafeti giydi."
+          },
+          {
+            "target": "A long white {dress} hung in the window of the boutique.",
+            "source": "Butik vitrinine uzun beyaz bir elbise asılmıştı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-11",
+        "kind": "word",
+        "term": "escape",
+        "type": "fiil/isim",
+        "meaning": "kaçmak, kurtulmak; kaçış",
+        "examples": [
+          {
+            "target": "The prisoner tried to {escape} but was caught.",
+            "source": "Mahkum kaçmaya çalıştı ama yakalandı."
+          },
+          {
+            "target": "She managed to {escape} the burning building safely.",
+            "source": "Yanan binadan sağ salim çıkmayı başardı."
+          },
+          {
+            "target": "He used humour as an {escape} from his worries.",
+            "source": "Endişelerinden kaçmak için mizahı kullandı."
+          },
+          {
+            "target": "The cat {escaped} through a hole in the fence.",
+            "source": "Kedi çitteki bir delikten kaçtı."
+          },
+          {
+            "target": "She took a holiday to {escape} the stress of everyday life.",
+            "source": "Günlük hayatın stresinden kaçmak için tatile çıktı."
+          },
+          {
+            "target": "The children planned a daring {escape} from the classroom.",
+            "source": "Çocuklar sınıftan cesur bir kaçış planladı."
+          },
+          {
+            "target": "He narrowly {escaped} being hit by the car.",
+            "source": "Araba çarpmaktan kıl payı kurtuldu."
+          },
+          {
+            "target": "There is no {escape} from responsibility — you must face it.",
+            "source": "Sorumluluktan kaçış yoktur — onunla yüzleşmelisiniz."
+          },
+          {
+            "target": "A few fish had {escaped} from the tank overnight.",
+            "source": "Birkaç balık gece boyunca tanktan kaçmıştı."
+          },
+          {
+            "target": "She found {escape} in books when life felt overwhelming.",
+            "source": "Hayat bunaltıcı geldiğinde kitaplarda kaçış bulurdu."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-12",
+        "kind": "word",
+        "term": "fail",
+        "type": "fiil",
+        "meaning": "başarısız olmak, başaramamak; yetmemek",
+        "examples": [
+          {
+            "target": "He {failed} his driving test twice before passing.",
+            "source": "Geçmeden önce sürüş sınavında iki kez başarısız oldu."
+          },
+          {
+            "target": "The plan {failed} because of poor communication.",
+            "source": "Plan yetersiz iletişim nedeniyle başarısız oldu."
+          },
+          {
+            "target": "Don't be afraid to {fail} — it is how we learn.",
+            "source": "Başarısız olmaktan korkma — böyle öğreniriz."
+          },
+          {
+            "target": "The engine {failed} just as they were leaving the city.",
+            "source": "Şehri terk ederken motor bozuldu."
+          },
+          {
+            "target": "She {failed} to mention the most important detail.",
+            "source": "En önemli ayrıntıyı söylemeyi unuttu."
+          },
+          {
+            "target": "He {failed} his exam but studied harder and tried again.",
+            "source": "Sınavdan kaldı ama daha sıkı çalışıp tekrar denedi."
+          },
+          {
+            "target": "The business {failed} after only six months.",
+            "source": "İşletme yalnızca altı ay sonra çöktü."
+          },
+          {
+            "target": "Words {fail} me — I cannot describe how grateful I am.",
+            "source": "Kelimeler yetersiz kalıyor — ne kadar minnettar olduğumu anlatamam."
+          },
+          {
+            "target": "The crop {failed} because of the severe drought.",
+            "source": "Ürün ağır kuraklık nedeniyle yetişmedi."
+          },
+          {
+            "target": "She never {fails} to make everyone feel welcome.",
+            "source": "Herkesi karşılamayı hiç ihmal etmez."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-13",
+        "kind": "word",
+        "term": "hire",
+        "type": "fiil/isim",
+        "meaning": "işe almak, kiralamak; kiralama",
+        "examples": [
+          {
+            "target": "The company decided to {hire} ten new engineers.",
+            "source": "Şirket on yeni mühendis işe almaya karar verdi."
+          },
+          {
+            "target": "She was {hired} straight after her interview.",
+            "source": "Mülakatın hemen ardından işe alındı."
+          },
+          {
+            "target": "He {hired} a car for the week to explore the countryside.",
+            "source": "Kırsal bölgeyi keşfetmek için bir haftalığına araba kiraladı."
+          },
+          {
+            "target": "They are looking to {hire} someone with marketing experience.",
+            "source": "Pazarlama deneyimi olan birini işe almak istiyorlar."
+          },
+          {
+            "target": "She {hired} a cleaner to help with the house once a week.",
+            "source": "Haftada bir kez eve yardımcı olması için bir temizlikçi tuttu."
+          },
+          {
+            "target": "The theatre {hires} costumes for its productions.",
+            "source": "Tiyatro prodüksiyonları için kostüm kiralıyor."
+          },
+          {
+            "target": "He was nervous on his first day after being {hired}.",
+            "source": "İşe alındıktan sonraki ilk gününde gergin hissetti."
+          },
+          {
+            "target": "They plan to {hire} more staff before the busy season.",
+            "source": "Yoğun sezon öncesinde daha fazla personel almayı planlıyorlar."
+          },
+          {
+            "target": "She runs a bicycle {hire} business near the beach.",
+            "source": "Plaj yakınında bisiklet kiralama işletmesi yürütüyor."
+          },
+          {
+            "target": "He was {hired} on a three-month contract to begin with.",
+            "source": "Başlangıçta üç aylık sözleşmeyle işe alındı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-11-14",
+        "kind": "word",
+        "term": "pack",
+        "type": "fiil/isim",
+        "meaning": "paketlemek, bavula koymak; paket, çanta",
+        "examples": [
+          {
+            "target": "She started to {pack} her suitcase the night before the trip.",
+            "source": "Yolculuktan bir gece önce bavulunu hazırlamaya başladı."
+          },
+          {
+            "target": "He {packed} his lunch in the morning before leaving.",
+            "source": "Sabah çıkmadan önce öğle yemeğini hazırladı."
+          },
+          {
+            "target": "Don't forget to {pack} a warm jumper — the nights are cold.",
+            "source": "Sıcak bir kazak koymayı unutma — geceler soğuk."
+          },
+          {
+            "target": "The stadium was {packed} with excited supporters.",
+            "source": "Stadyum heyecanlı taraftarlarla dolup taşıyordu."
+          },
+          {
+            "target": "She bought a {pack} of cards at the corner shop.",
+            "source": "Köşedeki dükkandan bir paket iskambil kartı satın aldı."
+          },
+          {
+            "target": "He {packed} all his belongings into three boxes.",
+            "source": "Tüm eşyalarını üç kutuya sığdırdı."
+          },
+          {
+            "target": "A wolf {pack} was spotted near the village.",
+            "source": "Köyün yakınında bir kurt sürüsü görüldü."
+          },
+          {
+            "target": "She {packed} the fragile items carefully with bubble wrap.",
+            "source": "Kırılgan eşyaları özenle balonlu ambalajla sardı."
+          },
+          {
+            "target": "He always {packs} light when travelling for business.",
+            "source": "İş seyahatlerinde her zaman az eşya alır."
+          },
+          {
+            "target": "The bus was {packed} and there was no room to sit.",
+            "source": "Otobüs tıklım tıklım doluydu ve oturacak yer yoktu."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-12",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 12",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-12-0",
+        "kind": "word",
+        "term": "assume",
+        "type": "fiil",
+        "meaning": "varsaymak, farz etmek; üstlenmek",
+        "examples": [
+          {
+            "target": "Don't {assume} you know what someone is thinking.",
+            "source": "Birinin ne düşündüğünü bildiğini varsayma."
+          },
+          {
+            "target": "She {assumed} the position of manager after he retired.",
+            "source": "O emekli olduktan sonra müdür pozisyonunu üstlendi."
+          },
+          {
+            "target": "He {assumed} that the meeting was at three o'clock.",
+            "source": "Toplantının saat üçte olduğunu varsaydı."
+          },
+          {
+            "target": "I {assumed} everything was fine because no one complained.",
+            "source": "Kimse şikâyet etmediği için her şeyin yolunda olduğunu varsaydım."
+          },
+          {
+            "target": "She {assumed} full responsibility for the error.",
+            "source": "Hata için tam sorumluluğu üstlendi."
+          },
+          {
+            "target": "Never {assume} — always check the facts first.",
+            "source": "Asla varsayma — önce gerçekleri kontrol et."
+          },
+          {
+            "target": "He {assumed} a false name to hide his identity.",
+            "source": "Kimliğini gizlemek için sahte bir isim aldı."
+          },
+          {
+            "target": "She {assumed} the task would be easy, but it wasn't.",
+            "source": "Görevin kolay olacağını varsaydı ama öyle olmadı."
+          },
+          {
+            "target": "We should not {assume} that all people share the same values.",
+            "source": "Tüm insanların aynı değerleri paylaştığını varsaymamalıyız."
+          },
+          {
+            "target": "He {assumed} control of the situation immediately.",
+            "source": "Durumun kontrolünü hemen üstlendi."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-1",
+        "kind": "word",
+        "term": "attract",
+        "type": "fiil",
+        "meaning": "çekmek, ilgi çekmek; cezbetmek",
+        "examples": [
+          {
+            "target": "Bright colours {attract} the attention of young children.",
+            "source": "Parlak renkler küçük çocukların dikkatini çeker."
+          },
+          {
+            "target": "The city {attracts} millions of tourists every year.",
+            "source": "Şehir her yıl milyonlarca turisti çekiyor."
+          },
+          {
+            "target": "She was {attracted} to his calm and confident manner.",
+            "source": "Onun sakin ve özgüvenli tavırları tarafından çekildi."
+          },
+          {
+            "target": "Flowers {attract} bees with their sweet scent.",
+            "source": "Çiçekler tatlı kokusuyla arıları kendine çeker."
+          },
+          {
+            "target": "The new exhibition {attracted} a lot of media attention.",
+            "source": "Yeni sergi büyük medya ilgisi çekti."
+          },
+          {
+            "target": "He didn't want to {attract} any unwanted attention.",
+            "source": "İstenmeyen dikkat çekmek istemiyordu."
+          },
+          {
+            "target": "A good salary package will {attract} talented candidates.",
+            "source": "İyi bir maaş paketi yetenekli adayları çekecektir."
+          },
+          {
+            "target": "She is always {attracted} to interesting and unusual ideas.",
+            "source": "Her zaman ilginç ve alışılmışın dışındaki fikirlere ilgi duyar."
+          },
+          {
+            "target": "The event {attracted} people from all walks of life.",
+            "source": "Etkinlik toplumun her kesiminden insanı çekti."
+          },
+          {
+            "target": "He tried to {attract} her attention by waving.",
+            "source": "El sallayarak onun dikkatini çekmeye çalıştı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-2",
+        "kind": "word",
+        "term": "compare",
+        "type": "fiil",
+        "meaning": "karşılaştırmak, kıyaslamak",
+        "examples": [
+          {
+            "target": "She always {compares} herself to others and feels worse.",
+            "source": "Her zaman kendini başkalarıyla karşılaştırıp daha kötü hisseder."
+          },
+          {
+            "target": "It is hard to {compare} the two cities — they are so different.",
+            "source": "İki şehri karşılaştırmak zor — çok farklılar."
+          },
+          {
+            "target": "He {compared} the prices before making a purchase.",
+            "source": "Satın almadan önce fiyatları karşılaştırdı."
+          },
+          {
+            "target": "The teacher {compared} the two poems to show their differences.",
+            "source": "Öğretmen farklılıklarını göstermek için iki şiiri karşılaştırdı."
+          },
+          {
+            "target": "Nothing can {compare} to a home-cooked meal.",
+            "source": "Hiçbir şey evde pişirilmiş bir yemekle kıyaslanamaz."
+          },
+          {
+            "target": "Please don't {compare} my work with theirs — the contexts are different.",
+            "source": "Çalışmamı onlarınkiyle karşılaştırma lütfen — bağlamlar farklı."
+          },
+          {
+            "target": "She {compared} notes with a friend who had taken the same course.",
+            "source": "Aynı kursu almış bir arkadaşıyla notlarını karşılaştırdı."
+          },
+          {
+            "target": "He loves to {compare} old and new photographs of the same place.",
+            "source": "Aynı yerin eski ve yeni fotoğraflarını karşılaştırmayı sever."
+          },
+          {
+            "target": "The report {compared} living standards across different countries.",
+            "source": "Rapor farklı ülkeler arasındaki yaşam standartlarını karşılaştırdı."
+          },
+          {
+            "target": "This experience {compares} well to anything I have done before.",
+            "source": "Bu deneyim daha önce yaptığım her şeyle başarılı biçimde kıyaslanabilir."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-3",
+        "kind": "word",
+        "term": "compete",
+        "type": "fiil",
+        "meaning": "rekabet etmek, yarışmak",
+        "examples": [
+          {
+            "target": "She {competed} in three events at the national championships.",
+            "source": "Ulusal şampiyonada üç etkinlikte yarıştı."
+          },
+          {
+            "target": "Small businesses struggle to {compete} with large corporations.",
+            "source": "Küçük işletmeler büyük şirketlerle rekabet etmekte zorlanıyor."
+          },
+          {
+            "target": "He {competed} for the top spot in the company.",
+            "source": "Şirketteki en üst pozisyon için yarıştı."
+          },
+          {
+            "target": "The two teams {competed} fiercely but fairly.",
+            "source": "İki takım sert ama dürüst bir şekilde rekabet etti."
+          },
+          {
+            "target": "She loves to {compete} and always gives her best.",
+            "source": "Rekabet etmeyi seviyor ve her zaman elinden gelenin en iyisini veriyor."
+          },
+          {
+            "target": "Many countries {competed} to host the international event.",
+            "source": "Pek çok ülke uluslararası etkinliğe ev sahipliği yapmak için yarıştı."
+          },
+          {
+            "target": "He {competed} against athletes half his age and still won.",
+            "source": "Yaşının yarısındaki sporcularla yarıştı ve yine de kazandı."
+          },
+          {
+            "target": "They {compete} on price as well as quality.",
+            "source": "Hem fiyat hem de kalite konusunda rekabet ediyorlar."
+          },
+          {
+            "target": "She {competed} in the spelling competition for the first time.",
+            "source": "İmla yarışmasına ilk kez katıldı."
+          },
+          {
+            "target": "It is hard to {compete} when you don't have equal resources.",
+            "source": "Eşit kaynaklara sahip olmadığınızda rekabet etmek zordur."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-4",
+        "kind": "word",
+        "term": "concentrate",
+        "type": "fiil",
+        "meaning": "yoğunlaşmak, odaklanmak; konsantre etmek",
+        "examples": [
+          {
+            "target": "It is hard to {concentrate} when there is a lot of noise.",
+            "source": "Çok fazla gürültü olduğunda odaklanmak zor."
+          },
+          {
+            "target": "She {concentrated} on her breathing to calm her nerves.",
+            "source": "Sinirlerini yatıştırmak için nefesine odaklandı."
+          },
+          {
+            "target": "Please {concentrate} — this part of the lesson is important.",
+            "source": "Lütfen dikkatinizi toplayın — dersin bu bölümü önemli."
+          },
+          {
+            "target": "He {concentrated} all his energy on finishing the project.",
+            "source": "Tüm enerjisini projeyi bitirmeye odakladı."
+          },
+          {
+            "target": "The problem is {concentrated} in the northern region.",
+            "source": "Sorun kuzey bölgesinde yoğunlaşmış durumda."
+          },
+          {
+            "target": "She finds it difficult to {concentrate} for long periods.",
+            "source": "Uzun süre odaklanmayı zor buluyor."
+          },
+          {
+            "target": "Turn off the TV so you can {concentrate} on your homework.",
+            "source": "Ödevine odaklanabilmek için televizyonu kapat."
+          },
+          {
+            "target": "He {concentrated} his research on one specific topic.",
+            "source": "Araştırmasını tek bir konuya yoğunlaştırdı."
+          },
+          {
+            "target": "The medicine is highly {concentrated} — take only a small dose.",
+            "source": "İlaç yüksek oranda konsantre — sadece küçük bir doz alın."
+          },
+          {
+            "target": "She {concentrated} on every word he said.",
+            "source": "Söylediği her kelimeye dikkat etti."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-5",
+        "kind": "word",
+        "term": "convince",
+        "type": "fiil",
+        "meaning": "ikna etmek, inandırmak",
+        "examples": [
+          {
+            "target": "She tried to {convince} him that the plan would work.",
+            "source": "Planın işe yarayacağına onu ikna etmeye çalıştı."
+          },
+          {
+            "target": "He was hard to {convince} — he always needed proof.",
+            "source": "İkna etmesi zordu — her zaman kanıt istiyordu."
+          },
+          {
+            "target": "I am not {convinced} that this is the right approach.",
+            "source": "Bunun doğru yaklaşım olduğuna ikna olmadım."
+          },
+          {
+            "target": "She {convinced} her parents to let her study abroad.",
+            "source": "Ailelerini yurt dışında okuyabilmesi için ikna etti."
+          },
+          {
+            "target": "It is difficult to {convince} people to change their habits.",
+            "source": "İnsanları alışkanlıklarını değiştirmeye ikna etmek zordur."
+          },
+          {
+            "target": "He gave a speech to {convince} the board to approve the budget.",
+            "source": "Kurulu bütçeyi onaylamaya ikna etmek için bir konuşma yaptı."
+          },
+          {
+            "target": "She was {convinced} that she had made the right decision.",
+            "source": "Doğru kararı verdiğine kendini inandırdı."
+          },
+          {
+            "target": "He could not {convince} himself to take the risk.",
+            "source": "Riski göze almak için kendini ikna edemedi."
+          },
+          {
+            "target": "The advert was designed to {convince} people to switch brands.",
+            "source": "Reklam insanları marka değiştirmeye ikna etmek için tasarlandı."
+          },
+          {
+            "target": "She finally {convinced} the team to try her idea.",
+            "source": "Sonunda ekibi fikrini denemeye ikna etti."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-6",
+        "kind": "word",
+        "term": "count",
+        "type": "fiil/isim",
+        "meaning": "saymak; önem taşımak; sayım",
+        "examples": [
+          {
+            "target": "She {counted} the money twice to make sure it was correct.",
+            "source": "Doğru olduğundan emin olmak için parayı iki kez saydı."
+          },
+          {
+            "target": "Every vote {counts} in a democratic election.",
+            "source": "Demokratik bir seçimde her oy önem taşır."
+          },
+          {
+            "target": "He can {count} to a hundred in three different languages.",
+            "source": "Üç farklı dilde yüze kadar sayabiliyor."
+          },
+          {
+            "target": "I {count} myself lucky to have such supportive friends.",
+            "source": "Bu kadar destekçi arkadaşlara sahip olmayı şans olarak görüyorum."
+          },
+          {
+            "target": "The teacher asked the children to {count} the objects.",
+            "source": "Öğretmen çocuklardan nesneleri saymalarını istedi."
+          },
+          {
+            "target": "Small details really {count} when you want to impress.",
+            "source": "Etkilemek istediğinde küçük ayrıntılar gerçekten önem taşır."
+          },
+          {
+            "target": "The final {count} showed that the first team had won.",
+            "source": "Nihai sayım birinci takımın kazandığını gösterdi."
+          },
+          {
+            "target": "She {counts} on her fingers when she is nervous.",
+            "source": "Gergin olduğunda parmaklarıyla sayar."
+          },
+          {
+            "target": "You can {count} on me to be there on time.",
+            "source": "Orada zamanında olacağım konusunda bana güvenebilirsin."
+          },
+          {
+            "target": "Don't {count} your chickens before they hatch.",
+            "source": "Civcivler yumurtadan çıkmadan sayma. (Devşirme boğmadan sevinme.)"
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-7",
+        "kind": "word",
+        "term": "imagine",
+        "type": "fiil",
+        "meaning": "hayal etmek, tasavvur etmek",
+        "examples": [
+          {
+            "target": "She {imagined} herself standing on a tropical beach.",
+            "source": "Kendini tropikal bir kumsalda hayal etti."
+          },
+          {
+            "target": "Can you {imagine} living without electricity for a week?",
+            "source": "Bir hafta elektriksiz yaşamayı hayal edebilir misin?"
+          },
+          {
+            "target": "I {imagine} that the job interview went well.",
+            "source": "İş görüşmesinin iyi geçtiğini tahmin ediyorum."
+          },
+          {
+            "target": "He {imagined} what life would be like in a hundred years.",
+            "source": "Yüz yıl sonra hayatın nasıl olacağını hayal etti."
+          },
+          {
+            "target": "Just {imagine} how different the world would be without cars.",
+            "source": "Arabalar olmadan dünyanın ne kadar farklı olacağını hayal et."
+          },
+          {
+            "target": "She {imagined} the whole story from start to finish.",
+            "source": "Tüm hikâyeyi başından sonuna kadar hayal etti."
+          },
+          {
+            "target": "Children easily {imagine} magical worlds full of adventure.",
+            "source": "Çocuklar kolayca macerayla dolu büyülü dünyalar hayal eder."
+          },
+          {
+            "target": "He could hardly {imagine} a life without music.",
+            "source": "Müziksiz bir hayatı neredeyse hayal bile edemiyordu."
+          },
+          {
+            "target": "She {imagined} that everything would be fine in the end.",
+            "source": "Sonunda her şeyin yoluna gireceğini hayal etti."
+          },
+          {
+            "target": "{Imagine} meeting your hero unexpectedly on the street.",
+            "source": "Idolünle sokakta beklenmedik şekilde karşılaştığını hayal et."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-8",
+        "kind": "word",
+        "term": "introduce",
+        "type": "fiil",
+        "meaning": "tanıtmak; getirmek, sunmak",
+        "examples": [
+          {
+            "target": "Let me {introduce} you to my colleagues.",
+            "source": "Seni meslektaşlarımla tanıştırayım."
+          },
+          {
+            "target": "She {introduced} herself confidently to the group.",
+            "source": "Gruba kendini özgüvenle tanıttı."
+          },
+          {
+            "target": "The company {introduced} a new policy on remote working.",
+            "source": "Şirket uzaktan çalışmaya ilişkin yeni bir politika getirdi."
+          },
+          {
+            "target": "He was {introduced} to jazz music by his uncle.",
+            "source": "Caz müziğiyle amcası aracılığıyla tanıştı."
+          },
+          {
+            "target": "The school {introduced} a programme to encourage reading.",
+            "source": "Okul okumayı teşvik etmek için bir program başlattı."
+          },
+          {
+            "target": "She {introduced} the speaker to the audience.",
+            "source": "Konuşmacıyı izleyiciye tanıttı."
+          },
+          {
+            "target": "The government plans to {introduce} new environmental laws.",
+            "source": "Hükümet yeni çevre yasaları getirmeyi planlıyor."
+          },
+          {
+            "target": "He {introduced} his girlfriend to his parents for the first time.",
+            "source": "Sevgilisini ilk kez anne babasıyla tanıştırdı."
+          },
+          {
+            "target": "The teacher {introduced} the topic with a short video.",
+            "source": "Öğretmen konuyu kısa bir videoyla tanıttı."
+          },
+          {
+            "target": "She {introduced} a new idea that changed the whole project.",
+            "source": "Tüm projeyi değiştiren yeni bir fikir getirdi."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-9",
+        "kind": "word",
+        "term": "involve",
+        "type": "fiil",
+        "meaning": "dahil etmek, gerektirmek; içermek",
+        "examples": [
+          {
+            "target": "The project {involves} a lot of detailed planning.",
+            "source": "Proje kapsamlı bir planlama gerektiriyor."
+          },
+          {
+            "target": "She {involved} everyone in the decision-making process.",
+            "source": "Karar alma sürecine herkesi dahil etti."
+          },
+          {
+            "target": "The rescue operation {involved} more than fifty volunteers.",
+            "source": "Kurtarma operasyonu elli'den fazla gönüllüyü kapsıyordu."
+          },
+          {
+            "target": "He didn't want to {involve} his family in the argument.",
+            "source": "Ailesini tartışmaya dahil etmek istemedi."
+          },
+          {
+            "target": "The job {involves} a lot of travel and long hours.",
+            "source": "İş çok fazla seyahat ve uzun çalışma saatleri gerektiriyor."
+          },
+          {
+            "target": "She was {involved} in charity work for many years.",
+            "source": "Yıllarca yardım çalışmalarına katıldı."
+          },
+          {
+            "target": "Please {involve} the whole team, not just the senior members.",
+            "source": "Lütfen yalnızca kıdemli üyeleri değil, tüm ekibi dahil edin."
+          },
+          {
+            "target": "The investigation {involved} hundreds of interviews.",
+            "source": "Soruşturma yüzlerce görüşmeyi kapsıyordu."
+          },
+          {
+            "target": "He was deeply {involved} in the community project.",
+            "source": "Toplum projesine derinden dahil olmuştu."
+          },
+          {
+            "target": "Cooking at home {involves} buying ingredients and preparing them.",
+            "source": "Evde yemek yapmak malzeme almayı ve hazırlamayı gerektiriyor."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-10",
+        "kind": "word",
+        "term": "measure",
+        "type": "fiil/isim",
+        "meaning": "ölçmek; ölçüm, tedbir",
+        "examples": [
+          {
+            "target": "She {measured} the room before buying new furniture.",
+            "source": "Yeni mobilya almadan önce odayı ölçtü."
+          },
+          {
+            "target": "He {measured} out the ingredients carefully for the recipe.",
+            "source": "Tarif için malzemeleri dikkatlice ölçtü."
+          },
+          {
+            "target": "The government introduced new {measures} to cut pollution.",
+            "source": "Hükümet kirliliği azaltmak için yeni tedbirler aldı."
+          },
+          {
+            "target": "Success is hard to {measure} — it means different things to different people.",
+            "source": "Başarıyı ölçmek zordur — farklı insanlar için farklı anlamlar ifade eder."
+          },
+          {
+            "target": "Please {measure} twice and cut once — it is a basic rule.",
+            "source": "Lütfen iki ölç bir kes — bu temel bir kuraldır."
+          },
+          {
+            "target": "She used a tape {measure} to check the length of the curtains.",
+            "source": "Perdelerin uzunluğunu kontrol etmek için şerit metre kullandı."
+          },
+          {
+            "target": "The scientists {measured} the temperature at regular intervals.",
+            "source": "Bilim insanları sıcaklığı düzenli aralıklarla ölçtü."
+          },
+          {
+            "target": "His performance {measures} up to the highest standards.",
+            "source": "Performansı en yüksek standartları karşılıyor."
+          },
+          {
+            "target": "The {measure} of a good teacher is the progress of their students.",
+            "source": "İyi bir öğretmenin ölçütü öğrencilerinin ilerlemesidir."
+          },
+          {
+            "target": "Emergency {measures} were put in place to protect the public.",
+            "source": "Halkı korumak için acil tedbirler alındı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-11",
+        "kind": "word",
+        "term": "remember",
+        "type": "fiil",
+        "meaning": "hatırlamak, anımsamak; aklında tutmak",
+        "examples": [
+          {
+            "target": "I can't {remember} where I put my keys.",
+            "source": "Anahtarlarımı nereye koyduğumu hatırlayamıyorum."
+          },
+          {
+            "target": "She {remembered} her grandfather's advice many years later.",
+            "source": "Büyükbabasının tavsiyesini yıllar sonra hatırladı."
+          },
+          {
+            "target": "Do you {remember} the first time we met?",
+            "source": "İlk tanıştığımız anı hatırlıyor musun?"
+          },
+          {
+            "target": "Please {remember} to lock the door when you leave.",
+            "source": "Lütfen çıkarken kapıyı kilitlemeyi unutma."
+          },
+          {
+            "target": "He will always {remember} that summer as the best of his life.",
+            "source": "O yazı hayatının en güzel yazı olarak hep hatırlayacak."
+          },
+          {
+            "target": "She {remembered} to call her mother on her birthday.",
+            "source": "Annesini doğum gününde aramayı unutmadı."
+          },
+          {
+            "target": "I {remember} the smell of her perfume even now.",
+            "source": "Parfümünün kokusunu şimdi bile hatırlıyorum."
+          },
+          {
+            "target": "He couldn't {remember} the name of the street.",
+            "source": "Sokağın adını hatırlayamadı."
+          },
+          {
+            "target": "{Remember} that tomorrow is a public holiday.",
+            "source": "Yarının resmi tatil olduğunu aklında tut."
+          },
+          {
+            "target": "She was {remembered} by everyone who knew her for her kindness.",
+            "source": "Onu tanıyan herkes tarafından nezaketiyle hatırlandı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-12",
+        "kind": "word",
+        "term": "repeat",
+        "type": "fiil/isim",
+        "meaning": "tekrarlamak; tekrar",
+        "examples": [
+          {
+            "target": "Could you {repeat} that — I didn't hear you clearly.",
+            "source": "Bunu tekrar edebilir misin — sizi net duymadım."
+          },
+          {
+            "target": "She {repeated} the exercise until she got it right.",
+            "source": "Doğru yapana kadar egzersizi tekrarladı."
+          },
+          {
+            "target": "He tends to {repeat} himself when he is nervous.",
+            "source": "Gergin olduğunda kendini tekrar etme eğiliminde."
+          },
+          {
+            "target": "History often {repeats} itself if we don't learn from it.",
+            "source": "Ondan ders almazsak tarih kendini tekrar eder."
+          },
+          {
+            "target": "Please {repeat} after me: good morning.",
+            "source": "Lütfen benden sonra tekrarlayın: günaydın."
+          },
+          {
+            "target": "The TV channel showed a {repeat} of last week's programme.",
+            "source": "TV kanalı geçen haftanın programının tekrarını gösterdi."
+          },
+          {
+            "target": "She {repeated} the instructions in simpler language.",
+            "source": "Talimatları daha basit bir dille tekrarladı."
+          },
+          {
+            "target": "He made the same mistake twice — he never {repeats} it now.",
+            "source": "Aynı hatayı iki kez yaptı — artık asla tekrarlamıyor."
+          },
+          {
+            "target": "The pattern {repeats} every five rows in the design.",
+            "source": "Desen tasarımda her beş sırada bir tekrar ediyor."
+          },
+          {
+            "target": "She {repeats} new vocabulary words aloud to memorise them.",
+            "source": "Yeni kelime bilgisini ezberlemek için yüksek sesle tekrarlıyor."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-13",
+        "kind": "word",
+        "term": "search",
+        "type": "fiil/isim",
+        "meaning": "aramak; arama",
+        "examples": [
+          {
+            "target": "She {searched} the whole house for her lost earring.",
+            "source": "Kaybolan küpesini bulmak için tüm evi aradı."
+          },
+          {
+            "target": "He {searched} online for a cheap hotel room.",
+            "source": "Ucuz bir otel odası için internette arama yaptı."
+          },
+          {
+            "target": "The police {searched} the area for the missing child.",
+            "source": "Polis kaybolan çocuk için bölgeyi aradı."
+          },
+          {
+            "target": "She typed a word into the {search} engine.",
+            "source": "Arama motoruna bir kelime yazdı."
+          },
+          {
+            "target": "He {searched} through his bag but couldn't find his wallet.",
+            "source": "Çantasını karıştırdı ama cüzdanını bulamadı."
+          },
+          {
+            "target": "The rescue team began their {search} at dawn.",
+            "source": "Kurtarma ekibi aramalarına şafakta başladı."
+          },
+          {
+            "target": "She {searched} her memory for his name but it wouldn't come.",
+            "source": "Adını hatırlamak için hafızasını zorladı ama gelmedi."
+          },
+          {
+            "target": "After a long {search}, they finally found the right candidate.",
+            "source": "Uzun bir aramanın ardından sonunda doğru adayı buldular."
+          },
+          {
+            "target": "He {searched} the crowd for a familiar face.",
+            "source": "Tanıdık bir yüz bulmak için kalabalığı taradı."
+          },
+          {
+            "target": "The customs officer {searched} the bag at the border.",
+            "source": "Gümrük memuru sınırda çantayı aradı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-12-14",
+        "kind": "word",
+        "term": "translate",
+        "type": "fiil",
+        "meaning": "çevirmek, tercüme etmek",
+        "examples": [
+          {
+            "target": "Can you {translate} this sentence for me?",
+            "source": "Bu cümleyi benim için çevirebilir misin?"
+          },
+          {
+            "target": "She {translated} the letter from French into English.",
+            "source": "Mektubu Fransızcadan İngilizceye çevirdi."
+          },
+          {
+            "target": "The book was {translated} into thirty languages.",
+            "source": "Kitap otuz dile çevrildi."
+          },
+          {
+            "target": "Good ideas don't always {translate} well in practice.",
+            "source": "İyi fikirler pratikte her zaman iyi sonuç vermez."
+          },
+          {
+            "target": "He works as an interpreter and {translates} live at conferences.",
+            "source": "Tercüman olarak çalışıyor ve konferanslarda canlı çeviri yapıyor."
+          },
+          {
+            "target": "She {translated} the menu so that her guests could order.",
+            "source": "Misafirlerinin sipariş verebilmesi için menüyü çevirdi."
+          },
+          {
+            "target": "The phrase is difficult to {translate} — it has no direct equivalent.",
+            "source": "İfadeyi çevirmek zor — doğrudan bir karşılığı yok."
+          },
+          {
+            "target": "He {translated} his vision into a detailed action plan.",
+            "source": "Vizyonunu ayrıntılı bir eylem planına dönüştürdü."
+          },
+          {
+            "target": "The software can {translate} text in over fifty languages.",
+            "source": "Yazılım elli'den fazla dilde metin çevirebiliyor."
+          },
+          {
+            "target": "Her emotions {translated} into powerful brushstrokes on the canvas.",
+            "source": "Duyguları tuvaldeki güçlü fırça darbelerine dönüştü."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-13",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 13",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-13-0",
+        "kind": "word",
+        "term": "carry",
+        "type": "fiil",
+        "meaning": "taşımak, götürmek",
+        "examples": [
+          {
+            "target": "She {carries} a small notebook everywhere she goes.",
+            "source": "Gittiği her yere küçük bir defter taşır."
+          },
+          {
+            "target": "He {carried} the heavy boxes up the stairs.",
+            "source": "Ağır kutuları merdivenlerden yukarı taşıdı."
+          },
+          {
+            "target": "The wind {carried} the smell of flowers across the garden.",
+            "source": "Rüzgâr çiçek kokusunu bahçenin her yerine taşıdı."
+          },
+          {
+            "target": "She {carried} her baby on her back in a sling.",
+            "source": "Bebeğini sırtında bir taşıyıcıyla taşıdı."
+          },
+          {
+            "target": "He {carries} a lot of responsibility at such a young age.",
+            "source": "Bu kadar genç yaşta çok fazla sorumluluk taşıyor."
+          },
+          {
+            "target": "The river {carries} fresh water from the mountains to the sea.",
+            "source": "Nehir dağlardan denize tatlı su taşır."
+          },
+          {
+            "target": "Please {carry} this bag to the car — it is too heavy for me.",
+            "source": "Bu çantayı arabaya taşır mısın — benim için çok ağır."
+          },
+          {
+            "target": "She {carried} the memory of that day with her for ever.",
+            "source": "O günün hatırasını sonsuza kadar yanında taşıdı."
+          },
+          {
+            "target": "He {carries} his laptop to work every day.",
+            "source": "Her gün işe laptopu ile gider."
+          },
+          {
+            "target": "The message was {carried} by hand to the next town.",
+            "source": "Mesaj bir sonraki kasabaya elle taşındı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-1",
+        "kind": "word",
+        "term": "catch",
+        "type": "fiil/isim",
+        "meaning": "yakalamak; tutmak; yakalama",
+        "examples": [
+          {
+            "target": "She ran fast but couldn't {catch} the bus.",
+            "source": "Hızlı koştu ama otobüse yetişemedi."
+          },
+          {
+            "target": "He {caught} the ball just before it hit the ground.",
+            "source": "Yere çarpmadan hemen önce topu yakaladı."
+          },
+          {
+            "target": "The fisherman {caught} three large fish that morning.",
+            "source": "Balıkçı o sabah üç büyük balık tuttu."
+          },
+          {
+            "target": "She {caught} a cold after walking in the rain.",
+            "source": "Yağmurda yürüdükten sonra soğuk algınlığı kaptı."
+          },
+          {
+            "target": "He was {caught} cheating during the exam.",
+            "source": "Sınavda kopya çekerken yakalandı."
+          },
+          {
+            "target": "The {catch} of the day was a large salmon.",
+            "source": "Günün avı büyük bir somondı."
+          },
+          {
+            "target": "She {caught} his eye across the crowded room.",
+            "source": "Kalabalık odanın karşısından gözleri buluştu."
+          },
+          {
+            "target": "I {caught} the last few words of his sentence.",
+            "source": "Cümlesinin son birkaç kelimesini yakaladım."
+          },
+          {
+            "target": "They tried to {catch} the thief but he escaped.",
+            "source": "Hırsızı yakalamaya çalıştılar ama kaçtı."
+          },
+          {
+            "target": "There is a {catch} — nothing this good comes for free.",
+            "source": "Bir şart var — bu kadar iyi hiçbir şey bedava gelmez."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-2",
+        "kind": "word",
+        "term": "climb",
+        "type": "fiil/isim",
+        "meaning": "tırmanmak; tırmanış",
+        "examples": [
+          {
+            "target": "She {climbed} to the top of the hill to see the view.",
+            "source": "Manzarayı görmek için tepenin zirvesine tırmandı."
+          },
+          {
+            "target": "He {climbs} the stairs instead of taking the lift.",
+            "source": "Asansör yerine merdiveni tırmanır."
+          },
+          {
+            "target": "The cat {climbed} the tree and couldn't get down.",
+            "source": "Kedi ağaca tırmandı ve inemedi."
+          },
+          {
+            "target": "She {climbed} steadily through the ranks to become a manager.",
+            "source": "Müdür olmak için kararlı adımlarla rütbe atlayarak yükseldi."
+          },
+          {
+            "target": "The temperature {climbed} to thirty-eight degrees yesterday.",
+            "source": "Sıcaklık dün otuz sekiz dereceye çıktı."
+          },
+          {
+            "target": "He loves rock {climbing} and goes every weekend.",
+            "source": "Kaya tırmanmasını seviyor ve her hafta sonu gidiyor."
+          },
+          {
+            "target": "The vine {climbed} up the old stone wall.",
+            "source": "Sarmaşık eski taş duvarı tırmandı."
+          },
+          {
+            "target": "She {climbed} into bed and fell asleep almost at once.",
+            "source": "Yatağa girdi ve neredeyse hemen uyudu."
+          },
+          {
+            "target": "It was a long {climb} but the view from the top was worth it.",
+            "source": "Uzun bir tırmanıştı ama tepeden manzara buna değdi."
+          },
+          {
+            "target": "Profits have been {climbing} steadily for three years.",
+            "source": "Kârlar üç yıldır istikrarlı biçimde artıyor."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-3",
+        "kind": "word",
+        "term": "cut",
+        "type": "fiil/isim",
+        "meaning": "kesmek; azaltmak; kesik",
+        "examples": [
+          {
+            "target": "She {cut} the bread into thick slices.",
+            "source": "Ekmeği kalın dilimler halinde kesti."
+          },
+          {
+            "target": "He {cut} his finger while chopping vegetables.",
+            "source": "Sebze keserken parmağını kesti."
+          },
+          {
+            "target": "The company plans to {cut} costs by reducing travel.",
+            "source": "Şirket seyahati azaltarak maliyetleri düşürmeyi planlıyor."
+          },
+          {
+            "target": "She had her hair {cut} short for the summer.",
+            "source": "Yaz için saçlarını kısa kestirdi."
+          },
+          {
+            "target": "He {cut} across the park to save time.",
+            "source": "Zaman kazanmak için parktan kestirme yaptı."
+          },
+          {
+            "target": "The surgeon made a small {cut} to remove the stitches.",
+            "source": "Cerrah dikişleri çıkarmak için küçük bir kesi yaptı."
+          },
+          {
+            "target": "She {cut} the conversation short and left the room.",
+            "source": "Sohbeti kısa keserek odadan ayrıldı."
+          },
+          {
+            "target": "The council voted to {cut} the public transport budget.",
+            "source": "Meclis toplu taşıma bütçesini kesmek için oy kullandı."
+          },
+          {
+            "target": "He {cut} a slice of cake for each of the guests.",
+            "source": "Her misafir için bir dilim pasta kesti."
+          },
+          {
+            "target": "Please {cut} the rope — it is tangled beyond repair.",
+            "source": "Lütfen ipi kes — o kadar dolanmış ki düzeltilemez."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-4",
+        "kind": "word",
+        "term": "dance",
+        "type": "fiil/isim",
+        "meaning": "dans etmek; dans, balo",
+        "examples": [
+          {
+            "target": "She loves to {dance} to music whenever she gets the chance.",
+            "source": "Fırsat buldukça müziğe dans etmeyi seviyor."
+          },
+          {
+            "target": "He asked her to {dance} at the wedding reception.",
+            "source": "Düğün yemeğinde onu dansa davet etti."
+          },
+          {
+            "target": "The children {danced} around the room with joy.",
+            "source": "Çocuklar sevinçle odanın etrafında dans etti."
+          },
+          {
+            "target": "The school holds a {dance} at the end of every term.",
+            "source": "Okul her dönemin sonunda bir balo düzenliyor."
+          },
+          {
+            "target": "She {danced} professionally for ten years before retiring.",
+            "source": "Emekli olmadan önce on yıl profesyonel olarak dans etti."
+          },
+          {
+            "target": "The flames {danced} in the fireplace on the cold evening.",
+            "source": "Soğuk bir akşamda alev şöminede dans etti."
+          },
+          {
+            "target": "He learned to {dance} the tango during his trip to Argentina.",
+            "source": "Arjantin seyahatinde tango dans etmeyi öğrendi."
+          },
+          {
+            "target": "The leaves {danced} in the gentle autumn breeze.",
+            "source": "Yapraklar hafif sonbahar esintisinde dans etti."
+          },
+          {
+            "target": "She always {dances} when she hears her favourite song.",
+            "source": "En sevdiği şarkıyı duyduğunda her zaman dans eder."
+          },
+          {
+            "target": "The performers {danced} on stage to a cheering crowd.",
+            "source": "Sanatçılar alkışlayan kalabalık önünde sahnede dans etti."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-5",
+        "kind": "word",
+        "term": "fall",
+        "type": "fiil/isim",
+        "meaning": "düşmek; azalmak; sonbahar",
+        "examples": [
+          {
+            "target": "She {fell} down the stairs and hurt her ankle.",
+            "source": "Merdivenlerden düşüp bileğini incitti."
+          },
+          {
+            "target": "Temperatures {fell} sharply overnight.",
+            "source": "Sıcaklıklar gece boyunca hızla düştü."
+          },
+          {
+            "target": "He {fell} asleep on the sofa while watching television.",
+            "source": "Televizyon seyrederken kanepede uyuyakaldı."
+          },
+          {
+            "target": "The price of oil has {fallen} by twenty per cent this year.",
+            "source": "Bu yıl petrol fiyatları yüzde yirmi düştü."
+          },
+          {
+            "target": "She {fell} in love with the city on her very first visit.",
+            "source": "İlk ziyaretinde şehre âşık oldu."
+          },
+          {
+            "target": "He tripped and {fell} in the middle of the race.",
+            "source": "Yarışın ortasında takıldı ve düştü."
+          },
+          {
+            "target": "Autumn is also called {fall} in American English.",
+            "source": "Sonbahar, Amerikan İngilizcesinde 'fall' olarak da adlandırılır."
+          },
+          {
+            "target": "The leaves {fall} from the trees every autumn.",
+            "source": "Yapraklar her sonbaharda ağaçlardan düşer."
+          },
+          {
+            "target": "Night {fell} quickly and it was soon too dark to see.",
+            "source": "Gece çabucak çöktü ve kısa sürede göremeyecek kadar karardı."
+          },
+          {
+            "target": "She {fell} behind with her coursework during the illness.",
+            "source": "Hastalık sırasında ders çalışmalarında geri kaldı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-6",
+        "kind": "word",
+        "term": "fly",
+        "type": "fiil/isim",
+        "meaning": "uçmak; sinek; uçuş",
+        "examples": [
+          {
+            "target": "Birds {fly} south for the winter.",
+            "source": "Kuşlar kış için güneye uçar."
+          },
+          {
+            "target": "She {flew} to Paris for a long weekend.",
+            "source": "Uzun bir hafta sonu için Paris'e uçtu."
+          },
+          {
+            "target": "He has always dreamed of learning to {fly} a plane.",
+            "source": "Her zaman uçak kullanmayı öğrenmeyi hayal etmiştir."
+          },
+          {
+            "target": "Time really {flies} when you are having fun.",
+            "source": "Eğlenirken zaman gerçekten uçuyor."
+          },
+          {
+            "target": "A {fly} buzzed around the food on the table.",
+            "source": "Masadaki yiyeceğin etrafında bir sinek vızıldadı."
+          },
+          {
+            "target": "She {flew} through her exams and passed them all.",
+            "source": "Sınavlarını çabucak geçti ve hepsini başardı."
+          },
+          {
+            "target": "The pilot {flew} the plane safely through the storm.",
+            "source": "Pilot uçağı fırtınanın içinden güvenle uçurdu."
+          },
+          {
+            "target": "The children loved to watch the kite {fly} in the wind.",
+            "source": "Çocuklar uçurtmanın rüzgârda uçuşunu izlemeyi sevdi."
+          },
+          {
+            "target": "She could {fly} through a hundred pages in an hour.",
+            "source": "Bir saatte yüz sayfayı kolayca okuyabiliyordu."
+          },
+          {
+            "target": "He {flew} into a rage when he heard the news.",
+            "source": "Haberi duyunca öfkeden deliye döndü."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-7",
+        "kind": "word",
+        "term": "grab",
+        "type": "fiil/isim",
+        "meaning": "kavramak, tutmak; kapıp almak",
+        "examples": [
+          {
+            "target": "She {grabbed} her bag and ran out of the house.",
+            "source": "Çantasını kapıp evden koşarak çıktı."
+          },
+          {
+            "target": "He {grabbed} the railing to stop himself from falling.",
+            "source": "Düşmemek için korkuluğa tutundu."
+          },
+          {
+            "target": "The thief tried to {grab} the phone and run.",
+            "source": "Hırsız telefonu kapıp kaçmaya çalıştı."
+          },
+          {
+            "target": "Let me {grab} a coffee before the meeting starts.",
+            "source": "Toplantı başlamadan bir kahve alayım."
+          },
+          {
+            "target": "She {grabbed} the opportunity with both hands.",
+            "source": "Fırsatı iki eliyle kaptı."
+          },
+          {
+            "target": "He {grabbed} a quick sandwich between meetings.",
+            "source": "Toplantılar arasında hızla bir sandviç yedi."
+          },
+          {
+            "target": "The child {grabbed} her mother's hand in the crowd.",
+            "source": "Çocuk kalabalıkta annesinin elini tuttu."
+          },
+          {
+            "target": "He {grabbed} the microphone and started speaking.",
+            "source": "Mikrofonu kapıp konuşmaya başladı."
+          },
+          {
+            "target": "She {grabbed} his arm to get his attention.",
+            "source": "Dikkatini çekmek için kolundan tuttu."
+          },
+          {
+            "target": "He reached up and {grabbed} the branch above his head.",
+            "source": "Yukarıya uzandı ve başının üzerindeki dala tutundu."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-8",
+        "kind": "word",
+        "term": "jump",
+        "type": "fiil/isim",
+        "meaning": "atlamak, zıplamak; atlama, sıçrama",
+        "examples": [
+          {
+            "target": "The children {jumped} into the pool with a big splash.",
+            "source": "Çocuklar büyük bir sıçrayışla havuza atladı."
+          },
+          {
+            "target": "She {jumped} over the puddle to keep her shoes dry.",
+            "source": "Ayakkabılarını ıslak tutmamak için birikintinin üzerinden atladı."
+          },
+          {
+            "target": "He {jumped} when the phone rang unexpectedly.",
+            "source": "Telefon beklenmedik şekilde çalınca irkildi."
+          },
+          {
+            "target": "The athlete {jumped} over two metres in the competition.",
+            "source": "Sporcu yarışmada iki metrenin üzerinde atladı."
+          },
+          {
+            "target": "She {jumped} at the chance to go to New York.",
+            "source": "New York'a gitme fırsatını hemen kaptı."
+          },
+          {
+            "target": "Prices {jumped} by fifteen per cent in one month.",
+            "source": "Fiyatlar bir ayda yüzde on beş arttı."
+          },
+          {
+            "target": "He {jumped} off the bus before it stopped completely.",
+            "source": "Tamamen durmadan önce otobüsten atladı."
+          },
+          {
+            "target": "She made a {jump} for the door before it closed.",
+            "source": "Kapanmadan önce kapıya doğru atladı."
+          },
+          {
+            "target": "The dog {jumped} up to greet his owner at the door.",
+            "source": "Köpek kapıda sahibini karşılamak için zıpladı."
+          },
+          {
+            "target": "Share prices {jumped} sharply after the positive announcement.",
+            "source": "Hisse senedi fiyatları olumlu duyurunun ardından keskin biçimde yükseldi."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-9",
+        "kind": "word",
+        "term": "kick",
+        "type": "fiil/isim",
+        "meaning": "tekmelemek; tekme",
+        "examples": [
+          {
+            "target": "He {kicked} the ball into the back of the net.",
+            "source": "Topu ağın içine tekmeledi."
+          },
+          {
+            "target": "She {kicked} off her shoes as soon as she got home.",
+            "source": "Eve gelir gelmez ayakkabılarını tekmeleyerek çıkardı."
+          },
+          {
+            "target": "The baby {kicks} a lot in the womb.",
+            "source": "Bebek rahimde çok tekme atıyor."
+          },
+          {
+            "target": "He {kicked} himself for forgetting such an important date.",
+            "source": "Bu kadar önemli bir tarihi unuttuğu için kendine kızıp durdu."
+          },
+          {
+            "target": "She gave him a gentle {kick} under the table.",
+            "source": "Masa altından ona hafifçe tekme attı."
+          },
+          {
+            "target": "The horse {kicked} the stable door in the night.",
+            "source": "At gece ahır kapısına tekme attı."
+          },
+          {
+            "target": "He {kicked} the habit of smoking after many years.",
+            "source": "Yıllar sonra sigara içme alışkanlığından kurtuldu."
+          },
+          {
+            "target": "The player was {kicked} out of the match for bad behaviour.",
+            "source": "Oyuncu kötü davranışı nedeniyle maçtan ihraç edildi."
+          },
+          {
+            "target": "She {kicked} back and relaxed after a long week.",
+            "source": "Uzun bir haftanın ardından ayaklarını uzatıp rahatledi."
+          },
+          {
+            "target": "He received a {kick} to the shin during the game.",
+            "source": "Oyun sırasında inciklerine tekme yedi."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-10",
+        "kind": "word",
+        "term": "lay",
+        "type": "fiil",
+        "meaning": "yatırmak, sermek, koymak; yumurtlamak",
+        "examples": [
+          {
+            "target": "She {laid} the baby gently in the cot.",
+            "source": "Bebeği karyolaya nazikçe yatırdı."
+          },
+          {
+            "target": "He {laid} the map flat on the table.",
+            "source": "Haritayı masanın üzerine düz serdi."
+          },
+          {
+            "target": "The hen {lays} an egg almost every day.",
+            "source": "Tavuk neredeyse her gün yumurta yumurtluyor."
+          },
+          {
+            "target": "They {laid} the foundation for the new building last month.",
+            "source": "Geçen ay yeni binanın temelini attılar."
+          },
+          {
+            "target": "She {laid} her coat over the back of the chair.",
+            "source": "Ceketini sandalyenin sırtına astı."
+          },
+          {
+            "target": "He {laid} his phone face down so he wouldn't be distracted.",
+            "source": "Dikkatinin dağılmaması için telefonunu yüzü aşağı bıraktı."
+          },
+          {
+            "target": "The workers {laid} new pipes under the road.",
+            "source": "İşçiler yolun altına yeni borular döşedi."
+          },
+          {
+            "target": "She {laid} the blame on the poor planning of the event.",
+            "source": "Suçu etkinliğin kötü planlanmasına yükledi."
+          },
+          {
+            "target": "He {laid} the fire before they went to bed.",
+            "source": "Yatmadan önce şömineye odun koydu."
+          },
+          {
+            "target": "The plan was {laid} out clearly for everyone to follow.",
+            "source": "Plan herkesin takip etmesi için açıkça ortaya kondu."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-11",
+        "kind": "word",
+        "term": "link",
+        "type": "fiil/isim",
+        "meaning": "bağlamak, ilişkilendirmek; bağlantı, halka",
+        "examples": [
+          {
+            "target": "She used a hyperlink to {link} the two pages together.",
+            "source": "İki sayfayı birbirine bağlamak için bir köprü bağlantısı kullandı."
+          },
+          {
+            "target": "Scientists {link} poor sleep to a range of health problems.",
+            "source": "Bilim insanları yetersiz uykuyu çeşitli sağlık sorunlarıyla ilişkilendiriyor."
+          },
+          {
+            "target": "He clicked the {link} and was taken to another website.",
+            "source": "Bağlantıya tıkladı ve başka bir web sitesine yönlendirildi."
+          },
+          {
+            "target": "She {linked} her arm through his as they walked.",
+            "source": "Yürürken kolunu onunkine taktı."
+          },
+          {
+            "target": "The two towns are {linked} by a railway line.",
+            "source": "İki kasaba bir demiryolu hattıyla birbirine bağlı."
+          },
+          {
+            "target": "There is a strong {link} between diet and overall health.",
+            "source": "Diyet ile genel sağlık arasında güçlü bir bağlantı var."
+          },
+          {
+            "target": "He {linked} the computer to the printer with a cable.",
+            "source": "Bilgisayarı bir kabloyla yazıcıya bağladı."
+          },
+          {
+            "target": "She shared the {link} to the article on social media.",
+            "source": "Makaleye ait bağlantıyı sosyal medyada paylaştı."
+          },
+          {
+            "target": "The missing {link} in the chain was finally found.",
+            "source": "Zincirdeki eksik halka sonunda bulundu."
+          },
+          {
+            "target": "He is the {link} between the two departments — he knows everything.",
+            "source": "İki departman arasındaki bağlantı o — her şeyi biliyor."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-12",
+        "kind": "word",
+        "term": "paint",
+        "type": "fiil/isim",
+        "meaning": "boyamak, resim yapmak; boya, resim",
+        "examples": [
+          {
+            "target": "She {painted} the living room a warm shade of yellow.",
+            "source": "Oturma odasını sıcak sarı tonuna boyadı."
+          },
+          {
+            "target": "He {paints} landscapes in watercolour in his spare time.",
+            "source": "Boş zamanlarında suluboya ile manzara resimleri yapıyor."
+          },
+          {
+            "target": "The artist {painted} a portrait of the president.",
+            "source": "Sanatçı cumhurbaşkanının portresini yaptı."
+          },
+          {
+            "target": "She {painted} her nails a bright red for the occasion.",
+            "source": "Özel gün için tırnaklarını parlak kırmızıya boyadı."
+          },
+          {
+            "target": "A fresh coat of {paint} will make the room look much better.",
+            "source": "Taze bir boya katmanı odayı çok daha güzel gösterecek."
+          },
+          {
+            "target": "He {painted} the fence white to match the house.",
+            "source": "Çite evin rengine uyması için beyaz boya sürdü."
+          },
+          {
+            "target": "The walls were covered with {paint} that was peeling off.",
+            "source": "Duvarlar dökülen boyayla kaplıydı."
+          },
+          {
+            "target": "She {paints} every morning before going to work.",
+            "source": "Her sabah işe gitmeden önce resim yapar."
+          },
+          {
+            "target": "He {painted} a vivid picture of life in the countryside.",
+            "source": "Kırsal kesimde hayatın canlı bir resmini çizdi."
+          },
+          {
+            "target": "The children {painted} flowers and trees in their art class.",
+            "source": "Çocuklar sanat dersinde çiçekler ve ağaçlar boyadı."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-13",
+        "kind": "word",
+        "term": "pull",
+        "type": "fiil/isim",
+        "meaning": "çekmek; çekiş, çekim",
+        "examples": [
+          {
+            "target": "She {pulled} the door open and stepped inside.",
+            "source": "Kapıyı çekerek açtı ve içeri girdi."
+          },
+          {
+            "target": "He {pulled} his suitcase along the busy platform.",
+            "source": "Kalabalık platformda bavulunu çekti."
+          },
+          {
+            "target": "The dentist {pulled} out the damaged tooth quickly.",
+            "source": "Diş hekimi hasarlı dişi hızla çekti."
+          },
+          {
+            "target": "She {pulled} on her coat and went out into the cold.",
+            "source": "Montunu giydi ve soğuğa çıktı."
+          },
+          {
+            "target": "He {pulled} the cork out of the bottle.",
+            "source": "Şişenin mantarını çekti."
+          },
+          {
+            "target": "The child {pulled} her mother by the hand to show her.",
+            "source": "Çocuk göstermek için annesini elinden çekti."
+          },
+          {
+            "target": "She felt the {pull} of her hometown after years away.",
+            "source": "Yıllarca uzakta kaldıktan sonra memleketi ona çekici geldi."
+          },
+          {
+            "target": "He {pulled} a muscle during his morning run.",
+            "source": "Sabah koşusunda kasını çekti."
+          },
+          {
+            "target": "They worked together to {pull} the boat ashore.",
+            "source": "Tekneyi kıyıya çekmek için birlikte çalıştılar."
+          },
+          {
+            "target": "The moon's gravity {pulls} the tides of the ocean.",
+            "source": "Ayın yerçekimi okyanus gelgitlerini çeker."
+          }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-13-14",
+        "kind": "word",
+        "term": "push",
+        "type": "fiil/isim",
+        "meaning": "itmek, bastırmak; zorlamak; itme",
+        "examples": [
+          {
+            "target": "She {pushed} the door open with her shoulder.",
+            "source": "Kapıyı omzuyla iterek açtı."
+          },
+          {
+            "target": "He {pushed} the trolley through the supermarket.",
+            "source": "Markette arabayı sürdü."
+          },
+          {
+            "target": "She {pushed} herself hard to meet the deadline.",
+            "source": "Son tarihe yetişmek için kendini zorladı."
+          },
+          {
+            "target": "The crowd {pushed} forward as the gates opened.",
+            "source": "Kapılar açılınca kalabalık öne doğru itti."
+          },
+          {
+            "target": "He {pushed} his chair back and stood up.",
+            "source": "Sandalyesini geri itti ve ayağa kalktı."
+          },
+          {
+            "target": "She gave him a gentle {push} towards the dance floor.",
+            "source": "Onu dans pistine doğru nazikçe itti."
+          },
+          {
+            "target": "The manager {pushes} her team to achieve the best results.",
+            "source": "Müdür ekibini en iyi sonuçlara ulaşmaları için zorluyor."
+          },
+          {
+            "target": "He {pushed} the button to call the lift.",
+            "source": "Asansörü çağırmak için düğmeye bastı."
+          },
+          {
+            "target": "She {pushed} past the crowd to get to the front.",
+            "source": "Öne geçmek için kalabalığın arasından itip geçti."
+          },
+          {
+            "target": "With one final {push}, the team crossed the finish line.",
+            "source": "Son bir çabayla takım bitiş çizgisini geçti."
+          }
+        ]
+      }
+    ]
+  }
+]
