@@ -53,7 +53,7 @@ Kartlar · Test · Eşleştirme · Boşluk Doldur · Yazma · **Ezber**
 
 ## 📱 Mobil Uygulama (`mobile/`)
 
-React Native (Expo SDK 56, TypeScript, Expo Router). ~3.5K satır TS/TSX, 45 dosya.
+React Native (Expo SDK 54, TypeScript, Expo Router). ~3.5K satır TS/TSX, 45 dosya.
 
 **Mimari katmanlar**
 

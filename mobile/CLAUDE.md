@@ -2,7 +2,7 @@
 
 > Bu dosya, bu klasörde kod yazan herkes (ve Claude) için **mimari kurallardır**.
 > Gereksinimlerin tamamı: [../MOBILE-APP-SPEC.md](../MOBILE-APP-SPEC.md).
-> Expo SDK 56 — kod yazmadan önce sürümlü dokümana bak: https://docs.expo.dev/versions/v56.0.0/
+> Expo SDK 54 — kod yazmadan önce sürümlü dokümana bak: https://docs.expo.dev/versions/v54.0.0/
 
 ## Ne / Nasıl
 
@@ -123,6 +123,8 @@ Spec gereği mimari bunlara hazır; eklerken:
 
 - Web projesine (üst dizin) **dokunma**. Bu klasör bağımsızdır.
 - Modlar/ekranlar dile özel string GÖMME — `i18n` ve katalogdan al.
+- **SDK 54** kullanılır (App Store/Play Store'daki Expo Go ile uyumlu). SDK
+  yükseltirken Expo Go'nun o sürümü desteklediğinden emin ol, yoksa dev build gerekir.
 - Yeni native modül = `npx expo install` (sürüm hizası); Expo Go'da çalışıp
   çalışmadığını kontrol et.
 - Değişiklikten sonra: `npx tsc --noEmit` ve gerekiyorsa `npx expo export -p ios`
