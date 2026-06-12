@@ -5,6 +5,7 @@ import {
   Modal,
   PanResponder,
   Pressable,
+  ScrollView,
   StyleSheet,
   Text,
   View,
@@ -157,18 +158,35 @@ export function WordDiscovery({
               </Animated.View>
 
               <Pressable style={styles.cardInner} onPress={() => setRevealed((r) => !r)}>
-                <Text style={styles.term}>{card.term}</Text>
-                <Text style={styles.type}>{card.type}</Text>
-                {revealed ? (
-                  <>
+                <ScrollView
+                  style={styles.cardScroll}
+                  contentContainerStyle={styles.cardScrollContent}
+                  showsVerticalScrollIndicator={false}
+                  bounces={false}
+                >
+                  <Text style={styles.term}>{card.term}</Text>
+                  <Text style={styles.type}>{card.type}</Text>
+                  {revealed ? (
                     <Text style={styles.meaning}>{card.meaning}</Text>
-                    {card.examples[0] && (
-                      <Text style={styles.example}>{stripBraces(card.examples[0].target)}</Text>
-                    )}
-                  </>
-                ) : (
-                  <Text style={styles.tapHint}>anlamı görmek için dokun</Text>
-                )}
+                  ) : (
+                    <Text style={styles.tapHint}>anlamı görmek için dokun</Text>
+                  )}
+                  {card.examples.length > 0 && (
+                    <View style={styles.examplesContainer}>
+                      {card.examples.slice(0, 3).map((ex, i) => (
+                        <View key={i} style={styles.exampleBlock}>
+                          <Text style={styles.exampleNum}>{i + 1}</Text>
+                          <View style={styles.exampleTexts}>
+                            <Text style={styles.exampleTarget}>{stripBraces(ex.target)}</Text>
+                            {revealed && (
+                              <Text style={styles.exampleSource}>{ex.source}</Text>
+                            )}
+                          </View>
+                        </View>
+                      ))}
+                    </View>
+                  )}
+                </ScrollView>
               </Pressable>
             </Animated.View>
           </View>
@@ -218,8 +236,8 @@ const styles = StyleSheet.create({
   counterLabel: { color: colors.muted, fontSize: 11 },
   hint: { color: colors.muted, fontSize: 13, textAlign: "center", marginBottom: spacing.sm },
 
-  stage: { flex: 1, alignItems: "center", justifyContent: "center", paddingVertical: spacing.md },
-  cardArea: { width: "100%", maxWidth: 360, flex: 1, maxHeight: 540 },
+  stage: { flex: 1, alignItems: "center", paddingVertical: spacing.md },
+  cardArea: { width: "100%", maxWidth: 400, flex: 1 },
   card: {
     ...StyleSheet.absoluteFillObject,
     backgroundColor: colors.surface,
@@ -229,12 +247,35 @@ const styles = StyleSheet.create({
     padding: spacing.xl,
   },
   cardBehind: { transform: [{ scale: 0.94 }], opacity: 0.6, alignItems: "center", justifyContent: "center" },
-  cardInner: { flex: 1, alignItems: "center", justifyContent: "center" },
+  cardInner: { flex: 1 },
+  cardScroll: { flex: 1, width: "100%" },
+  cardScrollContent: { alignItems: "center", paddingTop: spacing.xl + spacing.lg, paddingBottom: spacing.xl },
   term: { color: colors.text, fontSize: 34, fontWeight: "800", textAlign: "center" },
   type: { color: colors.accent, fontSize: 14, fontStyle: "italic", marginTop: 6 },
-  meaning: { color: colors.text, fontSize: 20, fontWeight: "700", marginTop: spacing.lg, textAlign: "center" },
-  example: { color: colors.muted, fontSize: 14, fontStyle: "italic", marginTop: spacing.md, textAlign: "center" },
-  tapHint: { color: colors.muted, fontSize: 13, marginTop: spacing.xl },
+  meaning: { color: colors.text, fontSize: 20, fontWeight: "700", marginTop: spacing.md, textAlign: "center" },
+  tapHint: { color: colors.muted, fontSize: 13, marginTop: spacing.md },
+  examplesContainer: { width: "100%", marginTop: spacing.md, gap: spacing.sm },
+  exampleBlock: {
+    flexDirection: "row",
+    alignItems: "flex-start",
+    width: "100%",
+    backgroundColor: colors.bg,
+    borderWidth: 1,
+    borderColor: colors.border,
+    borderRadius: radius.md,
+    paddingVertical: spacing.sm,
+    paddingHorizontal: spacing.md,
+    gap: spacing.sm,
+  },
+  exampleNum: {
+    color: colors.accent,
+    fontSize: 11,
+    fontWeight: "800",
+    lineHeight: 18,
+  },
+  exampleTexts: { flex: 1 },
+  exampleTarget: { color: colors.muted, fontSize: 13, fontStyle: "italic", lineHeight: 18 },
+  exampleSource: { color: colors.muted, fontSize: 12, marginTop: 2, opacity: 0.65, lineHeight: 16 },
 
   badge: {
     position: "absolute",
