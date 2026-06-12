@@ -3,6 +3,7 @@ import { StatusBar } from "expo-status-bar";
 import { ActivityIndicator, View } from "react-native";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { SafeAreaProvider } from "react-native-safe-area-context";
+import { MilestoneModal } from "../components/MilestoneModal";
 import { setUiLanguage } from "../i18n";
 import { useHydrated } from "../store/hydration";
 import { colors } from "../theme";
@@ -49,6 +50,7 @@ export default function RootLayout() {
             options={{ animation: "slide_from_bottom" }}
           />
         </Stack>
+        <MilestoneModal />
       </SafeAreaProvider>
     </GestureHandlerRootView>
   );

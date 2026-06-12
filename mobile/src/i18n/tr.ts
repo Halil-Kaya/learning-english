@@ -174,6 +174,17 @@ export const tr = {
   streakWeekLabel: "Bu hafta",
   streakNone: "Bugün bir tur yap, seriyi başlat 🔥",
   streakWeekDayLetters: ["Pt", "Sa", "Ça", "Pe", "Cu", "Ct", "Pa"],
+
+  // milestone kutlaması
+  milestoneHeading: "Tebrikler!",
+  milestoneSub: "gün üst üste çalıştın",
+  milestoneBlurb: "Serin alev alev. Bu tempoyu koru!",
+  milestoneContinue: "Devam! 🔥",
+
+  // haftalık hedef ayarı
+  settingsWeeklyGoal: "Haftalık Hedef",
+  settingsWeeklyGoalHint: "Haftada kaç gün çalışmayı hedefliyorsun?",
+  settingsWeeklyGoalUnit: "gün",
 } as const;
 
 export type Dict = typeof tr;

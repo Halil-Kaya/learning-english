@@ -117,10 +117,10 @@
 
 ## Uygulama Partileri ("devam et" akışı)
 
-- [ ] **Parti A — Streak çekirdeği + ana ekran**: `engine/streak.ts`
-      (saf, birim mantık), `store/streak.ts`, `tick()` bağlama (study +
-      self-test), Hedefim'de StreakHeader (🔥 + hafta noktaları + haftalık
-      hedef sayacı).
+- [x] **Parti A — Streak çekirdeği + ana ekran** ✓ 2026-06-12: `engine/streak.ts`
+      (saf, birim mantık — smoke testli), `store/streak.ts`, `tick()` bağlama
+      (study onFinish + self-test tur bitişi), Hedefim'de StreakHeader
+      (🔥 görünen seri + en iyi + Pzt–Paz hafta noktaları + haftalık hedef sayacı).
 - [ ] **Parti B — Milestone + haftalık hedef ayarı**: kutlama
       modalı (eşik geçişinde), Ayarlar'da haftalık hedef chip'leri,
       hafta devri (Pazartesi) tembel temizliği.

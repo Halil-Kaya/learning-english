@@ -1,17 +1,23 @@
 import Constants from "expo-constants";
-import { Alert, ScrollView, StyleSheet, Switch, Text, View } from "react-native";
+import { Alert, Pressable, ScrollView, StyleSheet, Switch, Text, View } from "react-native";
 import { Screen } from "../../components/Screen";
 import { isPairAvailable, PAIRS } from "../../data/languages";
 import { t } from "../../i18n";
 import { useGames } from "../../store/games";
 import { useLibrary } from "../../store/library";
 import { useSettings } from "../../store/settings";
+import { useStreak } from "../../store/streak";
 import { colors, radius, spacing } from "../../theme";
+
+const WEEKLY_GOAL_OPTIONS = [3, 4, 5, 6, 7];
 
 export default function Settings() {
   const { languagePair, sound, setLanguagePair, setSound } = useSettings();
+  const weeklyGoal = useStreak((s) => s.weeklyGoal);
+  const setWeeklyGoal = useStreak((s) => s.setWeeklyGoal);
   const resetLibrary = useLibrary((s) => s.reset);
   const resetGames = useGames((s) => s.reset);
+  const resetStreak = useStreak((s) => s.reset);
 
   const confirmReset = () => {
     Alert.alert(t("settingsReset"), t("settingsResetConfirm"), [
@@ -22,6 +28,7 @@ export default function Settings() {
         onPress: () => {
           resetLibrary();
           resetGames();
+          resetStreak();
         },
       },
     ]);
@@ -65,6 +72,26 @@ export default function Settings() {
               thumbColor="#fff"
             />
           </View>
+        </View>
+
+        <Text style={styles.section}>{t("settingsWeeklyGoal")}</Text>
+        <View style={[styles.card, styles.goalCard]}>
+          <Text style={styles.goalHint}>{t("settingsWeeklyGoalHint")}</Text>
+          <View style={styles.goalChips}>
+            {WEEKLY_GOAL_OPTIONS.map((n) => {
+              const active = weeklyGoal === n;
+              return (
+                <Pressable
+                  key={n}
+                  onPress={() => setWeeklyGoal(n)}
+                  style={[styles.chip, active && styles.chipActive]}
+                >
+                  <Text style={[styles.chipText, active && styles.chipTextActive]}>{n}</Text>
+                </Pressable>
+              );
+            })}
+          </View>
+          <Text style={styles.goalUnit}>{t("settingsWeeklyGoalUnit")} / hafta</Text>
         </View>
 
         <Text style={styles.section}>{t("settingsAbout")}</Text>
@@ -132,6 +159,22 @@ const styles = StyleSheet.create({
   },
   toggleLabel: { color: colors.text, fontSize: 15 },
   value: { color: colors.muted, fontSize: 15 },
+  goalCard: { padding: spacing.lg, gap: spacing.md },
+  goalHint: { color: colors.muted, fontSize: 13 },
+  goalChips: { flexDirection: "row", gap: spacing.sm },
+  chip: {
+    flex: 1,
+    paddingVertical: spacing.md,
+    borderRadius: radius.md,
+    backgroundColor: colors.bgSoft,
+    borderWidth: 1,
+    borderColor: colors.border,
+    alignItems: "center",
+  },
+  chipActive: { backgroundColor: colors.accentSoft, borderColor: colors.accent },
+  chipText: { color: colors.muted, fontSize: 16, fontWeight: "700" },
+  chipTextActive: { color: colors.accent },
+  goalUnit: { color: colors.muted, fontSize: 12, textAlign: "center" },
   danger: { marginTop: spacing.xl, padding: spacing.lg, alignItems: "center" },
   dangerText: { color: colors.bad, fontSize: 15, fontWeight: "700" },
 });
