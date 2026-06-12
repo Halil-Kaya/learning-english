@@ -2,6 +2,7 @@ import { useRouter } from "expo-router";
 import { FlatList, StyleSheet, Text, View } from "react-native";
 import { Button } from "../../components/Button";
 import { Screen } from "../../components/Screen";
+import { HomeNotifyCard } from "../../components/HomeNotifyCard";
 import { SetCard } from "../../components/SetCard";
 import { StreakHeader } from "../../components/StreakHeader";
 import { useStudyListSets } from "../../data/useSets";
@@ -16,6 +17,7 @@ export default function Home() {
     <Screen>
       <Text style={styles.title}>{t("homeTitle")}</Text>
       <StreakHeader />
+      <HomeNotifyCard />
 
       {sets.length === 0 ? (
         <View style={styles.empty}>

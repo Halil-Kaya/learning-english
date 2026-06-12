@@ -17,6 +17,13 @@ export const tr = {
   onboardingSubtitle:
     "Seçimini sonra Ayarlar'dan değiştirebilirsin. Tüm çalışman bu dile göre olur.",
   onboardingContinue: "Devam et",
+  // onboarding — bildirim adımı
+  onboardingNotifyTitle: "Sana ne zaman hatırlatalım?",
+  onboardingNotifySubtitle:
+    "Her gün seçtiğin saatte kısa bir hatırlatma gönderelim. Seriyi canlı tutmanın en kolay yolu. İstediğin an Ayarlar'dan değiştirebilirsin.",
+  onboardingNotifyChangeTime: "Saati değiştir",
+  onboardingNotifyEnable: "🔔 Hatırlat",
+  onboardingNotifySkip: "Şimdi değil",
 
   // home
   homeTitle: "Çalışma Hedefim",
@@ -26,6 +33,12 @@ export const tr = {
   homeGoExplore: "Keşfet'e git",
   homeStudy: "Çalış",
   homeMastered: "ezberlendi",
+  // home — bildirim hatırlatma kartı (mevcut kullanıcı)
+  homeNotifyCardTitle: "🔔 Günlük hatırlatma kur",
+  homeNotifyCardBody:
+    "Her gün belirlediğin saatte kısa bir hatırlatma al, seriyi kaçırma.",
+  homeNotifyCardEnable: "Hatırlatmayı aç",
+  homeNotifyCardDismiss: "Şimdi değil",
 
   // explore
   exploreTitle: "Keşfet",

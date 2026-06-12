@@ -125,10 +125,11 @@
       modalı (eşik geçişinde, kök layout'ta global), Ayarlar'da haftalık hedef
       chip'leri (3–7), hafta devri (Pazartesi) tembel temizliği (engine'de),
       sıfırlama streak'i de temizler.
-- [ ] **Parti C — Bildirim altyapısı + Ayarlar**:
-      `expo-notifications` kurulumu, `engine/notify.ts` (izin, kanal,
-      7 günlük planlama, mesaj havuzları), Ayarlar "Bildirimler" bölümü
-      (aç/kapa + chip'li saat seçici), kök layout'ta refresh.
+- [x] **Parti C — Bildirim altyapısı + Ayarlar** ✓ 2026-06-12:
+      `expo-notifications` kurulumu + app.json plugin, `engine/notify.ts`
+      (izin, Android kanalı, 7 günlük tarihli planlama, mesaj havuzları,
+      `buildNotifyContext`), `TimePickerModal`, Ayarlar "Bildirimler" bölümü
+      (aç/kapa + saat seçici), kök layout açılışta + tur sonunda refresh.
 - [ ] **Parti D — Onboarding adımı + mevcut kullanıcı kartı**:
       onboarding'e saat adımı, Hedefim'de tek seferlik hatırlatma kurma
       kartı, `notifyPromptDismissed`.

@@ -3,22 +3,93 @@ import { useState } from "react";
 import { ScrollView, StyleSheet, Text, View } from "react-native";
 import { Button } from "../components/Button";
 import { Screen } from "../components/Screen";
+import { TimePickerModal } from "../components/TimePickerModal";
 import { isPairAvailable, PAIRS } from "../data/languages";
 import type { LanguagePair } from "../data/types";
+import { buildNotifyContext, enableNotifications } from "../engine/notify";
 import { t } from "../i18n";
 import { useSettings } from "../store/settings";
 import { colors, radius, spacing } from "../theme";
 
+const pad = (n: number) => String(n).padStart(2, "0");
+
 export default function Onboarding() {
   const router = useRouter();
   const complete = useSettings((s) => s.completeOnboarding);
-  const [selected, setSelected] = useState<LanguagePair | null>("en-tr");
+  const setLanguagePair = useSettings((s) => s.setLanguagePair);
+  const setNotify = useSettings((s) => s.setNotify);
 
-  const onContinue = () => {
+  const [step, setStep] = useState<"lang" | "notify">("lang");
+  const [selected, setSelected] = useState<LanguagePair | null>("en-tr");
+  const [hour, setHour] = useState(20);
+  const [minute, setMinute] = useState(0);
+  const [pickerOpen, setPickerOpen] = useState(false);
+
+  const goNotify = () => {
     if (!selected) return;
-    complete(selected);
+    setLanguagePair(selected); // bildirim bağlamı doğru dil çiftini kullansın
+    setStep("notify");
+  };
+
+  const finish = () => {
+    if (selected) complete(selected);
     router.replace("/(tabs)");
   };
+
+  const enableAndFinish = async () => {
+    setNotify({ hour, minute });
+    const granted = await enableNotifications(buildNotifyContext());
+    setNotify({ enabled: granted });
+    finish();
+  };
+
+  const skipNotify = () => {
+    setNotify({ enabled: false });
+    finish();
+  };
+
+  if (step === "notify") {
+    return (
+      <Screen edges={["top", "left", "right", "bottom"]}>
+        <View style={styles.notifyWrap}>
+          <Text style={styles.bell}>🔔</Text>
+          <Text style={[styles.title, styles.centered]}>{t("onboardingNotifyTitle")}</Text>
+          <Text style={[styles.subtitle, styles.centered]}>
+            {t("onboardingNotifySubtitle")}
+          </Text>
+
+          <View style={styles.timeCard}>
+            <Text style={styles.timeBig}>
+              {pad(hour)}:{pad(minute)}
+            </Text>
+            <Button
+              title={t("onboardingNotifyChangeTime")}
+              variant="surface"
+              small
+              onPress={() => setPickerOpen(true)}
+            />
+          </View>
+        </View>
+
+        <View style={styles.footer}>
+          <Button title={t("onboardingNotifyEnable")} variant="primary" onPress={enableAndFinish} />
+          <Button title={t("onboardingNotifySkip")} variant="ghost" onPress={skipNotify} />
+        </View>
+
+        <TimePickerModal
+          visible={pickerOpen}
+          hour={hour}
+          minute={minute}
+          onClose={() => setPickerOpen(false)}
+          onConfirm={(h, m) => {
+            setHour(h);
+            setMinute(m);
+            setPickerOpen(false);
+          }}
+        />
+      </Screen>
+    );
+  }
 
   return (
     <Screen edges={["top", "left", "right", "bottom"]}>
@@ -60,7 +131,7 @@ export default function Onboarding() {
         <Button
           title={t("onboardingContinue")}
           variant="primary"
-          onPress={onContinue}
+          onPress={goNotify}
           disabled={!selected}
         />
       </View>
@@ -96,5 +167,22 @@ const styles = StyleSheet.create({
   via: { color: colors.muted, fontSize: 13, marginTop: 1 },
   soon: { color: colors.muted, fontSize: 12, fontStyle: "italic" },
   check: { color: colors.accent, fontSize: 20, fontWeight: "800" },
-  footer: { paddingVertical: spacing.lg },
+  footer: { paddingVertical: spacing.lg, gap: spacing.sm },
+
+  // bildirim adımı
+  notifyWrap: { flex: 1, alignItems: "center", justifyContent: "center", gap: spacing.sm },
+  centered: { textAlign: "center" },
+  bell: { fontSize: 64 },
+  timeCard: {
+    marginTop: spacing.xl,
+    alignItems: "center",
+    gap: spacing.md,
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+    borderRadius: radius.xl,
+    paddingVertical: spacing.xl,
+    paddingHorizontal: spacing.xxl,
+  },
+  timeBig: { color: colors.accent, fontSize: 52, fontWeight: "800" },
 });
