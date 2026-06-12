@@ -70,7 +70,20 @@ export const tr = {
   modeMatchDesc: "Eşleştirme oyunu",
   modeFillDesc: "Cümledeki boşluk",
   modeWriteDesc: "Harf harf yaz",
-  modeMemorizeDesc: "Piramit + final test",
+  modeMemorizeDesc: "10x yaz + final test",
+  pickerStudyHeader: "ÇALIŞMA MODLARI",
+  pickerGamesHeader: "OYUNLAR",
+  modeAnagram: "Kelime Kur",
+  modeAnagramDesc: "Harfleri sıraya diz",
+
+  // games common
+  gameScore: "SKOR",
+  gameCombo: "SERİ",
+  gameUndo: "← Geri",
+  gameClear: "Temizle",
+  gameNewRecord: "🏆 Yeni Rekor!",
+  gameOver: "Oyun Bitti",
+  gameHighScore: "Rekor",
 
   // study common
   iKnow: "Biliyorum",

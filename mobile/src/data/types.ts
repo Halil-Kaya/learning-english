@@ -86,7 +86,14 @@ export type StudyMode =
   | "match"
   | "fill"
   | "write"
-  | "memorize";
+  | "memorize"
+  | "anagram";
+
+/**
+ * Oyun modları: kelime ilerlemesine (recordWord) ve oturum geçmişine
+ * (addSession) YAZMAZ — yalnız eğlence + yüksek skor (src/store/games.ts).
+ */
+export const GAME_MODES: ReadonlySet<StudyMode> = new Set(["anagram"]);
 
 /** Tamamlanan bir çalışma oturumunun kaydı. */
 export interface SessionRecord {

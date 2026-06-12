@@ -1,9 +1,16 @@
-import { Pressable, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import type { StudyMode } from "../../data/types";
 import { t } from "../../i18n";
 import { colors, radius, spacing } from "../../theme";
 
-const MODES: { mode: StudyMode; emoji: string; title: string; desc: string }[] = [
+interface ModeCard {
+  mode: StudyMode;
+  emoji: string;
+  title: string;
+  desc: string;
+}
+
+const MODES: ModeCard[] = [
   { mode: "cards", emoji: "🃏", title: t("modeCards"), desc: t("modeCardsDesc") },
   { mode: "test", emoji: "🧠", title: t("modeTest"), desc: t("modeTestDesc") },
   { mode: "match", emoji: "🔗", title: t("modeMatch"), desc: t("modeMatchDesc") },
@@ -12,10 +19,15 @@ const MODES: { mode: StudyMode; emoji: string; title: string; desc: string }[] =
   { mode: "memorize", emoji: "🧗", title: t("modeMemorize"), desc: t("modeMemorizeDesc") },
 ];
 
+/** Oyunlar: ilerlemeye yazmaz, yüksek skor tutar (bkz. GAMES-SPEC.md). */
+const GAMES: ModeCard[] = [
+  { mode: "anagram", emoji: "🧩", title: t("modeAnagram"), desc: t("modeAnagramDesc") },
+];
+
 export function ModePicker({ onPick }: { onPick: (m: StudyMode) => void }) {
-  return (
+  const renderGroup = (cards: ModeCard[]) => (
     <View style={styles.grid}>
-      {MODES.map((m) => (
+      {cards.map((m) => (
         <Pressable
           key={m.mode}
           onPress={() => onPick(m.mode)}
@@ -28,9 +40,27 @@ export function ModePicker({ onPick }: { onPick: (m: StudyMode) => void }) {
       ))}
     </View>
   );
+
+  return (
+    <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={styles.content}>
+      <Text style={styles.header}>{t("pickerStudyHeader")}</Text>
+      {renderGroup(MODES)}
+      <Text style={[styles.header, styles.gamesHeader]}>{t("pickerGamesHeader")}</Text>
+      {renderGroup(GAMES)}
+    </ScrollView>
+  );
 }
 
 const styles = StyleSheet.create({
+  content: { paddingBottom: spacing.xl },
+  header: {
+    color: colors.muted,
+    fontSize: 11,
+    letterSpacing: 2,
+    fontWeight: "700",
+    marginBottom: spacing.sm,
+  },
+  gamesHeader: { marginTop: spacing.xl },
   grid: { flexDirection: "row", flexWrap: "wrap", gap: spacing.md, justifyContent: "space-between" },
   card: {
     width: "47.5%",

@@ -2,6 +2,7 @@ import { useLocalSearchParams, useRouter } from "expo-router";
 import { useMemo, useState } from "react";
 import { Pressable, StyleSheet, Text, View } from "react-native";
 import { Screen } from "../../components/Screen";
+import { AnagramMode } from "../../components/modes/AnagramMode";
 import { CardsMode } from "../../components/modes/CardsMode";
 import { FillMode } from "../../components/modes/FillMode";
 import { MatchMode } from "../../components/modes/MatchMode";
@@ -11,7 +12,7 @@ import { ResultView } from "../../components/modes/ResultView";
 import { TestMode } from "../../components/modes/TestMode";
 import { WriteMode } from "../../components/modes/WriteMode";
 import type { ModeProps, ModeResult } from "../../components/modes/types";
-import type { Entry, StudyMode } from "../../data/types";
+import { GAME_MODES, type Entry, type StudyMode } from "../../data/types";
 import { useSet } from "../../data/useSets";
 import { makeSpeak } from "../../engine/speak";
 import { useLibrary } from "../../store/library";
@@ -25,6 +26,7 @@ const MODE_COMPONENTS: Record<StudyMode, (p: ModeProps) => React.ReactElement> =
   fill: FillMode,
   write: WriteMode,
   memorize: MemorizeMode,
+  anagram: AnagramMode,
 };
 
 export default function StudySession() {
@@ -61,6 +63,8 @@ export default function StudySession() {
 
   const onFinish = (res: ModeResult) => {
     setResult(res);
+    // oyun modları geçmişe yazılmaz (yalnız yüksek skor — games store)
+    if (GAME_MODES.has(mode!)) return;
     addSession(pair, {
       id: `${Date.now()}-${Math.round(Math.random() * 1e6)}`,
       setId: set.id,
@@ -97,26 +101,46 @@ export default function StudySession() {
         speak={speak}
         onRecordWord={onRecordWord}
         onFinish={onFinish}
+        setId={set.id}
       />
     );
   } else {
     body = <ModePicker onPick={(m) => start(m, set.entries)} />;
   }
 
+  // mod içindeyken (veya sonuç ekranında) ← mod seçimine döner; seçimdeyken ✕ kapatır
+  const inMode = mode !== null;
+  const backToPicker = () => {
+    setMode(null);
+    setResult(null);
+  };
+
   return (
     <Screen edges={["top", "left", "right", "bottom"]}>
-      <Header title={set.name} onClose={() => router.back()} />
+      <Header
+        title={set.name}
+        icon={inMode ? "back" : "close"}
+        onClose={inMode ? backToPicker : () => router.back()}
+      />
       <View style={styles.flex}>{body}</View>
     </Screen>
   );
 }
 
-function Header({ title, onClose }: { title: string; onClose: () => void }) {
+function Header({
+  title,
+  onClose,
+  icon = "close",
+}: {
+  title: string;
+  onClose: () => void;
+  icon?: "close" | "back";
+}) {
   return (
     <View style={styles.header}>
       <Text style={styles.title}>{title}</Text>
       <Pressable onPress={onClose} hitSlop={10} style={styles.close}>
-        <Text style={styles.closeText}>✕</Text>
+        <Text style={styles.closeText}>{icon === "back" ? "←" : "✕"}</Text>
       </Pressable>
     </View>
   );

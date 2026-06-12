@@ -17,9 +17,13 @@ export function ResultView({
 }) {
   const done = result.know + result.learn;
   const pct = done ? Math.round((result.know / done) * 100) : 0;
+  const isGame = result.score !== undefined;
   let emoji = "📚";
   let title: string = t("resultKeepGoing");
-  if (pct >= 80) {
+  if (isGame) {
+    emoji = result.isRecord ? "🏆" : "🎮";
+    title = result.isRecord ? t("gameNewRecord") : t("gameOver");
+  } else if (pct >= 80) {
     emoji = "🎉";
     title = t("resultPerfect");
   } else if (pct >= 50) {
@@ -31,8 +35,11 @@ export function ResultView({
     <View style={styles.card}>
       <Text style={styles.emoji}>{emoji}</Text>
       <Text style={styles.title}>{title}</Text>
+      {isGame && <Text style={styles.score}>{result.score}</Text>}
       <Text style={styles.sub}>
-        {pct}% başarı — {result.know} doğru, {result.learn} yanlış
+        {isGame
+          ? `${result.know} doğru, ${result.learn} yanlış`
+          : `${pct}% başarı — ${result.know} doğru, ${result.learn} yanlış`}
       </Text>
       <View style={styles.actions}>
         <Button title={t("resultRestart")} variant="primary" onPress={onRestart} />
@@ -55,6 +62,7 @@ const styles = StyleSheet.create({
   },
   emoji: { fontSize: 56 },
   title: { color: colors.text, fontSize: 26, fontWeight: "800" },
+  score: { color: colors.accent2, fontSize: 44, fontWeight: "800" },
   sub: { color: colors.muted, fontSize: 15, marginBottom: spacing.lg, textAlign: "center" },
   actions: { alignSelf: "stretch", gap: spacing.sm, borderRadius: radius.lg },
 });

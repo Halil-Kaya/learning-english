@@ -3,6 +3,7 @@ import { Alert, ScrollView, StyleSheet, Switch, Text, View } from "react-native"
 import { Screen } from "../../components/Screen";
 import { isPairAvailable, PAIRS } from "../../data/languages";
 import { t } from "../../i18n";
+import { useGames } from "../../store/games";
 import { useLibrary } from "../../store/library";
 import { useSettings } from "../../store/settings";
 import { colors, radius, spacing } from "../../theme";
@@ -10,6 +11,7 @@ import { colors, radius, spacing } from "../../theme";
 export default function Settings() {
   const { languagePair, sound, setLanguagePair, setSound } = useSettings();
   const resetLibrary = useLibrary((s) => s.reset);
+  const resetGames = useGames((s) => s.reset);
 
   const confirmReset = () => {
     Alert.alert(t("settingsReset"), t("settingsResetConfirm"), [
@@ -17,7 +19,10 @@ export default function Settings() {
       {
         text: "Sıfırla",
         style: "destructive",
-        onPress: () => resetLibrary(),
+        onPress: () => {
+          resetLibrary();
+          resetGames();
+        },
       },
     ]);
   };

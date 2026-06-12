@@ -16,6 +16,7 @@ const MODE_LABEL: Record<StudyMode, string> = {
   fill: "✏️ Boşluk Doldur",
   write: "⌨️ Yazma",
   memorize: "🧗 Ezber",
+  anagram: "🧩 Kelime Kur", // oyunlar geçmişe yazılmaz; tip bütünlüğü için
 };
 
 function formatDate(iso: string): string {
