@@ -1,0 +1,887 @@
+[
+  {
+    "id": "en-tr-beginner-58",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 58",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-58-0",
+        "kind": "word",
+        "term": "music",
+        "type": "noun",
+        "meaning": "müzik",
+        "examples": [
+          { "target": "She listens to {music} while she exercises.", "source": "Egzersiz yaparken müzik dinliyor." },
+          { "target": "He plays {music} at weddings and events.", "source": "Düğünlerde ve etkinliklerde müzik çalıyor." },
+          { "target": "The {music} filled the room and lifted everyone's mood.", "source": "Müzik odayı doldurdu ve herkesin ruhunu yükseltti." },
+          { "target": "She studies classical {music} at the conservatory.", "source": "Konservatuarda klasik müzik eğitimi alıyor." },
+          { "target": "He writes {music} for films and television.", "source": "Film ve televizyon için müzik yazıyor." },
+          { "target": "She can't work without {music} in the background.", "source": "Arka planda müzik olmadan çalışamıyor." },
+          { "target": "He shared his love of {music} with his children.", "source": "Müziğe olan sevgisini çocuklarıyla paylaştı." },
+          { "target": "The {music} at the concert was breathtaking.", "source": "Konsertteki müzik büyüleyiciydi." },
+          { "target": "She discovered a love for jazz {music} in her twenties.", "source": "Yirmili yaşlarında caz müziğe olan sevgisini keşfetti." },
+          { "target": "He uploaded his {music} to a streaming platform.", "source": "Müziğini bir yayın platformuna yükledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-1",
+        "kind": "word",
+        "term": "film",
+        "type": "noun",
+        "meaning": "film, sinema",
+        "examples": [
+          { "target": "She watched the {film} twice because she loved it.", "source": "Çok sevdiği için filmi iki kez izledi." },
+          { "target": "He directed his first {film} at age twenty-five.", "source": "İlk filmini yirmi beş yaşında yönetti." },
+          { "target": "The {film} was based on a true story.", "source": "Film gerçek bir hikayeye dayanıyordu." },
+          { "target": "She reviews {films} for a popular online magazine.", "source": "Popüler bir çevrimiçi dergi için film incelemeleri yazıyor." },
+          { "target": "He worked on the {film} as a camera operator.", "source": "Filmde kamera operatörü olarak çalıştı." },
+          { "target": "She doesn't watch horror {films} because they scare her.", "source": "Korku filmlerini izlemiyor çünkü korkutuyor." },
+          { "target": "He brought popcorn for the {film} night at home.", "source": "Evdeki film gecesi için patlamış mısır getirdi." },
+          { "target": "The {film} won several awards at the festival.", "source": "Film festivalde birçok ödül kazandı." },
+          { "target": "She remembers every {film} she has ever seen.", "source": "İzlediği her filmi hatırlıyor." },
+          { "target": "He is passionate about independent {film}.", "source": "Bağımsız sinema hakkında çok tutkulu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-2",
+        "kind": "word",
+        "term": "art",
+        "type": "noun",
+        "meaning": "sanat",
+        "examples": [
+          { "target": "She has always had a passion for {art}.", "source": "Her zaman sanata karşı bir tutkusu olmuştur." },
+          { "target": "He studies {art} history at university.", "source": "Üniversitede sanat tarihi okuyor." },
+          { "target": "The gallery displays modern {art} from local artists.", "source": "Galeri yerel sanatçılardan modern sanat sergiliyor." },
+          { "target": "She creates {art} using recycled materials.", "source": "Geri dönüştürülmüş malzemeler kullanarak sanat üretiyor." },
+          { "target": "He believes {art} can change the world.", "source": "Sanatın dünyayı değiştirebileceğine inanıyor." },
+          { "target": "She hung her children's {art} on the refrigerator.", "source": "Çocuklarının sanat eserlerini buzdolabına astı." },
+          { "target": "He teaches {art} to teenagers at a community center.", "source": "Toplum merkezinde gençlere sanat öğretiyor." },
+          { "target": "The {art} exhibition attracted thousands of visitors.", "source": "Sanat sergisi binlerce ziyaretçi çekti." },
+          { "target": "She views cooking as a form of {art}.", "source": "Yemek pişirmeyi bir tür sanat olarak görüyor." },
+          { "target": "He spent the afternoon admiring {art} at the museum.", "source": "Öğleden sonrayı müzede sanat eserlerini hayranlıkla izleyerek geçirdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-3",
+        "kind": "word",
+        "term": "sing",
+        "type": "verb",
+        "meaning": "şarkı söylemek",
+        "examples": [
+          { "target": "She loves to {sing} in the shower.", "source": "Duşta şarkı söylemeyi çok sever." },
+          { "target": "He {sang} a lullaby to his daughter.", "source": "Kızına ninni söyledi." },
+          { "target": "She {sings} in a choir every weekend.", "source": "Her hafta sonu bir koroda şarkı söylüyor." },
+          { "target": "He was too nervous to {sing} in front of the audience.", "source": "Seyircinin önünde şarkı söylemek için çok gergin." },
+          { "target": "She {sang} the national anthem before the match.", "source": "Maçtan önce milli marşı söyledi." },
+          { "target": "He {sings} every time he is in a good mood.", "source": "İyi hissettiğinde her seferinde şarkı söylüyor." },
+          { "target": "She {sang} a beautiful song at the wedding.", "source": "Düğünde güzel bir şarkı söyledi." },
+          { "target": "He practiced {singing} for hours before the audition.", "source": "Seçmeden önce saatlerce şarkı söyleme pratiği yaptı." },
+          { "target": "She {sings} to herself when she is nervous.", "source": "Gergin olduğunda kendi kendine şarkı söylüyor." },
+          { "target": "He {sang} along to every song on the radio.", "source": "Radyodaki her şarkıya eşlik etti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-4",
+        "kind": "word",
+        "term": "perform",
+        "type": "verb",
+        "meaning": "sahne almak, performans sergilemek",
+        "examples": [
+          { "target": "She {performed} in front of a huge crowd.", "source": "Dev bir kalabalığın önünde sahne aldı." },
+          { "target": "He {performs} at the local theater every month.", "source": "Her ay yerel tiyatroda sahne alıyor." },
+          { "target": "She was nervous before she {performed}.", "source": "Sahne çıkmadan önce gergin hissetti." },
+          { "target": "He {performed} magic tricks at the children's party.", "source": "Çocuk partisinde sihir gösterileri sergiledi." },
+          { "target": "She {performs} classical pieces on the piano.", "source": "Piyano üzerinde klasik parçalar icra ediyor." },
+          { "target": "He {performed} well under pressure during the finals.", "source": "Finallerde baskı altında iyi bir performans sergiledi." },
+          { "target": "She was invited to {perform} at the national festival.", "source": "Ulusal festivalde sahne almaya davet edildi." },
+          { "target": "He {performs} stand-up comedy on weekends.", "source": "Hafta sonları stand-up komedi yapıyor." },
+          { "target": "She {performed} the operation successfully.", "source": "Ameliyatı başarıyla gerçekleştirdi." },
+          { "target": "He was proud of how well he {performed}.", "source": "Ne kadar iyi performans sergilediğiyle gurur duydu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-5",
+        "kind": "word",
+        "term": "concert",
+        "type": "noun",
+        "meaning": "konser",
+        "examples": [
+          { "target": "She bought tickets for the {concert} months in advance.", "source": "Konser biletlerini aylar öncesinden satın aldı." },
+          { "target": "He goes to a live {concert} every summer.", "source": "Her yaz canlı konsere gidiyor." },
+          { "target": "The {concert} was held in an open-air amphitheater.", "source": "Konser açık hava amfitiyatrosunda düzenlendi." },
+          { "target": "She loved the energy of the {concert}.", "source": "Konserin enerjisini çok sevdi." },
+          { "target": "He played guitar at the school {concert}.", "source": "Okul konserinde gitar çaldı." },
+          { "target": "She took her daughter to her first {concert}.", "source": "Kızını ilk konserine götürdü." },
+          { "target": "He watched the {concert} live on television.", "source": "Konseri televizyondan canlı izledi." },
+          { "target": "She missed the {concert} because she was sick.", "source": "Hasta olduğu için konseri kaçırdı." },
+          { "target": "The {concert} started two hours late.", "source": "Konser iki saat geç başladı." },
+          { "target": "He still talks about that {concert} years later.", "source": "Yıllar sonra hâlâ o konserden bahsediyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-6",
+        "kind": "word",
+        "term": "actor",
+        "type": "noun",
+        "meaning": "aktör, oyuncu",
+        "examples": [
+          { "target": "She is a talented {actor} who has starred in many films.", "source": "Birçok filmde başrol oynamış yetenekli bir oyuncudur." },
+          { "target": "He became an {actor} after years of training.", "source": "Yıllarca eğitimin ardından oyuncu oldu." },
+          { "target": "The young {actor} received praise for his debut.", "source": "Genç oyuncu ilk rolüyle övgü aldı." },
+          { "target": "She is my favorite {actor} — she brings every role to life.", "source": "O benim favori oyuncum — her rolü hayata geçiriyor." },
+          { "target": "He worked as an extra before becoming a famous {actor}.", "source": "Ünlü oyuncu olmadan önce figüran olarak çalıştı." },
+          { "target": "The {actor} studied at a prestigious drama school.", "source": "Oyuncu saygın bir drama okulunda okudu." },
+          { "target": "She plays a villain in the new film — the {actor} is incredible.", "source": "Yeni filmde kötü adam oynuyor — oyuncu inanılmaz." },
+          { "target": "He is not just an {actor}; he also writes scripts.", "source": "O sadece oyuncu değil, aynı zamanda senaryo da yazıyor." },
+          { "target": "The {actor} spent months preparing for the role.", "source": "Oyuncu role hazırlanmak için aylarca çalıştı." },
+          { "target": "She met her favorite {actor} at a film premiere.", "source": "Favori oyuncusuyla bir film galasında karşılaştı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-7",
+        "kind": "word",
+        "term": "scene",
+        "type": "noun",
+        "meaning": "sahne, manzara",
+        "examples": [
+          { "target": "The {scene} where they said goodbye made her cry.", "source": "Vedalaştıkları sahne onu ağlattı." },
+          { "target": "He filmed the final {scene} in a single take.", "source": "Son sahneyi tek bir çekimde tamamladı." },
+          { "target": "The {scene} outside the window was beautiful.", "source": "Pencerenin dışındaki manzara güzeldi." },
+          { "target": "She loves the opening {scene} of that film.", "source": "O filmin açılış sahnesini çok seviyor." },
+          { "target": "He directed the action {scene} with great care.", "source": "Aksiyon sahnesini büyük bir özenle yönetti." },
+          { "target": "The police arrived at the {scene} of the accident.", "source": "Polis kaza yerine ulaştı." },
+          { "target": "She painted a peaceful countryside {scene}.", "source": "Sakin bir kırsal kesim manzarası resmetti." },
+          { "target": "He memorized every line for the big {scene}.", "source": "Büyük sahne için her satırı ezberledi." },
+          { "target": "The {scene} was so realistic that people gasped.", "source": "Sahne o kadar gerçekçiydi ki insanlar hayrete düştü." },
+          { "target": "She set the {scene} with just a few carefully chosen words.", "source": "Dikkatle seçilmiş birkaç kelimeyle sahneyi kurdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-8",
+        "kind": "word",
+        "term": "studio",
+        "type": "noun",
+        "meaning": "stüdyo, atölye",
+        "examples": [
+          { "target": "She rents a small {studio} apartment in the city.", "source": "Şehirde küçük bir stüdyo dairesi kiralıyor." },
+          { "target": "He records his music in a home {studio}.", "source": "Müziğini ev stüdyosunda kaydediyor." },
+          { "target": "The {studio} was quiet and well-lit for the photo shoot.", "source": "Fotoğraf çekimi için stüdyo sessiz ve iyi aydınlatılmıştı." },
+          { "target": "She works as a designer in a creative {studio}.", "source": "Yaratıcı bir stüdyoda tasarımcı olarak çalışıyor." },
+          { "target": "He visited the artist's {studio} and was amazed.", "source": "Sanatçının atölyesini ziyaret etti ve hayrete düştü." },
+          { "target": "The film was shot entirely in a {studio}.", "source": "Film tamamen stüdyoda çekildi." },
+          { "target": "She set up her painting {studio} in the attic.", "source": "Resim atölyesini çatı katına kurdu." },
+          { "target": "He worked long hours at the recording {studio}.", "source": "Kayıt stüdyosunda uzun saatler çalıştı." },
+          { "target": "The yoga {studio} was calm and welcoming.", "source": "Yoga stüdyosu sakin ve davetkar bir ortamdaydı." },
+          { "target": "She published her debut album from a small {studio}.", "source": "İlk albümünü küçük bir stüdyodan çıkardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-9",
+        "kind": "word",
+        "term": "gallery",
+        "type": "noun",
+        "meaning": "galeri",
+        "examples": [
+          { "target": "She visited an art {gallery} on her afternoon off.", "source": "İzinli öğleden sonrasında bir sanat galerisini ziyaret etti." },
+          { "target": "He displayed his photographs in a local {gallery}.", "source": "Fotoğraflarını yerel bir galeride sergiledi." },
+          { "target": "The {gallery} opened a new exhibition last week.", "source": "Galeri geçen hafta yeni bir sergi açtı." },
+          { "target": "She walked slowly through the {gallery} admiring each piece.", "source": "Her eseri hayranlıkla izleyerek galeri boyunca yavaşça yürüdü." },
+          { "target": "He won a prize for his work at the student {gallery}.", "source": "Öğrenci galerisindeki çalışmasıyla ödül kazandı." },
+          { "target": "The {gallery} features both local and international artists.", "source": "Galeri hem yerel hem de uluslararası sanatçılara yer veriyor." },
+          { "target": "She dreams of having her own {gallery} one day.", "source": "Bir gün kendi galerisine sahip olmayı hayal ediyor." },
+          { "target": "He volunteered at the {gallery} during the festival.", "source": "Festival sırasında galeride gönüllü olarak çalıştı." },
+          { "target": "The {gallery} is free to enter on Sundays.", "source": "Galeri Pazar günleri ücretsiz girişe açık." },
+          { "target": "She scrolled through his online photo {gallery}.", "source": "Çevrimiçi fotoğraf galerisinde gezindi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-10",
+        "kind": "word",
+        "term": "instrument",
+        "type": "noun",
+        "meaning": "enstrüman, alet",
+        "examples": [
+          { "target": "She plays three {instruments}: piano, violin, and guitar.", "source": "Üç enstrüman çalıyor: piyano, keman ve gitar." },
+          { "target": "He bought his first musical {instrument} at age ten.", "source": "İlk müzik enstrümanını on yaşında satın aldı." },
+          { "target": "The {instrument} needs tuning before the performance.", "source": "Enstrümanın performanstan önce akort edilmesi gerekiyor." },
+          { "target": "She learned to play the {instrument} in just six months.", "source": "Enstrümanı yalnızca altı ayda öğrendi." },
+          { "target": "He repairs old {instruments} in his workshop.", "source": "Atölyesinde eski enstrümanları onarıyor." },
+          { "target": "The surgeon used a delicate {instrument} for the operation.", "source": "Cerrah ameliyat için hassas bir alet kullandı." },
+          { "target": "She passed down her favorite {instrument} to her daughter.", "source": "Favori enstrümanını kızına devretti." },
+          { "target": "He collected rare {instruments} from around the world.", "source": "Dünyanın dört bir yanından nadir enstrümanlar topladı." },
+          { "target": "Music is a powerful {instrument} for emotional healing.", "source": "Müzik, duygusal iyileşme için güçlü bir araçtır." },
+          { "target": "She had never played that {instrument} before but tried anyway.", "source": "O enstrümanı daha önce hiç çalmamıştı ama yine de denedi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-11",
+        "kind": "word",
+        "term": "rhythm",
+        "type": "noun",
+        "meaning": "ritim",
+        "examples": [
+          { "target": "She has a natural sense of {rhythm}.", "source": "Doğal bir ritim anlayışı var." },
+          { "target": "He tapped his foot to the {rhythm} of the music.", "source": "Ayağını müziğin ritmine vurdu." },
+          { "target": "The {rhythm} of the waves calmed her.", "source": "Dalgaların ritmi onu sakinleştirdi." },
+          { "target": "He struggled to find the {rhythm} at first.", "source": "İlk başta ritmi bulmakta zorlandı." },
+          { "target": "She dances with perfect {rhythm} every time.", "source": "Her seferinde mükemmel ritimle dans ediyor." },
+          { "target": "He practiced the {rhythm} on the drums for hours.", "source": "Davul üzerinde ritmi saatlerce pratik etti." },
+          { "target": "She felt the {rhythm} of the city around her.", "source": "Etrafındaki şehrin ritmini hissetti." },
+          { "target": "He says he has no sense of {rhythm}.", "source": "Ritim anlayışının olmadığını söylüyor." },
+          { "target": "The {rhythm} of the poem made it easy to memorize.", "source": "Şiirin ritmi onu ezberleyi kolaylaştırdı." },
+          { "target": "She established a daily {rhythm} that kept her productive.", "source": "Onu üretken tutan günlük bir ritim oluşturdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-12",
+        "kind": "word",
+        "term": "creative",
+        "type": "adjective",
+        "meaning": "yaratıcı",
+        "examples": [
+          { "target": "She is very {creative} and always comes up with new ideas.", "source": "Çok yaratıcı ve her zaman yeni fikirler üretiyor." },
+          { "target": "He has a {creative} approach to solving problems.", "source": "Sorun çözmede yaratıcı bir yaklaşımı var." },
+          { "target": "She chose a {creative} career in graphic design.", "source": "Grafik tasarımda yaratıcı bir kariyer seçti." },
+          { "target": "He felt most {creative} in the early morning hours.", "source": "Sabahın erken saatlerinde kendini en yaratıcı hissediyordu." },
+          { "target": "She decorated the room with {creative} touches.", "source": "Odayı yaratıcı dokunuşlarla dekore etti." },
+          { "target": "He gave a {creative} solution that surprised everyone.", "source": "Herkesi şaşırtan yaratıcı bir çözüm sundu." },
+          { "target": "Being {creative} means thinking differently from others.", "source": "Yaratıcı olmak, başkalarından farklı düşünmek anlamına gelir." },
+          { "target": "She took a {creative} writing class to improve.", "source": "Gelişmek için yaratıcı yazarlık dersi aldı." },
+          { "target": "He is most {creative} when he has complete freedom.", "source": "Tam özgürlüğe sahip olduğunda en yaratıcı hâlindedir." },
+          { "target": "She encourages her students to be {creative}.", "source": "Öğrencilerini yaratıcı olmaya teşvik ediyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-13",
+        "kind": "word",
+        "term": "sketch",
+        "type": "noun",
+        "meaning": "taslak, eskiz",
+        "examples": [
+          { "target": "She drew a quick {sketch} of the building.", "source": "Binanın hızlı bir eskizini çizdi." },
+          { "target": "He fills his notebook with {sketches} every day.", "source": "Her gün defterini eskizlerle dolduruyor." },
+          { "target": "She shared her {sketch} of the new design concept.", "source": "Yeni tasarım konseptinin eskizini paylaştı." },
+          { "target": "He made a rough {sketch} before starting the painting.", "source": "Tabloya başlamadan önce kaba bir taslak çizdi." },
+          { "target": "The {sketch} captured the scene perfectly.", "source": "Eskiz sahneyi mükemmel biçimde yakaladı." },
+          { "target": "She carries a {sketch}book everywhere she goes.", "source": "Gittiği her yere eskiz defteri taşır." },
+          { "target": "He turned his {sketch} into a full painting over time.", "source": "Zamanla eskizini tam bir tabloya dönüştürdü." },
+          { "target": "She drew a {sketch} of her dream home.", "source": "Hayalindeki evin bir eskizini çizdi." },
+          { "target": "He showed her his early {sketches} for the project.", "source": "Proje için ilk eskizlerini ona gösterdi." },
+          { "target": "The artist's {sketch} was sold at auction for thousands.", "source": "Sanatçının eskizi açık artırmada binlerce dolara satıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-58-14",
+        "kind": "word",
+        "term": "exhibit",
+        "type": "verb",
+        "meaning": "sergilemek, teşhir etmek",
+        "examples": [
+          { "target": "She {exhibited} her paintings at the city gallery.", "source": "Tablolarını şehir galerisinde sergiledi." },
+          { "target": "He {exhibits} his work at international art fairs.", "source": "Çalışmalarını uluslararası sanat fuarlarında sergiliyor." },
+          { "target": "The museum will {exhibit} rare fossils next month.", "source": "Müze gelecek ay nadir fosiller sergileyecek.", "source": "Müze gelecek ay nadir fosiller sergileyecek." },
+          { "target": "She was invited to {exhibit} at the national show.", "source": "Ulusal sergide eserlerini sergilemeye davet edildi." },
+          { "target": "He {exhibits} signs of creativity in everything he does.", "source": "Yaptığı her şeyde yaratıcılık belirtileri sergiliyor." },
+          { "target": "She {exhibited} courage under very difficult conditions.", "source": "Çok zor koşullar altında cesaret sergiledi." },
+          { "target": "He {exhibited} his sculptures for the first time last year.", "source": "Heykellerini geçen yıl ilk kez sergiledi." },
+          { "target": "The student {exhibited} great improvement throughout the course.", "source": "Öğrenci kurs boyunca büyük gelişme sergiledi." },
+          { "target": "She will {exhibit} her new collection this spring.", "source": "Bu ilkbaharda yeni koleksiyonunu sergileyecek." },
+          { "target": "He {exhibited} at over thirty galleries during his career.", "source": "Kariyeri boyunca otuzdan fazla galeride sergiledi." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-59",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 59",
+    "level": "beginner",
+    "category": "nature",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-59-0",
+        "kind": "word",
+        "term": "cat",
+        "type": "noun",
+        "meaning": "kedi",
+        "examples": [
+          { "target": "She adopted a {cat} from the local shelter.", "source": "Yerel barınaktan bir kedi sahiplendi." },
+          { "target": "The {cat} sat on the warm windowsill all afternoon.", "source": "Kedi bütün öğleden sonra sıcak pencere kenarında oturdu." },
+          { "target": "He named his {cat} after a famous astronomer.", "source": "Kedisine ünlü bir gökbilimcinin adını verdi." },
+          { "target": "The {cat} purrs every time she strokes it.", "source": "O her okşadığında kedi mırlar." },
+          { "target": "She feeds the stray {cats} in the neighborhood.", "source": "Mahalledeki sokak kedilerini besliyor." },
+          { "target": "The {cat} knocked the glass off the table.", "source": "Kedi bardağı masadan düşürdü." },
+          { "target": "He says a {cat} is easier to care for than a dog.", "source": "Kedinin köpekten daha kolay bakıldığını söylüyor." },
+          { "target": "The old {cat} sleeps for most of the day.", "source": "Yaşlı kedi günün büyük bölümünü uyuyarak geçiriyor." },
+          { "target": "She talks to her {cat} as if it understands her.", "source": "Kedisine anlıyormuş gibi konuşuyor." },
+          { "target": "The {cat} jumped gracefully onto the top shelf.", "source": "Kedi zarafetle en üst rafa sıçradı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-1",
+        "kind": "word",
+        "term": "dog",
+        "type": "noun",
+        "meaning": "köpek",
+        "examples": [
+          { "target": "She walks her {dog} twice a day.", "source": "Köpeğini günde iki kez gezdiriyor." },
+          { "target": "The {dog} barked at every passing stranger.", "source": "Köpek her geçen yabancıya havladı." },
+          { "target": "He trained his {dog} to fetch the newspaper.", "source": "Köpeğini gazeteyi getirmesi için eğitti." },
+          { "target": "She has had the same {dog} for twelve years.", "source": "On iki yıldır aynı köpekle yaşıyor." },
+          { "target": "The {dog} was rescued from the street.", "source": "Köpek sokaktan kurtarıldı." },
+          { "target": "He says his {dog} is his best friend.", "source": "Köpeğinin en iyi arkadaşı olduğunu söylüyor." },
+          { "target": "The {dog} wagged its tail when she came home.", "source": "Köpek eve gelince kuyruğunu saladı." },
+          { "target": "She brought her {dog} to the vet for a check-up.", "source": "Köpeğini kontrol için veterinere götürdü." },
+          { "target": "The {dog} followed her everywhere around the house.", "source": "Köpek onu evin her yerinde takip etti." },
+          { "target": "He chose a large breed {dog} for his countryside home.", "source": "Taşra evi için büyük bir köpek ırkı seçti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-2",
+        "kind": "word",
+        "term": "horse",
+        "type": "noun",
+        "meaning": "at",
+        "examples": [
+          { "target": "She learned to ride a {horse} as a child.", "source": "Çocukken at binmeyi öğrendi." },
+          { "target": "The {horse} galloped across the open field.", "source": "At, açık tarlada dörtnala koştu." },
+          { "target": "He takes care of three {horses} on the farm.", "source": "Çiftlikte üç ata bakıyor." },
+          { "target": "The {horse} neighed softly when she approached.", "source": "Yaklaşınca at sessizce kişnedi." },
+          { "target": "She loves the smell of a {horse} stable.", "source": "At ahırının kokusunu seviyor." },
+          { "target": "He competed in {horse} racing at the local track.", "source": "Yerel pistte at yarışına katıldı." },
+          { "target": "The {horse} was calm and easy to handle.", "source": "At sakin ve kolay idare edilebilirdi." },
+          { "target": "She read stories about wild {horses} to her children.", "source": "Çocuklarına yabani atlar hakkında hikayeler okudu." },
+          { "target": "He said the {horse} seemed to understand his mood.", "source": "Atın ruh halini anlıyor gibiydi dedi." },
+          { "target": "The {horse} was brushed and fed before sunset.", "source": "At güneş batmadan önce fırçalandı ve beslendi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-3",
+        "kind": "word",
+        "term": "bird",
+        "type": "noun",
+        "meaning": "kuş",
+        "examples": [
+          { "target": "She woke up to the sound of a {bird} singing.", "source": "Kuşun şarkısıyla uyandı." },
+          { "target": "He spotted a rare {bird} in the forest.", "source": "Ormanda nadir bir kuş gördü." },
+          { "target": "The {bird} built its nest in the old oak tree.", "source": "Kuş yuvasını eski meşe ağacına yaptı." },
+          { "target": "She feeds the {birds} every morning from her balcony.", "source": "Her sabah balkonundan kuşları besliyor." },
+          { "target": "He keeps a colorful {bird} as a pet.", "source": "Renkli bir kuşu evcil hayvan olarak besliyor." },
+          { "target": "The {bird} flew south before winter came.", "source": "Kuş kış gelmeden güneye uçtu." },
+          { "target": "She photographed the {bird} in mid-flight.", "source": "Kuşu uçuş sırasında fotoğrafladı." },
+          { "target": "He read a book about the migratory patterns of {birds}.", "source": "Kuşların göç kalıpları hakkında bir kitap okudu." },
+          { "target": "The {bird} perched on the fence and watched her.", "source": "Kuş çite kondu ve onu izledi." },
+          { "target": "She rescued an injured {bird} from the park.", "source": "Parktan yaralı bir kuşu kurtardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-4",
+        "kind": "word",
+        "term": "cow",
+        "type": "noun",
+        "meaning": "inek",
+        "examples": [
+          { "target": "The {cow} grazed peacefully in the green meadow.", "source": "İnek yeşil çayırda sakin sakin otladı." },
+          { "target": "She grew up on a farm with chickens and {cows}.", "source": "Tavuklar ve ineklerle dolu bir çiftlikte büyüdü." },
+          { "target": "He milks the {cow} early every morning.", "source": "Her sabah erkenden ineği sağıyor." },
+          { "target": "The {cow} was resting in the shade of the tree.", "source": "İnek ağacın gölgesinde dinleniyordu." },
+          { "target": "She watched the {cows} walk slowly across the road.", "source": "İneklerin yolun karşısına yavaşça geçişini izledi." },
+          { "target": "He learned to care for {cows} from his grandfather.", "source": "İneklere bakmayı dedesinden öğrendi." },
+          { "target": "The {cow} makes a gentle sound when she approaches.", "source": "Yaklaşınca inek nazik bir ses çıkarıyor." },
+          { "target": "She painted a picture of a {cow} standing in a field.", "source": "Tarlada duran bir ineğin resmini yaptı." },
+          { "target": "He drove slowly to avoid the {cows} crossing the road.", "source": "Yolu geçen ineklerden kaçınmak için yavaş ilerledi." },
+          { "target": "The black and white {cow} was a common sight on the farm.", "source": "Siyah beyaz inek çiftlikte sık görülen bir manzaraydı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-5",
+        "kind": "word",
+        "term": "sheep",
+        "type": "noun",
+        "meaning": "koyun",
+        "examples": [
+          { "target": "The {sheep} grazed on the hillside all day.", "source": "Koyun bütün gün yamaçta otladı." },
+          { "target": "He counted {sheep} in his head to fall asleep.", "source": "Uykuya dalmak için kafasında koyunlar saydı." },
+          { "target": "She sheared the {sheep} in early spring.", "source": "İlkbaharın başında koyunu kırkıyor." },
+          { "target": "The {sheep} followed each other through the gate.", "source": "Koyunlar birbirini takip ederek kapıdan geçti." },
+          { "target": "He tends to a flock of over fifty {sheep}.", "source": "Elliden fazla koyundan oluşan bir sürüye bakıyor." },
+          { "target": "The {sheep} bleated loudly in the pen.", "source": "Koyun ağılda yüksek sesle meledi." },
+          { "target": "She knitted a sweater from the wool of her own {sheep}.", "source": "Kendi koyununun yünüyle kazak ördü." },
+          { "target": "The {sheep} were moved to higher ground before winter.", "source": "Koyunlar kış gelmeden daha yüksek araziye taşındı." },
+          { "target": "He could not find the lost {sheep}.", "source": "Kaybolan koyunu bulamadı." },
+          { "target": "The newborn {sheep} stood on wobbly legs.", "source": "Yeni doğan kuzu sendeleyerek ayağa kalktı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-6",
+        "kind": "word",
+        "term": "pig",
+        "type": "noun",
+        "meaning": "domuz",
+        "examples": [
+          { "target": "The farmer kept several {pigs} in a pen.", "source": "Çiftçi ağılda birkaç domuz besliyordu." },
+          { "target": "The {pig} sniffed around the muddy yard.", "source": "Domuz çamurlu avluyu koklayarak gezdi." },
+          { "target": "She read the children a story about three {pigs}.", "source": "Çocuklara üç domuz hakkında bir hikaye okudu." },
+          { "target": "He said the {pig} was actually a very smart animal.", "source": "Domuzun aslında çok zeki bir hayvan olduğunu söyledi." },
+          { "target": "The {pig} rolled happily in the mud.", "source": "Domuz çamurda mutlulukla yuvarlandı." },
+          { "target": "She saw a small {pig} at the petting zoo.", "source": "Eğlence hayvanat bahçesinde küçük bir domuz gördü." },
+          { "target": "He cleaned the {pig} barn before the inspector came.", "source": "Denetçi gelmeden önce domuz barınağını temizledi." },
+          { "target": "The {pig} squealed when it was frightened.", "source": "Domuz korktuğunda çığlık attı." },
+          { "target": "She was surprised to learn how clean {pigs} can be.", "source": "Domuzların ne kadar temiz olabileceğini öğrenmek onu şaşırttı." },
+          { "target": "He kept a miniature {pig} as an unusual pet.", "source": "Alışılmadık bir evcil hayvan olarak minyatür domuz besledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-7",
+        "kind": "word",
+        "term": "rabbit",
+        "type": "noun",
+        "meaning": "tavşan",
+        "examples": [
+          { "target": "She kept a {rabbit} in a hutch in the garden.", "source": "Bahçedeki kafeste bir tavşan besledi." },
+          { "target": "The {rabbit} hopped quickly across the grass.", "source": "Tavşan çimenlerin üzerinde hızlıca zıpladı." },
+          { "target": "He fed the {rabbit} fresh vegetables every morning.", "source": "Her sabah tavşana taze sebze verdi." },
+          { "target": "She spotted a wild {rabbit} near the trees.", "source": "Ağaçların yakınında yabani bir tavşan gördü." },
+          { "target": "The {rabbit} twitched its nose and sat very still.", "source": "Tavşan burnunu kıpırdattı ve hiç kımıldamadan oturdu." },
+          { "target": "He adopted a fluffy {rabbit} for his daughter.", "source": "Kızı için tüylü bir tavşan sahiplendi." },
+          { "target": "The {rabbit} dug a burrow in the garden.", "source": "Tavşan bahçede bir yuva kazdı." },
+          { "target": "She dressed her child up as a {rabbit} for the parade.", "source": "Çocuğunu geçit töreni için tavşan olarak giydirdi." },
+          { "target": "He watched the {rabbit} eat a leaf slowly.", "source": "Tavşanın yavaşça bir yaprak yeyişini izledi." },
+          { "target": "The {rabbit} froze when it sensed danger.", "source": "Tavşan tehlikeyi sezince dondu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-8",
+        "kind": "word",
+        "term": "lion",
+        "type": "noun",
+        "meaning": "aslan",
+        "examples": [
+          { "target": "She saw a {lion} up close during her safari.", "source": "Safari sırasında aslana yakından baktı." },
+          { "target": "The {lion} let out a loud roar at dawn.", "source": "Aslan şafakta yüksek sesle kükredi." },
+          { "target": "He read about the social life of {lions} in Africa.", "source": "Afrika'daki aslanların sosyal yaşamını okudu." },
+          { "target": "The {lion} is often called the king of the jungle.", "source": "Aslan çoğunlukla ormanın kralı olarak anılır." },
+          { "target": "She photographed a female {lion} with her cubs.", "source": "Yavrularıyla dişi bir aslanın fotoğrafını çekti." },
+          { "target": "The {lion} moved silently through the tall grass.", "source": "Aslan uzun otların arasında sessizce ilerledi." },
+          { "target": "He was amazed by how calm the {lion} looked.", "source": "Aslanın ne kadar sakin göründüğüne şaşırdı." },
+          { "target": "The {lion} yawned and revealed sharp teeth.", "source": "Aslan esnerken keskin dişlerini gösterdi." },
+          { "target": "She watched a documentary about {lion} conservation.", "source": "Aslan koruma çalışmaları hakkında bir belgesel izledi." },
+          { "target": "The young {lion} was learning to hunt.", "source": "Genç aslan avlanmayı öğreniyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-9",
+        "kind": "word",
+        "term": "elephant",
+        "type": "noun",
+        "meaning": "fil",
+        "examples": [
+          { "target": "She touched an {elephant} for the first time at the sanctuary.", "source": "Sığınakta ilk kez bir fili elledi." },
+          { "target": "The {elephant} lifted the heavy log with ease.", "source": "Fil ağır kütüğü kolaylıkla kaldırdı." },
+          { "target": "He donated to protect wild {elephants} in Asia.", "source": "Asya'daki yabani filleri korumak için bağış yaptı." },
+          { "target": "The baby {elephant} stayed close to its mother.", "source": "Bebek fil annesinin yanında kaldı." },
+          { "target": "She learned that {elephants} have excellent memories.", "source": "Fillerin mükemmel bellekleri olduğunu öğrendi." },
+          { "target": "The {elephant} sprayed water with its trunk to cool off.", "source": "Fil serinlemek için hortumla su püskürttü." },
+          { "target": "He watched {elephants} crossing the river at sunset.", "source": "Gün batımında nehri geçen filleri izledi." },
+          { "target": "The {elephant} is the largest land animal on Earth.", "source": "Fil, Dünya'daki en büyük kara hayvanıdır." },
+          { "target": "She painted a watercolor of an {elephant} at the watering hole.", "source": "Su birikintisindeki bir filin suluboya resmini yaptı." },
+          { "target": "The herd of {elephants} moved slowly across the plains.", "source": "Fil sürüsü ovalarda yavaşça ilerledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-10",
+        "kind": "word",
+        "term": "tiger",
+        "type": "noun",
+        "meaning": "kaplan",
+        "examples": [
+          { "target": "She watched the {tiger} pace back and forth.", "source": "Kaplanın ileri geri gidip gelişini izledi." },
+          { "target": "The {tiger} is known for its distinctive striped coat.", "source": "Kaplan, belirgin çizgili derisiyle tanınır." },
+          { "target": "He supports conservation programs for Bengal {tigers}.", "source": "Bengal kaplanları için koruma programlarını destekliyor." },
+          { "target": "The {tiger} crouched low before leaping.", "source": "Kaplan sıçramadan önce alçaldı." },
+          { "target": "She was in awe of the {tiger}'s strength and beauty.", "source": "Kaplanın gücü ve güzelliği karşısında büyülendi." },
+          { "target": "The {tiger} is the largest cat species in the world.", "source": "Kaplan dünyanın en büyük kedi türüdür." },
+          { "target": "He read about how {tigers} hunt alone at night.", "source": "Kaplanların geceleri tek başına nasıl avlandığını okudu." },
+          { "target": "The {tiger} swam across the river with ease.", "source": "Kaplan nehri kolaylıkla yüzerek geçti." },
+          { "target": "She drew a realistic portrait of a {tiger}.", "source": "Gerçekçi bir kaplan portresi çizdi." },
+          { "target": "Wild {tiger} populations have declined sharply.", "source": "Yabani kaplan nüfusu keskin biçimde azaldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-11",
+        "kind": "word",
+        "term": "monkey",
+        "type": "noun",
+        "meaning": "maymun",
+        "examples": [
+          { "target": "She laughed watching the {monkey} play in the trees.", "source": "Maymunun ağaçlarda oynadığını izleyerek güldü." },
+          { "target": "The {monkey} grabbed the banana and ran off.", "source": "Maymun muzu kaptı ve kaçtı." },
+          { "target": "He learned about different species of {monkeys}.", "source": "Farklı maymun türleri hakkında bilgi edindi." },
+          { "target": "The {monkey} at the zoo loves to show off.", "source": "Hayvanat bahçesindeki maymun gösteriş yapmayı çok sever." },
+          { "target": "She watched a documentary about {monkeys} in the rainforest.", "source": "Yağmur ormanındaki maymunlar hakkında bir belgesel izledi." },
+          { "target": "The {monkey} swung from branch to branch above them.", "source": "Maymun tepelerindeki daldan dala sallandı." },
+          { "target": "He was surprised by how human-like the {monkey}'s hands were.", "source": "Maymunun ellerinin ne kadar insansı göründüğüne şaşırdı." },
+          { "target": "The {monkey} sat quietly and groomed its young.", "source": "Maymun sessizce oturdu ve yavrusunu tımarladı." },
+          { "target": "She spotted three {monkeys} resting in the canopy.", "source": "Üç maymunu orman örtüsünde dinlenirken gördü." },
+          { "target": "The {monkey} stole a tourist's sunglasses.", "source": "Maymun bir turistin güneş gözlüğünü çaldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-12",
+        "kind": "word",
+        "term": "snake",
+        "type": "noun",
+        "meaning": "yılan",
+        "examples": [
+          { "target": "She spotted a {snake} on the garden path.", "source": "Bahçe yolunda bir yılan gördü." },
+          { "target": "He is not afraid of {snakes} at all.", "source": "Yılanlardan hiç korkmaz." },
+          { "target": "The {snake} slid silently through the grass.", "source": "Yılan çimenlerin arasından sessizce kaydı." },
+          { "target": "She learned how to identify venomous {snakes}.", "source": "Zehirli yılanları nasıl tanıyacağını öğrendi." },
+          { "target": "The {snake} coiled around the branch of the tree.", "source": "Yılan ağacın dalına sarıldı." },
+          { "target": "He kept a pet {snake} in a glass tank.", "source": "Cam bir teraryumda evcil yılan besledi." },
+          { "target": "The {snake} shed its skin in the summer heat.", "source": "Yılan yaz sıcağında derisi soydu." },
+          { "target": "She ran when she saw the {snake} in the barn.", "source": "Ahırda yılanı görünce koşarak kaçtı." },
+          { "target": "The {snake} hissed before disappearing into the bushes.", "source": "Yılan çalılıklara kaybolmadan önce tıslattı." },
+          { "target": "He read that some {snakes} can go months without eating.", "source": "Bazı yılanların aylarca yemeden yaşayabildiğini okudu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-13",
+        "kind": "word",
+        "term": "eagle",
+        "type": "noun",
+        "meaning": "kartal",
+        "examples": [
+          { "target": "She saw an {eagle} soaring above the cliffs.", "source": "Kayalıkların üzerinde süzülen bir kartal gördü." },
+          { "target": "The {eagle} dived and caught a fish from the river.", "source": "Kartal daldı ve nehirden bir balık yakaladı." },
+          { "target": "He watched the {eagle} build its nest on the mountain.", "source": "Kartalın dağda yuva yapışını izledi." },
+          { "target": "The {eagle} is a symbol of strength and freedom.", "source": "Kartal, güç ve özgürlüğün sembolüdür." },
+          { "target": "She photographed a golden {eagle} in the wild.", "source": "Doğada bir altın kartalın fotoğrafını çekti." },
+          { "target": "The {eagle}'s sharp eyes spotted prey from far away.", "source": "Kartalın keskin gözleri uzaktan avı fark etti." },
+          { "target": "He read about the migration routes of {eagles}.", "source": "Kartalların göç yollarını okudu." },
+          { "target": "The {eagle} landed silently on a bare branch.", "source": "Kartal çıplak bir dala sessizce kondu." },
+          { "target": "She was moved by the sight of the {eagle} flying free.", "source": "Kartalın özgürce uçuşu onu duygulandırdı." },
+          { "target": "The young {eagle} made its first flight watched by tourists.", "source": "Genç kartal, turistlerin izlediği ortamda ilk uçuşunu gerçekleştirdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-59-14",
+        "kind": "word",
+        "term": "whale",
+        "type": "noun",
+        "meaning": "balina",
+        "examples": [
+          { "target": "She saw a {whale} jump out of the water on a boat trip.", "source": "Tekne gezisinde bir balinanın sudan fırlamasını gördü." },
+          { "target": "The {whale} is the largest animal that has ever lived.", "source": "Balina, şimdiye kadar yaşamış en büyük hayvandır." },
+          { "target": "He recorded the sounds of {whales} under the ocean.", "source": "Okyanusun altındaki balina seslerini kayıt altına aldı." },
+          { "target": "The {whale} surfaced and blew a spout of water.", "source": "Balina su yüzüne çıktı ve bir su fışkırtması çıkardı." },
+          { "target": "She donates to {whale} conservation charities.", "source": "Balina koruma derneklerine bağış yapıyor." },
+          { "target": "The {whale} swam slowly past the research vessel.", "source": "Balina araştırma gemisinin yanından yavaşça geçti." },
+          { "target": "He was moved by the first time he heard a {whale} sing.", "source": "Bir balinanın ilk kez şarkı söyleyişini duyduğunda duygulandı." },
+          { "target": "The {whale} traveled thousands of miles in its migration.", "source": "Balina göçünde binlerce mil yol aldı." },
+          { "target": "She read a novel told from the perspective of a {whale}.", "source": "Balinanın bakış açısından anlatılan bir roman okudu." },
+          { "target": "The blue {whale}'s heart is the size of a small car.", "source": "Mavi balinanın kalbi küçük bir araba büyüklüğünde." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-60",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 60",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-60-0",
+        "kind": "word",
+        "term": "sport",
+        "type": "noun",
+        "meaning": "spor",
+        "examples": [
+          { "target": "She played every {sport} available at her school.", "source": "Okulundaki her sporu oynadı." },
+          { "target": "He says {sport} taught him discipline and teamwork.", "source": "Sporun ona disiplin ve takım çalışması öğrettiğini söylüyor." },
+          { "target": "She watches {sport} on television every evening.", "source": "Her akşam televizyonda spor izliyor." },
+          { "target": "He is passionate about outdoor {sports}.", "source": "Açık hava sporlarına tutkuyla bağlı." },
+          { "target": "She believes doing {sport} regularly is good for mental health.", "source": "Düzenli spor yapmanın ruh sağlığı için iyi olduğuna inanıyor." },
+          { "target": "He tried many {sports} before finding his passion.", "source": "Tutkusunu bulmadan önce pek çok spor denedi." },
+          { "target": "She works as a {sport} journalist.", "source": "Spor gazetecisi olarak çalışıyor." },
+          { "target": "He got a {sport} scholarship to university.", "source": "Üniversiteye spor bursuyla girdi." },
+          { "target": "She took up a new {sport} after her injury healed.", "source": "Yaralanmasından iyileştikten sonra yeni bir spor dalıyla ilgilenmeye başladı." },
+          { "target": "He introduced his son to the {sport} at an early age.", "source": "Oğlunu küçük yaşta spora tanıştırdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-1",
+        "kind": "word",
+        "term": "game",
+        "type": "noun",
+        "meaning": "oyun, maç",
+        "examples": [
+          { "target": "She invited her friends over for a board {game}.", "source": "Arkadaşlarını masa oyunu oynamaya davet etti." },
+          { "target": "He won the {game} with a last-minute goal.", "source": "Son dakika golüyle maçı kazandı." },
+          { "target": "She plays video {games} to relax after work.", "source": "İşten sonra rahatlamamk için video oyunları oynuyor." },
+          { "target": "He follows every {game} of his favorite team.", "source": "Favori takımının her maçını takip ediyor." },
+          { "target": "She made up a new {game} for the children to play.", "source": "Çocuklar için yeni bir oyun icat etti." },
+          { "target": "He is very competitive during any {game}.", "source": "Herhangi bir oyunda çok rekabetçi davranır." },
+          { "target": "She watched the final {game} at the stadium.", "source": "Final maçını stadyumda izledi." },
+          { "target": "He plays chess — his favorite mental {game}.", "source": "Satranç oynuyor — en sevdiği zihinsel oyun." },
+          { "target": "She said the {game} was the best she had seen.", "source": "O maçın izlediği en iyi maç olduğunu söyledi." },
+          { "target": "He learned the rules of the {game} in one afternoon.", "source": "Oyunun kurallarını bir öğleden sonrada öğrendi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-2",
+        "kind": "word",
+        "term": "win",
+        "type": "verb",
+        "meaning": "kazanmak",
+        "examples": [
+          { "target": "She {won} the competition with a perfect score.", "source": "Mükemmel bir puanla yarışmayı kazandı." },
+          { "target": "He tries hard every time but rarely {wins}.", "source": "Her seferinde sıkı çalışıyor ama nadiren kazanıyor." },
+          { "target": "She {won} first place in the national spelling bee.", "source": "Ulusal yazım yarışmasında birinci oldu." },
+          { "target": "He was determined to {win} the championship this year.", "source": "Bu yıl şampiyonluğu kazanmaya kararlıydı." },
+          { "target": "She {wins} every argument with calm reasoning.", "source": "Her tartışmayı sakin bir mantıkla kazanıyor." },
+          { "target": "He {won} a prize for his science project.", "source": "Bilim projesiyle ödül kazandı." },
+          { "target": "She {won} the race despite starting late.", "source": "Geç başlamasına rağmen yarışı kazandı." },
+          { "target": "He wants to {win} but knows losing is also part of the game.", "source": "Kazanmak istiyor ama kaybetmenin de oyunun bir parçası olduğunu biliyor." },
+          { "target": "She {won} many fans with her incredible performance.", "source": "İnanılmaz performansıyla pek çok hayran kazandı." },
+          { "target": "He finally {won} after years of trying.", "source": "Yıllarca denemesinin ardından sonunda kazandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-3",
+        "kind": "word",
+        "term": "lose",
+        "type": "verb",
+        "meaning": "kaybetmek",
+        "examples": [
+          { "target": "She didn't want to {lose} the final match.", "source": "Final maçını kaybetmek istemedi." },
+          { "target": "He {lost} the game but learned something valuable.", "source": "Oyunu kaybetti ama değerli bir şey öğrendi." },
+          { "target": "She tends to {lose} her keys when she's in a hurry.", "source": "Acele ettiğinde anahtarlarını kaybetme eğiliminde." },
+          { "target": "He hates to {lose} more than he loves to win.", "source": "Kazanmayı sevdiğinden daha fazla kaybetmekten nefret ediyor." },
+          { "target": "She {lost} the bet and had to wash the dishes.", "source": "Bahsi kaybetti ve bulaşıkları yıkamak zorunda kaldı." },
+          { "target": "He is afraid of {losing} the trust of his team.", "source": "Takımının güvenini kaybetmekten korkuyor." },
+          { "target": "She {lost} her phone at the concert.", "source": "Telefonu konser alanında kayboldu." },
+          { "target": "He refused to {lose} hope even in the hardest times.", "source": "En zor zamanlarda bile umudu kaybetmeyi reddetti." },
+          { "target": "She {lost} track of time while reading.", "source": "Okurken zamanı kaybetti." },
+          { "target": "He {loses} interest quickly if the task is too easy.", "source": "Görev çok kolaysa hızla ilgisini kaybeder." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-4",
+        "kind": "word",
+        "term": "score",
+        "type": "noun",
+        "meaning": "skor, puan",
+        "examples": [
+          { "target": "The final {score} was three to one.", "source": "Final skoru üç bir oldu." },
+          { "target": "She checked the {score} on her phone during the break.", "source": "Ara sırasında telefona bakarak skoru kontrol etti." },
+          { "target": "He was pleased with his test {score}.", "source": "Test puanından memnundu." },
+          { "target": "She raised her credit {score} by paying bills on time.", "source": "Faturaları zamanında ödeyerek kredi puanını yükseltti." },
+          { "target": "He tied the {score} in the last five minutes.", "source": "Son beş dakikada skoru eşitledi." },
+          { "target": "She always aims for a perfect {score}.", "source": "Her zaman tam puan almayı hedefliyor." },
+          { "target": "He kept {score} during the card game.", "source": "Kart oyunu sırasında puanları tuttu." },
+          { "target": "The {score} at halftime was zero to zero.", "source": "İlk yarı skoru sıfır sıfırdı." },
+          { "target": "She improved her reading {score} with daily practice.", "source": "Günlük çalışmayla okuma puanını geliştirdi." },
+          { "target": "He was upset about his low {score} on the essay.", "source": "Yazıdaki düşük puanından dolayı üzüldü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-5",
+        "kind": "word",
+        "term": "player",
+        "type": "noun",
+        "meaning": "oyuncu",
+        "examples": [
+          { "target": "She is the best {player} on the team.", "source": "Takımdaki en iyi oyuncu o." },
+          { "target": "He is a professional {player} in a top league.", "source": "Üst ligde profesyonel bir oyuncu." },
+          { "target": "The young {player} made her debut last season.", "source": "Genç oyuncu geçen sezon ilk kez sahneye çıktı." },
+          { "target": "She replaced an injured {player} in the second half.", "source": "İkinci yarıda yaralı bir oyuncunun yerine çıktı." },
+          { "target": "He is a team {player} who always supports others.", "source": "Her zaman başkalarını destekleyen bir ekip oyuncusu." },
+          { "target": "She is considered one of the greatest {players} of all time.", "source": "Tüm zamanların en büyük oyuncularından biri olarak kabul görüyor." },
+          { "target": "He is the youngest {player} ever to win the award.", "source": "Ödülü kazanan en genç oyuncu o." },
+          { "target": "The {player} received a yellow card for the foul.", "source": "Oyuncu faul nedeniyle sarı kart gördü." },
+          { "target": "She trained hard to become a professional {player}.", "source": "Profesyonel oyuncu olmak için yoğun antrenman yaptı." },
+          { "target": "He is known as a fair {player} both on and off the field.", "source": "Sahada da saha dışında da adil bir oyuncu olarak tanınıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-6",
+        "kind": "word",
+        "term": "match",
+        "type": "noun",
+        "meaning": "maç, karşılaşma",
+        "examples": [
+          { "target": "She watched the {match} with friends at a café.", "source": "Maçı bir kafede arkadaşlarıyla izledi." },
+          { "target": "He scored the winning goal in the final {match}.", "source": "Final maçında kazanan golü attı." },
+          { "target": "The {match} was delayed due to heavy rain.", "source": "Maç yoğun yağmur nedeniyle ertelendi." },
+          { "target": "She arrived late and missed the first half of the {match}.", "source": "Geç geldi ve maçın ilk yarısını kaçırdı." },
+          { "target": "He refereed an important {match} last weekend.", "source": "Geçen hafta sonu önemli bir maçta hakemlik yaptı." },
+          { "target": "She says the {match} was the most exciting she has ever seen.", "source": "Maçın gördüğü en heyecanlı karşılaşma olduğunu söylüyor." },
+          { "target": "He bought two tickets for the charity {match}.", "source": "Yardım maçı için iki bilet aldı." },
+          { "target": "The {match} ended in a draw after extra time.", "source": "Maç uzatmada beraberlikle sona erdi." },
+          { "target": "She played her best {match} of the season today.", "source": "Sezonun en iyi maçını bugün oynadı." },
+          { "target": "He never misses a home {match} of his local club.", "source": "Yerel kulübünün hiçbir iç saha maçını kaçırmaz." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-7",
+        "kind": "word",
+        "term": "race",
+        "type": "noun",
+        "meaning": "yarış",
+        "examples": [
+          { "target": "She trained for months before the {race}.", "source": "Yarıştan önce aylarca antrenman yaptı." },
+          { "target": "He won the {race} by a fraction of a second.", "source": "Yarışı saniyenin kesri farkıyla kazandı." },
+          { "target": "She entered her first {race} at age fourteen.", "source": "On dört yaşında ilk yarışına katıldı." },
+          { "target": "He felt nervous at the start of the {race}.", "source": "Yarışın başında sinirli hissetti." },
+          { "target": "She finished the {race} despite spraining her ankle.", "source": "Bileğini burmasına rağmen yarışı tamamladı." },
+          { "target": "The {race} was held on a cold and windy morning.", "source": "Yarış soğuk ve rüzgarlı bir sabahta düzenlendi." },
+          { "target": "He cheered for her from the sidelines of the {race}.", "source": "Yarışın kenarından ona tezahürat yaptı." },
+          { "target": "She was proud to complete her first {race}.", "source": "İlk yarışını tamamlamaktan gurur duydu." },
+          { "target": "He dropped out of the {race} due to injury.", "source": "Sakatlık nedeniyle yarıştan çekildi." },
+          { "target": "She runs the {race} every year to raise money for charity.", "source": "Hayır amaçlı para toplamak için her yıl bu yarışa katılıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-8",
+        "kind": "word",
+        "term": "practice",
+        "type": "noun",
+        "meaning": "pratik, antrenman, uygulama",
+        "examples": [
+          { "target": "She goes to {practice} every day after school.", "source": "Okuldan sonra her gün antrenmana gidiyor." },
+          { "target": "He believes {practice} makes perfect.", "source": "Pratiğin mükemmele götürdüğüne inanıyor." },
+          { "target": "She missed {practice} because she was sick.", "source": "Hasta olduğu için antrenmana katılamadı." },
+          { "target": "He spent two hours at piano {practice}.", "source": "Piyano pratiğinde iki saat geçirdi." },
+          { "target": "She put her language skills into {practice} during her trip.", "source": "Yolculuğu sırasında dil becerilerini pratiğe döktü." },
+          { "target": "He has a medical {practice} in the town center.", "source": "Şehir merkezinde bir muayenehanesi var." },
+          { "target": "She improved quickly with daily {practice}.", "source": "Günlük pratikle hızla ilerledi." },
+          { "target": "He changed his unhealthy habits into good daily {practices}.", "source": "Sağlıksız alışkanlıklarını iyi günlük uygulamalara dönüştürdü." },
+          { "target": "She teaches the {practice} of mindful breathing.", "source": "Bilinçli nefes almanın pratiğini öğretiyor." },
+          { "target": "He came early to get extra {practice} time.", "source": "Ekstra pratik süresi için erken geldi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-9",
+        "kind": "word",
+        "term": "champion",
+        "type": "noun",
+        "meaning": "şampiyon, savunucu",
+        "examples": [
+          { "target": "She became the national {champion} at age sixteen.", "source": "On altı yaşında ulusal şampiyon oldu." },
+          { "target": "He has been the world {champion} three times.", "source": "Üç kez dünya şampiyonu oldu." },
+          { "target": "The {champion} received a gold medal at the ceremony.", "source": "Şampiyon törende altın madalya aldı." },
+          { "target": "She is a {champion} of environmental causes.", "source": "Çevre davalarının savunucusu." },
+          { "target": "He trained like a {champion} every single day.", "source": "Her gün bir şampiyon gibi antrenman yaptı." },
+          { "target": "She was crowned {champion} after a long tournament.", "source": "Uzun bir turnumanın ardından şampiyon ilan edildi." },
+          { "target": "He is a {champion} for equal rights in his community.", "source": "Topluluğunda eşit hakların savunucusu." },
+          { "target": "She considers her grandmother her personal {champion}.", "source": "Babaannesini kendi kişisel kahramanı olarak görüyor." },
+          { "target": "The defending {champion} entered the tournament with confidence.", "source": "Mevcut şampiyon turnuvaya güvenle girdi." },
+          { "target": "He wants to be a {champion} in both sport and life.", "source": "Hem sporda hem de hayatta şampiyon olmak istiyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-10",
+        "kind": "word",
+        "term": "tournament",
+        "type": "noun",
+        "meaning": "turnuva",
+        "examples": [
+          { "target": "She qualified for the international {tournament} last spring.", "source": "Geçen ilkbaharda uluslararası turnuvaya hak kazandı." },
+          { "target": "He organized a chess {tournament} at the school.", "source": "Okulda bir satranç turnuvası düzenledi." },
+          { "target": "The {tournament} attracted teams from thirty countries.", "source": "Turnuva otuz ülkeden takım çekti." },
+          { "target": "She lost in the second round of the {tournament}.", "source": "Turnuvanın ikinci turunda elendi." },
+          { "target": "He watched every match of the summer {tournament}.", "source": "Yaz turnuvasının her maçını izledi." },
+          { "target": "She hosts a cooking {tournament} in her neighborhood each year.", "source": "Her yıl mahallesinde bir yemek pişirme turnuvası düzenliyor." },
+          { "target": "He reached the semifinals of the national {tournament}.", "source": "Ulusal turnuvanın yarı finaline kadar ilerledi." },
+          { "target": "She dedicated her {tournament} win to her coach.", "source": "Turnuva zaferini koçuna adadı." },
+          { "target": "He has been training for this {tournament} for a year.", "source": "Bu turnuva için bir yıldır antrenman yapıyor." },
+          { "target": "The {tournament} final drew a huge crowd.", "source": "Turnuva finali büyük bir kalabalık çekti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-11",
+        "kind": "word",
+        "term": "coach",
+        "type": "noun",
+        "meaning": "antrenör, koç",
+        "examples": [
+          { "target": "She became a professional tennis {coach} after retiring.", "source": "Emekli olduktan sonra profesyonel tenis antrenörü oldu." },
+          { "target": "He credits his success to his first {coach}.", "source": "Başarısını ilk koçuna borçlu olduğunu söylüyor." },
+          { "target": "The {coach} gave the team a motivational speech before the match.", "source": "Antrenör maçtan önce takıma motivasyonel bir konuşma yaptı." },
+          { "target": "She hired a life {coach} to help her set clear goals.", "source": "Net hedefler belirlemesine yardımcı olması için bir yaşam koçu tuttu." },
+          { "target": "He worked with the same {coach} for over ten years.", "source": "On yılı aşkın bir süre aynı antrenörle çalıştı." },
+          { "target": "The {coach} pushed the players to do their best.", "source": "Antrenör oyuncuları en iyi performanslarını göstermeye yöneltti." },
+          { "target": "She acted as a {coach} for the younger members of the club.", "source": "Kulübün daha genç üyelerine koçluk yaptı." },
+          { "target": "He decided to become a {coach} to give back to the sport.", "source": "Spora katkı sağlamak amacıyla antrenör olmaya karar verdi." },
+          { "target": "The {coach} was known for her patience and clear instructions.", "source": "Antrenör sabrı ve net talimatlarıyla tanınıyordu." },
+          { "target": "She trained under a {coach} who had won multiple championships.", "source": "Birden fazla şampiyonluk kazanmış bir antrenörün altında antrenman yaptı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-12",
+        "kind": "word",
+        "term": "athlete",
+        "type": "noun",
+        "meaning": "sporcu, atlet",
+        "examples": [
+          { "target": "She is a dedicated {athlete} who trains twice a day.", "source": "Günde iki kez antrenman yapan kararlı bir sporcu." },
+          { "target": "He became a professional {athlete} at eighteen.", "source": "On sekiz yaşında profesyonel sporcu oldu." },
+          { "target": "The young {athlete} broke the national record.", "source": "Genç sporcu ulusal rekoru kırdı." },
+          { "target": "She is a complete {athlete} — fast, strong, and strategic.", "source": "Tam bir sporcu — hızlı, güçlü ve stratejik." },
+          { "target": "He supports {athletes} with disabilities through his charity.", "source": "Hayır kurumu aracılığıyla engelli sporcuları destekliyor." },
+          { "target": "The Olympic {athlete} trained for four years for this moment.", "source": "Olimpiyat sporcusu bu an için dört yıl antrenman yaptı." },
+          { "target": "She admires {athletes} who compete with grace and fairness.", "source": "Zarafetle ve adaletle yarışan sporcuları hayran oluyor." },
+          { "target": "He became a role model for young {athletes} in his city.", "source": "Şehrindeki genç sporcular için bir rol modeli oldu." },
+          { "target": "The {athlete} recovered quickly from the injury.", "source": "Sporcu yaralanmadan hızla iyileşti." },
+          { "target": "She was selected as the best {athlete} of the year.", "source": "Yılın en iyi sporcusu olarak seçildi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-13",
+        "kind": "word",
+        "term": "referee",
+        "type": "noun",
+        "meaning": "hakem",
+        "examples": [
+          { "target": "The {referee} blew the whistle to stop the game.", "source": "Hakem oyunu durdurmak için düdük çaldı." },
+          { "target": "She became a certified {referee} after two years of training.", "source": "İki yıllık eğitimin ardından sertifikalı hakem oldu." },
+          { "target": "He argued with the {referee} over the decision.", "source": "Karar üzerine hakemle tartıştı." },
+          { "target": "The {referee} gave a red card for the dangerous tackle.", "source": "Hakem tehlikeli müdahale için kırmızı kart çıkardı." },
+          { "target": "She praised the {referee} for managing the game fairly.", "source": "Oyunu adil bir şekilde yönettiği için hakemi övdü." },
+          { "target": "He became a {referee} because he loves the sport but couldn't play.", "source": "Sporu çok sevdiği ama oynayamadığı için hakem oldu." },
+          { "target": "The {referee} consulted the assistant before making the call.", "source": "Hakem kararı vermeden önce yardımcıya danıştı." },
+          { "target": "She watched the video replay as the {referee} reviewed the incident.", "source": "Hakem olayı incelerken video tekrarını izledi." },
+          { "target": "He thanked the {referee} for keeping the match safe.", "source": "Maçı güvenli tuttuğu için hakeme teşekkür etti." },
+          { "target": "The crowd booed when the {referee} made a controversial call.", "source": "Hakem tartışmalı bir karar verince seyirciler yuhaladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-60-14",
+        "kind": "word",
+        "term": "trophy",
+        "type": "noun",
+        "meaning": "kupa, ödül",
+        "examples": [
+          { "target": "She lifted the {trophy} above her head after winning.", "source": "Kazandıktan sonra kupayı başının üzerinde kaldırdı." },
+          { "target": "He displays all his {trophies} on a shelf in his room.", "source": "Tüm kupalarını odasındaki bir rafta sergiliy." },
+          { "target": "The team received the {trophy} at the closing ceremony.", "source": "Takım kapanış töreninde kupayı aldı." },
+          { "target": "She had dreamed of holding that {trophy} since she was young.", "source": "Küçüklüğünden beri o kupayı tutmayı hayal etmişti." },
+          { "target": "He polished the {trophy} before putting it on display.", "source": "Kupayı teşhir etmeden önce parlattı." },
+          { "target": "The {trophy} was made of solid gold.", "source": "Kupa saf altından yapılmıştı." },
+          { "target": "She gave the {trophy} to her coach as a thank-you.", "source": "Kupayı teşekkür olarak koçuna verdi." },
+          { "target": "He was the first from his town to win that {trophy}.", "source": "Kasabasından o kupayı kazanan ilk kişiydi." },
+          { "target": "The {trophy} stood on the table while photos were taken.", "source": "Fotoğraflar çekilirken kupa masada durdu." },
+          { "target": "She keeps the {trophy} as a reminder of how hard she worked.", "source": "Kupayı ne kadar çok çalıştığının hatırlatıcısı olarak saklıyor." }
+        ]
+      }
+    ]
+  }
+]
