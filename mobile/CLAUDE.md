@@ -95,9 +95,9 @@ modu yaz → `ModePicker` ve `study/[id].tsx`'teki `MODE_COMPONENTS`'e ekle →
 `StudyMode` union'ına (`types.ts`) anahtar ekle.
 
 - **cards / test / match / fill / write / memorize**
-- **Ezber (`memorize`)** akışı web ile birebir ([../EZBER-MODU-SPEC.md](../EZBER-MODU-SPEC.md)):
-  iniş (bakarak) → çıkış (gizli, hafızadan) → cümle → final test.
-  Piramitte hata = piramit baştan; cümlede hata = cümle baştan; final yanlışsa
+- **Ezber (`memorize`)** akışı (piramit kaldırıldı — webdeki spec'ten ayrışır):
+  yaz (kelimeyi 10 kez, bakarak) → cümle (3 örnek cümlede boşluk doldur) → final test.
+  Yazmada hata = yalnız o satır baştan; cümlede hata = o cümle baştan; final yanlışsa
   kelime destenin sonuna döner. Saf yardımcılar `src/engine/memorize.ts`.
 
 ## İlerleme

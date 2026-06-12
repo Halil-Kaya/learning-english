@@ -118,11 +118,10 @@ export const tr = {
   createManualLabel: "Elle Giriş",
 
   // memorize phases
-  memDown: "1/4 · KELİMEYE BAKARAK YAZ",
-  memUp: "2/4 · HAFIZADAN TAMAMLA",
-  memSentence: "3/4 · CÜMLEYİ YAZ",
-  memFinal: "4/4 · HİÇ BAKMADAN YAZ",
-  memPyramidRestart: "✗ Yanlış harf — piramit baştan!",
+  memWrite: "1/3 · KELİMEYE BAKARAK 10 KEZ YAZ",
+  memSentence: "2/3 · CÜMLELERİ DOLDUR",
+  memFinal: "3/3 · HİÇ BAKMADAN YAZ",
+  memRowRestart: "✗ Yanlış harf — bu satır baştan",
   memSentenceRestart: "✗ Yanlış harf — cümle baştan",
 } as const;
 

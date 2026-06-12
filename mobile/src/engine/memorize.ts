@@ -1,7 +1,8 @@
 // ============================================================
-//  Ezber modu — saf yardımcılar (piramit kurulumu, harf kuralları)
-//  Akış: iniş (bakarak) → çıkış (gizli) → cümle → final test
-//  (web EZBER-MODU-SPEC.md ile birebir)
+//  Ezber modu — saf yardımcılar (yazma turları, harf kuralları)
+//  Akış: yaz (10 kez, kelimeye bakarak) → cümle (3 boşluk doldurma)
+//        → final test (hiç bakmadan yaz)
+//  Yazma turunda hata = yalnız o satır baştan (tümü değil).
 // ============================================================
 
 /** Harf mi? (boşluk/noktalama "otomatik geçilir") */
@@ -10,31 +11,13 @@ export function isLetter(ch: string): boolean {
 }
 export const isAuto = (ch: string) => !isLetter(ch);
 
-export interface Pyramid {
-  downs: string[]; // deceiver, deceive, ... d
-  ups: string[]; // de, dec, ... deceiver
-}
+/** Yazma aşamasında kelimenin kaç kez yazılacağı. */
+export const WRITE_ROUNDS = 10;
 
-/**
- * Piramit basamakları. Sonu harf olmayan önekler atlanır
- * (örn. "come " gibi boşlukta biten parça yazılmaz).
- */
-export function buildPyramid(word: string): Pyramid {
-  const downs: string[] = [];
-  const ups: string[] = [];
-  const endsWithLetter = (s: string) => s.length > 0 && isLetter(s[s.length - 1]);
-  for (let len = word.length; len >= 1; len--) {
-    const s = word.slice(0, len);
-    if (endsWithLetter(s)) downs.push(s);
-  }
-  for (let len = 2; len <= word.length; len++) {
-    const s = word.slice(0, len);
-    if (endsWithLetter(s)) ups.push(s);
-  }
-  return { downs, ups };
-}
+/** Cümle aşamasında doldurulacak örnek cümle sayısı. */
+export const SENTENCE_ROUNDS = 3;
 
-export type MemPhase = "down" | "up" | "sentence" | "final";
+export type MemPhase = "write" | "sentence" | "final";
 
 /** Verilen konumdan başlayarak harf olmayan karakterleri atla. */
 export function skipAutos(target: string, pos: number): number {

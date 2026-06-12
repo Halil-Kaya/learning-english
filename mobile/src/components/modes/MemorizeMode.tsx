@@ -1,14 +1,26 @@
-import { useMemo, useState } from "react";
-import { Animated, ScrollView, StyleSheet, Text, TextInput, View } from "react-native";
-import type { Entry } from "../../data/types";
-import { shuffle } from "../../engine";
-import { bracedTerm, segmentExample, stripBraces } from "../../engine/examples";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
-  buildPyramid,
+  Animated,
+  Keyboard,
+  Platform,
+  ScrollView,
+  StyleSheet,
+  Text,
+  TextInput,
+  View,
+  type LayoutChangeEvent,
+} from "react-native";
+import { useSafeAreaInsets } from "react-native-safe-area-context";
+import type { Entry, Example } from "../../data/types";
+import { shuffle } from "../../engine";
+import { bracedTerm, segmentExample } from "../../engine/examples";
+import {
   isAuto,
   isLetter,
-  type MemPhase,
+  SENTENCE_ROUNDS,
   skipAutos,
+  WRITE_ROUNDS,
+  type MemPhase,
 } from "../../engine/memorize";
 import { t } from "../../i18n";
 import { colors, radius, spacing } from "../../theme";
@@ -18,21 +30,20 @@ import type { ModeProps } from "./types";
 import { useShake } from "./useShake";
 
 const PHASE_LABEL: Record<MemPhase, string> = {
-  down: t("memDown"),
-  up: t("memUp"),
+  write: t("memWrite"),
   sentence: t("memSentence"),
   final: t("memFinal"),
 };
 
-/** Piramit satırını maskele: harf → •, boşluk korunur. */
+/** Satırı maskele: harf → •, boşluk korunur. */
 function maskRow(s: string): string {
   return [...s].map((ch) => (isLetter(ch) ? "•" : ch)).join("");
 }
 
-/** Cümle aşaması için {süslü} terimi olan bir örnek seç (yoksa ilk örnek). */
-function pickSentenceExample(entry: Entry) {
-  const braced = entry.examples.find((ex) => bracedTerm(ex.target) !== null);
-  return braced ?? entry.examples[0] ?? null;
+/** Cümle aşaması için {terim} işaretli en çok N örnek seç (karışık). */
+function pickSentenceExamples(entry: Entry, n = SENTENCE_ROUNDS): Example[] {
+  const braced = entry.examples.filter((ex) => bracedTerm(ex.target) !== null);
+  return shuffle(braced).slice(0, n);
 }
 
 export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModeProps) {
@@ -44,26 +55,20 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
   const [wrong] = useState<Set<string>>(() => new Set());
 
   const w = deck[idx];
-  const pyramid = useMemo(() => buildPyramid(w.term), [w]);
 
-  // cümle aşaması: {terim} işaretli bir örnek; yalnız terim yazılır
-  const sentenceEx = useMemo(() => pickSentenceExample(w), [w]);
-  const sentence = useMemo(() => {
-    if (!sentenceEx) return null;
-    const term = bracedTerm(sentenceEx.target) ?? w.term;
-    return {
-      segments: segmentExample(
-        sentenceEx.target.includes("{") ? sentenceEx.target : `{${term}}`
-      ),
-      term,
-      source: sentenceEx.source,
-      plain: stripBraces(sentenceEx.target),
-    };
-  }, [sentenceEx, w]);
+  // cümle aşaması: {terim} işaretli örneklerden 3 tanesi; yalnız terim yazılır
+  const sentences = useMemo(
+    () =>
+      pickSentenceExamples(w).map((ex) => {
+        const term = bracedTerm(ex.target) ?? w.term;
+        return { segments: segmentExample(ex.target), term, source: ex.source };
+      }),
+    [w]
+  );
 
-  const [phase, setPhase] = useState<MemPhase>("down");
+  const [phase, setPhase] = useState<MemPhase>("write");
   const [step, setStep] = useState(0);
-  const [pos, setPos] = useState(() => 0);
+  const [pos, setPos] = useState(() => skipAutos(w.term, 0));
   const [accepted, setAccepted] = useState("");
   const [feedback, setFeedback] = useState<{ text: string; bad?: boolean } | null>(null);
   const [revealWord, setRevealWord] = useState(false);
@@ -72,30 +77,52 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
   const [finalValue, setFinalValue] = useState("");
   const { x, shake } = useShake();
 
+  // iOS'ta klavye alt barı kapatmasın: klavye yüksekliği kadar boşluk bırak.
+  // (Android'de pencere "resize" modunda kendiliğinden daralır.)
+  const insets = useSafeAreaInsets();
+  const [kbPad, setKbPad] = useState(0);
+  useEffect(() => {
+    if (Platform.OS !== "ios") return;
+    const show = Keyboard.addListener("keyboardWillShow", (e) =>
+      setKbPad(Math.max(0, e.endCoordinates.height - insets.bottom))
+    );
+    const hide = Keyboard.addListener("keyboardWillHide", () => setKbPad(0));
+    return () => {
+      show.remove();
+      hide.remove();
+    };
+  }, [insets.bottom]);
+
+  // aktif harf satırı her zaman görünür kalsın diye otomatik kaydırma
+  const scrollRef = useRef<ScrollView>(null);
+  const rowsY = useRef(0);
+  const onActiveRowLayout = (e: LayoutChangeEvent) => {
+    const y = rowsY.current + e.nativeEvent.layout.y;
+    scrollRef.current?.scrollTo({ y: Math.max(0, y - 90), animated: true });
+  };
+  useEffect(() => {
+    // yazma bitince (cümle/final) içerik kısalır → başa dön
+    if (phase === "sentence" || phase === "final") {
+      scrollRef.current?.scrollTo({ y: 0, animated: true });
+    }
+  }, [phase]);
+
   // aktif aşamada yazılacak hedef
   const target =
-    phase === "sentence"
-      ? sentence?.term ?? ""
-      : phase === "down"
-        ? pyramid.downs[step] ?? ""
-        : phase === "up"
-          ? pyramid.ups[step] ?? ""
-          : "";
+    phase === "write" ? w.term : phase === "sentence" ? sentences[step]?.term ?? "" : "";
 
-  // ara örnek cümle: piramit boyunca her ~3 basamakta bir değişir
-  const globalStep = phase === "down" ? step : phase === "up" ? pyramid.downs.length + step : 0;
+  // yazma aşamasında her ~3 satırda bir değişen örnek cümle
   const interExample = useMemo(() => {
     if (!w.examples.length) return null;
-    const i = Math.floor(globalStep / 3) % w.examples.length;
+    const i = Math.floor(step / 3) % w.examples.length;
     return w.examples[i];
-  }, [w, globalStep]);
+  }, [w, step]);
 
   // --- bir kelimeyi sıfırla (yeni kelimeye geçince) ---
   const resetWord = (nextWord: Entry) => {
-    const p = buildPyramid(nextWord.term);
-    setPhase("down");
+    setPhase("write");
     setStep(0);
-    setPos(skipAutos(p.downs[0] ?? "", 0));
+    setPos(skipAutos(nextWord.term, 0));
     setAccepted("");
     setFeedback(null);
     setRevealWord(false);
@@ -118,18 +145,18 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
   const stepComplete = () => {
     let nextPhase: MemPhase = phase;
     let nextStep = step;
-    if (phase === "down") {
+    if (phase === "write") {
       nextStep = step + 1;
-      if (nextStep >= pyramid.downs.length) {
-        nextPhase = "up";
+      if (nextStep >= WRITE_ROUNDS) {
+        nextPhase = sentences.length ? "sentence" : "final";
         nextStep = 0;
-        if (pyramid.ups.length === 0) nextPhase = sentence ? "sentence" : "final";
       }
-    } else if (phase === "up") {
-      nextStep = step + 1;
-      if (nextStep >= pyramid.ups.length) nextPhase = sentence ? "sentence" : "final";
     } else if (phase === "sentence") {
-      nextPhase = "final";
+      nextStep = step + 1;
+      if (nextStep >= sentences.length) {
+        nextPhase = "final";
+        nextStep = 0;
+      }
     }
 
     setFeedback(null);
@@ -139,35 +166,23 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
     if (nextPhase === "final") {
       setPos(0);
     } else {
-      const nextTarget =
-        nextPhase === "sentence"
-          ? sentence?.term ?? ""
-          : nextPhase === "down"
-            ? pyramid.downs[nextStep] ?? ""
-            : pyramid.ups[nextStep] ?? "";
+      const nextTarget = nextPhase === "write" ? w.term : sentences[nextStep]?.term ?? "";
       setPos(skipAutos(nextTarget, 0));
     }
   };
 
-  // --- yanlış harf ---
+  // --- yanlış harf: yalnız aktif satır/cümle girişi baştan ---
   const mistake = () => {
     shake();
-    if (phase === "sentence") {
-      // yalnız kelime girişi sıfırlanır (piramit etkilenmez)
-      setPos(skipAutos(target, 0));
-      setAccepted("");
-      setFeedback({ text: t("memSentenceRestart"), bad: true });
-    } else {
-      // piramit baştan
-      setPhase("down");
-      setStep(0);
-      setPos(skipAutos(pyramid.downs[0] ?? "", 0));
-      setAccepted("");
-      setFeedback({ text: t("memPyramidRestart"), bad: true });
-    }
+    setPos(skipAutos(target, 0));
+    setAccepted("");
+    setFeedback({
+      text: phase === "sentence" ? t("memSentenceRestart") : t("memRowRestart"),
+      bad: true,
+    });
   };
 
-  // --- slot girişleri (down/up/sentence) ---
+  // --- slot girişleri (write/sentence) ---
   const onSlotChange = (raw: string) => {
     if (done || phase === "final") return;
     if (raw.length <= accepted.length) {
@@ -202,9 +217,9 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
     }
   };
 
-  // --- 👁 Göster (yalnız çıkış) ---
+  // --- 👁 Göster (yalnız cümle aşaması; kelime artık gizli) ---
   const reveal = () => {
-    if (phase !== "up" || done) return;
+    if (phase !== "sentence" || done) return;
     setPeeked(true);
     if (!wrong.has(w.id)) wrong.add(w.id);
     setRevealWord(true);
@@ -249,19 +264,23 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
   };
 
   // ---------- görünüm ----------
-  const order: MemPhase[] = ["down", "up", "sentence", "final"];
+  const order: MemPhase[] = ["write", "sentence", "final"];
   const curOrder = order.indexOf(phase);
   const chips: { key: MemPhase; label: string }[] = [
-    { key: "down", label: "İniş" },
-    { key: "up", label: "Çıkış" },
-    ...(sentence ? [{ key: "sentence" as MemPhase, label: "Cümle" }] : []),
+    { key: "write", label: "Yaz" },
+    ...(sentences.length ? [{ key: "sentence" as MemPhase, label: "Cümle" }] : []),
     { key: "final", label: "Final" },
   ];
 
-  const isPyramid = phase === "down" || phase === "up";
-
   return (
-    <ScrollView style={styles.flex} contentContainerStyle={styles.content} keyboardShouldPersistTaps="handled">
+    <View style={[styles.flex, kbPad > 0 && { paddingBottom: kbPad }]}>
+    <ScrollView
+      ref={scrollRef}
+      style={styles.flex}
+      contentContainerStyle={styles.content}
+      keyboardShouldPersistTaps="handled"
+      showsVerticalScrollIndicator={false}
+    >
       <Text style={styles.label}>{PHASE_LABEL[phase]}</Text>
 
       <View style={styles.chips}>
@@ -270,9 +289,11 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
           const active = c.key === phase;
           const doneChip = ci < curOrder;
           let label = c.label;
-          if (active && (c.key === "down" || c.key === "up")) {
-            const total = c.key === "down" ? pyramid.downs.length : pyramid.ups.length;
-            label += ` ${Math.min(step + 1, total)}/${total}`;
+          if (active && c.key === "write") {
+            label += ` ${Math.min(step + 1, WRITE_ROUNDS)}/${WRITE_ROUNDS}`;
+          }
+          if (active && c.key === "sentence") {
+            label += ` ${Math.min(step + 1, sentences.length)}/${sentences.length}`;
           }
           return (
             <Text key={c.key} style={[styles.chip, active && styles.chipActive, doneChip && styles.chipDone]}>
@@ -282,58 +303,43 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
         })}
       </View>
 
-      {phase === "down" && <Text style={styles.word}>{w.term}</Text>}
+      {phase === "write" && <Text style={styles.word}>{w.term}</Text>}
       <Text style={styles.type}>{w.type}</Text>
       <Text style={styles.meaning}>{w.meaning}</Text>
 
-      {/* ---- Piramit (iniş/çıkış) ---- */}
-      {isPyramid && (
-        <Animated.View style={[styles.pyramid, { transform: [{ translateX: x }] }]}>
-          {/* iniş yarısı */}
-          {pyramid.downs.map((row, i) => {
-            const showLetters = phase === "down" && i < step;
-            const isActive = phase === "down" && i === step;
-            if (isActive) {
-              return <LetterSlots key={`d${i}`} target={row} filled={pos} />;
+      {/* ---- Yazma aşaması: kelimeyi 10 kez tam haliyle yaz ---- */}
+      {phase === "write" && (
+        <Animated.View
+          style={[styles.rows, { transform: [{ translateX: x }] }]}
+          onLayout={(e) => (rowsY.current = e.nativeEvent.layout.y)}
+        >
+          {Array.from({ length: WRITE_ROUNDS }).map((_, i) => {
+            if (i === step) {
+              return (
+                <View key={i} onLayout={onActiveRowLayout}>
+                  <LetterSlots target={w.term} filled={pos} />
+                </View>
+              );
             }
+            const isDone = i < step;
             return (
-              <Text
-                key={`d${i}`}
-                style={[styles.pRow, showLetters ? styles.pDone : styles.pGhost]}
-              >
-                {showLetters ? row : maskRow(row)}
+              <Text key={i} style={[styles.row, isDone ? styles.rowDone : styles.rowGhost]}>
+                {isDone ? w.term : maskRow(w.term)}
               </Text>
             );
           })}
-          {/* çıkış yarısı */}
-          {pyramid.ups.map((row, j) => {
-            const showLetters = phase === "up" && j < step;
-            const isActive = phase === "up" && j === step;
-            if (isActive) {
-              return <LetterSlots key={`u${j}`} target={row} filled={pos} />;
-            }
-            return (
-              <Text
-                key={`u${j}`}
-                style={[styles.pRow, showLetters ? styles.pDone : styles.pGhost]}
-              >
-                {showLetters ? row : maskRow(row)}
-              </Text>
-            );
-          })}
-          {revealWord && <Text style={styles.peek}>{w.term}</Text>}
         </Animated.View>
       )}
 
-      {/* ---- Ara örnek cümle (piramit boyunca) ---- */}
-      {isPyramid && interExample && (
+      {/* ---- Ara örnek cümle (yazma boyunca) ---- */}
+      {phase === "write" && interExample && (
         <View style={styles.exBox}>
           <Text style={styles.exTitle}>ÖRNEK</Text>
           <Text style={styles.exTarget}>
             {segmentExample(interExample.target).map((seg, i) =>
               seg.isTerm ? (
-                <Text key={i} style={phase === "up" ? styles.exBlank : styles.exTerm}>
-                  {phase === "up" ? "•".repeat(seg.text.length) : seg.text}
+                <Text key={i} style={styles.exTerm}>
+                  {seg.text}
                 </Text>
               ) : (
                 <Text key={i}>{seg.text}</Text>
@@ -344,11 +350,11 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
         </View>
       )}
 
-      {/* ---- Cümle aşaması: yalnız terim yazılır ---- */}
-      {phase === "sentence" && sentence && (
+      {/* ---- Cümle aşaması: 3 örnek cümlede boşluğu doldur ---- */}
+      {phase === "sentence" && sentences[step] && (
         <Animated.View style={[styles.sentenceWrap, { transform: [{ translateX: x }] }]}>
           <Text style={styles.sentence}>
-            {sentence.segments.map((seg, i) =>
+            {sentences[step].segments.map((seg, i) =>
               seg.isTerm ? (
                 <Text key={i} style={styles.sBlank}>
                   {" " + "_".repeat(Math.max(seg.text.length, 3)) + " "}
@@ -358,13 +364,21 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
               )
             )}
           </Text>
-          <Text style={styles.sentenceTr}>{sentence.source}</Text>
+          <Text style={styles.sentenceTr}>{sentences[step].source}</Text>
           <Text style={styles.sHint}>↓ yalnız kelimeyi yaz</Text>
-          <LetterSlots target={sentence.term} filled={pos} />
+          <LetterSlots target={sentences[step].term} filled={pos} />
+          {revealWord && <Text style={styles.peek}>{w.term}</Text>}
         </Animated.View>
       )}
 
-      {/* ---- Giriş kutusu ---- */}
+    </ScrollView>
+
+    {/* ---- Sabit alt bar: giriş + eylemler (klavyenin hemen üstünde) ---- */}
+    <View style={styles.bottom}>
+      {feedback && (
+        <Text style={[styles.fb, feedback.bad ? styles.bad : styles.good]}>{feedback.text}</Text>
+      )}
+
       {phase !== "final" ? (
         <TextInput
           style={styles.input}
@@ -397,24 +411,22 @@ export function MemorizeMode({ entries, speak, onRecordWord, onFinish }: ModePro
 
       <View style={styles.actions}>
         <Button title={t("listen")} variant="ghost" small onPress={() => speak(w.term)} />
-        {phase === "up" && <Button title={t("reveal")} variant="ghost" small onPress={reveal} />}
+        {phase === "sentence" && <Button title={t("reveal")} variant="ghost" small onPress={reveal} />}
         {phase === "final" && !done && (
           <Button title={t("check")} variant="primary" small onPress={checkFinal} />
         )}
         <Button title={t("skip")} variant="ghost" small onPress={skip} />
       </View>
 
-      {feedback && (
-        <Text style={[styles.fb, feedback.bad ? styles.bad : styles.good]}>{feedback.text}</Text>
-      )}
       {done && <Button title={t("next")} variant="primary" onPress={goNextWord} style={styles.next} />}
-    </ScrollView>
+    </View>
+    </View>
   );
 }
 
 const styles = StyleSheet.create({
   flex: { flex: 1 },
-  content: { alignItems: "center", paddingVertical: spacing.lg, paddingBottom: spacing.xl * 2 },
+  content: { alignItems: "center", paddingTop: spacing.md, paddingBottom: spacing.lg },
   label: { color: colors.muted, fontSize: 11, letterSpacing: 2, fontWeight: "700" },
   chips: { flexDirection: "row", gap: 6, marginTop: spacing.md, flexWrap: "wrap", justifyContent: "center" },
   chip: {
@@ -435,10 +447,10 @@ const styles = StyleSheet.create({
   type: { color: colors.accent, fontSize: 13, fontStyle: "italic", marginTop: 4 },
   meaning: { color: colors.text, fontSize: 20, fontWeight: "700", marginTop: spacing.sm, textAlign: "center" },
 
-  pyramid: { alignItems: "center", marginTop: spacing.md, gap: 2 },
-  pRow: { fontSize: 15, letterSpacing: 3, fontWeight: "700", lineHeight: 22, textAlign: "center" },
-  pDone: { color: colors.ok },
-  pGhost: { color: colors.muted, opacity: 0.35 },
+  rows: { alignItems: "center", marginTop: spacing.md, gap: 2 },
+  row: { fontSize: 15, letterSpacing: 3, fontWeight: "700", lineHeight: 22, textAlign: "center" },
+  rowDone: { color: colors.ok },
+  rowGhost: { color: colors.muted, opacity: 0.35 },
   peek: { color: colors.accent, fontSize: 24, fontWeight: "800", letterSpacing: 2, marginTop: spacing.sm },
 
   exBox: {
@@ -453,7 +465,6 @@ const styles = StyleSheet.create({
   exTitle: { color: colors.muted, fontSize: 10, letterSpacing: 1.5, fontWeight: "700", marginBottom: 4 },
   exTarget: { color: colors.text, fontSize: 15, lineHeight: 22 },
   exTerm: { color: colors.accent, fontWeight: "700" },
-  exBlank: { color: colors.muted, letterSpacing: 1 },
   exSource: { color: colors.muted, fontSize: 13, fontStyle: "italic", marginTop: 4 },
 
   sentenceWrap: { width: "100%", alignItems: "center", marginTop: spacing.lg },
@@ -462,6 +473,11 @@ const styles = StyleSheet.create({
   sentenceTr: { color: colors.muted, fontSize: 14, fontStyle: "italic", marginTop: spacing.sm, textAlign: "center" },
   sHint: { color: colors.muted, fontSize: 12, marginTop: spacing.md },
 
+  bottom: {
+    paddingTop: spacing.sm,
+    borderTopWidth: 1,
+    borderTopColor: colors.border,
+  },
   input: {
     width: "100%",
     backgroundColor: colors.bgSoft,
@@ -473,11 +489,10 @@ const styles = StyleSheet.create({
     letterSpacing: 1,
     textAlign: "center",
     paddingVertical: 12,
-    marginTop: spacing.lg,
   },
-  actions: { flexDirection: "row", gap: spacing.sm, marginTop: spacing.lg, flexWrap: "wrap", justifyContent: "center" },
-  fb: { fontSize: 14, fontWeight: "600", marginTop: spacing.lg, textAlign: "center" },
+  actions: { flexDirection: "row", gap: spacing.sm, marginTop: spacing.sm, flexWrap: "wrap", justifyContent: "center" },
+  fb: { fontSize: 13, fontWeight: "600", marginBottom: spacing.sm, textAlign: "center" },
   good: { color: colors.ok },
   bad: { color: colors.bad },
-  next: { marginTop: spacing.lg, alignSelf: "stretch" },
+  next: { marginTop: spacing.sm, alignSelf: "stretch" },
 });
