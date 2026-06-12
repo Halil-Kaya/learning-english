@@ -66,6 +66,15 @@ eas init                         # projeyi Expo'ya bağlar (projectId yazar)
 > ([app.json](app.json)) sayesinde "export compliance" sorusu da atlanır.
 
 ### Derle + TestFlight'a gönder
+
+**Kısayol:** `mobile/` dizininde tek komut:
+
+```bash
+make upload
+```
+
+Bu, sırayla aşağıdaki iki komutu çalıştırır (detay için alta bak):
+
 ```bash
 eas build -p ios --profile production
 # İlk seferde Apple hesabına giriş ister (Apple ID e-posta + şifre + 2FA);
@@ -75,6 +84,9 @@ eas submit -p ios --latest
 # Derlemeyi App Store Connect'e yükler. İstenirse App Store Connect API
 # anahtarı oluşturur; uygulama kaydı yoksa onu da açar.
 ```
+
+> Yayından önce `make check` ile tip kontrolü + iOS bundle doğrulamasını
+> çalıştırabilirsin (`npx tsc --noEmit` + `npx expo export -p ios`).
 
 ### Arkadaşları davet et
 1. [App Store Connect](https://appstoreconnect.apple.com) → **TestFlight** sekmesi.
