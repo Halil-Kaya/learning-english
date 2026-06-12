@@ -107,9 +107,26 @@ modu yaz → `ModePicker` ve `study/[id].tsx`'teki `MODE_COMPONENTS`'e ekle →
 `recordWord(pair, entryId, {correct, mastered?})` her girdi için durum tutar
 (`new → learning → mastered`). Ezber final'ini ilk denemede, **göstermeden**
 geçen kelime `mastered`. Geçmiş sekmesi kaldırıldı → **Öğrendiklerim**:
-`learnedSets` (set detayındaki 🎓 toggle ile) + **Kendini Dene** swipe turu
-(`src/app/self-test.tsx`, `SwipeCard`). `addSession`/`history` store'da duruyor
-ama artık ÇAĞRILMIYOR (UI yok). Hepsi `src/store/library.ts`.
+`learnedSets` (set detayındaki 🎓 toggle ile — işaretlenince hedef listesinden
+otomatik düşer) + **Kendini Dene** swipe turu (`src/app/self-test.tsx`,
+`SwipeCard`). `addSession`/`history` store'da duruyor ama artık ÇAĞRILMIYOR
+(UI yok). Hepsi `src/store/library.ts`.
+
+## Bağlılık / Oyunlaştırma (bkz. ENGAGEMENT-SPEC.md)
+
+- **Daily streak** (GLOBAL — dil çiftinden bağımsız): saf mantık
+  `src/engine/streak.ts` (dayKey/applyTick/visibleStreak, hafta Pzt başlar),
+  `src/store/streak.ts` (`tick()` her tur bitişinde — study `onFinish` +
+  self-test). Ana ekranda `StreakHeader` (🔥 + en iyi + Pzt–Paz hafta noktaları
+  + haftalık hedef). Dönüm noktaları 3/7/14/30/50/100/365 → `MilestoneModal`
+  (kök layout'ta global). Haftalık hedef Ayarlar'dan 3–7.
+- **Bildirimler** (yerel, `expo-notifications` — sunucu/push YOK, SDK 54 +
+  Expo Go uyumlu): `src/engine/notify.ts` izin/Android kanalı/**7 günlük tarihli
+  planlama** + durum bazlı mesaj havuzları (set/streak/keşfet, i18n'de dizi).
+  `refreshNotifications(buildNotifyContext())` açılışta (kök layout) + tur
+  sonunda + ayar değişiminde çağrılır; izin İSTEMEZ (yalnız `enable*` ister).
+  Saat seçici `TimePickerModal` (native modül yok). Onboarding 2. adımı + mevcut
+  kullanıcıya `HomeNotifyCard`. Ayarlar > Bildirimler.
 
 ## Gelecek Entegrasyonlar (v1'de UYGULANMADI — yeri burada)
 

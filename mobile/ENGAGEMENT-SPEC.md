@@ -130,9 +130,10 @@
       (izin, Android kanalı, 7 günlük tarihli planlama, mesaj havuzları,
       `buildNotifyContext`), `TimePickerModal`, Ayarlar "Bildirimler" bölümü
       (aç/kapa + saat seçici), kök layout açılışta + tur sonunda refresh.
-- [ ] **Parti D — Onboarding adımı + mevcut kullanıcı kartı**:
-      onboarding'e saat adımı, Hedefim'de tek seferlik hatırlatma kurma
-      kartı, `notifyPromptDismissed`.
+- [x] **Parti D — Onboarding adımı + mevcut kullanıcı kartı** ✓ 2026-06-12:
+      onboarding ikinci adım (saat seçimi + Hatırlat/Şimdi değil), Hedefim'de
+      tek seferlik `HomeNotifyCard`, `notifyPromptDismissed`. iOS bundle
+      export ile doğrulandı.
 
 Her parti sonunda: `npx tsc --noEmit` → commit → push.
 
