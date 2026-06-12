@@ -23,6 +23,7 @@ const MODES: ModeCard[] = [
 const GAMES: ModeCard[] = [
   { mode: "anagram", emoji: "🧩", title: t("modeAnagram"), desc: t("modeAnagramDesc") },
   { mode: "race", emoji: "⏱", title: t("modeRace"), desc: t("modeRaceDesc") },
+  { mode: "hangman", emoji: "🪢", title: t("modeHangman"), desc: t("modeHangmanDesc") },
 ];
 
 export function ModePicker({ onPick }: { onPick: (m: StudyMode) => void }) {

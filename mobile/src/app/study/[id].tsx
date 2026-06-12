@@ -5,6 +5,7 @@ import { Screen } from "../../components/Screen";
 import { AnagramMode } from "../../components/modes/AnagramMode";
 import { CardsMode } from "../../components/modes/CardsMode";
 import { FillMode } from "../../components/modes/FillMode";
+import { HangmanMode } from "../../components/modes/HangmanMode";
 import { MatchMode } from "../../components/modes/MatchMode";
 import { MemorizeMode } from "../../components/modes/MemorizeMode";
 import { ModePicker } from "../../components/modes/ModePicker";
@@ -29,6 +30,7 @@ const MODE_COMPONENTS: Record<StudyMode, (p: ModeProps) => React.ReactElement> =
   memorize: MemorizeMode,
   anagram: AnagramMode,
   race: RaceMode,
+  hangman: HangmanMode,
 };
 
 export default function StudySession() {

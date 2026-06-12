@@ -93,7 +93,9 @@ Seçicide oyunlar mevcut 6 moddan görsel olarak ayrışır ("OYUNLAR" başlığ
       ilerleme/geçmiş ayrımı, ayarlardaki sıfırlama skorları da siler.
 - [x] **Parti B** — Zaman Yarışı ✓ 2026-06-12: `engine/race.ts` (süre/puan sabitleri),
       `RaceMode.tsx` (animasyonlu süre çubuğu, 3 can, combo, deste sarması), rekor entegrasyonu.
-- [ ] **Parti C** — Adam Asmaca: `engine/hangman.ts`, `HangmanMode.tsx`.
+- [x] **Parti C** — Adam Asmaca ✓ 2026-06-12: `engine/hangman.ts` (klavye setin
+      harflerinden türetilir — dil bağımsız), `HangmanMode.tsx` (monospace figür,
+      6 hak, puan = kalan can × harf sayısı).
 - [ ] **Parti D** — Kelime Avı: `engine/wordhunt.ts` (grid üretici) + `HuntMode.tsx`.
 
 Her parti sonunda: `npx tsc --noEmit` → commit → push.

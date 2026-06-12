@@ -77,6 +77,8 @@ export const tr = {
   modeAnagramDesc: "Harfleri sıraya diz",
   modeRace: "Zaman Yarışı",
   modeRaceDesc: "Süre dolmadan seç",
+  modeHangman: "Adam Asmaca",
+  modeHangmanDesc: "Harf tahmin et",
 
   // games common
   gameScore: "SKOR",
@@ -88,6 +90,8 @@ export const tr = {
   gameHighScore: "Rekor",
   gameRacePrompt: "DOĞRU KELİMEYİ SEÇ",
   gameTimeUp: "⏱ Süre doldu!",
+  gameLivesLeft: "HAK",
+  gameHangmanLost: "✗ Asıldın! Kelime:",
 
   // study common
   iKnow: "Biliyorum",
