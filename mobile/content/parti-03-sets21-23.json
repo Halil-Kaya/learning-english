@@ -1,0 +1,887 @@
+[
+  {
+    "id": "en-tr-beginner-21",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 21",
+    "level": "beginner",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-21-0",
+        "kind": "word",
+        "term": "room",
+        "type": "noun",
+        "meaning": "oda",
+        "examples": [
+          { "target": "This {room} is very comfortable.", "source": "Bu oda çok rahat." },
+          { "target": "She painted the {room} blue.", "source": "O, odayı maviye boyadı." },
+          { "target": "There is a desk in the {room}.", "source": "Odada bir masa var." },
+          { "target": "The {room} has a big window.", "source": "Odanın büyük bir penceresi var." },
+          { "target": "We cleaned the {room} together.", "source": "Odayı birlikte temizledik." },
+          { "target": "He reads books in his {room}.", "source": "O, odasında kitap okur." },
+          { "target": "The {room} feels warm in winter.", "source": "Oda kışın sıcak hissettiriyor." },
+          { "target": "Please keep your {room} tidy.", "source": "Lütfen odanı düzenli tut." },
+          { "target": "She decorated the {room} with flowers.", "source": "O, odayı çiçeklerle süsledi." },
+          { "target": "There is no space left in the {room}.", "source": "Odada boş yer kalmadı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-1",
+        "kind": "word",
+        "term": "door",
+        "type": "noun",
+        "meaning": "kapı",
+        "examples": [
+          { "target": "Please close the {door} behind you.", "source": "Lütfen arkandan kapıyı kapat." },
+          { "target": "He knocked on the {door} twice.", "source": "O kapıya iki kez vurdu." },
+          { "target": "The {door} was locked at night.", "source": "Kapı gece kilitliydi." },
+          { "target": "She opened the {door} for her guest.", "source": "O, misafiri için kapıyı açtı." },
+          { "target": "The {door} makes a loud sound.", "source": "Kapı yüksek sesle kapanıyor." },
+          { "target": "He painted the {door} red.", "source": "O kapıyı kırmızıya boyadı." },
+          { "target": "We stood at the {door} and waited.", "source": "Kapıda durduk ve bekledik." },
+          { "target": "The {door} was open all morning.", "source": "Kapı bütün sabah açıktı." },
+          { "target": "She held the {door} open for me.", "source": "O kapıyı benim için açık tuttu." },
+          { "target": "A cat was sitting by the {door}.", "source": "Bir kedi kapının yanında oturuyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-2",
+        "kind": "word",
+        "term": "window",
+        "type": "noun",
+        "meaning": "pencere",
+        "examples": [
+          { "target": "She looked out of the {window}.", "source": "O pencereden dışarı baktı." },
+          { "target": "Open the {window} to let in fresh air.", "source": "Taze hava için pencereyi aç." },
+          { "target": "The {window} was broken by the wind.", "source": "Pencere rüzgar tarafından kırıldı." },
+          { "target": "He wiped the {window} clean.", "source": "O pencereyi temiz sildi." },
+          { "target": "Rain fell against the {window}.", "source": "Yağmur pencereye çarptı." },
+          { "target": "She sat near the {window} and read.", "source": "O pencere kenarında oturdu ve okudu." },
+          { "target": "The {window} lets in a lot of light.", "source": "Pencere çok fazla ışık alıyor." },
+          { "target": "We closed the {window} at night.", "source": "Geceleri pencereyi kapattık." },
+          { "target": "A bird flew through the open {window}.", "source": "Bir kuş açık pencereden içeri girdi." },
+          { "target": "The {window} faces the street.", "source": "Pencere sokağa bakıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-3",
+        "kind": "word",
+        "term": "wall",
+        "type": "noun",
+        "meaning": "duvar",
+        "examples": [
+          { "target": "He hung a picture on the {wall}.", "source": "O duvara bir resim astı." },
+          { "target": "The {wall} between the rooms is thin.", "source": "Odalar arasındaki duvar ince." },
+          { "target": "She painted the {wall} white.", "source": "O duvarı beyaza boyadı." },
+          { "target": "A crack appeared in the {wall}.", "source": "Duvarda bir çatlak belirdi." },
+          { "target": "The {wall} protected the garden.", "source": "Duvar bahçeyi korudu." },
+          { "target": "He leaned against the {wall} and rested.", "source": "Duvara yaslandı ve dinlendi." },
+          { "target": "The children drew on the {wall}.", "source": "Çocuklar duvara çizdi." },
+          { "target": "There is a clock on the {wall}.", "source": "Duvarda bir saat var." },
+          { "target": "The old {wall} needs repair.", "source": "Eski duvarın onarıma ihtiyacı var." },
+          { "target": "A map was pinned to the {wall}.", "source": "Duvara bir harita iğnelendi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-4",
+        "kind": "word",
+        "term": "carpet",
+        "type": "noun",
+        "meaning": "halı",
+        "examples": [
+          { "target": "She vacuumed the {carpet} every week.", "source": "O halıyı her hafta elektrik süpürgesiyle temizledi." },
+          { "target": "The {carpet} is soft under my feet.", "source": "Halı ayaklarımın altında yumuşak." },
+          { "target": "He spilled coffee on the {carpet}.", "source": "O halının üzerine kahve döktü." },
+          { "target": "The {carpet} matches the color of the walls.", "source": "Halı duvarların rengiyle uyuşuyor." },
+          { "target": "They rolled out a red {carpet} for the guests.", "source": "Misafirler için kırmızı halı serdiler." },
+          { "target": "The {carpet} keeps the room warm.", "source": "Halı odayı sıcak tutuyor." },
+          { "target": "She bought a new {carpet} for the bedroom.", "source": "O yatak odası için yeni bir halı aldı." },
+          { "target": "The cat slept on the {carpet}.", "source": "Kedi halının üzerinde uyudu." },
+          { "target": "The {carpet} had a beautiful pattern.", "source": "Halının güzel bir deseni vardı." },
+          { "target": "We chose a thick {carpet} for the living room.", "source": "Oturma odası için kalın bir halı seçtik." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-5",
+        "kind": "word",
+        "term": "ceiling",
+        "type": "noun",
+        "meaning": "tavan",
+        "examples": [
+          { "target": "The {ceiling} is very high in this room.", "source": "Bu odanın tavanı çok yüksek." },
+          { "target": "She painted the {ceiling} white.", "source": "O tavanı beyaza boyadı." },
+          { "target": "There is a lamp hanging from the {ceiling}.", "source": "Tavandan bir lamba sarkmaktadır." },
+          { "target": "A crack appeared on the {ceiling}.", "source": "Tavanda bir çatlak belirdi." },
+          { "target": "He stared at the {ceiling} while thinking.", "source": "Düşünürken tavana baktı." },
+          { "target": "The {ceiling} fan kept the room cool.", "source": "Tavan fanı odayı serin tuttu." },
+          { "target": "We fixed the stain on the {ceiling}.", "source": "Tavandaki lekeyi temizledik." },
+          { "target": "The {ceiling} was decorated with stars.", "source": "Tavan yıldızlarla süslenmişti." },
+          { "target": "Water was dripping from the {ceiling}.", "source": "Tavandan su damlaması vardı." },
+          { "target": "The {ceiling} in the old house was very low.", "source": "Eski evdeki tavan çok alçaktı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-6",
+        "kind": "word",
+        "term": "kitchen",
+        "type": "noun",
+        "meaning": "mutfak",
+        "examples": [
+          { "target": "She cooks every meal in the {kitchen}.", "source": "Her yemeği mutfakta pişiriyor." },
+          { "target": "The {kitchen} smells wonderful today.", "source": "Mutfak bugün harika kokuyor." },
+          { "target": "He washed the dishes in the {kitchen}.", "source": "O mutfakta bulaşıkları yıkadı." },
+          { "target": "The {kitchen} has a large window.", "source": "Mutfağın büyük bir penceresi var." },
+          { "target": "We had breakfast together in the {kitchen}.", "source": "Mutfakta birlikte kahvaltı ettik." },
+          { "target": "She keeps her spices in the {kitchen} cabinet.", "source": "O baharatlarını mutfak dolabında tutuyor." },
+          { "target": "The {kitchen} was clean and tidy.", "source": "Mutfak temiz ve düzenliydi." },
+          { "target": "He learned to cook in the {kitchen}.", "source": "O mutfakta yemek yapmayı öğrendi." },
+          { "target": "The {kitchen} table is round.", "source": "Mutfak masası yuvarlak." },
+          { "target": "She bought new cups for the {kitchen}.", "source": "O mutfak için yeni bardaklar aldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-7",
+        "kind": "word",
+        "term": "bathroom",
+        "type": "noun",
+        "meaning": "banyo",
+        "examples": [
+          { "target": "She takes a shower in the {bathroom} every morning.", "source": "Her sabah banyoda duş alıyor." },
+          { "target": "The {bathroom} mirror was foggy after the shower.", "source": "Duş sonrası banyo aynası buğulandı." },
+          { "target": "He cleaned the {bathroom} tiles.", "source": "O banyo fayanslarını temizledi." },
+          { "target": "There is a small plant in the {bathroom}.", "source": "Banyoda küçük bir bitki var." },
+          { "target": "The {bathroom} door was locked.", "source": "Banyo kapısı kilitliydi." },
+          { "target": "She hung towels in the {bathroom}.", "source": "O banyoya havlular astı." },
+          { "target": "The {bathroom} has hot and cold water.", "source": "Banyoda sıcak ve soğuk su var." },
+          { "target": "He spent a long time in the {bathroom}.", "source": "O banyoda uzun süre geçirdi." },
+          { "target": "The {bathroom} smells like soap.", "source": "Banyo sabun gibi kokuyor." },
+          { "target": "We fixed the broken tap in the {bathroom}.", "source": "Banyodaki kırık musluğu tamir ettik." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-8",
+        "kind": "word",
+        "term": "bedroom",
+        "type": "noun",
+        "meaning": "yatak odası",
+        "examples": [
+          { "target": "She reads before sleeping in her {bedroom}.", "source": "Yatak odasında uyumadan önce okur." },
+          { "target": "The {bedroom} is quiet and peaceful.", "source": "Yatak odası sessiz ve huzurlu." },
+          { "target": "He keeps his books in the {bedroom}.", "source": "O kitaplarını yatak odasında tutuyor." },
+          { "target": "The {bedroom} has two large windows.", "source": "Yatak odasının iki büyük penceresi var." },
+          { "target": "She decorated her {bedroom} with posters.", "source": "O yatak odasını posterlerle süsledi." },
+          { "target": "The children share a {bedroom}.", "source": "Çocuklar bir yatak odasını paylaşıyor." },
+          { "target": "His {bedroom} is always tidy.", "source": "Onun yatak odası her zaman düzgün." },
+          { "target": "She painted her {bedroom} green.", "source": "O yatak odasını yeşile boyadı." },
+          { "target": "The {bedroom} gets a lot of sunlight.", "source": "Yatak odası çok güneş alıyor." },
+          { "target": "We moved the desk into the {bedroom}.", "source": "Masayı yatak odasına taşıdık." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-9",
+        "kind": "word",
+        "term": "garden",
+        "type": "noun",
+        "meaning": "bahçe",
+        "examples": [
+          { "target": "She grows vegetables in the {garden}.", "source": "O bahçede sebze yetiştiriyor." },
+          { "target": "The {garden} is full of colorful flowers.", "source": "Bahçe renkli çiçeklerle dolu." },
+          { "target": "He waters the plants in the {garden} every day.", "source": "Her gün bahçedeki bitkileri sulıyor." },
+          { "target": "The children play in the {garden}.", "source": "Çocuklar bahçede oynuyor." },
+          { "target": "The {garden} looks beautiful in spring.", "source": "Bahçe ilkbaharda çok güzel görünüyor." },
+          { "target": "She planted a new tree in the {garden}.", "source": "O bahçeye yeni bir ağaç dikti." },
+          { "target": "We had a picnic in the {garden}.", "source": "Bahçede piknik yaptık." },
+          { "target": "He built a small bench in the {garden}.", "source": "O bahçeye küçük bir bank yaptı." },
+          { "target": "Birds often visit our {garden}.", "source": "Kuşlar sık sık bahçemizi ziyaret eder." },
+          { "target": "The {garden} needs water in summer.", "source": "Bahçenin yazın suya ihtiyacı var." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-10",
+        "kind": "word",
+        "term": "stairs",
+        "type": "noun",
+        "meaning": "merdiven",
+        "examples": [
+          { "target": "She ran up the {stairs} quickly.", "source": "O merdivenleri hızla çıktı." },
+          { "target": "Be careful on the {stairs}.", "source": "Merdivende dikkatli ol." },
+          { "target": "The {stairs} in this building are steep.", "source": "Bu binadaki merdivenler dik." },
+          { "target": "He sat on the {stairs} and waited.", "source": "O merdivenlere oturdu ve bekledi." },
+          { "target": "She held the rail while walking down the {stairs}.", "source": "Merdivenden inerken küpeşteyi tuttu." },
+          { "target": "The {stairs} were covered with a carpet.", "source": "Merdivenler bir halıyla kaplıydı." },
+          { "target": "We climbed three flights of {stairs}.", "source": "Üç kat merdiven çıktık." },
+          { "target": "The {stairs} creak loudly at night.", "source": "Merdivenler geceleri yüksek sesle gıcırdar." },
+          { "target": "He fell on the {stairs} and hurt himself.", "source": "Merdivende düştü ve yaralandı." },
+          { "target": "She decorated the {stairs} with plants.", "source": "O merdivenleri bitkilerle süsledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-11",
+        "kind": "word",
+        "term": "hall",
+        "type": "noun",
+        "meaning": "koridor / antre",
+        "examples": [
+          { "target": "She hung her coat in the {hall}.", "source": "O paltosunu antreden astı." },
+          { "target": "The {hall} connects all the rooms.", "source": "Koridor tüm odaları birbirine bağlıyor." },
+          { "target": "He walked through the {hall} quietly.", "source": "O koridorda sessizce yürüdü." },
+          { "target": "There is a mirror in the {hall}.", "source": "Antrede bir ayna var." },
+          { "target": "The {hall} was dark so she turned on the light.", "source": "Koridor karanlıktı bu yüzden ışığı yaktı." },
+          { "target": "A large painting hung in the {hall}.", "source": "Koridorda büyük bir tablo asılıydı." },
+          { "target": "We left our shoes in the {hall}.", "source": "Ayakkabılarımızı antreden bıraktık." },
+          { "target": "The {hall} leads to the garden.", "source": "Koridor bahçeye çıkıyor." },
+          { "target": "She swept the {hall} clean.", "source": "O koridoru süpürüp temizledi." },
+          { "target": "The {hall} smelled of fresh flowers.", "source": "Koridor taze çiçek kokuyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-12",
+        "kind": "word",
+        "term": "garage",
+        "type": "noun",
+        "meaning": "garaj",
+        "examples": [
+          { "target": "He parks his car in the {garage}.", "source": "O arabasını garaja park eder." },
+          { "target": "The {garage} is full of old boxes.", "source": "Garaj eski kutularla dolu." },
+          { "target": "She fixed her bicycle in the {garage}.", "source": "O bisikletini garajda tamir etti." },
+          { "target": "The {garage} door opens automatically.", "source": "Garaj kapısı otomatik olarak açılıyor." },
+          { "target": "He converted the {garage} into a workshop.", "source": "O garajı atölyeye dönüştürdü." },
+          { "target": "The {garage} keeps the car safe.", "source": "Garaj arabayı güvende tutuyor." },
+          { "target": "She stored her tools in the {garage}.", "source": "O aletlerini garajda sakladı." },
+          { "target": "The {garage} is attached to the house.", "source": "Garaj eve bitişik." },
+          { "target": "He washed the car inside the {garage}.", "source": "O arabayı garajın içinde yıkadı." },
+          { "target": "The {garage} has space for two cars.", "source": "Garajda iki araba için yer var." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-13",
+        "kind": "word",
+        "term": "yard",
+        "type": "noun",
+        "meaning": "avlu / ön bahçe",
+        "examples": [
+          { "target": "The children play in the {yard} after school.", "source": "Çocuklar okuldan sonra avluda oynuyor." },
+          { "target": "She planted roses in the {yard}.", "source": "O avluya güller dikti." },
+          { "target": "He mowed the grass in the {yard}.", "source": "O avludaki çimi biçti." },
+          { "target": "The dog runs freely in the {yard}.", "source": "Köpek avluda özgürce koşuyor." },
+          { "target": "We set up a table in the {yard} for dinner.", "source": "Akşam yemeği için avluya masa koyduk." },
+          { "target": "The {yard} was covered with leaves in autumn.", "source": "Sonbaharda avlu yapraklarla kaplandı." },
+          { "target": "She swept the {yard} every morning.", "source": "Her sabah avluyu süpürdü." },
+          { "target": "There is a big tree in the {yard}.", "source": "Avluda büyük bir ağaç var." },
+          { "target": "He built a fence around the {yard}.", "source": "Avlunun etrafına çit yaptı." },
+          { "target": "The {yard} gets sunlight all day.", "source": "Avlu gün boyu güneş alıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-21-14",
+        "kind": "word",
+        "term": "closet",
+        "type": "noun",
+        "meaning": "dolap / gardırop",
+        "examples": [
+          { "target": "She keeps her clothes in the {closet}.", "source": "O kıyafetlerini dolapta tutuyor." },
+          { "target": "He opened the {closet} and found his jacket.", "source": "Dolabı açtı ve ceketini buldu." },
+          { "target": "The {closet} is full of old books.", "source": "Dolap eski kitaplarla dolu." },
+          { "target": "She organized her {closet} by color.", "source": "O dolabını renge göre düzenledi." },
+          { "target": "There is a small {closet} near the entrance.", "source": "Girişin yakınında küçük bir dolap var." },
+          { "target": "He built a new {closet} in the bedroom.", "source": "O yatak odasına yeni bir dolap yaptı." },
+          { "target": "The {closet} door was stuck.", "source": "Dolap kapısı sıkıştı." },
+          { "target": "She put her shoes inside the {closet}.", "source": "O ayakkabılarını dolabın içine koydu." },
+          { "target": "The {closet} smells like cedar wood.", "source": "Dolap sedir ağacı gibi kokuyor." },
+          { "target": "He found an old photo inside the {closet}.", "source": "Dolabın içinde eski bir fotoğraf buldu." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-22",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 22",
+    "level": "beginner",
+    "category": "health",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-22-0",
+        "kind": "word",
+        "term": "head",
+        "type": "noun",
+        "meaning": "kafa / baş",
+        "examples": [
+          { "target": "She nodded her {head} to say yes.", "source": "Evet demek için başını salladı." },
+          { "target": "He hit his {head} on the door.", "source": "Başını kapıya vurdu." },
+          { "target": "She held her {head} high.", "source": "O başını dik tuttu." },
+          { "target": "He put a hat on his {head}.", "source": "Başına şapka koydu." },
+          { "target": "The {head} of the table was empty.", "source": "Masanın başı boştu." },
+          { "target": "She felt pain in her {head}.", "source": "Kafasında ağrı hissetti." },
+          { "target": "He shook his {head} slowly.", "source": "Kafasını yavaşça salladı." },
+          { "target": "She turned her {head} toward the sound.", "source": "Kafasını sese doğru çevirdi." },
+          { "target": "A clear {head} helps you think better.", "source": "Açık bir kafa daha iyi düşünmene yardımcı olur." },
+          { "target": "He covered his {head} with a scarf.", "source": "Başını bir atkıyla örttü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-1",
+        "kind": "word",
+        "term": "hair",
+        "type": "noun",
+        "meaning": "saç",
+        "examples": [
+          { "target": "She has long brown {hair}.", "source": "Onun uzun kahverengi saçları var." },
+          { "target": "He cut his {hair} short.", "source": "O saçını kısa kesti." },
+          { "target": "She brushed her {hair} before going out.", "source": "Dışarı çıkmadan önce saçını taradı." },
+          { "target": "His {hair} turned gray with age.", "source": "Saçları yaşla birlikte griye döndü." },
+          { "target": "She tied her {hair} in a ponytail.", "source": "Saçlarını at kuyruğuna bağladı." },
+          { "target": "The wind blew her {hair} across her face.", "source": "Rüzgar saçlarını yüzüne dağıttı." },
+          { "target": "He washed his {hair} every day.", "source": "O saçını her gün yıkadı." },
+          { "target": "She dyed her {hair} red.", "source": "Saçını kırmızıya boyadı." },
+          { "target": "The baby has very soft {hair}.", "source": "Bebeğin çok yumuşak saçları var." },
+          { "target": "His {hair} was wet after the rain.", "source": "Yağmur sonrası saçı ıslaktı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-2",
+        "kind": "word",
+        "term": "face",
+        "type": "noun",
+        "meaning": "yüz",
+        "examples": [
+          { "target": "She washed her {face} with cold water.", "source": "Yüzünü soğuk suyla yıkadı." },
+          { "target": "He had a smile on his {face}.", "source": "Yüzünde bir gülümseme vardı." },
+          { "target": "Her {face} turned red with embarrassment.", "source": "Yüzü utançla kızardı." },
+          { "target": "The {face} of the clock was cracked.", "source": "Saatin yüzü çatlamıştı." },
+          { "target": "She looked at her {face} in the mirror.", "source": "Aynada yüzüne baktı." },
+          { "target": "His {face} showed no emotion.", "source": "Yüzü hiçbir duygu göstermiyordu." },
+          { "target": "She covered her {face} with her hands.", "source": "Ellerini yüzünü örttü." },
+          { "target": "The sun shone on his {face}.", "source": "Güneş yüzünü aydınlattı." },
+          { "target": "A new {face} appeared in the crowd.", "source": "Kalabalıkta yeni bir yüz belirdi." },
+          { "target": "He always says what he thinks to someone's {face}.", "source": "Her zaman düşündüklerini yüz yüze söyler." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-3",
+        "kind": "word",
+        "term": "eye",
+        "type": "noun",
+        "meaning": "göz",
+        "examples": [
+          { "target": "She has blue {eye}s.", "source": "Onun mavi gözleri var." },
+          { "target": "He closed his {eye}s and rested.", "source": "Gözlerini kapatıp dinlendi." },
+          { "target": "The bright light hurt her {eye}s.", "source": "Parlak ışık gözlerini rahatsız etti." },
+          { "target": "He kept an {eye} on the children.", "source": "Çocuklardan gözünü ayırmadı." },
+          { "target": "She rubbed her {eye}s after waking up.", "source": "Uyandıktan sonra gözlerini ovuşturdu." },
+          { "target": "His {eye}s were full of tears.", "source": "Gözleri gözyaşıyla doluydu." },
+          { "target": "She could not take her {eye}s off the view.", "source": "Gözlerini manzaradan alamıyordu." },
+          { "target": "The doctor checked his {eye} carefully.", "source": "Doktor gözünü dikkatlice kontrol etti." },
+          { "target": "She winked one {eye} playfully.", "source": "Şakacı bir şekilde bir gözünü kırpıştırdı." },
+          { "target": "His {eye}s lit up when he heard the news.", "source": "Haberi duyunca gözleri parladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-4",
+        "kind": "word",
+        "term": "ear",
+        "type": "noun",
+        "meaning": "kulak",
+        "examples": [
+          { "target": "She whispered in his {ear}.", "source": "Kulağına fısıldadı." },
+          { "target": "He put headphones in his {ear}s.", "source": "Kulaklığı kulaklarına taktı." },
+          { "target": "The loud noise hurt her {ear}s.", "source": "Yüksek ses kulaklarını acıttı." },
+          { "target": "He has a good {ear} for music.", "source": "Müzik için iyi bir kulağı var." },
+          { "target": "She wore earrings on each {ear}.", "source": "Her kulağına küpe taktı." },
+          { "target": "The dog moved its {ear}s to listen.", "source": "Köpek dinlemek için kulaklarını hareket ettirdi." },
+          { "target": "He could not hear well in one {ear}.", "source": "Bir kulağıyla iyi duyamıyordu." },
+          { "target": "She covered her {ear}s because of the noise.", "source": "Gürültü yüzünden kulaklarını kapattı." },
+          { "target": "He lent a willing {ear} to her problems.", "source": "Sorunlarını dinlemek için isteyerek kulak verdi." },
+          { "target": "The sound entered her right {ear}.", "source": "Ses sağ kulağına girdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-5",
+        "kind": "word",
+        "term": "nose",
+        "type": "noun",
+        "meaning": "burun",
+        "examples": [
+          { "target": "She blew her {nose} into a tissue.", "source": "Burnunu mendile sildi." },
+          { "target": "He has a small {nose}.", "source": "Küçük bir burnu var." },
+          { "target": "The dog used its {nose} to find the smell.", "source": "Köpek kokuyu bulmak için burnunu kullandı." },
+          { "target": "She held her {nose} near the flower.", "source": "Burnunu çiçeğe yaklaştırdı." },
+          { "target": "He broke his {nose} during the game.", "source": "Oyun sırasında burnunu kırdı." },
+          { "target": "The smell went straight to his {nose}.", "source": "Koku doğruca burnuna gitti." },
+          { "target": "She has a very sensitive {nose}.", "source": "Çok hassas bir burnu var." },
+          { "target": "He poked his {nose} into others' business.", "source": "Başkalarının işine burnunu soktu." },
+          { "target": "She touched the tip of her {nose}.", "source": "Burnunun ucuna dokundu." },
+          { "target": "He sneezed so hard his {nose} hurt.", "source": "O kadar şiddetli hapşırdı ki burnu acıdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-6",
+        "kind": "word",
+        "term": "mouth",
+        "type": "noun",
+        "meaning": "ağız",
+        "examples": [
+          { "target": "She covered her {mouth} when she coughed.", "source": "Öksürürken ağzını kapattı." },
+          { "target": "He opened his {mouth} to speak.", "source": "Konuşmak için ağzını açtı." },
+          { "target": "The dentist looked inside her {mouth}.", "source": "Diş hekimi ağzının içine baktı." },
+          { "target": "He put the food in his {mouth}.", "source": "Yemeği ağzına koydu." },
+          { "target": "She spoke from the side of her {mouth}.", "source": "Ağzının kenarından konuştu." },
+          { "target": "Don't speak with your {mouth} full.", "source": "Ağzın doluyken konuşma." },
+          { "target": "The word was on the tip of his {mouth}.", "source": "Sözcük dilinin ucundaydı." },
+          { "target": "She smiled with her {mouth} wide open.", "source": "Ağzı sonuna kadar açık gülümsedi." },
+          { "target": "The news spread by word of {mouth}.", "source": "Haber ağızdan ağıza yayıldı." },
+          { "target": "He was too shocked to open his {mouth}.", "source": "Ağzını açamayacak kadar şok olmuştu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-7",
+        "kind": "word",
+        "term": "neck",
+        "type": "noun",
+        "meaning": "boyun",
+        "examples": [
+          { "target": "She wore a scarf around her {neck}.", "source": "Boynuna bir atkı sardı." },
+          { "target": "He stretched his {neck} to see over the crowd.", "source": "Kalabalığın üzerinden görmek için boynunu uzattı." },
+          { "target": "The giraffe has a very long {neck}.", "source": "Zürafanın çok uzun bir boynu var." },
+          { "target": "She felt pain in her {neck} after sleeping.", "source": "Uyku sonrası boynunda ağrı hissetti." },
+          { "target": "He turned his {neck} left and right.", "source": "Boynunu sağa sola çevirdi." },
+          { "target": "She rubbed the back of her {neck}.", "source": "Boynunun arkasını ovuşturdu." },
+          { "target": "He wore a necklace on his {neck}.", "source": "Boynuna kolye taktı." },
+          { "target": "The cat stretched its {neck} out of curiosity.", "source": "Kedi merakla boynunu uzattı." },
+          { "target": "She has a mark on the side of her {neck}.", "source": "Boynunun yanında bir iz var." },
+          { "target": "He saved her by the skin of his {neck}.", "source": "Onu zorlukla kurtardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-8",
+        "kind": "word",
+        "term": "shoulder",
+        "type": "noun",
+        "meaning": "omuz",
+        "examples": [
+          { "target": "She carried a bag on her {shoulder}.", "source": "Omzunda bir çanta taşıdı." },
+          { "target": "He patted her on the {shoulder}.", "source": "Omzuna hafifçe vurdu." },
+          { "target": "She looked over her {shoulder} nervously.", "source": "Gergin bir şekilde omzunun üzerinden baktı." },
+          { "target": "He shrugged his {shoulder}s in doubt.", "source": "Kuşkuyla omuzlarını silkti." },
+          { "target": "The strap slipped off her {shoulder}.", "source": "Askı omzundan kaydı." },
+          { "target": "She rested her head on his {shoulder}.", "source": "Başını omzuna yasladı." },
+          { "target": "He felt a tap on his {shoulder}.", "source": "Omzuna hafif bir dokunuş hissetti." },
+          { "target": "She turned her {shoulder} to the camera.", "source": "Omzunu kameraya çevirdi." },
+          { "target": "He stood with broad {shoulder}s.", "source": "Geniş omuzlarıyla durdu." },
+          { "target": "She bore a heavy burden on her {shoulder}s.", "source": "Omuzlarında ağır bir yük taşıdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-9",
+        "kind": "word",
+        "term": "arm",
+        "type": "noun",
+        "meaning": "kol",
+        "examples": [
+          { "target": "She raised her {arm} to ask a question.", "source": "Soru sormak için kolunu kaldırdı." },
+          { "target": "He broke his {arm} in the accident.", "source": "Kazada kolunu kırdı." },
+          { "target": "She took his {arm} while walking.", "source": "Yürürken koluna girdi." },
+          { "target": "The child held its mother's {arm}.", "source": "Çocuk annesinin kolunu tuttu." },
+          { "target": "He stretched his {arm} to reach the shelf.", "source": "Rafa ulaşmak için kolunu uzattı." },
+          { "target": "She folded her {arm}s and waited.", "source": "Kollarını kavuşturdu ve bekledi." },
+          { "target": "He wore a watch on his left {arm}.", "source": "Sol koluna saat taktı." },
+          { "target": "She fell asleep with her {arm} under her head.", "source": "Kolu başının altında uyudu." },
+          { "target": "He greeted her with open {arm}s.", "source": "Onu açık kollarla karşıladı." },
+          { "target": "The tattoo was on her right {arm}.", "source": "Dövme sağ kolundaydı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-10",
+        "kind": "word",
+        "term": "hand",
+        "type": "noun",
+        "meaning": "el",
+        "examples": [
+          { "target": "She waved her {hand} to say goodbye.", "source": "Elveda demek için elini salladı." },
+          { "target": "He shook my {hand} firmly.", "source": "Elimi sıkıca sıktı." },
+          { "target": "She held his {hand} while crossing the road.", "source": "Yolu geçerken elini tuttu." },
+          { "target": "He washed his {hand}s before eating.", "source": "Yemekten önce ellerini yıkadı." },
+          { "target": "She put her {hand} in her pocket.", "source": "Elini cebine koydu." },
+          { "target": "He gave me a {hand} with the heavy box.", "source": "Ağır kutuyu taşımama yardım etti." },
+          { "target": "The painter's {hand}s were covered in color.", "source": "Ressamın elleri boyayla kaplıydı." },
+          { "target": "She raised her {hand} to answer.", "source": "Cevaplamak için elini kaldırdı." },
+          { "target": "He clapped his {hand}s with joy.", "source": "Sevinçle ellerini çırptı." },
+          { "target": "A {hand} reached out from behind the curtain.", "source": "Perdanin arkasından bir el uzandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-11",
+        "kind": "word",
+        "term": "finger",
+        "type": "noun",
+        "meaning": "parmak",
+        "examples": [
+          { "target": "She pointed her {finger} at the map.", "source": "Parmağını haritaya doğrulttu." },
+          { "target": "He cut his {finger} while cooking.", "source": "Pişirirken parmağını kesti." },
+          { "target": "She wore a ring on her {finger}.", "source": "Parmağına yüzük taktı." },
+          { "target": "He counted on his {finger}s.", "source": "Parmaklarıyla saydı." },
+          { "target": "She tapped her {finger}s on the table.", "source": "Parmaklarını masaya tıkladı." },
+          { "target": "He pointed his {finger} to the sky.", "source": "Parmağını gökyüzüne doğru kaldırdı." },
+          { "target": "She crossed her {finger}s for good luck.", "source": "Şans için parmaklarını çapraz yaptı." },
+          { "target": "The paint stuck to his {finger}s.", "source": "Boya parmaklarına yapıştı." },
+          { "target": "She snapped her {finger}s to get his attention.", "source": "Dikkatini çekmek için parmaklarını şıklattı." },
+          { "target": "He burnt his {finger} on the stove.", "source": "Ocakta parmağını yaktı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-12",
+        "kind": "word",
+        "term": "leg",
+        "type": "noun",
+        "meaning": "bacak",
+        "examples": [
+          { "target": "She broke her {leg} while skiing.", "source": "Kayarken bacağını kırdı." },
+          { "target": "He stretched his {leg}s before running.", "source": "Koşmadan önce bacaklarını gerdi." },
+          { "target": "The dog wagged its tail and lifted one {leg}.", "source": "Köpek kuyruğunu salladı ve bir bacağını kaldırdı." },
+          { "target": "She crossed her {leg}s while sitting.", "source": "Otururken bacaklarını çapraz yaptı." },
+          { "target": "He felt pain in his {leg} after the hike.", "source": "Yürüyüş sonrası bacağında ağrı hissetti." },
+          { "target": "She danced on her {leg}s for hours.", "source": "Saatlerce bacakları üzerinde dans etti." },
+          { "target": "He stood on one {leg} to balance.", "source": "Dengeyi sağlamak için bir bacağının üzerinde durdu." },
+          { "target": "The table has four {leg}s.", "source": "Masanın dört ayağı var." },
+          { "target": "She shaved her {leg}s every week.", "source": "Her hafta bacaklarını tıraş etti." },
+          { "target": "He hurt his {leg} during football practice.", "source": "Futbol antrenmanında bacağını incitti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-13",
+        "kind": "word",
+        "term": "foot",
+        "type": "noun",
+        "meaning": "ayak",
+        "examples": [
+          { "target": "She stepped on his {foot} by accident.", "source": "Yanlışlıkla ayağına bastı." },
+          { "target": "He walked barefoot and felt the ground under his {foot}.", "source": "Yalın ayak yürüdü ve ayağının altında zemini hissetti." },
+          { "target": "She put her best {foot} forward.", "source": "En iyi yönünü gösterdi." },
+          { "target": "He soaked his tired {foot} in warm water.", "source": "Yorgun ayağını sıcak suya daldırdı." },
+          { "target": "A blister formed on the bottom of her {foot}.", "source": "Ayağının altında su toplantı oluştu." },
+          { "target": "He measured the room in {foot}.", "source": "Odayı fit cinsinden ölçtü." },
+          { "target": "She tapped her {foot} to the rhythm.", "source": "Ritme uyarak ayağını vurdu." },
+          { "target": "He set {foot} in the new city for the first time.", "source": "Yeni şehre ilk kez ayak bastı." },
+          { "target": "She injured her right {foot} while playing.", "source": "Oyun oynarken sağ ayağını yaraladı." },
+          { "target": "The cat landed on its {foot}.", "source": "Kedi ayakları üzerine indi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-22-14",
+        "kind": "word",
+        "term": "back",
+        "type": "noun",
+        "meaning": "sırt / arka",
+        "examples": [
+          { "target": "She felt pain in her {back} after lifting boxes.", "source": "Kutu kaldırdıktan sonra sırtında ağrı hissetti." },
+          { "target": "He patted me on the {back}.", "source": "Sırtıma vurdu." },
+          { "target": "She carried her baby on her {back}.", "source": "Bebeğini sırtında taşıdı." },
+          { "target": "He sat at the {back} of the class.", "source": "Sınıfın arkasında oturdu." },
+          { "target": "She turned her {back} on the problem.", "source": "Soruna sırtını döndü." },
+          { "target": "He slept on his {back}.", "source": "Sırt üstü yattı." },
+          { "target": "She wrote her name on the {back} of the paper.", "source": "Adını kağıdın arkasına yazdı." },
+          { "target": "He stretched his {back} after sitting for hours.", "source": "Saatlerce oturduktan sonra sırtını gerdi." },
+          { "target": "She walked with her hands behind her {back}.", "source": "Elleri sırtında yürüdü." },
+          { "target": "He fell on his {back} and looked at the sky.", "source": "Sırtı üstüne düştü ve gökyüzüne baktı." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-23",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 23",
+    "level": "beginner",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-23-0",
+        "kind": "word",
+        "term": "open",
+        "type": "verb",
+        "meaning": "açmak",
+        "examples": [
+          { "target": "She {open}ed the window to get fresh air.", "source": "Taze hava almak için pencereyi açtı." },
+          { "target": "He {open}ed the door for the guest.", "source": "Misafir için kapıyı açtı." },
+          { "target": "She {open}ed her eyes slowly.", "source": "Gözlerini yavaşça açtı." },
+          { "target": "He {open}ed the letter carefully.", "source": "Mektubu dikkatlice açtı." },
+          { "target": "The shop {open}s at nine in the morning.", "source": "Dükkan sabah dokuzda açılır." },
+          { "target": "She {open}ed her arms to greet him.", "source": "Onu karşılamak için kollarını açtı." },
+          { "target": "He {open}ed his mouth to say something.", "source": "Bir şey söylemek için ağzını açtı." },
+          { "target": "She {open}ed a new account at the bank.", "source": "Bankada yeni bir hesap açtı." },
+          { "target": "He {open}ed the book at the first page.", "source": "Kitabı ilk sayfasından açtı." },
+          { "target": "The flower {open}ed under the sunlight.", "source": "Çiçek güneş ışığında açıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-1",
+        "kind": "word",
+        "term": "close",
+        "type": "verb",
+        "meaning": "kapatmak",
+        "examples": [
+          { "target": "Please {close} the door when you leave.", "source": "Giderken lütfen kapıyı kapat." },
+          { "target": "She {close}d her eyes and relaxed.", "source": "Gözlerini kapatıp rahatladı." },
+          { "target": "He {close}d the book after reading.", "source": "Okuduktan sonra kitabı kapattı." },
+          { "target": "The bank {close}s at five o'clock.", "source": "Banka saat beşte kapanır." },
+          { "target": "She {close}d the window because of the cold.", "source": "Soğuk yüzünden pencereyi kapattı." },
+          { "target": "He {close}d the lid of the box.", "source": "Kutunun kapağını kapattı." },
+          { "target": "She {close}d her laptop and went to sleep.", "source": "Dizüstü bilgisayarını kapatıp uyumaya gitti." },
+          { "target": "He {close}d the curtains before bed.", "source": "Yatmadan önce perdeleri kapattı." },
+          { "target": "They {close}d the meeting early.", "source": "Toplantıyı erken kapattılar." },
+          { "target": "She {close}d the fridge quietly.", "source": "Buzdolabını sessizce kapattı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-2",
+        "kind": "word",
+        "term": "tap",
+        "type": "verb",
+        "meaning": "hafifçe vurmak / dokunmak",
+        "examples": [
+          { "target": "She {tap}ped him on the shoulder.", "source": "Omzuna hafifçe vurdu." },
+          { "target": "He {tap}ped the table to get attention.", "source": "Dikkat çekmek için masaya vurdu." },
+          { "target": "She {tap}ped her foot to the music.", "source": "Müziğe ayağını vurdu." },
+          { "target": "He {tap}ped the screen to answer the call.", "source": "Aramayı cevaplamak için ekrana dokundu." },
+          { "target": "She {tap}ped gently on the door.", "source": "Kapıya nazikçe vurdu." },
+          { "target": "He {tap}ped the barrel to check if it was empty.", "source": "Boş olup olmadığını kontrol etmek için fıçıya vurdu." },
+          { "target": "She {tap}ped her fingers nervously.", "source": "Parmaklarını gergin bir şekilde tıkladı." },
+          { "target": "He {tap}ped the phone icon to open the app.", "source": "Uygulamayı açmak için telefon simgesine dokundu." },
+          { "target": "She {tap}ped her pencil against the notebook.", "source": "Kalemini deftere vurdu." },
+          { "target": "He {tap}ped the wall to find the hollow spot.", "source": "Boş yeri bulmak için duvara vurdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-3",
+        "kind": "word",
+        "term": "stretch",
+        "type": "verb",
+        "meaning": "germek / uzanmak",
+        "examples": [
+          { "target": "She {stretch}ed before going for a run.", "source": "Koşuya çıkmadan önce gerildi." },
+          { "target": "He {stretch}ed his arms above his head.", "source": "Kollarını başının üstüne uzattı." },
+          { "target": "The cat {stretch}ed out on the carpet.", "source": "Kedi halının üzerinde uzandı." },
+          { "target": "She {stretch}ed the fabric to fit the frame.", "source": "Kumaşı çerçeveye uydurmak için gerdi." },
+          { "target": "He {stretch}ed his legs after the long trip.", "source": "Uzun yolculuk sonrası bacaklarını gerdi." },
+          { "target": "She {stretch}ed the truth a little.", "source": "Gerçeği biraz abartarak anlattı." },
+          { "target": "He {stretch}ed the rubber band until it snapped.", "source": "Lastik bant kopana kadar gerdi." },
+          { "target": "She {stretch}ed her neck to see better.", "source": "Daha iyi görmek için boynunu uzattı." },
+          { "target": "The road {stretch}ed for miles ahead.", "source": "Yol önde kilometrelerce uzanıyordu." },
+          { "target": "He {stretch}ed his budget to buy the gift.", "source": "Hediyeyi almak için bütçesini zorladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-4",
+        "kind": "word",
+        "term": "hold",
+        "type": "verb",
+        "meaning": "tutmak",
+        "examples": [
+          { "target": "She {hold}s his hand when they walk.", "source": "Yürürken elini tutuyor." },
+          { "target": "He {held} the door open for her.", "source": "Kapıyı onun için açık tuttu." },
+          { "target": "She {held} the baby carefully.", "source": "Bebeği dikkatlice tuttu." },
+          { "target": "He {held} his breath under water.", "source": "Su altında nefesini tuttu." },
+          { "target": "She {hold}s the record for the longest jump.", "source": "En uzun atlama rekorunu elinde tutuyor." },
+          { "target": "He {held} a meeting every Monday.", "source": "Her pazartesi toplantı düzenledi." },
+          { "target": "She {holds} a degree in engineering.", "source": "Mühendislik derecesi var." },
+          { "target": "He {held} the rope tightly.", "source": "İpi sıkıca tuttu." },
+          { "target": "She asked me to {hold} her bag.", "source": "Benden çantasını tutmamı istedi." },
+          { "target": "He {held} on to hope during difficult times.", "source": "Zor zamanlarda umuda tutundu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-5",
+        "kind": "word",
+        "term": "spill",
+        "type": "verb",
+        "meaning": "dökmek",
+        "examples": [
+          { "target": "She {spill}ed water on the table.", "source": "Masaya su döktü." },
+          { "target": "He {spill}ed coffee on his shirt.", "source": "Gömleğine kahve döktü." },
+          { "target": "The child {spill}ed juice on the carpet.", "source": "Çocuk halıya meyve suyu döktü." },
+          { "target": "She tried not to {spill} the soup.", "source": "Çorba dökmemeye çalıştı." },
+          { "target": "He {spill}ed the secret accidentally.", "source": "Sırrı yanlışlıkla ifşa etti." },
+          { "target": "The bag opened and everything {spill}ed out.", "source": "Çanta açıldı ve her şey döküldü." },
+          { "target": "She {spill}ed the beans about the surprise.", "source": "Sürprizi ağzından kaçırdı." },
+          { "target": "He {spill}ed a drink on his laptop.", "source": "Dizüstü bilgisayarına içecek döktü." },
+          { "target": "The bucket {spill}ed when she picked it up.", "source": "Kova onu kaldırdığında döküldü." },
+          { "target": "She cleaned up the {spill} immediately.", "source": "Dökülenı hemen temizledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-6",
+        "kind": "word",
+        "term": "throw",
+        "type": "verb",
+        "meaning": "atmak / fırlatmak",
+        "examples": [
+          { "target": "He {throw}s the ball far every time.", "source": "Her seferinde topu uzağa atar." },
+          { "target": "She {threw} the letter in the trash.", "source": "Mektubu çöpe attı." },
+          { "target": "He {threw} his jacket on the chair.", "source": "Ceketini sandalyeye fırlattı." },
+          { "target": "She {threw} a stone into the river.", "source": "Nehre bir taş fırlattı." },
+          { "target": "He {throws} a party every year.", "source": "Her yıl bir parti düzenler." },
+          { "target": "She {threw} a glance at the clock.", "source": "Saate bir göz attı." },
+          { "target": "He {threw} himself into the work.", "source": "Kendini işe verdi." },
+          { "target": "She {threw} the ball back to him.", "source": "Topu ona geri fırlattı." },
+          { "target": "He {threw} the empty bottle away.", "source": "Boş şişeyi çöpe attı." },
+          { "target": "She {threw} a blanket over him.", "source": "Üzerine battaniye örttü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-7",
+        "kind": "word",
+        "term": "chase",
+        "type": "verb",
+        "meaning": "kovalamak",
+        "examples": [
+          { "target": "The dog {chase}d the cat around the yard.", "source": "Köpek kediyi bahçede kovaladı." },
+          { "target": "He {chase}d the thief down the street.", "source": "Hırsızı sokaktan aşağı kovaladı." },
+          { "target": "She {chase}d after her dream every day.", "source": "Her gün hayalinin peşinden koştu." },
+          { "target": "The child {chase}d butterflies in the garden.", "source": "Çocuk bahçede kelebekleri kovaladı." },
+          { "target": "He is {chase}d by deadlines at work.", "source": "İşte son teslim tarihleri tarafından kovalanıyor." },
+          { "target": "She {chase}d the balloon before it flew away.", "source": "Uçmadan önce balonu kovaladı." },
+          { "target": "They {chase}d the ball all afternoon.", "source": "Bütün öğleden sonra topu kovaladılar." },
+          { "target": "He {chase}d the bus but missed it.", "source": "Otobüsü kovaladı ama kaçırdı." },
+          { "target": "She {chase}d down every lead in the project.", "source": "Projedeki her ipucunu takip etti." },
+          { "target": "He {chase}d her with a water gun.", "source": "Onu su tabancasıyla kovaladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-8",
+        "kind": "word",
+        "term": "hit",
+        "type": "verb",
+        "meaning": "vurmak / çarpmak",
+        "examples": [
+          { "target": "She {hit} the ball with the bat.", "source": "Topa sopayla vurdu." },
+          { "target": "He {hit} his head on the shelf.", "source": "Başını rafa çarptı." },
+          { "target": "The car {hit} the wall at low speed.", "source": "Araba yavaş hızda duvara çarptı." },
+          { "target": "She {hit} the nail with a hammer.", "source": "Çiviyi çekiçle çaktı." },
+          { "target": "The news {hit} him hard.", "source": "Haber onu sert vurdu." },
+          { "target": "He {hit} the road early in the morning.", "source": "Sabahın erken saatlerinde yola koyuldu." },
+          { "target": "The song {hit} the top of the charts.", "source": "Şarkı grafiklerin zirvesine ulaştı." },
+          { "target": "She {hit} the brakes suddenly.", "source": "Ani fren yaptı." },
+          { "target": "He {hit} the target on his first try.", "source": "İlk denemesinde hedefi vurdu." },
+          { "target": "The storm {hit} the town overnight.", "source": "Fırtına geceyi kasabayı vurdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-9",
+        "kind": "word",
+        "term": "raise",
+        "type": "verb",
+        "meaning": "kaldırmak / yükseltmek",
+        "examples": [
+          { "target": "She {raise}d her hand to answer.", "source": "Cevaplamak için elini kaldırdı." },
+          { "target": "He {raise}d the flag every morning.", "source": "Her sabah bayrağı kaldırdı." },
+          { "target": "She {raise}d her voice in anger.", "source": "Öfkeyle sesini yükseltti." },
+          { "target": "He {raise}d a question during the meeting.", "source": "Toplantı sırasında bir soru sordu." },
+          { "target": "She {raise}d her children with care.", "source": "Çocuklarını özenle yetiştirdi." },
+          { "target": "He {raise}d the price of the product.", "source": "Ürünün fiyatını artırdı." },
+          { "target": "She {raise}d funds for the charity.", "source": "Hayır kurumu için fon topladı." },
+          { "target": "He {raise}d the curtain to reveal the painting.", "source": "Tabloyu ortaya çıkarmak için perdeyi kaldırdı." },
+          { "target": "She {raise}d her eyebrows in surprise.", "source": "Şaşkınlıkla kaşlarını kaldırdı." },
+          { "target": "He {raise}d the bar for everyone.", "source": "Herkes için çıtayı yükseltti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-10",
+        "kind": "word",
+        "term": "wait",
+        "type": "verb",
+        "meaning": "beklemek",
+        "examples": [
+          { "target": "She {wait}ed for the bus for twenty minutes.", "source": "Otobüsü yirmi dakika bekledi." },
+          { "target": "He {wait}s patiently every morning.", "source": "Her sabah sabırla bekler." },
+          { "target": "She {wait}ed for the results to arrive.", "source": "Sonuçların gelmesini bekledi." },
+          { "target": "He told her to {wait} outside.", "source": "Ona dışarıda beklemesini söyledi." },
+          { "target": "She could not {wait} to open her gift.", "source": "Hediyesini açmak için sabırsızlandı." },
+          { "target": "He {wait}ed until the rain stopped.", "source": "Yağmur duruncaya kadar bekledi." },
+          { "target": "She {wait}ed in line for an hour.", "source": "Sırada bir saat bekledi." },
+          { "target": "He is {wait}ing for a call back.", "source": "Geri aranmayı bekliyor." },
+          { "target": "She {wait}ed quietly without saying anything.", "source": "Hiçbir şey söylemeden sessizce bekledi." },
+          { "target": "Good things come to those who {wait}.", "source": "İyi şeyler bekleyenlere gelir." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-11",
+        "kind": "word",
+        "term": "run",
+        "type": "verb",
+        "meaning": "koşmak",
+        "examples": [
+          { "target": "She {run}s every morning before breakfast.", "source": "Her sabah kahvaltıdan önce koşar." },
+          { "target": "He {ran} to catch the train.", "source": "Trene yetişmek için koştu." },
+          { "target": "She {run}s her own business.", "source": "Kendi işini yürütüyor." },
+          { "target": "He {ran} a marathon last spring.", "source": "Geçen bahar maraton koştu." },
+          { "target": "She {ran} out of time before finishing.", "source": "Bitirmeden vakti bitti." },
+          { "target": "He {runs} the project every week.", "source": "Projeyi her hafta yürütüyor." },
+          { "target": "She {ran} across an old friend at the market.", "source": "Çarşıda eski bir arkadaşına rastladı." },
+          { "target": "He {ran} his fingers over the page.", "source": "Parmaklarını sayfanın üzerinde gezdirdi." },
+          { "target": "She {ran} down the stairs quickly.", "source": "Merdivenleri hızla indi." },
+          { "target": "He {ran} the idea by his team.", "source": "Fikri ekibiyle paylaştı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-12",
+        "kind": "word",
+        "term": "bend",
+        "type": "verb",
+        "meaning": "eğmek / bükmek",
+        "examples": [
+          { "target": "She {bend}s down to tie her shoes.", "source": "Ayakkabılarını bağlamak için eğilir." },
+          { "target": "He {bent} the wire into a circle.", "source": "Teli daire şekline büktü." },
+          { "target": "She {bent} her knees before jumping.", "source": "Atlamadan önce dizlerini büktü." },
+          { "target": "He {bend}s the rules sometimes.", "source": "Bazen kuralları esnetiyor." },
+          { "target": "She {bent} forward to pick up the pen.", "source": "Kalemi almak için öne eğildi." },
+          { "target": "The metal {bent} under the weight.", "source": "Metal ağırlık altında büküldü." },
+          { "target": "He {bent} his head to listen.", "source": "Dinlemek için başını öne eğdi." },
+          { "target": "She {bent} the corner of the page.", "source": "Sayfanın köşesini kıvırdı." },
+          { "target": "He had to {bend} to enter the low door.", "source": "Alçak kapıdan girmek için eğilmesi gerekti." },
+          { "target": "The river {bend}s sharply to the left.", "source": "Nehir sola doğru sert bir dönemeç yapıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-13",
+        "kind": "word",
+        "term": "swim",
+        "type": "verb",
+        "meaning": "yüzmek",
+        "examples": [
+          { "target": "She {swim}s in the sea every summer.", "source": "Her yaz denizde yüzer." },
+          { "target": "He learned to {swim} at the age of six.", "source": "Altı yaşında yüzmeyi öğrendi." },
+          { "target": "She {swam} across the lake alone.", "source": "Gölün karşısına yalnız yüzdü." },
+          { "target": "He {swim}s fifty laps every morning.", "source": "Her sabah elli tur yüzer." },
+          { "target": "She {swam} to the other side of the pool.", "source": "Havuzun diğer tarafına yüzdü." },
+          { "target": "He {swim}s like a fish.", "source": "Balık gibi yüzüyor." },
+          { "target": "She felt her head {swim} after standing up too fast.", "source": "Çok hızlı kalktıktan sonra başı döndü." },
+          { "target": "He {swam} in the river as a child.", "source": "Çocukken nehirde yüzdü." },
+          { "target": "She {swim}s with a team every week.", "source": "Her hafta bir ekiple yüzer." },
+          { "target": "He {swam} to shore after the boat tipped.", "source": "Tekne devrilince kıyıya yüzdü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-23-14",
+        "kind": "word",
+        "term": "ride",
+        "type": "verb",
+        "meaning": "binmek / sürmek",
+        "examples": [
+          { "target": "She {ride}s a bicycle to school.", "source": "Okula bisikletle gider." },
+          { "target": "He learned to {ride} a horse.", "source": "At binmeyi öğrendi." },
+          { "target": "She {rode} the bus across the city.", "source": "Şehrin karşısına otobüsle gitti." },
+          { "target": "He {ride}s a motorcycle on weekends.", "source": "Hafta sonları motosiklet sürer." },
+          { "target": "She {rode} in the back seat of the car.", "source": "Arabanın arka koltuğunda oturdu." },
+          { "target": "He {ride}s the wave of success.", "source": "Başarı dalgasında sürükleniyor." },
+          { "target": "She {rode} the elevator to the top floor.", "source": "Asansörle en üst kata çıktı." },
+          { "target": "He {ride}s his bike to work every day.", "source": "Her gün bisikletiyle işe gider." },
+          { "target": "She {rode} the rollercoaster three times.", "source": "Hız trenine üç kez bindi." },
+          { "target": "He {rode} out the storm at sea.", "source": "Denizdeki fırtınayı atlattı." }
+        ]
+      }
+    ]
+  }
+]

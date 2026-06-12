@@ -1,0 +1,887 @@
+[
+  {
+    "id": "en-tr-beginner-24",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 24",
+    "level": "beginner",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-24-0",
+        "kind": "word",
+        "term": "eat",
+        "type": "verb",
+        "meaning": "yemek",
+        "examples": [
+          { "target": "She {eat}s breakfast at seven every morning.", "source": "Her sabah yedide kahvaltı eder." },
+          { "target": "He {ate} all the food on his plate.", "source": "Tabağındaki bütün yemeği yedi." },
+          { "target": "She {eat}s fruit instead of sweets.", "source": "Tatlı yerine meyve yer." },
+          { "target": "He {ate} slowly to enjoy the meal.", "source": "Yemeğin tadını çıkarmak için yavaşça yedi." },
+          { "target": "She {eat}s with her family every evening.", "source": "Her akşam ailesiyle yemek yer." },
+          { "target": "He {ate} the whole cake by himself.", "source": "Bütün pastayı tek başına yedi." },
+          { "target": "She {eat}s vegetables to stay healthy.", "source": "Sağlıklı kalmak için sebze yer." },
+          { "target": "He {ate} lunch at his desk.", "source": "Masasında öğle yemeği yedi." },
+          { "target": "She {eat}s out every weekend.", "source": "Her hafta sonu dışarıda yemek yer." },
+          { "target": "He {ate} quickly and left the table.", "source": "Hızlıca yedi ve masadan kalktı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-1",
+        "kind": "word",
+        "term": "drink",
+        "type": "verb",
+        "meaning": "içmek",
+        "examples": [
+          { "target": "She {drink}s a glass of water every morning.", "source": "Her sabah bir bardak su içer." },
+          { "target": "He {drank} his coffee too fast.", "source": "Kahvesini çok hızlı içti." },
+          { "target": "She {drink}s tea instead of coffee.", "source": "Kahve yerine çay içer." },
+          { "target": "He {drank} all the juice in one go.", "source": "Meyve suyunun hepsini bir seferde içti." },
+          { "target": "She {drink}s enough water throughout the day.", "source": "Gün boyunca yeterince su içer." },
+          { "target": "He {drink}s herbal tea before sleeping.", "source": "Uyumadan önce bitki çayı içer." },
+          { "target": "She {drank} from the fountain in the park.", "source": "Parktaki çeşmeden su içti." },
+          { "target": "He told me not to {drink} too much sugar.", "source": "Çok fazla şeker içmemem gerektiğini söyledi." },
+          { "target": "She {drank} a warm cup of milk before bed.", "source": "Yatmadan önce sıcak bir bardak süt içti." },
+          { "target": "He {drink}s from the same cup every day.", "source": "Her gün aynı bardaktan içer." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-2",
+        "kind": "word",
+        "term": "bake",
+        "type": "verb",
+        "meaning": "fırında pişirmek",
+        "examples": [
+          { "target": "She {bake}s bread every Sunday.", "source": "Her pazar ekmek pişirir." },
+          { "target": "He {baked} a cake for her birthday.", "source": "Doğum günü için bir pasta pişirdi." },
+          { "target": "She {bake}s cookies to share with friends.", "source": "Arkadaşlarıyla paylaşmak için kurabiye pişirir." },
+          { "target": "He {baked} the fish in the oven.", "source": "Balığı fırında pişirdi." },
+          { "target": "She {bake}s every weekend as a hobby.", "source": "Hobi olarak her hafta sonu fırında bir şeyler yapar." },
+          { "target": "He {baked} the potatoes for an hour.", "source": "Patatesleri bir saat pişirdi." },
+          { "target": "She {bake}s to relax after work.", "source": "İşten sonra rahatlamak için fırında bir şeyler pişirir." },
+          { "target": "He {baked} fresh rolls for breakfast.", "source": "Kahvaltı için taze ekmekler pişirdi." },
+          { "target": "She {baked} a pie with the apples from the garden.", "source": "Bahçeden topladığı elmalarla turta pişirdi." },
+          { "target": "He {bake}s at a low temperature for better results.", "source": "Daha iyi sonuç için düşük sıcaklıkta pişirir." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-3",
+        "kind": "word",
+        "term": "wash",
+        "type": "verb",
+        "meaning": "yıkamak",
+        "examples": [
+          { "target": "She {wash}es her hands before every meal.", "source": "Her yemekten önce ellerini yıkar." },
+          { "target": "He {washed} the dishes after dinner.", "source": "Akşam yemeğinden sonra bulaşıkları yıkadı." },
+          { "target": "She {wash}es her clothes every week.", "source": "Her hafta kıyafetlerini yıkar." },
+          { "target": "He {washed} the car on Saturday morning.", "source": "Cumartesi sabahı arabayı yıkadı." },
+          { "target": "She {wash}es her face twice a day.", "source": "Günde iki kez yüzünü yıkar." },
+          { "target": "He {washed} the fruit before eating it.", "source": "Meyveyi yemeden önce yıkadı." },
+          { "target": "She {wash}es the windows every spring.", "source": "Her bahar pencereleri yıkar." },
+          { "target": "He {washed} away the mud from his boots.", "source": "Botlarından çamuru yıkadı." },
+          { "target": "She {wash}es her hair every other day.", "source": "Gün aşırı saçını yıkar." },
+          { "target": "He {washed} the vegetables under cold water.", "source": "Sebzeleri soğuk su altında yıkadı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-4",
+        "kind": "word",
+        "term": "wear",
+        "type": "verb",
+        "meaning": "giymek / takmak",
+        "examples": [
+          { "target": "She {wear}s a coat in cold weather.", "source": "Soğuk havada mont giyer." },
+          { "target": "He {wore} a tie to the meeting.", "source": "Toplantıya kravat takarak gitti." },
+          { "target": "She {wear}s glasses when she reads.", "source": "Okurken gözlük takar." },
+          { "target": "He {wore} his best suit to the wedding.", "source": "Düğüne en iyi takım elbisesini giydi." },
+          { "target": "She {wear}s sunscreen every day.", "source": "Her gün güneş kremi sürer." },
+          { "target": "He {wore} a hat to keep the sun off his head.", "source": "Güneşten korunmak için şapka takdı." },
+          { "target": "She {wear}s comfortable shoes for walking.", "source": "Yürüyüş için rahat ayakkabı giyer." },
+          { "target": "He {wore} a smile all day long.", "source": "Bütün gün gülümseyerek dolaştı." },
+          { "target": "She {wear}s earrings on special occasions.", "source": "Özel günlerde küpe takar." },
+          { "target": "He {wore} his old jeans to the garden.", "source": "Bahçeye eski kotunu giydi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-5",
+        "kind": "word",
+        "term": "read",
+        "type": "verb",
+        "meaning": "okumak",
+        "examples": [
+          { "target": "She {read}s a book before sleeping.", "source": "Uyumadan önce kitap okur." },
+          { "target": "He {read} the newspaper every morning.", "source": "Her sabah gazete okudu." },
+          { "target": "She {read}s to her children at bedtime.", "source": "Uyku vakti çocuklarına okur." },
+          { "target": "He {read} the instructions carefully.", "source": "Talimatları dikkatlice okudu." },
+          { "target": "She {read}s in three languages.", "source": "Üç dilde okur." },
+          { "target": "He {read} between the lines of the letter.", "source": "Mektubun satır aralarını okudu." },
+          { "target": "She {reads} slowly to remember better.", "source": "Daha iyi hatırlamak için yavaş okur." },
+          { "target": "He {read} the map to find the road.", "source": "Yolu bulmak için haritayı okudu." },
+          { "target": "She {reads} online articles every day.", "source": "Her gün çevrimiçi makaleler okur." },
+          { "target": "He {read} the entire book in one day.", "source": "Kitabın tamamını bir günde okudu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-6",
+        "kind": "word",
+        "term": "write",
+        "type": "verb",
+        "meaning": "yazmak",
+        "examples": [
+          { "target": "She {write}s in her diary every night.", "source": "Her gece günlüğüne yazar." },
+          { "target": "He {wrote} a letter to his old teacher.", "source": "Eski öğretmenine bir mektup yazdı." },
+          { "target": "She {write}s short stories in her free time.", "source": "Boş zamanlarında kısa hikayeler yazar." },
+          { "target": "He {wrote} down all the important points.", "source": "Tüm önemli noktaları not etti." },
+          { "target": "She {write}s with her left hand.", "source": "Sol eliyle yazar." },
+          { "target": "He {wrote} a message and sent it.", "source": "Bir mesaj yazıp gönderdi." },
+          { "target": "She {write}s clearly so others can understand.", "source": "Başkalarının anlayabilmesi için açıkça yazar." },
+          { "target": "He {wrote} a poem for the school competition.", "source": "Okul yarışması için bir şiir yazdı." },
+          { "target": "She {write}s reports every month.", "source": "Her ay rapor yazar." },
+          { "target": "He {wrote} his name at the top of the paper.", "source": "Adını kağıdın en üstüne yazdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-7",
+        "kind": "word",
+        "term": "type",
+        "type": "verb",
+        "meaning": "yazmak (klavyeyle)",
+        "examples": [
+          { "target": "She {type}s very fast on the keyboard.", "source": "Klavyede çok hızlı yazar." },
+          { "target": "He {typed} the report in an hour.", "source": "Raporu bir saatte yazdı." },
+          { "target": "She {type}s with all ten fingers.", "source": "On parmakla klavye kullanıyor." },
+          { "target": "He {typed} the address into the search bar.", "source": "Arama çubuğuna adresi yazdı." },
+          { "target": "She {type}s quietly so she does not disturb anyone.", "source": "Kimseyi rahatsız etmemek için sessizce yazar." },
+          { "target": "He {typed} a quick email to his boss.", "source": "Patronuna hızlı bir e-posta yazdı." },
+          { "target": "She {type}s her notes right after class.", "source": "Notlarını dersten hemen sonra yazar." },
+          { "target": "He {types} slowly but accurately.", "source": "Yavaş ama doğru yazar." },
+          { "target": "She {typed} the wrong password three times.", "source": "Şifreyi üç kez yanlış girdi." },
+          { "target": "He {type}s in the dark without looking.", "source": "Karanlıkta bakmadan yazar." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-8",
+        "kind": "word",
+        "term": "repair",
+        "type": "verb",
+        "meaning": "tamir etmek / onarımak",
+        "examples": [
+          { "target": "He {repair}ed the broken chair.", "source": "Kırık sandalyeyi tamir etti." },
+          { "target": "She {repair}ed the torn bag with a needle.", "source": "Yırtık çantayı iğneyle onardı." },
+          { "target": "He {repair}s cars at the garage.", "source": "Garajda araba tamir eder." },
+          { "target": "She {repair}ed the fence after the storm.", "source": "Fırtınanın ardından çiti tamir etti." },
+          { "target": "He {repair}s old furniture as a hobby.", "source": "Eski mobilyaları hobi olarak tamir eder." },
+          { "target": "She {repair}ed the hole in her shoe.", "source": "Ayakkabısındaki deliği tamir etti." },
+          { "target": "He {repair}ed the pipe in an hour.", "source": "Boruyu bir saatte tamir etti." },
+          { "target": "She {repair}s the damage quickly.", "source": "Hasarı hızlıca onarıyor." },
+          { "target": "He tried to {repair} their friendship.", "source": "Arkadaşlıklarını onarmaya çalıştı." },
+          { "target": "She {repair}ed the machine without any help.", "source": "Makineyi yardımsız tamir etti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-9",
+        "kind": "word",
+        "term": "study",
+        "type": "verb",
+        "meaning": "çalışmak / okumak",
+        "examples": [
+          { "target": "She {study}s every evening after dinner.", "source": "Her akşam yemekten sonra çalışır." },
+          { "target": "He {studied} hard for the exam.", "source": "Sınav için çok çalıştı." },
+          { "target": "She {study}s English at university.", "source": "Üniversitede İngilizce okuyor." },
+          { "target": "He {studied} the map before the trip.", "source": "Yolculuktan önce haritayı inceledi." },
+          { "target": "She {study}s best in the morning.", "source": "Sabahları en iyi çalışıyor." },
+          { "target": "He {studied} the problem from every angle.", "source": "Sorunu her açıdan inceledi." },
+          { "target": "She {study}s with her classmates online.", "source": "Sınıf arkadaşlarıyla çevrimiçi çalışıyor." },
+          { "target": "He {studied} science for five years.", "source": "Beş yıl boyunca fen okudu." },
+          { "target": "She {study}s a new language every year.", "source": "Her yıl yeni bir dil öğreniyor." },
+          { "target": "He {studied} late into the night.", "source": "Gecenin geç saatlerine kadar çalıştı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-10",
+        "kind": "word",
+        "term": "teach",
+        "type": "verb",
+        "meaning": "öğretmek",
+        "examples": [
+          { "target": "She {teach}es English at a primary school.", "source": "İlkokulda İngilizce öğretiyor." },
+          { "target": "He {taught} his daughter to ride a bike.", "source": "Kızına bisiklet sürmeyi öğretti." },
+          { "target": "She {teach}es by using games and songs.", "source": "Oyun ve şarkı kullanarak öğretiyor." },
+          { "target": "He {taught} himself to play the guitar.", "source": "Gitar çalmayı kendi kendine öğretti." },
+          { "target": "She {teach}es twenty students every day.", "source": "Her gün yirmi öğrenciye ders veriyor." },
+          { "target": "He {taught} me how to cook.", "source": "Bana nasıl yemek yapılacağını öğretti." },
+          { "target": "She {teach}es with patience and kindness.", "source": "Sabır ve nezaketle öğretiyor." },
+          { "target": "He {taught} at the same school for ten years.", "source": "On yıl boyunca aynı okulda öğretmenlik yaptı." },
+          { "target": "She {teach}es the importance of honesty.", "source": "Dürüstlüğün önemini öğretiyor." },
+          { "target": "Experience {teach}es better than words.", "source": "Deneyim kelimelerden daha iyi öğretir." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-11",
+        "kind": "word",
+        "term": "learn",
+        "type": "verb",
+        "meaning": "öğrenmek",
+        "examples": [
+          { "target": "She {learn}s something new every day.", "source": "Her gün yeni bir şey öğreniyor." },
+          { "target": "He {learned} to swim at age five.", "source": "Beş yaşında yüzmeyi öğrendi." },
+          { "target": "She {learn}s languages quickly.", "source": "Dilleri hızla öğreniyor." },
+          { "target": "He {learned} the lesson the hard way.", "source": "Dersi zor yoldan öğrendi." },
+          { "target": "She {learn}s best by doing things herself.", "source": "Kendisi yaparak en iyi öğreniyor." },
+          { "target": "He {learned} to accept his mistakes.", "source": "Hatalarını kabullenmesini öğrendi." },
+          { "target": "She {learn}s new skills to grow.", "source": "Gelişmek için yeni beceriler öğreniyor." },
+          { "target": "He {learned} about the world through books.", "source": "Kitaplar aracılığıyla dünyayı öğrendi." },
+          { "target": "She {learn}s the words of the song by heart.", "source": "Şarkının sözlerini ezberliyor." },
+          { "target": "He {learn}s from every experience.", "source": "Her deneyimden bir şeyler öğrenir." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-12",
+        "kind": "word",
+        "term": "play",
+        "type": "verb",
+        "meaning": "oynamak",
+        "examples": [
+          { "target": "She {play}s chess with her father.", "source": "Babasıyla satranç oynar." },
+          { "target": "He {played} football in the park.", "source": "Parkta futbol oynadı." },
+          { "target": "She {play}s the piano every afternoon.", "source": "Her öğleden sonra piyano çalar." },
+          { "target": "He {played} with his younger brother.", "source": "Küçük kardeşiyle oynadı." },
+          { "target": "She {play}s an important role in the team.", "source": "Takımda önemli bir rol oynuyor." },
+          { "target": "He {played} music at the party.", "source": "Partide müzik çaldı." },
+          { "target": "She {play}s outside every day.", "source": "Her gün dışarıda oynuyor." },
+          { "target": "He {played} the main character in the film.", "source": "Filmde başrolü oynadı." },
+          { "target": "She {play}s board games with her friends.", "source": "Arkadaşlarıyla masa oyunları oynar." },
+          { "target": "He {played} the song three times.", "source": "Şarkıyı üç kez çaldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-13",
+        "kind": "word",
+        "term": "sleep",
+        "type": "verb",
+        "meaning": "uyumak",
+        "examples": [
+          { "target": "She {sleep}s eight hours every night.", "source": "Her gece sekiz saat uyuyor." },
+          { "target": "He {slept} deeply after the long day.", "source": "Uzun günün ardından derin uyudu." },
+          { "target": "She {sleep}s with the window open.", "source": "Pencere açık uyuyor." },
+          { "target": "He {slept} through the alarm.", "source": "Alarmı duyamadan uyudu." },
+          { "target": "She {sleep}s early on school nights.", "source": "Okul gecelerinde erken uyuyor." },
+          { "target": "He {slept} on the sofa for an hour.", "source": "Bir saat kanepede uyudu." },
+          { "target": "She {sleep}s better when the room is quiet.", "source": "Oda sessiz olduğunda daha iyi uyuyor." },
+          { "target": "He could not {sleep} because of the noise.", "source": "Gürültü yüzünden uyuyamadı." },
+          { "target": "She {slept} during the long flight.", "source": "Uzun uçuşta uyudu." },
+          { "target": "He {sleep}s like a log every night.", "source": "Her gece kütük gibi uyuyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-24-14",
+        "kind": "word",
+        "term": "rest",
+        "type": "verb",
+        "meaning": "dinlenmek",
+        "examples": [
+          { "target": "She {rest}s after lunch for thirty minutes.", "source": "Öğle yemeğinden sonra otuz dakika dinleniyor." },
+          { "target": "He {rested} his eyes by closing them.", "source": "Gözlerini kapatarak dinlendi." },
+          { "target": "She {rest}s her head on the pillow.", "source": "Başını yastığa yaslandırıyor." },
+          { "target": "He {rested} his case and waited for the verdict.", "source": "Savunmasını tamamladı ve kararı bekledi." },
+          { "target": "She {rest}s whenever she feels tired.", "source": "Yorgunluk hissettiğinde dinleniyor." },
+          { "target": "He {rested} for an hour before the match.", "source": "Maçtan önce bir saat dinlendi." },
+          { "target": "She {rest}s her sore feet in warm water.", "source": "Yorgun ayaklarını sıcak suda dinlendiriyor." },
+          { "target": "He {rested} at the bench by the river.", "source": "Nehir kenarındaki bankta dinlendi." },
+          { "target": "She told him to {rest} and not worry.", "source": "Dinlenmesini ve endişelenmemesini söyledi." },
+          { "target": "He {rested} his back against the wall.", "source": "Sırtını duvara yasladı." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-25",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 25",
+    "level": "beginner",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-25-0",
+        "kind": "word",
+        "term": "today",
+        "type": "adverb",
+        "meaning": "bugün",
+        "examples": [
+          { "target": "{Today} is a beautiful day.", "source": "Bugün güzel bir gün." },
+          { "target": "She has a meeting {today} at noon.", "source": "Bugün öğlen bir toplantısı var." },
+          { "target": "He wants to finish the project {today}.", "source": "Projeyi bugün bitirmek istiyor." },
+          { "target": "The weather is warm {today}.", "source": "Hava bugün ılık." },
+          { "target": "{Today} is her birthday.", "source": "Bugün onun doğum günü." },
+          { "target": "She told me {today} about the news.", "source": "Haberi bugün bana söyledi." },
+          { "target": "He is not feeling well {today}.", "source": "Bugün kendini iyi hissetmiyor." },
+          { "target": "{Today} I learned something new.", "source": "Bugün yeni bir şey öğrendim." },
+          { "target": "She cleaned the house {today}.", "source": "Bugün evi temizledi." },
+          { "target": "{Today} was the hardest day of the week.", "source": "Bugün haftanın en zor günüydü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-1",
+        "kind": "word",
+        "term": "tomorrow",
+        "type": "adverb",
+        "meaning": "yarın",
+        "examples": [
+          { "target": "She has an exam {tomorrow}.", "source": "Yarın sınavı var." },
+          { "target": "He will call her {tomorrow} morning.", "source": "Yarın sabah onu arayacak." },
+          { "target": "{Tomorrow} is a public holiday.", "source": "Yarın resmi tatil." },
+          { "target": "She plans to travel {tomorrow}.", "source": "Yarın seyahat etmeyi planlıyor." },
+          { "target": "He said he would fix it {tomorrow}.", "source": "Yarın düzelteceğini söyledi." },
+          { "target": "Don't put off until {tomorrow} what you can do today.", "source": "Bugün yapabileceğini yarına bırakma." },
+          { "target": "She is looking forward to {tomorrow}.", "source": "Yarına sabırsızlıkla bekliyor." },
+          { "target": "He is leaving {tomorrow} at six.", "source": "Yarın altıda ayrılıyor." },
+          { "target": "{Tomorrow} will be a better day.", "source": "Yarın daha iyi bir gün olacak." },
+          { "target": "She reminded him about {tomorrow}'s meeting.", "source": "Yarınki toplantıyı ona hatırlattı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-2",
+        "kind": "word",
+        "term": "yesterday",
+        "type": "adverb",
+        "meaning": "dün",
+        "examples": [
+          { "target": "She called me {yesterday} afternoon.", "source": "Dün öğleden sonra beni aradı." },
+          { "target": "He finished the report {yesterday}.", "source": "Raporu dün bitirdi." },
+          { "target": "{Yesterday} was a holiday.", "source": "Dün tatildi." },
+          { "target": "She felt sick {yesterday}.", "source": "Dün hasta hissetti." },
+          { "target": "He forgot to buy bread {yesterday}.", "source": "Dün ekmek almayı unuttu." },
+          { "target": "She heard about it {yesterday}.", "source": "Bunu dün duydu." },
+          { "target": "{Yesterday} was the last day of term.", "source": "Dün dönemin son günüydü." },
+          { "target": "He met an old friend {yesterday}.", "source": "Dün eski bir arkadaşıyla karşılaştı." },
+          { "target": "She read the whole book {yesterday}.", "source": "Kitabın tamamını dün okudu." },
+          { "target": "{Yesterday} seems so far away now.", "source": "Dün artık çok uzak görünüyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-3",
+        "kind": "word",
+        "term": "morning",
+        "type": "noun",
+        "meaning": "sabah",
+        "examples": [
+          { "target": "She goes for a walk every {morning}.", "source": "Her sabah yürüyüşe çıkar." },
+          { "target": "He drinks coffee in the {morning}.", "source": "Sabahları kahve içer." },
+          { "target": "The {morning} light came through the window.", "source": "Sabah ışığı pencereden girdi." },
+          { "target": "She woke up early this {morning}.", "source": "Bu sabah erken uyandı." },
+          { "target": "He reads the news every {morning}.", "source": "Her sabah haberleri okur." },
+          { "target": "The {morning} air felt fresh and clean.", "source": "Sabah havası taze ve temiz geldi." },
+          { "target": "She prepares breakfast in the {morning}.", "source": "Sabahları kahvaltı hazırlıyor." },
+          { "target": "He is not a {morning} person.", "source": "O sabahları erken kalkmayı sevmez." },
+          { "target": "The meeting is scheduled for {morning}.", "source": "Toplantı sabaha planlandı." },
+          { "target": "She watches the sunrise every {morning}.", "source": "Her sabah gün doğumunu izliyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-4",
+        "kind": "word",
+        "term": "evening",
+        "type": "noun",
+        "meaning": "akşam",
+        "examples": [
+          { "target": "She cooks dinner every {evening}.", "source": "Her akşam akşam yemeği pişiriyor." },
+          { "target": "He reads a book in the {evening}.", "source": "Akşamları kitap okur." },
+          { "target": "They take a walk together every {evening}.", "source": "Her akşam birlikte yürüyüşe çıkarlar." },
+          { "target": "The sky turns red in the {evening}.", "source": "Gökyüzü akşamleyin kırmızıya döner." },
+          { "target": "She calls her mother every {evening}.", "source": "Her akşam annesini arar." },
+          { "target": "He arrived home late in the {evening}.", "source": "Eve akşamın geç saatlerinde geldi." },
+          { "target": "The {evening} wind felt cool.", "source": "Akşam rüzgarı serin geldi." },
+          { "target": "She relaxes in the {evening} after work.", "source": "İşten sonra akşamları dinleniyor." },
+          { "target": "He watches a film every {evening}.", "source": "Her akşam film izler." },
+          { "target": "The {evening} meal was simple but delicious.", "source": "Akşam yemeği sade ama lezzetliydi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-5",
+        "kind": "word",
+        "term": "night",
+        "type": "noun",
+        "meaning": "gece",
+        "examples": [
+          { "target": "She reads until late at {night}.", "source": "Geç saatlere kadar okur." },
+          { "target": "He slept well last {night}.", "source": "Geçen gece iyi uyudu." },
+          { "target": "The stars are bright tonight on a clear {night}.", "source": "Açık bir gecede yıldızlar parlak." },
+          { "target": "She wakes up in the middle of the {night}.", "source": "Gecenin ortasında uyanıyor." },
+          { "target": "He works {night} shifts at the hospital.", "source": "Hastanede gece vardiyasında çalışıyor." },
+          { "target": "The {night} air felt cold.", "source": "Gece havası soğuk geldi." },
+          { "target": "She cannot sleep at {night} when she is worried.", "source": "Endişeli olduğunda geceleri uyuyamıyor." },
+          { "target": "He said good {night} and went to bed.", "source": "İyi geceler dedi ve yattı." },
+          { "target": "The city never sleeps at {night}.", "source": "Şehir geceleri hiç uyumaz." },
+          { "target": "She called him late at {night}.", "source": "Geç saatlerde onu aradı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-6",
+        "kind": "word",
+        "term": "week",
+        "type": "noun",
+        "meaning": "hafta",
+        "examples": [
+          { "target": "She goes to the gym three times a {week}.", "source": "Haftada üç kez spor salonuna gidiyor." },
+          { "target": "He finishes work at the end of the {week}.", "source": "Haftanın sonunda işini bitiriyor." },
+          { "target": "She has been sick all {week}.", "source": "Bütün hafta hastaydı." },
+          { "target": "He met her twice last {week}.", "source": "Geçen hafta onunla iki kez buluştu." },
+          { "target": "She plans her meals every {week}.", "source": "Her hafta yemeklerini planlıyor." },
+          { "target": "He travels for work every other {week}.", "source": "İki haftada bir iş için seyahat ediyor." },
+          { "target": "She finished the course in one {week}.", "source": "Kursu bir haftada tamamladı." },
+          { "target": "He calls his parents every {week}.", "source": "Her hafta ailesini arıyor." },
+          { "target": "The {week} went by very fast.", "source": "Hafta çok hızlı geçti." },
+          { "target": "She works five days a {week}.", "source": "Haftada beş gün çalışıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-7",
+        "kind": "word",
+        "term": "month",
+        "type": "noun",
+        "meaning": "ay (zaman)",
+        "examples": [
+          { "target": "She visits her grandparents every {month}.", "source": "Her ay büyükanne ve büyükbabasını ziyaret eder." },
+          { "target": "He paid the rent for one {month}.", "source": "Bir aylık kira ödedi." },
+          { "target": "She has been studying English for a {month}.", "source": "Bir aydır İngilizce çalışıyor." },
+          { "target": "He called her every {month} without fail.", "source": "Her ay onu aksatmadan aradı." },
+          { "target": "She finished the book in a {month}.", "source": "Kitabı bir ayda bitirdi." },
+          { "target": "He traveled abroad last {month}.", "source": "Geçen ay yurt dışına gitti." },
+          { "target": "She saves money every {month}.", "source": "Her ay para biriktiriyor." },
+          { "target": "The project will last a {month}.", "source": "Proje bir ay sürecek." },
+          { "target": "He receives a salary every {month}.", "source": "Her ay maaş alıyor." },
+          { "target": "She starts a new goal every {month}.", "source": "Her ay yeni bir hedef belirliyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-8",
+        "kind": "word",
+        "term": "hour",
+        "type": "noun",
+        "meaning": "saat (1 saat = 60 dakika)",
+        "examples": [
+          { "target": "She waits for an {hour} in the queue.", "source": "Kuyrukta bir saat bekliyor." },
+          { "target": "He finishes work in an {hour}.", "source": "Bir saat içinde işini bitiriyor." },
+          { "target": "She exercises for one {hour} every day.", "source": "Her gün bir saat egzersiz yapıyor." },
+          { "target": "He waited for two {hour}s without a break.", "source": "Aralıksız iki saat bekledi." },
+          { "target": "The meeting lasted only half an {hour}.", "source": "Toplantı sadece yarım saat sürdü." },
+          { "target": "She reads for an {hour} before bed.", "source": "Yatmadan önce bir saat okur." },
+          { "target": "He slept for four {hour}s only.", "source": "Sadece dört saat uyudu." },
+          { "target": "She calls every {hour} to check.", "source": "Kontrol etmek için her saat arıyor." },
+          { "target": "The trip took three {hour}s by car.", "source": "Yolculuk arabayla üç saat sürdü." },
+          { "target": "He works long {hour}s every day.", "source": "Her gün uzun saatler çalışıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-9",
+        "kind": "word",
+        "term": "minute",
+        "type": "noun",
+        "meaning": "dakika",
+        "examples": [
+          { "target": "She arrived five {minute}s late.", "source": "Beş dakika geç geldi." },
+          { "target": "He finishes in just a {minute}.", "source": "Sadece bir dakikada bitirir." },
+          { "target": "She waited for twenty {minute}s outside.", "source": "Dışarıda yirmi dakika bekledi." },
+          { "target": "He will be back in a {minute}.", "source": "Bir dakikaya döner." },
+          { "target": "She takes ten {minute}s to get ready.", "source": "Hazırlanması on dakika alıyor." },
+          { "target": "He spent every {minute} studying.", "source": "Her dakikasını çalışmaya harcadı." },
+          { "target": "She left the room for a {minute}.", "source": "Bir dakikalığına odadan çıktı." },
+          { "target": "He checked the time every {minute}.", "source": "Her dakika saate baktı." },
+          { "target": "She ate breakfast in three {minute}s.", "source": "Kahvaltısını üç dakikada yedi." },
+          { "target": "He responded within a {minute}.", "source": "Bir dakika içinde cevap verdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-10",
+        "kind": "word",
+        "term": "second",
+        "type": "noun",
+        "meaning": "saniye",
+        "examples": [
+          { "target": "She finished the race in ten {second}s.", "source": "Yarışı on saniyede bitirdi." },
+          { "target": "He came in just a {second}.", "source": "Tam bir saniye sonra geldi." },
+          { "target": "She held her breath for thirty {second}s.", "source": "Otuz saniye nefesini tuttu." },
+          { "target": "He responded in a {second}.", "source": "Bir saniyede yanıt verdi." },
+          { "target": "She thought for only a {second} before answering.", "source": "Cevaplamadan önce sadece bir saniye düşündü." },
+          { "target": "The light changed every {second}.", "source": "Işık her saniye değişti." },
+          { "target": "He turned his head for just one {second}.", "source": "Sadece bir saniye için başını çevirdi." },
+          { "target": "She felt happy for a {second}.", "source": "Bir saniye için mutlu hissetti." },
+          { "target": "He counted every {second} until the end.", "source": "Sonuna kadar her saniyeyi saydı." },
+          { "target": "The message appeared for a {second}.", "source": "Mesaj bir saniye göründü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-11",
+        "kind": "word",
+        "term": "soon",
+        "type": "adverb",
+        "meaning": "yakında / kısa süre içinde",
+        "examples": [
+          { "target": "She will arrive {soon}.", "source": "Yakında gelecek." },
+          { "target": "He finished the task {soon} after starting.", "source": "Başladıktan kısa süre sonra görevi tamamladı." },
+          { "target": "She hopes to see you {soon}.", "source": "Sizi yakında görmeyi umuyor." },
+          { "target": "He will call back {soon}.", "source": "Yakında geri arayacak." },
+          { "target": "She left the room {soon} after she arrived.", "source": "Gelir gelmez odayı terk etti." },
+          { "target": "He {soon} understood what she meant.", "source": "Ne demek istediğini kısa sürede anladı." },
+          { "target": "She will finish work {soon}.", "source": "Yakında işini bitirecek." },
+          { "target": "As {soon} as he sat down, he fell asleep.", "source": "Oturur oturmaz uyuyakalıdı." },
+          { "target": "He learned the language {soon} enough.", "source": "Dili yeterince kısa sürede öğrendi." },
+          { "target": "She returned {soon} after leaving.", "source": "Gittikten kısa süre sonra döndü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-12",
+        "kind": "word",
+        "term": "always",
+        "type": "adverb",
+        "meaning": "her zaman",
+        "examples": [
+          { "target": "She {always} wakes up early.", "source": "Her zaman erken kalkar." },
+          { "target": "He {always} keeps his promises.", "source": "Her zaman sözünü tutar." },
+          { "target": "She {always} says thank you.", "source": "Her zaman teşekkür eder." },
+          { "target": "He {always} forgets his keys.", "source": "Her zaman anahtarlarını unutur." },
+          { "target": "She {always} finishes what she starts.", "source": "Her zaman başladığı şeyi bitirir." },
+          { "target": "He {always} tries his best.", "source": "Her zaman elinden gelenin en iyisini yapar." },
+          { "target": "She {always} smiles at strangers.", "source": "Yabancılara her zaman gülümser." },
+          { "target": "He {always} helps when someone needs it.", "source": "Biri ihtiyaç duyduğunda her zaman yardım eder." },
+          { "target": "She {always} reads before sleeping.", "source": "Uyumadan önce her zaman okur." },
+          { "target": "He {always} comes home on time.", "source": "Eve her zaman zamanında gelir." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-13",
+        "kind": "word",
+        "term": "never",
+        "type": "adverb",
+        "meaning": "hiçbir zaman",
+        "examples": [
+          { "target": "She {never} lies to her friends.", "source": "Arkadaşlarına hiçbir zaman yalan söylemez." },
+          { "target": "He {never} misses a deadline.", "source": "Hiçbir zaman teslim tarihini kaçırmaz." },
+          { "target": "She has {never} been to that city.", "source": "O şehre hiç gitmemiş." },
+          { "target": "He {never} forgets a birthday.", "source": "Hiçbir zaman bir doğum günü unutmaz." },
+          { "target": "She {never} gives up.", "source": "Hiçbir zaman pes etmez." },
+          { "target": "He {never} arrives late.", "source": "Hiçbir zaman geç kalmaz." },
+          { "target": "She {never} shouts at others.", "source": "Başkalarına hiçbir zaman bağırmaz." },
+          { "target": "He {never} ignores a call for help.", "source": "Yardım çağrısını hiçbir zaman görmezden gelmez." },
+          { "target": "She {never} wastes food.", "source": "Yiyeceği hiçbir zaman israf etmez." },
+          { "target": "He said he would {never} leave.", "source": "Hiçbir zaman ayrılmayacağını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-25-14",
+        "kind": "word",
+        "term": "often",
+        "type": "adverb",
+        "meaning": "sık sık",
+        "examples": [
+          { "target": "She {often} visits her parents.", "source": "Anne ve babasını sık sık ziyaret eder." },
+          { "target": "He {often} reads late at night.", "source": "Sık sık geç saatlere kadar okur." },
+          { "target": "She {often} forgets where she puts her phone.", "source": "Sık sık telefonunu nereye koyduğunu unutur." },
+          { "target": "He {often} cooks for his flatmates.", "source": "Sık sık ev arkadaşları için yemek pişirir." },
+          { "target": "She {often} goes for a walk before dinner.", "source": "Akşam yemeğinden önce sık sık yürüyüşe çıkar." },
+          { "target": "He {often} travels for work.", "source": "İş için sık sık seyahat eder." },
+          { "target": "She {often} listens to music while studying.", "source": "Çalışırken sık sık müzik dinler." },
+          { "target": "He {often} helps his colleagues.", "source": "Sık sık iş arkadaşlarına yardım eder." },
+          { "target": "She {often} goes to the market on Saturdays.", "source": "Cumartesi günleri sık sık pazara gider." },
+          { "target": "He {often} changes his plans at the last minute.", "source": "Son dakikada sık sık planlarını değiştirir." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-26",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 26",
+    "level": "beginner",
+    "category": "emotions",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-26-0",
+        "kind": "word",
+        "term": "happy",
+        "type": "adjective",
+        "meaning": "mutlu",
+        "examples": [
+          { "target": "She felt {happy} when she heard the news.", "source": "Haberi duyunca mutlu hissetti." },
+          { "target": "He was {happy} to see his old friend.", "source": "Eski arkadaşını görünce mutlu oldu." },
+          { "target": "She looked {happy} on her wedding day.", "source": "Düğün gününde mutlu görünüyordu." },
+          { "target": "He makes everyone around him {happy}.", "source": "Etrafındaki herkesi mutlu ediyor." },
+          { "target": "She is {happy} with her new job.", "source": "Yeni işinden memnun." },
+          { "target": "He sang a {happy} song in the morning.", "source": "Sabahleyin neşeli bir şarkı söyledi." },
+          { "target": "She was {happy} to help whenever she could.", "source": "Fırsatını bulduğunda yardım etmekten mutluluk duyuyordu." },
+          { "target": "He gave a {happy} laugh at the joke.", "source": "Şakaya neşeyle güldü." },
+          { "target": "She smiled a {happy} smile.", "source": "Mutlu bir gülümsemeyle güldü." },
+          { "target": "He felt truly {happy} for the first time.", "source": "İlk kez gerçekten mutlu hissetti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-1",
+        "kind": "word",
+        "term": "sad",
+        "type": "adjective",
+        "meaning": "üzgün",
+        "examples": [
+          { "target": "She felt {sad} when her friend moved away.", "source": "Arkadaşı taşınınca üzüldü." },
+          { "target": "He had a {sad} look on his face.", "source": "Yüzünde üzgün bir ifade vardı." },
+          { "target": "She cried because she was {sad}.", "source": "Üzgün olduğu için ağladı." },
+          { "target": "He felt {sad} hearing the bad news.", "source": "Kötü haberi duyunca üzüldü." },
+          { "target": "She wrote a {sad} poem about loss.", "source": "Kayıp üzerine üzücü bir şiir yazdı." },
+          { "target": "He gave her a {sad} smile and said goodbye.", "source": "Üzgün bir gülümsemeyle elveda dedi." },
+          { "target": "She felt {sad} and did not want to talk.", "source": "Üzgün hissetti ve konuşmak istemedi." },
+          { "target": "He watched a {sad} film and cried.", "source": "Üzücü bir film izledi ve ağladı." },
+          { "target": "She was {sad} that the holiday ended.", "source": "Tatilin bitmesine üzüldü." },
+          { "target": "He comforted her when she was {sad}.", "source": "Üzgünken onu teselli etti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-2",
+        "kind": "word",
+        "term": "tired",
+        "type": "adjective",
+        "meaning": "yorgun",
+        "examples": [
+          { "target": "She was {tired} after the long walk.", "source": "Uzun yürüyüşün ardından yorgundu." },
+          { "target": "He felt {tired} and went to bed early.", "source": "Yorgun hissetti ve erken yattı." },
+          { "target": "She was too {tired} to cook dinner.", "source": "Akşam yemeği pişirecek kadar enerjisi yoktu." },
+          { "target": "He looked {tired} but kept working.", "source": "Yorgun görünüyordu ama çalışmaya devam etti." },
+          { "target": "She said she was {tired} of waiting.", "source": "Beklemenin yorgunluğunu hissettiğini söyledi." },
+          { "target": "He was {tired} after the busy week.", "source": "Yoğun haftanın ardından yorgundu." },
+          { "target": "She felt {tired} in the afternoon.", "source": "Öğleden sonra yorgunluk hissetti." },
+          { "target": "He was {tired} but happy after the race.", "source": "Yarışın ardından yorgun ama mutluydu." },
+          { "target": "She was {tired} of the same routine.", "source": "Aynı rutinden bıkmıştı." },
+          { "target": "He rested because he was {tired}.", "source": "Yorgun olduğu için dinlendi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-3",
+        "kind": "word",
+        "term": "hungry",
+        "type": "adjective",
+        "meaning": "aç (yemek ihtiyacı)",
+        "examples": [
+          { "target": "She was {hungry} after the long meeting.", "source": "Uzun toplantının ardından acıkmıştı." },
+          { "target": "He ate quickly because he was {hungry}.", "source": "Aç olduğu için hızlıca yedi." },
+          { "target": "She felt {hungry} an hour after breakfast.", "source": "Kahvaltıdan bir saat sonra acıktı." },
+          { "target": "He was {hungry} for knowledge.", "source": "Bilgi için açgözlüydü." },
+          { "target": "She was too {hungry} to concentrate.", "source": "Konsantre olamayacak kadar açtı." },
+          { "target": "He cooked a big meal because he was {hungry}.", "source": "Aç olduğu için büyük bir yemek pişirdi." },
+          { "target": "She said she was {hungry} before lunch.", "source": "Öğle yemeğinden önce acıktığını söyledi." },
+          { "target": "He was {hungry} so he made a sandwich.", "source": "Acıktı ve bir sandviç yaptı." },
+          { "target": "She is never {hungry} in the morning.", "source": "Sabahları hiç acıkmaz." },
+          { "target": "He went to bed {hungry} that night.", "source": "O gece aç yattı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-4",
+        "kind": "word",
+        "term": "thirsty",
+        "type": "adjective",
+        "meaning": "susuz / susamış",
+        "examples": [
+          { "target": "She was {thirsty} after the run.", "source": "Koşunun ardından susamıştı." },
+          { "target": "He asked for water because he was {thirsty}.", "source": "Susamış olduğu için su istedi." },
+          { "target": "She felt {thirsty} in the heat.", "source": "Sıcakta susuzluk hissetti." },
+          { "target": "He was {thirsty} for success.", "source": "Başarıya susamıştı." },
+          { "target": "She drank two glasses because she was {thirsty}.", "source": "Susamış olduğu için iki bardak içti." },
+          { "target": "He was {thirsty} after eating salty food.", "source": "Tuzlu yemek yedikten sonra susamıştı." },
+          { "target": "She was always {thirsty} on hot days.", "source": "Sıcak günlerde her zaman susuyordu." },
+          { "target": "He made tea for his {thirsty} friends.", "source": "Susamış arkadaşları için çay yaptı." },
+          { "target": "She felt {thirsty} and looked for a bottle.", "source": "Susuzluk hissetti ve bir şişe aradı." },
+          { "target": "He was {thirsty} to learn more.", "source": "Daha fazlasını öğrenmek için istekliydi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-5",
+        "kind": "word",
+        "term": "sick",
+        "type": "adjective",
+        "meaning": "hasta / rahatsız",
+        "examples": [
+          { "target": "She stayed home because she was {sick}.", "source": "Hasta olduğu için evde kaldı." },
+          { "target": "He felt {sick} after eating too much.", "source": "Çok yedikten sonra mide bulantısı hissetti." },
+          { "target": "She was {sick} for a whole week.", "source": "Tam bir hafta boyunca hastaydı." },
+          { "target": "He looked {sick} and pale.", "source": "Hasta ve solgun görünüyordu." },
+          { "target": "She was {sick} of waiting with no answer.", "source": "Cevapsız beklemekten bıkmıştı." },
+          { "target": "He visited his {sick} grandmother.", "source": "Hasta büyükannesini ziyaret etti." },
+          { "target": "She felt {sick} on the long bus ride.", "source": "Uzun otobüs yolculuğunda mide bulantısı hissetti." },
+          { "target": "He went to the doctor when he was {sick}.", "source": "Hasta olduğunda doktora gitti." },
+          { "target": "She was {sick} with worry about her exam.", "source": "Sınavı için endişeden neredeyse hastalanıyordu." },
+          { "target": "He got {sick} after being in the rain.", "source": "Yağmurda ıslandıktan sonra hastalandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-6",
+        "kind": "word",
+        "term": "slim",
+        "type": "adjective",
+        "meaning": "ince / zayıf",
+        "examples": [
+          { "target": "She has a {slim} figure.", "source": "İnce bir yapısı var." },
+          { "target": "He became {slim} after months of exercise.", "source": "Aylarca egzersiz yaptıktan sonra zayıfladı." },
+          { "target": "She wore a {slim} jacket that suited her well.", "source": "Ona çok yakışan ince bir ceket giydi." },
+          { "target": "He has a {slim} chance of winning.", "source": "Kazanma şansı çok az." },
+          { "target": "She ate less to stay {slim}.", "source": "İnce kalmak için daha az yedi." },
+          { "target": "The notebook had a {slim} design.", "source": "Dizüstü bilgisayarın ince bir tasarımı vardı." },
+          { "target": "He was {slim} and tall.", "source": "İnce ve uzundu." },
+          { "target": "She preferred a {slim} phone that fits in her pocket.", "source": "Cebine sığan ince bir telefon tercih etti." },
+          { "target": "The chances were {slim} but she tried anyway.", "source": "Şansı azdı ama yine de denedi." },
+          { "target": "He remained {slim} by eating well.", "source": "İyi beslenerek ince kaldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-7",
+        "kind": "word",
+        "term": "strong",
+        "type": "adjective",
+        "meaning": "güçlü",
+        "examples": [
+          { "target": "She has a {strong} character.", "source": "Güçlü bir karakteri var." },
+          { "target": "He was {strong} enough to carry the box.", "source": "Kutuyu taşıyacak kadar güçlüydü." },
+          { "target": "She drank {strong} coffee in the morning.", "source": "Sabah sert kahve içti." },
+          { "target": "He has a {strong} belief in honesty.", "source": "Dürüstlüğe güçlü bir inancı var." },
+          { "target": "She built a {strong} friendship over the years.", "source": "Yıllar içinde güçlü bir arkadaşlık kurdu." },
+          { "target": "He had a {strong} grip on the rope.", "source": "İpi güçlü bir şekilde tutuyordu." },
+          { "target": "She felt {strong} after a good rest.", "source": "İyi bir dinlenmenin ardından güçlü hissetti." },
+          { "target": "He gave a {strong} argument in the debate.", "source": "Tartışmada güçlü bir argüman sundu." },
+          { "target": "She had a {strong} smell of perfume.", "source": "Güçlü bir parfüm kokusu vardı." },
+          { "target": "He grew {strong} through hardship.", "source": "Zorluklarla büyüyerek güçlendi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-8",
+        "kind": "word",
+        "term": "weak",
+        "type": "adjective",
+        "meaning": "zayıf / güçsüz",
+        "examples": [
+          { "target": "She felt {weak} after being sick.", "source": "Hastalandıktan sonra kendini zayıf hissetti." },
+          { "target": "He had a {weak} voice when tired.", "source": "Yorgunken sesi kısılıyordu." },
+          { "target": "She was too {weak} to stand up.", "source": "Ayağa kalkamayacak kadar güçsüzdü." },
+          { "target": "He found the argument too {weak}.", "source": "Argümanı çok zayıf buldu." },
+          { "target": "She preferred {weak} tea.", "source": "Az demlenmiş çay tercih etti." },
+          { "target": "He knew his {weak} points and tried to improve.", "source": "Zayıf yönlerini biliyordu ve geliştirmeye çalışıyordu." },
+          { "target": "She felt {weak} with hunger.", "source": "Açlıktan güçsüz hissetti." },
+          { "target": "He had a {weak} spot for sweets.", "source": "Tatlılara karşı zayıf bir yanı vardı." },
+          { "target": "She was {weak} in mathematics.", "source": "Matematikte zayıftı." },
+          { "target": "He spoke in a {weak} voice after crying.", "source": "Ağladıktan sonra kısık bir sesle konuştu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-9",
+        "kind": "word",
+        "term": "tall",
+        "type": "adjective",
+        "meaning": "uzun boylu / yüksek",
+        "examples": [
+          { "target": "She is the {tall}est in her class.", "source": "Sınıfının en uzun boylususu." },
+          { "target": "He is very {tall} and can reach the top shelf.", "source": "Çok uzun boylu ve üst rafa ulaşabiliyor." },
+          { "target": "She wore {tall} boots in winter.", "source": "Kışın uzun çizmeler giydi." },
+          { "target": "He stood {tall} and confident.", "source": "Dik ve özgüvenle durdu." },
+          { "target": "She grew {tall} very quickly.", "source": "Çok hızlı boy attı." },
+          { "target": "The {tall} tree gave good shade.", "source": "Uzun ağaç iyi gölge verdi." },
+          { "target": "He was {tall} with curly hair.", "source": "Uzun boylu ve kıvırcık saçlıydı." },
+          { "target": "She dreamed of a {tall} building full of lights.", "source": "Işıklarla dolu yüksek bir bina hayal etti." },
+          { "target": "He always stood at the back because he was {tall}.", "source": "Uzun boylu olduğu için her zaman arka sırada duruyordu." },
+          { "target": "A {tall} fence surrounded the garden.", "source": "Yüksek bir çit bahçeyi çevreliyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-10",
+        "kind": "word",
+        "term": "short",
+        "type": "adjective",
+        "meaning": "kısa / alçak boylu",
+        "examples": [
+          { "target": "She has {short} hair.", "source": "Kısa saçı var." },
+          { "target": "He is {short} but very strong.", "source": "Kısa boylu ama çok güçlü." },
+          { "target": "She wore a {short} dress to the party.", "source": "Partiye kısa elbise giydi." },
+          { "target": "He gave a {short} answer and walked away.", "source": "Kısa bir yanıt verip yürüyerek uzaklaştı." },
+          { "target": "She took a {short} break from work.", "source": "İşten kısa bir mola verdi." },
+          { "target": "He lives only a {short} distance from the school.", "source": "Okuldan yalnızca kısa bir mesafede yaşıyor." },
+          { "target": "She was {short} and had to stand on her toes.", "source": "Kısa boylu olduğu için parmak uçlarına basması gerekti." },
+          { "target": "He sent a {short} message.", "source": "Kısa bir mesaj gönderdi." },
+          { "target": "She finished the book in a {short} time.", "source": "Kitabı kısa sürede bitirdi." },
+          { "target": "The meeting was {short} but effective.", "source": "Toplantı kısaydı ama etkili." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-11",
+        "kind": "word",
+        "term": "old",
+        "type": "adjective",
+        "meaning": "yaşlı / eski",
+        "examples": [
+          { "target": "She is an {old} woman with a kind heart.", "source": "Nazik yürekli yaşlı bir kadın." },
+          { "target": "He wore an {old} jacket he loved.", "source": "Sevdiği eski bir ceket giydi." },
+          { "target": "She visited an {old} friend after years.", "source": "Yıllar sonra eski bir arkadaşını ziyaret etti." },
+          { "target": "He lives in an {old} house near the river.", "source": "Nehir kenarındaki eski bir evde yaşıyor." },
+          { "target": "She threw away her {old} notes.", "source": "Eski notlarını attı." },
+          { "target": "He was too {old} to run fast.", "source": "Hızlı koşmak için çok yaşlıydı." },
+          { "target": "She kept her {old} letters in a box.", "source": "Eski mektuplarını bir kutuda sakladı." },
+          { "target": "He is thirty years {old}.", "source": "Otuz yaşında." },
+          { "target": "She prefers {old} music to new songs.", "source": "Yeni şarkılara göre eski müziği tercih ediyor." },
+          { "target": "He repaired the {old} clock on the wall.", "source": "Duvardaki eski saati tamir etti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-12",
+        "kind": "word",
+        "term": "young",
+        "type": "adjective",
+        "meaning": "genç",
+        "examples": [
+          { "target": "She is {young} and full of energy.", "source": "Genç ve enerjik." },
+          { "target": "He was {young} when he learned to play guitar.", "source": "Gitar çalmayı öğrendiğinde gençti." },
+          { "target": "She looks {young} for her age.", "source": "Yaşına göre genç görünüyor." },
+          { "target": "He helped {young} students with their work.", "source": "Genç öğrencilere çalışmalarında yardım etti." },
+          { "target": "She has a {young} spirit despite her age.", "source": "Yaşına rağmen genç bir ruhu var." },
+          { "target": "He made friends easily when he was {young}.", "source": "Gençken kolayca arkadaş ediniyordu." },
+          { "target": "She is a {young} doctor with great skill.", "source": "Büyük yeteneği olan genç bir doktor." },
+          { "target": "He still feels {young} inside.", "source": "İçten hâlâ genç hissediyor." },
+          { "target": "She gave advice to {young} people.", "source": "Genç insanlara tavsiye verdi." },
+          { "target": "He was the {young}est member of the team.", "source": "Takımın en genç üyesiydi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-13",
+        "kind": "word",
+        "term": "rich",
+        "type": "adjective",
+        "meaning": "zengin",
+        "examples": [
+          { "target": "She became {rich} through hard work.", "source": "Sıkı çalışarak zengin oldu." },
+          { "target": "He lived in a {rich} neighborhood.", "source": "Zengin bir semtte yaşıyordu." },
+          { "target": "She enjoyed a {rich} chocolate cake.", "source": "Yoğun çikolatalı bir pasta tattı." },
+          { "target": "He was {rich} in experience but not in money.", "source": "Para değil ama deneyim açısından zengindi." },
+          { "target": "She wore {rich} colors to the event.", "source": "Etkinliğe canlı renkler giydi." },
+          { "target": "He told stories of a {rich} life.", "source": "Zengin bir hayatın hikayelerini anlattı." },
+          { "target": "She lived in a {rich} cultural environment.", "source": "Zengin bir kültürel ortamda yaşıyordu." },
+          { "target": "He was not {rich} but was always generous.", "source": "Zengin değildi ama her zaman cömertti." },
+          { "target": "She cooked a {rich} stew for dinner.", "source": "Akşam yemeği için yoğun bir güveç pişirdi." },
+          { "target": "He had a {rich} voice that filled the room.", "source": "Odayı dolduran zengin bir sesi vardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-26-14",
+        "kind": "word",
+        "term": "poor",
+        "type": "adjective",
+        "meaning": "fakir / yoksul",
+        "examples": [
+          { "target": "She grew up in a {poor} family.", "source": "Fakir bir ailede büyüdü." },
+          { "target": "He gave food to {poor} children.", "source": "Yoksul çocuklara yiyecek verdi." },
+          { "target": "She felt {poor} after losing her job.", "source": "İşini kaybettikten sonra kendini yoksul hissetti." },
+          { "target": "He had {poor} eyesight and needed glasses.", "source": "Görme gücü zayıftı ve gözlüğe ihtiyacı vardı." },
+          { "target": "She was {poor} but always kind to others.", "source": "Yoksuldu ama başkalarına her zaman iyiydi." },
+          { "target": "He made {poor} choices in his youth.", "source": "Gençliğinde kötü kararlar verdi." },
+          { "target": "She helped {poor} families in her village.", "source": "Köyündeki yoksul ailelere yardım etti." },
+          { "target": "He was {poor} in communication skills.", "source": "İletişim becerileri zayıftı." },
+          { "target": "She gave away her savings to the {poor}.", "source": "Birikimlerini yoksullara bağışladı." },
+          { "target": "He lived a {poor} but happy life.", "source": "Fakir ama mutlu bir yaşam sürdü." }
+        ]
+      }
+    ]
+  }
+]
