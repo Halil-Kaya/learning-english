@@ -1,0 +1,592 @@
+[
+  {
+    "id": "en-tr-beginner-74",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 74",
+    "level": "beginner",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-74-0",
+        "kind": "word",
+        "term": "chimney",
+        "type": "noun",
+        "meaning": "baca",
+        "examples": [
+          { "target": "She watched the smoke rise from the {chimney}.", "source": "Bacadan yükselen dumanı izledi." },
+          { "target": "He climbed on the roof to inspect the old {chimney}.", "source": "Eski bacayı incelemek için çatıya çıktı." },
+          { "target": "She hung stockings above the fireplace beside the {chimney}.", "source": "Şöminenin yanındaki bacanın üstüne çorap astı." },
+          { "target": "He cleaned the {chimney} before lighting the first winter fire.", "source": "İlk kış ateşini yakmadan önce bacayı temizledi." },
+          { "target": "She noticed the {chimney} was blocked and called a sweep.", "source": "Bacanın tıkandığını fark etti ve baca temizleyici çağırdı." },
+          { "target": "He said the {chimney} was the warmest spot in the old house.", "source": "Bacanın eski evdeki en sıcak yer olduğunu söyledi." },
+          { "target": "She painted the {chimney} white to match the new roof.", "source": "Yeni çatıyla eşleştirmek için bacayı beyaza boyadı." },
+          { "target": "He watched a bird land on top of the {chimney}.", "source": "Bir kuşun bacanın üstüne konduğunu izledi." },
+          { "target": "She could see three {chimneys} from her bedroom window.", "source": "Yatak odası penceresinden üç baca görebiliyordu." },
+          { "target": "He repaired the cracked {chimney} before winter arrived.", "source": "Kış gelmeden önce çatlak bacayı tamir etti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-1",
+        "kind": "word",
+        "term": "shed",
+        "type": "noun",
+        "meaning": "kulübe, bahçe deposu",
+        "examples": [
+          { "target": "She stored her garden tools in the {shed}.", "source": "Bahçe aletlerini deposunda sakladı." },
+          { "target": "He built a small {shed} at the back of the garden.", "source": "Bahçenin arka tarafına küçük bir depo yaptı." },
+          { "target": "She found an old bicycle in the {shed}.", "source": "Depoda eski bir bisiklet buldu." },
+          { "target": "He painted the {shed} green to blend with the trees.", "source": "Depoyu ağaçlarla uyum sağlasın diye yeşile boyadı." },
+          { "target": "She locked the {shed} to protect the lawnmower.", "source": "Çim biçme makinesini korumak için depoyu kilitledi." },
+          { "target": "He used the {shed} as a workshop for his projects.", "source": "Depoyu projeleri için atölye olarak kullandı." },
+          { "target": "She cleared out the old {shed} to make space.", "source": "Yer açmak için eski depoyu boşalttı." },
+          { "target": "He installed a light in the {shed} so he could work at night.", "source": "Geceleri çalışabilmek için depoya ışık kurdu." },
+          { "target": "She said the {shed} leaked whenever it rained.", "source": "Yağmur yağdığında deponun su sızdırdığını söyledi." },
+          { "target": "He found a family of mice living in the old {shed}.", "source": "Eski depoda yaşayan bir fare ailesi buldu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-2",
+        "kind": "word",
+        "term": "basement",
+        "type": "noun",
+        "meaning": "bodrum kat",
+        "examples": [
+          { "target": "She kept extra food supplies in the {basement}.", "source": "Ekstra yiyecek stoklarını bodrum katta sakladı." },
+          { "target": "He converted the {basement} into a home office.", "source": "Bodrum katı ev ofisine dönüştürdü." },
+          { "target": "She heard a strange noise coming from the {basement}.", "source": "Bodrum kattan gelen tuhaf bir ses duydu." },
+          { "target": "He stored his wine collection in the cool {basement}.", "source": "Şarap koleksiyonunu serin bodrum katta sakladı." },
+          { "target": "She set up a gym in the {basement} of her house.", "source": "Evinin bodrum katında spor salonu kurdu." },
+          { "target": "He went to the {basement} to check the water heater.", "source": "Su ısıtıcısını kontrol etmek için bodrum kata indi." },
+          { "target": "She said the {basement} flooded during the heavy rain.", "source": "Yoğun yağmur sırasında bodrum katın su bastığını söyledi." },
+          { "target": "He found old family photos while cleaning the {basement}.", "source": "Bodrum katı temizlerken eski aile fotoğrafları buldu." },
+          { "target": "She rented out the {basement} apartment to a student.", "source": "Bodrum kat dairesini bir öğrenciye kiraladı." },
+          { "target": "He installed shelves along the {basement} wall.", "source": "Bodrum kat duvarına boyunca raflar kurdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-3",
+        "kind": "word",
+        "term": "attic",
+        "type": "noun",
+        "meaning": "çatı katı, tavan arası",
+        "examples": [
+          { "target": "She found her grandmother's diary in the {attic}.", "source": "Çatı katında büyükannesinin günlüğünü buldu." },
+          { "target": "He stored Christmas decorations in the {attic}.", "source": "Noel süslerini tavan arasında sakladı." },
+          { "target": "She converted the {attic} into an extra bedroom.", "source": "Tavan arasını ek yatak odana dönüştürdü." },
+          { "target": "He climbed the steep stairs to reach the {attic}.", "source": "Tavan arasına ulaşmak için dik merdivenleri tırmandı." },
+          { "target": "She said the {attic} was full of boxes she had never opened.", "source": "Tavan arasının hiç açmadığı kutularla dolu olduğunu söyledi." },
+          { "target": "He heard footsteps from the {attic} late at night.", "source": "Gece geç saatlerde tavan arasından ayak sesi duydu." },
+          { "target": "She insulated the {attic} to keep the house warm.", "source": "Evi sıcak tutmak için tavan arasını yalıttı." },
+          { "target": "He found an old toy train set in the {attic}.", "source": "Tavan arasında eski bir oyuncak tren seti buldu." },
+          { "target": "She dusted the boxes before bringing them down from the {attic}.", "source": "Tavan arasından indirmeden önce kutuları tozladı." },
+          { "target": "He used the {attic} window to view the rooftops at sunset.", "source": "Gün batımında çatıları izlemek için tavan arası penceresini kullandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-4",
+        "kind": "word",
+        "term": "corridor",
+        "type": "noun",
+        "meaning": "koridor",
+        "examples": [
+          { "target": "She walked quickly down the hospital {corridor}.", "source": "Hastane koridorunda hızla yürüdü." },
+          { "target": "He waited in the {corridor} while the meeting finished.", "source": "Toplantı bitene kadar koridorda bekledi." },
+          { "target": "She hung her coat on the hook in the {corridor}.", "source": "Koridordaki askıya paltosunu astı." },
+          { "target": "He ran through the {corridor} to catch the elevator.", "source": "Asansörü kaçırmamak için koridordan koştu." },
+          { "target": "She noticed the {corridor} was very narrow.", "source": "Koridorun çok dar olduğunu fark etti." },
+          { "target": "He said the {corridor} echoed when people talked.", "source": "İnsanlar konuştuğunda koridorun yankı yaptığını söyledi." },
+          { "target": "She placed a mirror at the end of the {corridor}.", "source": "Koridorun sonuna ayna koydu." },
+          { "target": "He heard voices echoing from the school {corridor}.", "source": "Okul koridorundan yankılanan sesler duydu." },
+          { "target": "She walked the long {corridor} to reach the conference room.", "source": "Konferans salonuna ulaşmak için uzun koridoru yürüdü." },
+          { "target": "He decorated the {corridor} with family photos.", "source": "Koridoru aile fotoğraflarıyla süsledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-5",
+        "kind": "word",
+        "term": "hallway",
+        "type": "noun",
+        "meaning": "hol, giriş koridoru",
+        "examples": [
+          { "target": "She left her umbrella in the {hallway}.", "source": "Şemsiyesini holde bıraktı." },
+          { "target": "He greeted the guests at the {hallway} entrance.", "source": "Misafirleri hol girişinde karşıladı." },
+          { "target": "She placed a small table in the {hallway} for keys.", "source": "Anahtarlar için hole küçük bir masa koydu." },
+          { "target": "He painted the {hallway} a bright colour to welcome visitors.", "source": "Ziyaretçileri karşılamak için holü parlak bir renge boyadı." },
+          { "target": "She heard voices from the {hallway} outside her room.", "source": "Odasının dışındaki holden sesler duydu." },
+          { "target": "He tripped over a shoe left in the {hallway}.", "source": "Holde bırakılan bir ayakkabıya takıldı." },
+          { "target": "She added a bench to the {hallway} for putting on shoes.", "source": "Ayakkabı giymek için hole bir sıra ekledi." },
+          { "target": "He checked the mirror in the {hallway} before leaving.", "source": "Çıkmadan önce holdeki aynaya baktı." },
+          { "target": "She swept the {hallway} every morning.", "source": "Her sabah holü süpürdü." },
+          { "target": "He said the {hallway} was the first impression of the home.", "source": "Holün evin ilk izlenimi olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-6",
+        "kind": "word",
+        "term": "balcony",
+        "type": "noun",
+        "meaning": "balkon",
+        "examples": [
+          { "target": "She drank her morning coffee on the {balcony}.", "source": "Sabah kahvesini balkonda içti." },
+          { "target": "He grew herbs in pots on the small {balcony}.", "source": "Küçük balkonda saksılarda otlar yetiştirdi." },
+          { "target": "She watched the sunset from the hotel {balcony}.", "source": "Otel balkonundan gün batımını izledi." },
+          { "target": "He hung laundry to dry on the {balcony}.", "source": "Balkona çamaşır astı kuruması için." },
+          { "target": "She sat on the {balcony} and read her book.", "source": "Balkonda oturdu ve kitabını okudu." },
+          { "target": "He waved to his neighbour from the {balcony}.", "source": "Balkondan komşusuna el salladı." },
+          { "target": "She added outdoor furniture to make the {balcony} cozy.", "source": "Balkonu rahat kılmak için dış mekan mobilyaları ekledi." },
+          { "target": "He leaned over the {balcony} to look at the street below.", "source": "Aşağıdaki sokağa bakmak için balkona eğildi." },
+          { "target": "She said the {balcony} had a stunning view of the sea.", "source": "Balkonun muhteşem deniz manzarasına sahip olduğunu söyledi." },
+          { "target": "He stored his bicycle on the {balcony} to save space.", "source": "Yer kazanmak için bisikletini balkonda sakladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-7",
+        "kind": "word",
+        "term": "mattress",
+        "type": "noun",
+        "meaning": "yatak, şilte",
+        "examples": [
+          { "target": "She chose a firm {mattress} for better back support.", "source": "Daha iyi sırt desteği için sert bir yatak seçti." },
+          { "target": "He flipped the {mattress} over to use the other side.", "source": "Öbür tarafını kullanmak için yatağı çevirdi." },
+          { "target": "She said the {mattress} in the hotel room was too soft.", "source": "Otel odasındaki yatağın çok yumuşak olduğunu söyledi." },
+          { "target": "He bought a new {mattress} after years of poor sleep.", "source": "Yıllarca uyuyamamasının ardından yeni bir yatak aldı." },
+          { "target": "She covered the {mattress} with a waterproof protector.", "source": "Yatağı su geçirmez bir koruyucuyla kapladı." },
+          { "target": "He carried the heavy {mattress} up the stairs alone.", "source": "Ağır yatağı yalnız başına merdivenden çıkardı." },
+          { "target": "She felt a spring poking through the old {mattress}.", "source": "Eski yataktan bir yayın battığını hissetti." },
+          { "target": "He aired out the {mattress} by a sunny window.", "source": "Yatağı güneşli bir pencere kenarında havalandırdı." },
+          { "target": "She rolled up the camping {mattress} and packed it away.", "source": "Kamp şiltesini rulo yaptı ve yerleştirdi." },
+          { "target": "He said a good {mattress} is worth every penny.", "source": "İyi bir yatağın her kuruşa değdiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-8",
+        "kind": "word",
+        "term": "cabinet",
+        "type": "noun",
+        "meaning": "dolap, kabin",
+        "examples": [
+          { "target": "She stored her plates in the kitchen {cabinet}.", "source": "Tabakları mutfak dolabında sakladı." },
+          { "target": "He fixed the broken hinge on the bathroom {cabinet}.", "source": "Banyo dolabının kırık menteşesini tamir etti." },
+          { "target": "She locked the medicine {cabinet} to keep it safe.", "source": "İlaç dolabını güvenli tutmak için kilitledi." },
+          { "target": "He built a wooden {cabinet} for the living room.", "source": "Oturma odası için ahşap bir dolap yaptı." },
+          { "target": "She found the missing key in the filing {cabinet}.", "source": "Kayıp anahtarı dosya dolabında buldu." },
+          { "target": "He reorganised the kitchen {cabinets} to save space.", "source": "Yer kazanmak için mutfak dolaplarını yeniden düzenledi." },
+          { "target": "She painted the old {cabinet} white and added new handles.", "source": "Eski dolabı beyaza boyadı ve yeni kulplar ekledi." },
+          { "target": "He said the prime minister formed a new {cabinet}.", "source": "Başbakanın yeni bir kabine kurduğunu söyledi." },
+          { "target": "She checked the supply {cabinet} for extra pens.", "source": "Fazladan kalem için malzeme dolabını kontrol etti." },
+          { "target": "He installed a {cabinet} above the washing machine.", "source": "Çamaşır makinesinin üstüne bir dolap kurdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-9",
+        "kind": "word",
+        "term": "counter",
+        "type": "noun",
+        "meaning": "tezgah, sayaç",
+        "examples": [
+          { "target": "She chopped vegetables on the kitchen {counter}.", "source": "Mutfak tezgahında sebzeleri doğradı." },
+          { "target": "He leaned on the {counter} while waiting at the café.", "source": "Kafede beklerken tezgaha yaslandı." },
+          { "target": "She left her keys on the {counter} by mistake.", "source": "Anahtarlarını yanlışlıkla tezgahta bıraktı." },
+          { "target": "He cleaned the marble {counter} after cooking.", "source": "Yemek pişirdikten sonra mermer tezgahı temizledi." },
+          { "target": "She approached the check-in {counter} at the airport.", "source": "Havalimanındaki check-in tezgahına yaklaştı." },
+          { "target": "He read the gas {counter} to calculate the bill.", "source": "Faturayı hesaplamak için gaz sayacını okudu." },
+          { "target": "She wiped down the bathroom {counter} every morning.", "source": "Her sabah banyo tezgahını sildi." },
+          { "target": "He placed his order at the food {counter}.", "source": "Yemek tezgahında sipariş verdi." },
+          { "target": "She said her argument was a strong {counter} to his point.", "source": "Argümanının onun görüşüne karşı güçlü bir karşı görüş olduğunu söyledi." },
+          { "target": "He installed a new granite {counter} in the kitchen.", "source": "Mutfağa yeni granit tezgah kurdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-10",
+        "kind": "word",
+        "term": "faucet",
+        "type": "noun",
+        "meaning": "musluk",
+        "examples": [
+          { "target": "She turned off the {faucet} to save water.", "source": "Su tasarrufu için musluğu kapattı." },
+          { "target": "He noticed the {faucet} was dripping and called a plumber.", "source": "Musluktan damladığını fark etti ve tesisatçı çağırdı." },
+          { "target": "She replaced the old {faucet} with a modern one.", "source": "Eski musluğu modern biriyle değiştirdi." },
+          { "target": "He forgot to close the {faucet} and flooded the sink.", "source": "Musluğu kapatmayı unuttu ve lavaboyu taşırdı." },
+          { "target": "She rinsed the vegetables under the kitchen {faucet}.", "source": "Sebzeleri mutfak musluğunda yıkadı." },
+          { "target": "He checked that the {faucet} was fully closed before leaving.", "source": "Çıkmadan önce musluğun tamamen kapalı olduğunu kontrol etti." },
+          { "target": "She turned on the bathroom {faucet} to fill the tub.", "source": "Küveti doldurmak için banyo musluğunu açtı." },
+          { "target": "He installed a new {faucet} to stop the constant dripping.", "source": "Sürekli damlama sesini durdurmak için yeni bir musluk taktı." },
+          { "target": "She said the cold water from the garden {faucet} was refreshing.", "source": "Bahçe musluğundan gelen soğuk suyun ferahlatıcı olduğunu söyledi." },
+          { "target": "He tightened the {faucet} handle to fix the leak.", "source": "Sızıntıyı düzeltmek için musluk kolunu sıktı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-11",
+        "kind": "word",
+        "term": "drain",
+        "type": "noun",
+        "meaning": "gider, drenaj",
+        "examples": [
+          { "target": "She noticed the sink {drain} was blocked.", "source": "Lavabo giderinin tıkandığını fark etti." },
+          { "target": "He poured hot water down the {drain} to clear it.", "source": "Tıkacı açmak için gidere sıcak su döktü." },
+          { "target": "She lost her ring down the {drain}.", "source": "Yüzüğü gidere düştü." },
+          { "target": "He cleaned the shower {drain} once a week.", "source": "Duş giderini haftada bir temizledi." },
+          { "target": "She said the heavy rain caused the street {drain} to overflow.", "source": "Yoğun yağmurun sokak giderini taşırdığını söyledi." },
+          { "target": "He installed a cover over the garden {drain}.", "source": "Bahçe giderinin üstüne kapak taktı." },
+          { "target": "She felt her energy {drain} away after a long shift.", "source": "Uzun bir vardiyadan sonra enerjisinin tükendiğini hissetti." },
+          { "target": "He said the project was a complete {drain} on resources.", "source": "Projenin kaynaklar üzerinde büyük bir yük olduğunu söyledi." },
+          { "target": "She unblocked the {drain} using a plunger.", "source": "Vantuz kullanarak giderin tıkacını açtı." },
+          { "target": "He made sure the roof {drain} was clear before winter.", "source": "Kış gelmeden önce çatı giderinin temiz olduğuna emin oldu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-12",
+        "kind": "word",
+        "term": "ladder",
+        "type": "noun",
+        "meaning": "merdiven, portatif merdiven",
+        "examples": [
+          { "target": "She climbed the {ladder} to reach the top shelf.", "source": "En üst rafa ulaşmak için merdivene tırmandı." },
+          { "target": "He used a {ladder} to clean the gutters.", "source": "Olukları temizlemek için merdiven kullandı." },
+          { "target": "She held the {ladder} steady while he climbed.", "source": "O tırmanırken merdiveni sabit tuttu." },
+          { "target": "He slipped on the {ladder} and hurt his arm.", "source": "Merdivenden kaydı ve kolunu incitti." },
+          { "target": "She borrowed a tall {ladder} from her neighbour.", "source": "Komşusundan uzun bir merdiven ödünç aldı." },
+          { "target": "He stored the {ladder} in the shed after use.", "source": "Kullandıktan sonra merdiveni depoya kaldırdı." },
+          { "target": "She climbed the career {ladder} quickly.", "source": "Kariyer merdivenini hızla tırmandı." },
+          { "target": "He painted the ceiling while standing on a {ladder}.", "source": "Merdivende dururken tavanı boyadı." },
+          { "target": "She was warned not to stand on the top rung of the {ladder}.", "source": "Merdivenin en üst basamağında durmaması konusunda uyarıldı." },
+          { "target": "He needed a {ladder} to hang the Christmas lights.", "source": "Noel ışıklarını asmak için merdivene ihtiyaç duydu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-13",
+        "kind": "word",
+        "term": "socket",
+        "type": "noun",
+        "meaning": "priz, soket",
+        "examples": [
+          { "target": "She plugged the charger into the wall {socket}.", "source": "Şarj cihazını duvar prizine taktı." },
+          { "target": "He checked that every {socket} in the new flat was working.", "source": "Yeni dairede her prizin çalıştığını kontrol etti." },
+          { "target": "She used a multi-plug adapter because there was only one {socket}.", "source": "Yalnızca bir priz olduğu için çoklu adaptör kullandı." },
+          { "target": "He warned her not to put anything into the {socket}.", "source": "Prize herhangi bir şey takmaması konusunda onu uyardı." },
+          { "target": "She noticed the {socket} was sparking and turned off the power.", "source": "Prizden kıvılcım çıktığını fark etti ve gücü kapattı." },
+          { "target": "He replaced the cracked {socket} cover with a new one.", "source": "Çatlak priz kapağını yenisiyle değiştirdi." },
+          { "target": "She found a {socket} behind the bookshelf for the lamp.", "source": "Lamba için kitaplığın arkasında bir priz buldu." },
+          { "target": "He used a travel adapter to fit the foreign {socket}.", "source": "Yabancı prize uymak için seyahat adaptörü kullandı." },
+          { "target": "She taped the {socket} shut to prevent accidents.", "source": "Kazaları önlemek için prizi bantla kapattı." },
+          { "target": "He fitted a new light {socket} in the kitchen ceiling.", "source": "Mutfak tavanına yeni bir lamba soketi taktı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-74-14",
+        "kind": "word",
+        "term": "tile",
+        "type": "noun",
+        "meaning": "karo, fayans, çini",
+        "examples": [
+          { "target": "She chose white {tiles} for the bathroom walls.", "source": "Banyo duvarları için beyaz fayans seçti." },
+          { "target": "He laid new {tiles} in the kitchen to replace the damaged ones.", "source": "Hasarlı olanların yerine mutfağa yeni fayans döşedi." },
+          { "target": "She slipped on the wet {tile} and nearly fell.", "source": "Islak fayansa kaydı ve neredeyse düştü." },
+          { "target": "He fixed the cracked {tile} above the sink.", "source": "Lavabonun üzerindeki çatlak fayansı onardı." },
+          { "target": "She loved the geometric pattern on the floor {tiles}.", "source": "Zemin fayanslarındaki geometrik deseni çok sevdi." },
+          { "target": "He grouted the {tiles} after laying them.", "source": "Fayansları döşedikten sonra derz doldurdu." },
+          { "target": "She said the terracotta {tiles} gave the room a warm feel.", "source": "Toprak renkli karolarının odaya sıcak bir his kattığını söyledi." },
+          { "target": "He removed the old {tiles} carefully to avoid cracking them.", "source": "Kırmamak için eski fayansları dikkatle söktü." },
+          { "target": "She swept the {tile} floor before mopping it.", "source": "Paspaslamadan önce karo zemin süpürdü." },
+          { "target": "He used a {tile} cutter to fit the pieces around the corner.", "source": "Köşeye uymak için parçaları kesmek üzere fayans kesici kullandı." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-75",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 75",
+    "level": "beginner",
+    "category": "nature",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-75-0",
+        "kind": "word",
+        "term": "sleet",
+        "type": "noun",
+        "meaning": "karla karışık yağmur, sulu kar",
+        "examples": [
+          { "target": "She was caught in {sleet} on her way home.", "source": "Eve dönerken karla karışık yağmura yakalandı." },
+          { "target": "He drove slowly because {sleet} was making the roads icy.", "source": "Karla karışık yağmur yolları buzlu hale getirdiği için yavaş sürdü." },
+          { "target": "She said the {sleet} was worse than ordinary rain.", "source": "Karla karışık yağmurun sıradan yağmurdan daha kötü olduğunu söyledi." },
+          { "target": "He listened to the {sleet} hitting the window pane.", "source": "Karla karışık yağmurun cam bölmeye çarparken çıkardığı sesi dinledi." },
+          { "target": "She wrapped up well before going out in the {sleet}.", "source": "Karla karışık yağmurda dışarı çıkmadan önce iyice sarındı." },
+          { "target": "He checked the forecast and saw {sleet} was expected.", "source": "Hava tahminini kontrol etti ve karla karışık yağmur beklendiğini gördü." },
+          { "target": "She arrived at the office soaking wet from the {sleet}.", "source": "Karla karışık yağmurdan tamamen ıslanmış olarak ofise geldi." },
+          { "target": "He parked under a bridge to shelter from the {sleet}.", "source": "Karla karışık yağmurdan korunmak için bir köprünün altına park etti." },
+          { "target": "She said the {sleet} quickly turned to heavy snow.", "source": "Karla karışık yağmurun hızla yoğun kara dönüştüğünü söyledi." },
+          { "target": "He had never experienced {sleet} before moving to the north.", "source": "Kuzeye taşınmadan önce hiç karla karışık yağmur yaşamamıştı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-1",
+        "kind": "word",
+        "term": "gust",
+        "type": "noun",
+        "meaning": "rüzgar anisi, esinti",
+        "examples": [
+          { "target": "She held her hat as a strong {gust} swept through.", "source": "Güçlü bir rüzgar anisi geçerken şapkasını tuttu." },
+          { "target": "He was nearly knocked over by a sudden {gust}.", "source": "Ani bir rüzgar anisi tarafından neredeyse devriliyordu." },
+          { "target": "She said the {gusts} were reaching sixty kilometres per hour.", "source": "Ani rüzgar esintilerinin saatte altmış kilometreye ulaştığını söyledi." },
+          { "target": "He felt a cold {gust} enter when the door opened.", "source": "Kapı açıldığında soğuk bir esinti girdiğini hissetti." },
+          { "target": "She flew her kite in the steady {gusts}.", "source": "Düzenli esintilerde uçurtmasını uçurdu." },
+          { "target": "He braced himself against the powerful {gust}.", "source": "Güçlü rüzgar anisine karşı direndi." },
+          { "target": "She said a {gust} blew the papers off her desk.", "source": "Bir esintinin masasındaki kağıtları uçurduğunu söyledi." },
+          { "target": "He weathered the {gusts} by leaning into the wind.", "source": "Rüzgara yaslanarak esintilere göğüs gerdi." },
+          { "target": "She got a {gust} of warm air from the bakery.", "source": "Fırından sıcak bir hava esintisi aldı." },
+          { "target": "He said a {gust} knocked over the garden furniture.", "source": "Bir esintinin bahçe mobilyalarını devirdiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-2",
+        "kind": "word",
+        "term": "overcast",
+        "type": "adjective",
+        "meaning": "bulutlu, kapalı (hava)",
+        "examples": [
+          { "target": "She packed an umbrella because the sky looked {overcast}.", "source": "Gökyüzü kapalı göründüğü için şemsiye koydu çantasına." },
+          { "target": "He said the day started grey and {overcast}.", "source": "Günün gri ve kapalı başladığını söyledi." },
+          { "target": "She preferred working outdoors even on {overcast} days.", "source": "Kapalı havalarda bile dışarıda çalışmayı tercih etti." },
+          { "target": "He noticed the sky had become {overcast} by noon.", "source": "Öğleye kadar gökyüzünün kapandığını fark etti." },
+          { "target": "She found the {overcast} light perfect for photography.", "source": "Kapalı ışığın fotoğrafçılık için mükemmel olduğunu buldu." },
+          { "target": "He said the {overcast} weather made him feel sleepy.", "source": "Kapalı havanın onu uykulatığını söyledi." },
+          { "target": "She enjoyed the cool breeze on the {overcast} afternoon.", "source": "Kapalı öğleden sonrasının serin esintisinin tadını çıkardı." },
+          { "target": "He checked the weather app and saw an {overcast} icon.", "source": "Hava uygulamasını kontrol etti ve kapalı hava simgesi gördü." },
+          { "target": "She said the {overcast} sky looked like it would rain soon.", "source": "Kapalı gökyüzünün yakında yağmur yağacakmış gibi göründüğünü söyledi." },
+          { "target": "He described the mood of the poem as {overcast} and melancholy.", "source": "Şiirin havasını kapalı ve melankolik olarak tanımladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-3",
+        "kind": "word",
+        "term": "typhoon",
+        "type": "noun",
+        "meaning": "tayfun",
+        "examples": [
+          { "target": "She evacuated her home before the {typhoon} arrived.", "source": "Tayfun gelmeden önce evini boşalttı." },
+          { "target": "He watched news of the approaching {typhoon} with concern.", "source": "Yaklaşan tayfunun haberlerini endişeyle izledi." },
+          { "target": "She said the {typhoon} season runs from May to November.", "source": "Tayfun mevsiminin Mayıs'tan Kasım'a kadar sürdüğünü söyledi." },
+          { "target": "He helped clean up the village after the {typhoon} passed.", "source": "Tayfun geçtikten sonra köyü temizlemeye yardım etti." },
+          { "target": "She described the {typhoon} as the most terrifying storm she had seen.", "source": "Tayfunu gördüğü en ürkütücü fırtına olarak tanımladı." },
+          { "target": "He said the {typhoon} brought flooding to the coastal areas.", "source": "Tayfunun kıyı bölgelerine sel getirdiğini söyledi." },
+          { "target": "She stayed indoors throughout the entire {typhoon}.", "source": "Tayfun boyunca tüm süre içeride kaldı." },
+          { "target": "He tracked the path of the {typhoon} on a weather map.", "source": "Tayfunun yolunu hava haritasında takip etti." },
+          { "target": "She donated supplies to victims of the {typhoon}.", "source": "Tayfun mağdurlarına malzeme bağışladı." },
+          { "target": "He said the {typhoon} weakened before it reached the coast.", "source": "Tayfunun kıyıya ulaşmadan zayıfladığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-4",
+        "kind": "word",
+        "term": "heatwave",
+        "type": "noun",
+        "meaning": "sıcak hava dalgası",
+        "examples": [
+          { "target": "She stayed indoors during the intense {heatwave}.", "source": "Yoğun sıcak hava dalgası sırasında içeride kaldı." },
+          { "target": "He drank extra water to stay hydrated through the {heatwave}.", "source": "Sıcak hava dalgasında nemli kalmak için fazladan su içti." },
+          { "target": "She bought a fan when the {heatwave} hit the city.", "source": "Sıcak hava dalgası şehre vurunca vantilatör satın aldı." },
+          { "target": "He said the {heatwave} broke records in the region.", "source": "Sıcak hava dalgasının bölgedeki rekorları kırdığını söyledi." },
+          { "target": "She checked on her elderly neighbour during the {heatwave}.", "source": "Sıcak hava dalgası sırasında yaşlı komşusunu ziyaret etti." },
+          { "target": "He cancelled the outdoor event because of the dangerous {heatwave}.", "source": "Tehlikeli sıcak hava dalgası nedeniyle açık hava etkinliğini iptal etti." },
+          { "target": "She said the {heatwave} lasted for two weeks without relief.", "source": "Sıcak hava dalgasının hiç dinmeden iki hafta sürdüğünü söyledi." },
+          { "target": "He opened all the windows to cool the house during the {heatwave}.", "source": "Sıcak hava dalgasında evi soğutmak için tüm pencereleri açtı." },
+          { "target": "She wore light clothing throughout the summer {heatwave}.", "source": "Yaz sıcak hava dalgası boyunca ince kıyafetler giydi." },
+          { "target": "He said the {heatwave} caused several wildfires across the country.", "source": "Sıcak hava dalgasının ülke genelinde çeşitli orman yangınlarına yol açtığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-5",
+        "kind": "word",
+        "term": "thunder",
+        "type": "noun",
+        "meaning": "gök gürültüsü",
+        "examples": [
+          { "target": "She counted the seconds between the lightning and the {thunder}.", "source": "Şimşek ile gök gürültüsü arasındaki saniyeleri saydı." },
+          { "target": "He woke up to the sound of {thunder} in the night.", "source": "Gecenin gök gürültüsü sesine uyandı." },
+          { "target": "She said the {thunder} rattled the windows.", "source": "Gök gürültüsünün camları salladığını söyledi." },
+          { "target": "He hid under the covers when he heard the loud {thunder}.", "source": "Yüksek sesli gök gürültüsünü duyunca yorgan altına saklandı." },
+          { "target": "She loved listening to {thunder} from inside a warm house.", "source": "Sıcak bir evin içinden gök gürültüsü dinlemeyi severdi." },
+          { "target": "He said the {thunder} was so loud it shook the building.", "source": "Gök gürültüsünün binayı sarsacak kadar yüksek sesli olduğunu söyledi." },
+          { "target": "She described the applause as a {thunder} of appreciation.", "source": "Alkışı bir takdir gök gürültüsü olarak nitelendirdi." },
+          { "target": "He heard a distant roll of {thunder} and hurried inside.", "source": "Uzaktan gelen bir gök gürültüsü sesi duydu ve içeri koştu." },
+          { "target": "She said {thunder} without rain still made her nervous.", "source": "Yağmursuz gök gürültüsünün bile onu gerdiğini söyledi." },
+          { "target": "He was woken by a crack of {thunder} at midnight.", "source": "Gece yarısı bir gök gürültüsü çatlamasıyla uyandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-6",
+        "kind": "word",
+        "term": "lightning",
+        "type": "noun",
+        "meaning": "şimşek, yıldırım",
+        "examples": [
+          { "target": "She saw a flash of {lightning} light up the sky.", "source": "Gökyüzünü aydınlatan bir şimşek çakması gördü." },
+          { "target": "He stayed away from tall trees during the {lightning} storm.", "source": "Şimşekli fırtınada yüksek ağaçlardan uzak durdu." },
+          { "target": "She photographed the {lightning} from her living room window.", "source": "Şimşeği oturma odası penceresinden fotoğrafladı." },
+          { "target": "He said the {lightning} struck the old oak tree.", "source": "Şimşeğin eski meşe ağacına çarptığını söyledi." },
+          { "target": "She disconnected her electronics during the {lightning} storm.", "source": "Şimşekli fırtınada elektroniklerini fişten çekti." },
+          { "target": "He finished the project with {lightning} speed.", "source": "Projeyi şimşek hızıyla tamamladı." },
+          { "target": "She watched the {lightning} dance across the dark clouds.", "source": "Şimşeğin karanlık bulutlar arasında oynadığını izledi." },
+          { "target": "He was fascinated by how {lightning} forms during a storm.", "source": "Fırtınada şimşeğin nasıl oluştuğuna büyülendi." },
+          { "target": "She said {lightning} had struck the power line nearby.", "source": "Şimşeğin yakınlardaki elektrik hattına çarptığını söyledi." },
+          { "target": "He heard the crack of {lightning} before the thunder rolled.", "source": "Gök gürültüsü gelmeden önce şimşeğin çatlamasını duydu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-7",
+        "kind": "word",
+        "term": "breeze",
+        "type": "noun",
+        "meaning": "esinti, hafif rüzgar",
+        "examples": [
+          { "target": "She enjoyed the cool {breeze} on the warm afternoon.", "source": "Sıcak öğleden sonrasında serin esintinin tadını çıkardı." },
+          { "target": "He sat by the open window to feel the gentle {breeze}.", "source": "Hafif esintinin tadını çıkarmak için açık pencerenin yanına oturdu." },
+          { "target": "She said the sea {breeze} made the heat bearable.", "source": "Deniz esintisinin sıcağı katlanılabilir kıldığını söyledi." },
+          { "target": "He let the {breeze} dry his hair after swimming.", "source": "Esintinin yüzdükten sonra saçını kurutmasına izin verdi." },
+          { "target": "She described the exam as a complete {breeze}.", "source": "Sınavı çok kolay olarak nitelendirdi." },
+          { "target": "He loved the morning {breeze} that came through the valley.", "source": "Vadiden gelen sabah esintisini severdi." },
+          { "target": "She hung the curtains so they would sway in the {breeze}.", "source": "Esintide sallanmaları için perdeleri astı." },
+          { "target": "He said the sailing was easy in the steady {breeze}.", "source": "Düzenli esintide yelkenciliğin kolay olduğunu söyledi." },
+          { "target": "She described the spring {breeze} as refreshing after winter.", "source": "Bahar esintisini kışın ardından ferahlatıcı olarak tanımladı." },
+          { "target": "He breathed in deeply and enjoyed the fresh {breeze}.", "source": "Derin bir nefes aldı ve taze esintinin tadını çıkardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-8",
+        "kind": "word",
+        "term": "frost",
+        "type": "noun",
+        "meaning": "don, kırağı",
+        "examples": [
+          { "target": "She scraped the {frost} off her car windscreen in the morning.", "source": "Sabah arabasının ön camındaki kırağıyı kazıdı." },
+          { "target": "He warned her that there would be a {frost} overnight.", "source": "Geceleri don olacağı konusunda onu uyardı." },
+          { "target": "She found the garden plants damaged by the heavy {frost}.", "source": "Bahçe bitkilerinin yoğun don nedeniyle hasar gördüğünü fark etti." },
+          { "target": "He admired the {frost} crystals on the grass.", "source": "Çimenlerdeki kırağı kristallerine hayrandı." },
+          { "target": "She covered her plants to protect them from the {frost}.", "source": "Dondan korumak için bitkilerini örttü." },
+          { "target": "He slipped on the invisible {frost} on the pavement.", "source": "Kaldırımdaki görünmez buzlanmada kaydı." },
+          { "target": "She photographed the {frost} patterns on the window.", "source": "Penceredeki kırağı desenlerini fotoğrafladı." },
+          { "target": "He said the first {frost} of winter had arrived.", "source": "Kışın ilk donunun geldiğini söyledi." },
+          { "target": "She felt the {frost} bite her cheeks as she walked.", "source": "Yürürken donun yanaklarını yakmasını hissetti." },
+          { "target": "He said the relationship between them had turned to {frost}.", "source": "Aralarındaki ilişkinin soğuduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-9",
+        "kind": "word",
+        "term": "drizzle",
+        "type": "noun",
+        "meaning": "çisenti, hafif yağmur",
+        "examples": [
+          { "target": "She decided to walk despite the light {drizzle}.", "source": "Hafif çisentiye rağmen yürümeye karar verdi." },
+          { "target": "He said the morning {drizzle} made the streets slippery.", "source": "Sabah çisentisinin sokakları kaygan yaptığını söyledi." },
+          { "target": "She didn't bother opening her umbrella for the {drizzle}.", "source": "Çisenti için şemsiye açmaya gerek duymadı." },
+          { "target": "He enjoyed a walk through the park in the gentle {drizzle}.", "source": "Hafif çisenti içinde parkta yürüyüşün tadını çıkardı." },
+          { "target": "She said the forecast predicted a day of {drizzle}.", "source": "Hava tahmininin bir günlük çisenti öngördüğünü söyledi." },
+          { "target": "He felt the {drizzle} on his face as he cycled.", "source": "Bisiklet sürerken yüzünde çisentiyi hissetti." },
+          { "target": "She drizzled olive oil over the salad before serving.", "source": "Servis etmeden önce salatanın üzerine zeytinyağı gezdirdi." },
+          { "target": "He got slightly wet in the {drizzle} between the car and the shop.", "source": "Araba ile dükkân arasındaki çisenti içinde hafifçe ıslandı." },
+          { "target": "She watched the {drizzle} fog up the café window.", "source": "Çisentinin kafe penceresini buğulandırmasını izledi." },
+          { "target": "He said a morning {drizzle} often made the air smell fresh.", "source": "Sabah çisentisinin havayı sık sık taze kokturdğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-10",
+        "kind": "word",
+        "term": "hail",
+        "type": "noun",
+        "meaning": "dolu",
+        "examples": [
+          { "target": "She ran inside when the {hail} started falling.", "source": "Dolu yağmaya başlayınca içeri koştu." },
+          { "target": "He found dents on his car after the heavy {hail}.", "source": "Yoğun dolu yağışının ardından arabasında ezikler buldu." },
+          { "target": "She said the {hail} stones were as big as marbles.", "source": "Dolu tanelerinin misket büyüklüğünde olduğunu söyledi." },
+          { "target": "He covered the car to protect it from the {hail}.", "source": "Arabasını doludan korumak için örttü." },
+          { "target": "She listened to the loud {hail} drumming on the roof.", "source": "Dolu tanelerinin çatıya vurduğu yüksek sesi dinledi." },
+          { "target": "He checked the garden for damage after the {hail} storm.", "source": "Dolu fırtınasının ardından bahçede hasar olup olmadığını kontrol etti." },
+          { "target": "She said the farmers lost crops because of the {hail}.", "source": "Çiftçilerin dolu nedeniyle ürün kaybettiğini söyledi." },
+          { "target": "He greeted the decision with a {hail} of criticism.", "source": "Kararı bir eleştiri yağmuruyla karşıladı." },
+          { "target": "She sheltered under an awning during the {hail}.", "source": "Dolu sırasında bir tentinin altına sığındı." },
+          { "target": "He said the {hail} lasted only five minutes but caused a lot of damage.", "source": "Dolunun yalnızca beş dakika sürdüğünü ama çok hasar verdiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-11",
+        "kind": "word",
+        "term": "humidity",
+        "type": "noun",
+        "meaning": "nem, rutubet",
+        "examples": [
+          { "target": "She struggled with the high {humidity} in the tropics.", "source": "Tropik bölgedeki yüksek nemle mücadele etti." },
+          { "target": "He checked the {humidity} level before setting up the art storage.", "source": "Sanat deposunu kurmadan önce nem seviyesini kontrol etti." },
+          { "target": "She said the {humidity} made the heat feel unbearable.", "source": "Nemin sıcağı dayanılmaz kıldığını söyledi." },
+          { "target": "He used a dehumidifier to reduce the {humidity} at home.", "source": "Evdeki nemi azaltmak için nem alma cihazı kullandı." },
+          { "target": "She had frizzy hair because of the high {humidity}.", "source": "Yüksek nem nedeniyle saçı kabarıktı." },
+          { "target": "He said the museum controls the {humidity} to protect the paintings.", "source": "Müzenin tabloları korumak için nemi kontrol ettiğini söyledi." },
+          { "target": "She found it hard to breathe in the suffocating {humidity}.", "source": "Bunaltıcı nemde nefes almakta güçlük çekti." },
+          { "target": "He measured the {humidity} in the greenhouse every morning.", "source": "Her sabah seradaki nemi ölçtü." },
+          { "target": "She said low {humidity} was making her skin very dry.", "source": "Düşük nemin cildini çok kuru yaptığını söyledi." },
+          { "target": "He installed a sensor to monitor the {humidity} level.", "source": "Nem seviyesini izlemek için sensör taktı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-12",
+        "kind": "word",
+        "term": "forecast",
+        "type": "noun",
+        "meaning": "hava tahmini, öngörü",
+        "examples": [
+          { "target": "She checked the {forecast} before planning the trip.", "source": "Geziyi planlamadan önce hava tahminini kontrol etti." },
+          { "target": "He said the {forecast} predicted rain for the whole week.", "source": "Hava tahmininin tüm hafta boyunca yağmur öngördüğünü söyledi." },
+          { "target": "She trusted the weather {forecast} and left her umbrella at home.", "source": "Hava tahminine güvendi ve şemsiyesini evde bıraktı." },
+          { "target": "He presented a sales {forecast} to the board of directors.", "source": "Yönetim kuruluna satış öngörüsü sundu." },
+          { "target": "She said the economic {forecast} looked positive for next year.", "source": "Ekonomik öngörünün gelecek yıl için olumlu göründüğünü söyledi." },
+          { "target": "He updated the {forecast} after new data came in.", "source": "Yeni veriler geldikten sonra tahminini güncelledi." },
+          { "target": "She watched the evening {forecast} on the news.", "source": "Haberlerde akşam hava tahminini izledi." },
+          { "target": "He said the long-range {forecast} showed a cold spell ahead.", "source": "Uzun vadeli hava tahmininin ileride soğuk bir dönem gösterdiğini söyledi." },
+          { "target": "She relied on the {forecast} to decide what to wear.", "source": "Ne giyeceğine karar vermek için hava tahminine güvendi." },
+          { "target": "He said the {forecast} was wrong for the third time this month.", "source": "Tahmininin bu ay üçüncü kez yanlış çıktığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-13",
+        "kind": "word",
+        "term": "rainbow",
+        "type": "noun",
+        "meaning": "gökkuşağı",
+        "examples": [
+          { "target": "She spotted a beautiful {rainbow} after the storm.", "source": "Fırtınanın ardından güzel bir gökkuşağı gördü." },
+          { "target": "He stopped the car to take a photo of the {rainbow}.", "source": "Gökkuşağının fotoğrafını çekmek için arabayı durdurdu." },
+          { "target": "She said the {rainbow} arched over the whole valley.", "source": "Gökkuşağının tüm vadinin üzerinde kemer yaptığını söyledi." },
+          { "target": "He pointed out the double {rainbow} in the sky.", "source": "Gökyüzündeki çift gökkuşağına dikkat çekti." },
+          { "target": "She used {rainbow} colours to decorate the cake.", "source": "Pastayı süslemek için gökkuşağı renklerini kullandı." },
+          { "target": "He said there is supposedly gold at the end of a {rainbow}.", "source": "Gökkuşağının sonunda altın olduğunun söylendiğini belirtti." },
+          { "target": "She watched the {rainbow} fade as the clouds cleared.", "source": "Bulutlar dağılırken gökkuşağının solduğunu izledi." },
+          { "target": "He described his recovery as finding a {rainbow} after a long storm.", "source": "İyileşmesini uzun bir fırtınanın ardından gökkuşağı bulmak olarak tanımladı." },
+          { "target": "She said the {rainbow} appeared just as they arrived at the beach.", "source": "Sahile vardıklarında gökkuşağının belirdiğini söyledi." },
+          { "target": "He explained that a {rainbow} forms when sunlight passes through raindrops.", "source": "Güneş ışığı yağmur damlacıklarından geçtiğinde gökkuşağının oluştuğunu açıkladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-75-14",
+        "kind": "word",
+        "term": "tornado",
+        "type": "noun",
+        "meaning": "hortum, kasırga",
+        "examples": [
+          { "target": "She took shelter in the basement when the {tornado} warning sounded.", "source": "Hortum uyarısı verilince bodrum kata sığındı." },
+          { "target": "He watched the {tornado} approach across the open field.", "source": "Hortumun açık tarlanın üzerinden yaklaştığını izledi." },
+          { "target": "She said the {tornado} destroyed several houses in the town.", "source": "Hortumun kasabadaki birkaç evi yerle bir ettiğini söyledi." },
+          { "target": "He described the sound of a {tornado} as a freight train.", "source": "Hortumun sesini bir yük treni gibi tanımladı." },
+          { "target": "She studied the path of the {tornado} on the weather map.", "source": "Hortumun yolunu hava haritasında inceledi." },
+          { "target": "He grew up in a region where {tornadoes} were common.", "source": "Hortumların yaygın olduğu bir bölgede büyüdü." },
+          { "target": "She said the {tornado} season is most dangerous in spring.", "source": "Hortum mevsiminin ilkbaharda en tehlikeli olduğunu söyledi." },
+          { "target": "He drove away from the {tornado} as fast as he could.", "source": "Hortumdan elinden geldiğince hızlı uzaklaştı." },
+          { "target": "She noticed the {tornado} had uprooted several large trees.", "source": "Hortumun birkaç büyük ağacı kökünden söktüğünü fark etti." },
+          { "target": "He said a {tornado} can cause massive damage in minutes.", "source": "Bir hortumun dakikalar içinde büyük hasara neden olabileceğini söyledi." }
+        ]
+      }
+    ]
+  }
+]

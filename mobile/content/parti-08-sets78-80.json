@@ -1,0 +1,887 @@
+[
+  {
+    "id": "en-tr-beginner-78",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 78",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-78-0",
+        "kind": "word",
+        "term": "mentor",
+        "type": "noun",
+        "meaning": "mentor, rehber",
+        "examples": [
+          { "target": "She found a {mentor} who guided her through her first year at work.", "source": "İşteki ilk yılında ona rehberlik eden bir mentor buldu." },
+          { "target": "He said his {mentor} helped him make better career decisions.", "source": "Mentorünün daha iyi kariyer kararları almasına yardımcı olduğunu söyledi." },
+          { "target": "She became a {mentor} to younger employees at the company.", "source": "Şirketteki genç çalışanlara mentor oldu." },
+          { "target": "He credited his {mentor} with teaching him how to lead.", "source": "Liderliği nasıl yapacağını öğretme konusunda mentörünü takdirle andı." },
+          { "target": "She said a good {mentor} listens before they advise.", "source": "İyi bir mentorun tavsiye vermeden önce dinlediğini söyledi." },
+          { "target": "He spent an hour each week with his {mentor}.", "source": "Her hafta mentörüyle bir saat geçirdi." },
+          { "target": "She hopes to {mentor} the next generation of scientists.", "source": "Bir sonraki bilim insanı kuşağına mentor olmayı umuyor." },
+          { "target": "He said the {mentor} programme changed his career entirely.", "source": "Mentor programının kariyerini tamamen değiştirdiğini söyledi." },
+          { "target": "She found her {mentor} through a professional network.", "source": "Mentorunü profesyonel bir ağ aracılığıyla buldu." },
+          { "target": "He was grateful to have such a wise {mentor} early in life.", "source": "Hayatının erken döneminde bu kadar bilge bir mentora sahip olduğu için minnettardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-1",
+        "kind": "word",
+        "term": "peer",
+        "type": "noun",
+        "meaning": "akran, eş",
+        "examples": [
+          { "target": "She received positive feedback from her {peers}.", "source": "Akranlarından olumlu geri bildirim aldı." },
+          { "target": "He said {peer} pressure affected many of his choices.", "source": "Akran baskısının seçimlerinin çoğunu etkilediğini söyledi." },
+          { "target": "She valued the opinions of her {peers} more than critics.", "source": "Akranlarının görüşlerine eleştirmenlerden daha çok değer verdi." },
+          { "target": "He was respected by his {peers} for his honesty.", "source": "Dürüstlüğü nedeniyle akranları tarafından saygı görürdü." },
+          { "target": "She participated in a {peer} review of the research paper.", "source": "Araştırma makalesinin hakem değerlendirmesine katıldı." },
+          { "target": "He said {peer} learning helped him understand better.", "source": "Akran öğrenmesinin daha iyi anlamasına yardımcı olduğunu söyledi." },
+          { "target": "She was elected as {peer} mentor for her cohort.", "source": "Grubu için akran mentor olarak seçildi." },
+          { "target": "He said the {peer} group gave each other honest feedback.", "source": "Akran grubunun birbirine dürüst geri bildirim verdiğini söyledi." },
+          { "target": "She felt comfortable sharing her ideas among {peers}.", "source": "Akranları arasında fikirlerini paylaşmakta rahat hissetti." },
+          { "target": "He joined a {peer} support circle during a difficult time.", "source": "Zor bir dönemde akran destek grubuna katıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-2",
+        "kind": "word",
+        "term": "sibling",
+        "type": "noun",
+        "meaning": "kardeş",
+        "examples": [
+          { "target": "She said her {sibling} always supported her decisions.", "source": "Kardeşinin her zaman kararlarını desteklediğini söyledi." },
+          { "target": "He grew up with three {siblings} in a small flat.", "source": "Küçük bir dairede üç kardeşiyle büyüdü." },
+          { "target": "She and her {sibling} used to share a bedroom.", "source": "O ve kardeşi bir zamanlar aynı yatak odasını paylaşırdı." },
+          { "target": "He said {sibling} rivalry pushed him to work harder.", "source": "Kardeş rekabetinin onu daha çok çalışmaya ittiğini söyledi." },
+          { "target": "She called her {sibling} every Sunday without fail.", "source": "Her Pazar istisnasız kardeşini arardı." },
+          { "target": "He said being the oldest {sibling} came with responsibilities.", "source": "En büyük kardeş olmanın sorumluluklar getirdiğini söyledi." },
+          { "target": "She celebrated her {sibling}'s graduation with great pride.", "source": "Kardeşinin mezuniyetini büyük bir gururla kutladı." },
+          { "target": "He said his {sibling} had always been his closest friend.", "source": "Kardeşinin her zaman en yakın arkadaşı olduğunu söyledi." },
+          { "target": "She bought a gift for her younger {sibling}'s birthday.", "source": "Küçük kardeşinin doğum günü için hediye aldı." },
+          { "target": "He said growing up with a {sibling} taught him to share.", "source": "Kardeşiyle büyümenin onu paylaşmayı öğrettiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-3",
+        "kind": "word",
+        "term": "ancestor",
+        "type": "noun",
+        "meaning": "ata, cet",
+        "examples": [
+          { "target": "She traced her {ancestors} back to the seventeenth century.", "source": "Atalarını on yedinci yüzyıla kadar izledi." },
+          { "target": "He said his {ancestors} came from a small coastal village.", "source": "Atalarının küçük bir kıyı köyünden geldiğini söyledi." },
+          { "target": "She learned that her {ancestors} were skilled craftsmen.", "source": "Atalarının yetenekli zanaatkarlar olduğunu öğrendi." },
+          { "target": "He felt connected to his {ancestors} through the stories.", "source": "Hikayeler aracılığıyla atalarıyla bağlantı hissetti." },
+          { "target": "She said her {ancestors} had survived great hardships.", "source": "Atalarının büyük güçlükleri atlatmış olduğunu söyledi." },
+          { "target": "He studied the DNA test to learn more about his {ancestors}.", "source": "Atalarını daha iyi tanımak için DNA testini inceledi." },
+          { "target": "She decorated her home with portraits of her {ancestors}.", "source": "Evini atalarının portreleriyle süsledi." },
+          { "target": "He said humans share common {ancestors} with other primates.", "source": "İnsanların diğer primatlarla ortak atalar paylaştığını söyledi." },
+          { "target": "She visited the village where her {ancestors} had lived.", "source": "Atalarının yaşadığı köyü ziyaret etti." },
+          { "target": "He believed that honouring {ancestors} was an important tradition.", "source": "Atalara saygı göstermenin önemli bir gelenek olduğuna inandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-4",
+        "kind": "word",
+        "term": "descendant",
+        "type": "noun",
+        "meaning": "torun, nesil",
+        "examples": [
+          { "target": "She is a direct {descendant} of the founder.", "source": "Kurucunun doğrudan torunudur." },
+          { "target": "He said the royal family has many living {descendants}.", "source": "Kraliyet ailesinin pek çok yaşayan torunu olduğunu söyledi." },
+          { "target": "She said the language is a {descendant} of Latin.", "source": "Dilin Latince'nin torunlarından biri olduğunu söyledi." },
+          { "target": "He traced the lineage to find the {descendants} of the original settler.", "source": "İlk yerleşimcinin torunlarını bulmak için soyu takip etti." },
+          { "target": "She wrote a book for her {descendants} to read one day.", "source": "Bir gün torunlarının okuyabilmesi için bir kitap yazdı." },
+          { "target": "He said he hoped to make his future {descendants} proud.", "source": "Gelecekteki torunlarını gururlandırmayı umduğunu söyledi." },
+          { "target": "She found that she had {descendants} living in three continents.", "source": "Üç kıtada yaşayan torunları olduğunu öğrendi." },
+          { "target": "He said modern computers are {descendants} of early machines.", "source": "Modern bilgisayarların erken makinelerin torunları olduğunu söyledi." },
+          { "target": "She felt a sense of duty to her future {descendants}.", "source": "Gelecekteki torunlarına karşı bir sorumluluk hissetti." },
+          { "target": "He met a {descendant} of the famous poet at the event.", "source": "Etkinlikte ünlü şairin bir torunuyla tanıştı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-5",
+        "kind": "word",
+        "term": "heritage",
+        "type": "noun",
+        "meaning": "miras, kültürel miras",
+        "examples": [
+          { "target": "She is proud of her cultural {heritage}.", "source": "Kültürel mirasıyla gurur duyuyor." },
+          { "target": "He studied the country's architectural {heritage}.", "source": "Ülkenin mimari mirasını inceledi." },
+          { "target": "She said protecting {heritage} sites is a shared responsibility.", "source": "Miras alanlarını korumanın ortak bir sorumluluk olduğunu söyledi." },
+          { "target": "He described the ancient temple as part of the world's {heritage}.", "source": "Antik tapınağı dünyanın mirasının bir parçası olarak nitelendirdi." },
+          { "target": "She felt her language was central to her {heritage}.", "source": "Dilinin mirasının merkezinde olduğunu hissetti." },
+          { "target": "He supported a foundation that preserves local {heritage}.", "source": "Yerel mirası koruyan bir vakfı destekledi." },
+          { "target": "She visited the {heritage} centre to learn about the region.", "source": "Bölgeyi öğrenmek için miras merkezini ziyaret etti." },
+          { "target": "He said the recipe was part of the family's culinary {heritage}.", "source": "Tarifin ailenin mutfak mirasının bir parçası olduğunu söyledi." },
+          { "target": "She studied how {heritage} can shape national identity.", "source": "Mirasın ulusal kimliği nasıl şekillendirebileceğini inceledi." },
+          { "target": "He said the site was declared a UNESCO World {Heritage} site.", "source": "Alanın UNESCO Dünya Mirası Alanı olarak ilan edildiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-6",
+        "kind": "word",
+        "term": "relative",
+        "type": "noun",
+        "meaning": "akraba, göreli",
+        "examples": [
+          { "target": "She visited a distant {relative} she had never met before.", "source": "Daha önce hiç tanışmadığı uzak bir akrabasını ziyaret etti." },
+          { "target": "He said all his close {relatives} lived abroad.", "source": "Yakın akrabalarının hepsinin yurt dışında yaşadığını söyledi." },
+          { "target": "She sent cards to {relatives} at the end of the year.", "source": "Yıl sonunda akrabalarına kart gönderdi." },
+          { "target": "He said success is {relative} depending on one's goals.", "source": "Başarının kişinin hedeflerine göre göreceli olduğunu söyledi." },
+          { "target": "She introduced him to a {relative} at the family gathering.", "source": "Aile buluşmasında onu bir akrabasıyla tanıştırdı." },
+          { "target": "He said the cost was {relative} to the quality received.", "source": "Maliyetin alınan kaliteye göre göreli olduğunu söyledi." },
+          { "target": "She received support from {relatives} after moving to a new city.", "source": "Yeni bir şehre taşındıktan sonra akrabalarından destek aldı." },
+          { "target": "He said poverty is {relative} across different societies.", "source": "Yoksulluğun farklı toplumlar arasında göreli olduğunu söyledi." },
+          { "target": "She realised she had a {relative} working in the same field.", "source": "Aynı alanda çalışan bir akrabasının olduğunu fark etti." },
+          { "target": "He said it was all {relative} and depended on perspective.", "source": "Her şeyin göreceli olduğunu ve bakış açısına bağlı olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-7",
+        "kind": "word",
+        "term": "acquaintance",
+        "type": "noun",
+        "meaning": "tanıdık, bildik",
+        "examples": [
+          { "target": "She bumped into an old {acquaintance} at the market.", "source": "Pazarda eski bir tanıdığına rastladı." },
+          { "target": "He said they were not close friends but merely {acquaintances}.", "source": "Yakın arkadaş değil sadece tanıdık olduklarını söyledi." },
+          { "target": "She made several new {acquaintances} at the conference.", "source": "Konferansta birkaç yeni tanıdık edindi." },
+          { "target": "He was glad to renew his {acquaintance} with a former colleague.", "source": "Eski bir meslektaşıyla tanışıklığını yenilemekten memnun oldu." },
+          { "target": "She said an {acquaintance} had recommended the restaurant.", "source": "Bir tanıdığının restoranı tavsiye ettiğini söyledi." },
+          { "target": "He greeted the {acquaintance} politely but moved on quickly.", "source": "Tanıdığını kibarca selamladı ama hemen geçip gitti." },
+          { "target": "She said {acquaintances} can sometimes become lifelong friends.", "source": "Tanıdıkların bazen ömür boyu arkadaşa dönüşebileceğini söyledi." },
+          { "target": "He described her as a business {acquaintance} rather than a friend.", "source": "Onu arkadaş yerine iş tanıdığı olarak tanımladı." },
+          { "target": "She had a wide circle of {acquaintances} across many industries.", "source": "Pek çok sektörde geniş bir tanıdık çevresi vardı." },
+          { "target": "He said his {acquaintance} with the subject was limited.", "source": "Konuya olan aşinalığının sınırlı olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-8",
+        "kind": "word",
+        "term": "companion",
+        "type": "noun",
+        "meaning": "yoldaş, eşlik eden",
+        "examples": [
+          { "target": "She said the dog had been her faithful {companion} for a decade.", "source": "Köpeğin on yıldır onun sadık yoldaşı olduğunu söyledi." },
+          { "target": "He found a travel {companion} through an online forum.", "source": "Çevrimiçi bir forum aracılığıyla seyahat yoldaşı buldu." },
+          { "target": "She described the book as the perfect {companion} for long journeys.", "source": "Kitabı uzun yolculuklar için mükemmel bir yoldaş olarak nitelendirdi." },
+          { "target": "He said he needed a {companion} for the hiking trip.", "source": "Yürüyüş gezisi için bir yoldaşa ihtiyacı olduğunu söyledi." },
+          { "target": "She was glad to have a trusted {companion} by her side.", "source": "Yanında güvenilir bir yoldaş olduğu için memnundu." },
+          { "target": "He hired a professional {companion} to care for his elderly mother.", "source": "Yaşlı annesine bakması için profesyonel bir bakım arkadaşı tuttu." },
+          { "target": "She said a good {companion} knows when to talk and when to listen.", "source": "İyi bir yoldaşın ne zaman konuşacağını ne zaman dinleyeceğini bildiğini söyledi." },
+          { "target": "He wrote the second volume as a {companion} to the first.", "source": "İkinci cildi birincisinin tamamlayıcısı olarak yazdı." },
+          { "target": "She appreciated his quiet presence as a {companion}.", "source": "Onun sessiz varlığını bir yoldaş olarak takdirle karşıladı." },
+          { "target": "He said loneliness faded when he had a {companion} to talk with.", "source": "Konuşacak bir yoldaşı olduğunda yalnızlığın geçtiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-9",
+        "kind": "word",
+        "term": "rival",
+        "type": "noun",
+        "meaning": "rakip",
+        "examples": [
+          { "target": "She faced her biggest {rival} in the final round.", "source": "En büyük rakibiyle son turda yüzleşti." },
+          { "target": "He said the two companies had been {rivals} for years.", "source": "İki şirketin yıllardır rakip olduğunu söyledi." },
+          { "target": "She respected her {rival}'s skills even as they competed.", "source": "Yarışırken bile rakibinin becerilerine saygı duydu." },
+          { "target": "He trained harder because he knew his {rival} was doing the same.", "source": "Rakibinin de aynı şeyi yaptığını bildiği için daha çok antrenman yaptı." },
+          { "target": "She said having a strong {rival} made her better at her job.", "source": "Güçlü bir rakibinin olmasının onu işinde daha iyi kıldığını söyledi." },
+          { "target": "He shook hands with his {rival} after the match.", "source": "Maçtan sonra rakibiyle el sıkıştı." },
+          { "target": "She used her {rival}'s success as motivation.", "source": "Rakibinin başarısını motivasyon kaynağı olarak kullandı." },
+          { "target": "He said the two siblings had always been friendly {rivals}.", "source": "İki kardeşin her zaman arkadaşça rakipler olduğunu söyledi." },
+          { "target": "She followed her {rival}'s progress on social media.", "source": "Rakibinin ilerlemesini sosyal medyadan takip etti." },
+          { "target": "He said no other team {rivaled} theirs in skill.", "source": "Hiçbir takımın beceride onlarla boy ölçüşemeyeceğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-10",
+        "kind": "word",
+        "term": "partner",
+        "type": "noun",
+        "meaning": "ortak, eş, partner",
+        "examples": [
+          { "target": "She introduced her {partner} to her parents for the first time.", "source": "Eşini ilk kez ailesiyle tanıştırdı." },
+          { "target": "He said his business {partner} handled the finances.", "source": "İş ortağının finansları yönettiğini söyledi." },
+          { "target": "She found a reliable study {partner} in her classmate.", "source": "Sınıf arkadaşında güvenilir bir çalışma ortağı buldu." },
+          { "target": "He danced with his {partner} at the formal event.", "source": "Resmi etkinlikte partneriyle dans etti." },
+          { "target": "She said the two companies agreed to become {partners}.", "source": "İki şirketin ortak olmayı kabul ettiğini söyledi." },
+          { "target": "He credited his {partner} with keeping the project on track.", "source": "Projeyi yolunda tutmak için ortağını takdirle andı." },
+          { "target": "She said communication is the key to a healthy {partner} relationship.", "source": "İletişimin sağlıklı bir eş ilişkisinin anahtarı olduğunu söyledi." },
+          { "target": "He became a senior {partner} at the law firm after ten years.", "source": "On yıl sonra hukuk firmasında kıdemli ortak oldu." },
+          { "target": "She asked her {partner} for advice before making the decision.", "source": "Karar vermeden önce ortağına danıştı." },
+          { "target": "He said his {partner} supported him through every challenge.", "source": "Ortağının her zorlukta onu desteklediğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-11",
+        "kind": "word",
+        "term": "widow",
+        "type": "noun",
+        "meaning": "dul kadın",
+        "examples": [
+          { "target": "She became a {widow} at the age of forty-two.", "source": "Kırk iki yaşında dul kaldı." },
+          { "target": "He helped the elderly {widow} carry her groceries.", "source": "Yaşlı dul kadının alışveriş poşetlerini taşımasına yardım etti." },
+          { "target": "She said the {widow} had lived alone for ten years.", "source": "Dul kadının on yıldır yalnız yaşadığını söyledi." },
+          { "target": "He read a memoir written by a war {widow}.", "source": "Bir savaş dul kadınının yazdığı anı kitabını okudu." },
+          { "target": "She volunteered at a support group for {widows}.", "source": "Dul kadınlara yönelik bir destek grubunda gönüllü olarak çalıştı." },
+          { "target": "He said the {widow} had managed the estate on her own.", "source": "Dul kadının mülkü kendi başına yönettiğini söyledi." },
+          { "target": "She wrote letters to comfort the young {widow} after the loss.", "source": "Kayıptan sonra genç dul kadını teselli etmek için mektuplar yazdı." },
+          { "target": "He said the law protected the rights of {widows} and orphans.", "source": "Yasanın dul kadınların ve yetimlerin haklarını koruduğunu söyledi." },
+          { "target": "She described the character as a fiercely independent {widow}.", "source": "Karakteri son derece bağımsız bir dul kadın olarak tanımladı." },
+          { "target": "He met the {widow} at a community event and they became friends.", "source": "Dul kadınla bir topluluk etkinliğinde tanıştı ve arkadaş oldular." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-12",
+        "kind": "word",
+        "term": "guardian",
+        "type": "noun",
+        "meaning": "vasi, koruyucu",
+        "examples": [
+          { "target": "She was named the legal {guardian} of her niece.", "source": "Yeğeninin yasal vasisi olarak atandı." },
+          { "target": "He said the court appointed a {guardian} to protect the child's interests.", "source": "Mahkemenin çocuğun çıkarlarını korumak için bir vasi atadığını söyledi." },
+          { "target": "She took her role as {guardian} very seriously.", "source": "Vasi olarak üstlendiği rolü çok ciddiye aldı." },
+          { "target": "He described the organisation as a {guardian} of press freedom.", "source": "Kuruluşu basın özgürlüğünün bekçisi olarak tanımladı." },
+          { "target": "She signed the form on behalf of her ward as the legal {guardian}.", "source": "Yasal vasi olarak korunması adına formu imzaladı." },
+          { "target": "He said a good {guardian} puts the child's welfare first.", "source": "İyi bir vasinin çocuğun refahını ön planda tuttuğunu söyledi." },
+          { "target": "She appealed to the museum as the {guardian} of cultural objects.", "source": "Müzeye kültürel nesnelerin koruyucusu olarak başvurdu." },
+          { "target": "He became the {guardian} of his younger siblings after his parents passed.", "source": "Ebeveynleri vefat ettikten sonra küçük kardeşlerinin vasisi oldu." },
+          { "target": "She said the treaty named the organisation as a {guardian} of peace.", "source": "Anlaşmanın kuruluşu barışın bekçisi olarak belirlediğini söyledi." },
+          { "target": "He visited his {guardian} every month as a child.", "source": "Çocukken her ay vasisini ziyaret ederdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-13",
+        "kind": "word",
+        "term": "immigrant",
+        "type": "noun",
+        "meaning": "göçmen",
+        "examples": [
+          { "target": "She was an {immigrant} who built a new life in the city.", "source": "Şehirde yeni bir hayat kuran bir göçmendi." },
+          { "target": "He said the country has a long history of welcoming {immigrants}.", "source": "Ülkenin göçmenleri kabul etme konusunda uzun bir geçmişi olduğunu söyledi." },
+          { "target": "She volunteered to help {immigrants} learn the local language.", "source": "Göçmenlerin yerel dili öğrenmesine yardımcı olmak için gönüllü oldu." },
+          { "target": "He came from a family of {immigrants} who had arrived three generations ago.", "source": "Üç nesil önce gelen göçmen bir aileden geliyordu." },
+          { "target": "She said the {immigrant} community had enriched the neighbourhood.", "source": "Göçmen topluluğunun mahalleyi zenginleştirdiğini söyledi." },
+          { "target": "He wrote his thesis on {immigrant} identity and belonging.", "source": "Tezini göçmen kimliği ve ait olma üzerine yazdı." },
+          { "target": "She said new {immigrants} often face language barriers at first.", "source": "Yeni göçmenlerin başlangıçta çoğunlukla dil engeliyle karşılaştığını söyledi." },
+          { "target": "He met many {immigrants} who had become successful entrepreneurs.", "source": "Başarılı girişimciler haline gelen pek çok göçmenle tanıştı." },
+          { "target": "She said the policy would affect thousands of {immigrants}.", "source": "Politikanın binlerce göçmeni etkileyeceğini söyledi." },
+          { "target": "He described his grandmother as a courageous first-generation {immigrant}.", "source": "Büyükannesini cesur bir birinci nesil göçmen olarak tanımladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-78-14",
+        "kind": "word",
+        "term": "refugee",
+        "type": "noun",
+        "meaning": "mülteci",
+        "examples": [
+          { "target": "She worked with an organisation supporting {refugees}.", "source": "Mültecileri destekleyen bir kuruluşta çalıştı." },
+          { "target": "He said the camp housed thousands of {refugees}.", "source": "Kampın binlerce mülteciye ev sahipliği yaptığını söyledi." },
+          { "target": "She donated supplies to the {refugee} relief effort.", "source": "Mülteci yardım çalışmalarına malzeme bağışladı." },
+          { "target": "He described the {refugee} crisis as a global humanitarian challenge.", "source": "Mülteci krizini küresel bir insani meydan okuma olarak nitelendirdi." },
+          { "target": "She volunteered at a {refugee} centre on weekends.", "source": "Hafta sonlarında mülteci merkezinde gönüllü olarak çalıştı." },
+          { "target": "He said many {refugees} had fled violence in their home country.", "source": "Pek çok mültecinin ana vatanlarındaki şiddetten kaçtığını söyledi." },
+          { "target": "She advocated for better {refugee} resettlement programmes.", "source": "Daha iyi mülteci yerleştirme programları için savunuculuk yaptı." },
+          { "target": "He read a book written by a {refugee} about her journey.", "source": "Bir mültecinin yolculuğunu anlatan yazdığı bir kitap okudu." },
+          { "target": "She said children made up the majority of {refugees} in the camp.", "source": "Kamptaki mültecilerin büyük çoğunluğunun çocuklardan oluştuğunu söyledi." },
+          { "target": "He said the international community must protect the rights of {refugees}.", "source": "Uluslararası topluluğun mültecilerin haklarını koruması gerektiğini söyledi." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-79",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 79",
+    "level": "beginner",
+    "category": "work-career",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-79-0",
+        "kind": "word",
+        "term": "invoice",
+        "type": "noun",
+        "meaning": "fatura, irsaliye",
+        "examples": [
+          { "target": "She sent the {invoice} to the client by email.", "source": "Müşteriye faturayı e-posta ile gönderdi." },
+          { "target": "He checked the {invoice} carefully before approving payment.", "source": "Ödemeyi onaylamadan önce faturayı dikkatle inceledi." },
+          { "target": "She said the {invoice} had a thirty-day payment term.", "source": "Faturanın otuz günlük ödeme vadesinin olduğunu söyledi." },
+          { "target": "He created a new {invoice} template for the company.", "source": "Şirket için yeni bir fatura şablonu oluşturdu." },
+          { "target": "She disputed the amount on the {invoice}.", "source": "Faturadaki tutara itiraz etti." },
+          { "target": "He said the supplier had sent a duplicate {invoice}.", "source": "Tedarikçinin yinelenen bir fatura gönderdiğini söyledi." },
+          { "target": "She tracked all unpaid {invoices} in a spreadsheet.", "source": "Ödenmemiş tüm faturaları bir tabloda takip etti." },
+          { "target": "He asked the accountant to review the {invoice} before submission.", "source": "Muhasebeciden göndermeden önce faturayı incelemesini istedi." },
+          { "target": "She said the {invoice} included taxes and delivery charges.", "source": "Faturanın vergileri ve teslimat ücretlerini içerdiğini söyledi." },
+          { "target": "He issued a corrected {invoice} after finding the error.", "source": "Hatayı fark ettikten sonra düzeltilmiş bir fatura yayınladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-1",
+        "kind": "word",
+        "term": "tariff",
+        "type": "noun",
+        "meaning": "tarife, gümrük vergisi",
+        "examples": [
+          { "target": "She said the government raised import {tariffs} on steel.", "source": "Hükümetin çeliğe uygulanan ithalat tarifelerini artırdığını söyledi." },
+          { "target": "He checked the {tariff} schedule before placing the order.", "source": "Sipariş vermeden önce tarife çizelgesini kontrol etti." },
+          { "target": "She said high {tariffs} make imported goods more expensive.", "source": "Yüksek tarifelerin ithal ürünleri daha pahalı kıldığını söyledi." },
+          { "target": "He compared mobile phone {tariffs} to find the best deal.", "source": "En iyi fırsatı bulmak için cep telefonu tarifelerini karşılaştırdı." },
+          { "target": "She said the new {tariff} had caused trade tensions.", "source": "Yeni tarifenin ticaret gerilimlerine yol açtığını söyledi." },
+          { "target": "He calculated the {tariff} on the imported goods.", "source": "İthal mallar üzerindeki tarife miktarını hesapladı." },
+          { "target": "She said the energy {tariff} was confusing and hard to understand.", "source": "Enerji tarifesinin kafa karıştırıcı ve anlaşılması güç olduğunu söyledi." },
+          { "target": "He negotiated a better {tariff} with the supplier.", "source": "Tedarikçiyle daha iyi bir tarife üzerinde pazarlık yaptı." },
+          { "target": "She read the {tariff} document before signing the contract.", "source": "Sözleşmeyi imzalamadan önce tarife belgesini okudu." },
+          { "target": "He said the reduction in {tariffs} boosted exports.", "source": "Tarifelerdeki düşüşün ihracatı artırdığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-2",
+        "kind": "word",
+        "term": "dividend",
+        "type": "noun",
+        "meaning": "temettü, kar payı",
+        "examples": [
+          { "target": "She received a quarterly {dividend} from her investments.", "source": "Yatırımlarından üç aylık temettü aldı." },
+          { "target": "He reinvested his {dividends} to grow his portfolio.", "source": "Portföyünü büyütmek için temettülerini yeniden yatırdı." },
+          { "target": "She said the company had increased its {dividend} for the fifth year.", "source": "Şirketin beşinci yıl üst üste temettüsünü artırdığını söyledi." },
+          { "target": "He said investing in {dividend} stocks provided regular income.", "source": "Temettü hisselerine yatırım yapmanın düzenli gelir sağladığını söyledi." },
+          { "target": "She checked the {dividend} payout date on the company website.", "source": "Şirket web sitesinde temettü ödeme tarihini kontrol etti." },
+          { "target": "He said hard work always pays {dividends} in the long run.", "source": "Sıkı çalışmanın uzun vadede her zaman meyvesini verdiğini söyledi." },
+          { "target": "She chose stocks known for consistent {dividend} payments.", "source": "Tutarlı temettü ödemeleriyle bilinen hisseleri seçti." },
+          { "target": "He said the board voted to suspend the {dividend} this quarter.", "source": "Kurulun bu çeyrekte temettüyü askıya almak için oy kullandığını söyledi." },
+          { "target": "She said the {dividend} yield was higher than the savings rate.", "source": "Temettü getirisinin mevduat faizinden daha yüksek olduğunu söyledi." },
+          { "target": "He planned his retirement around {dividend} income.", "source": "Emekliliğini temettü gelirine göre planladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-3",
+        "kind": "word",
+        "term": "inflation",
+        "type": "noun",
+        "meaning": "enflasyon",
+        "examples": [
+          { "target": "She said rising {inflation} was squeezing household budgets.", "source": "Artan enflasyonun hane bütçelerini sıkıştırdığını söyledi." },
+          { "target": "He followed the monthly {inflation} figures closely.", "source": "Aylık enflasyon rakamlarını yakından takip etti." },
+          { "target": "She said the government was trying to control {inflation}.", "source": "Hükümetin enflasyonu kontrol altına almaya çalıştığını söyledi." },
+          { "target": "He adjusted his salary expectations to account for {inflation}.", "source": "Enflasyonu göz önünde bulundurarak maaş beklentilerini güncelledi." },
+          { "target": "She said {inflation} erodes the purchasing power of savings.", "source": "Enflasyonun tasarrufların satın alma gücünü aşındırdığını söyledi." },
+          { "target": "He said the central bank raised rates to fight {inflation}.", "source": "Merkez bankasının enflasyonla mücadele etmek için faizleri artırdığını söyledi." },
+          { "target": "She noticed that food prices had risen due to {inflation}.", "source": "Enflasyon nedeniyle gıda fiyatlarının arttığını fark etti." },
+          { "target": "He said the country had suffered years of high {inflation}.", "source": "Ülkenin yıllarca yüksek enflasyonla mücadele ettiğini söyledi." },
+          { "target": "She used an {inflation} calculator to compare prices from past years.", "source": "Geçmiş yıllardan fiyatları karşılaştırmak için enflasyon hesaplayıcısı kullandı." },
+          { "target": "He said low {inflation} is good for long-term economic planning.", "source": "Düşük enflasyonun uzun vadeli ekonomik planlama için iyi olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-4",
+        "kind": "word",
+        "term": "recession",
+        "type": "noun",
+        "meaning": "durgunluk, resesyon",
+        "examples": [
+          { "target": "She lost her job during the economic {recession}.", "source": "Ekonomik durgunluk sürecinde işini kaybetti." },
+          { "target": "He said the country had entered a technical {recession}.", "source": "Ülkenin teknik bir durgunluğa girdiğini söyledi." },
+          { "target": "She said many businesses closed during the {recession}.", "source": "Durgunluk döneminde pek çok işletmenin kapandığını söyledi." },
+          { "target": "He studied how governments responded to past {recessions}.", "source": "Hükümetlerin geçmiş durgunluklara nasıl yanıt verdiğini inceledi." },
+          { "target": "She said the {recession} had reduced consumer spending sharply.", "source": "Durgunluğun tüketici harcamalarını belirgin biçimde düşürdüğünü söyledi." },
+          { "target": "He prepared his business for a possible {recession}.", "source": "İşletmesini olası bir durgunluğa karşı hazırladı." },
+          { "target": "She said the housing market was hit hardest by the {recession}.", "source": "Konut piyasasının durgunluktan en çok etkilenen sektör olduğunu söyledi." },
+          { "target": "He read an article about how to invest during a {recession}.", "source": "Durgunluk döneminde nasıl yatırım yapılacağı hakkında bir makale okudu." },
+          { "target": "She said the government introduced a stimulus package to end the {recession}.", "source": "Hükümetin durgunluğu sona erdirmek için teşvik paketi açıkladığını söyledi." },
+          { "target": "He said the {recession} lasted longer than expected.", "source": "Durgunluğun beklenenden daha uzun sürdüğünü söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-5",
+        "kind": "word",
+        "term": "subsidy",
+        "type": "noun",
+        "meaning": "sübvansiyon, teşvik",
+        "examples": [
+          { "target": "She said the government offered a {subsidy} to green energy producers.", "source": "Hükümetin yeşil enerji üreticilerine sübvansiyon sunduğunu söyledi." },
+          { "target": "He received a housing {subsidy} because of his low income.", "source": "Düşük geliri nedeniyle konut sübvansiyonu aldı." },
+          { "target": "She said removing agricultural {subsidies} had hurt small farmers.", "source": "Tarım sübvansiyonlarının kaldırılmasının küçük çiftçilere zarar verdiğini söyledi." },
+          { "target": "He said the {subsidy} made the product affordable.", "source": "Sübvansiyonun ürünü uygun fiyatlı kıldığını söyledi." },
+          { "target": "She applied for a training {subsidy} offered by the local authority.", "source": "Yerel yönetim tarafından sunulan eğitim sübvansiyonuna başvurdu." },
+          { "target": "He said critics argued the {subsidy} distorted the market.", "source": "Eleştirmenlerin sübvansiyonun piyasayı bozduğunu ileri sürdüğünü söyledi." },
+          { "target": "She received a research {subsidy} from the government.", "source": "Hükümetten araştırma sübvansiyonu aldı." },
+          { "target": "He said the film industry benefited from a creative arts {subsidy}.", "source": "Film sektörünün yaratıcı sanatlar sübvansiyonundan yararlandığını söyledi." },
+          { "target": "She said the {subsidy} programme helped keep food prices low.", "source": "Sübvansiyon programının gıda fiyatlarının düşük kalmasına yardımcı olduğunu söyledi." },
+          { "target": "He argued that companies should not rely on {subsidies} permanently.", "source": "Şirketlerin kalıcı olarak sübvansiyonlara güvenmemesi gerektiğini savundu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-6",
+        "kind": "word",
+        "term": "expense",
+        "type": "noun",
+        "meaning": "harcama, masraf",
+        "examples": [
+          { "target": "She submitted her travel {expenses} after the trip.", "source": "Seyahatin ardından seyahat masraflarını sundu." },
+          { "target": "He said the project had gone over {expense} budget.", "source": "Projenin harcama bütçesini aştığını söyledi." },
+          { "target": "She tracked every monthly {expense} in a spreadsheet.", "source": "Her aylık harcamayı bir tabloda takip etti." },
+          { "target": "He said reducing unnecessary {expenses} was key to saving.", "source": "Gereksiz harcamaları azaltmanın tasarrufun anahtarı olduğunu söyledi." },
+          { "target": "She said the renovation was a major {expense} they had not planned for.", "source": "Yenilemenin planlamadıkları büyük bir harcama olduğunu söyledi." },
+          { "target": "He said fame often comes at the {expense} of privacy.", "source": "Şöhretin sık sık mahremiyetin pahasına geldiğini söyledi." },
+          { "target": "She was reimbursed for every business {expense}.", "source": "Her iş harcaması için geri ödeme aldı." },
+          { "target": "He said they had improved efficiency at great {expense}.", "source": "Büyük bir harcamayla verimliliği artırdıklarını söyledi." },
+          { "target": "She cut back on dining out to reduce monthly {expenses}.", "source": "Aylık harcamaları azaltmak için dışarıda yemek yemeyi kıstı." },
+          { "target": "He used an app to categorise and review his daily {expenses}.", "source": "Günlük harcamalarını kategorize etmek ve incelemek için uygulama kullandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-7",
+        "kind": "word",
+        "term": "revenue",
+        "type": "noun",
+        "meaning": "gelir, hasılat",
+        "examples": [
+          { "target": "She said the company's annual {revenue} had doubled.", "source": "Şirketin yıllık gelirinin iki katına çıktığını söyledi." },
+          { "target": "He said tourism is a major source of government {revenue}.", "source": "Turizmin önemli bir devlet geliri kaynağı olduğunu söyledi." },
+          { "target": "She tracked monthly {revenue} to identify growth patterns.", "source": "Büyüme kalıplarını belirlemek için aylık geliri takip etti." },
+          { "target": "He said the new product line boosted {revenue} significantly.", "source": "Yeni ürün serisinin geliri belirgin biçimde artırdığını söyledi." },
+          { "target": "She said advertising {revenue} supports free online content.", "source": "Reklam gelirinin ücretsiz çevrimiçi içeriği desteklediğini söyledi." },
+          { "target": "He said {revenue} and profit are not the same thing.", "source": "Gelir ile kârın aynı şey olmadığını söyledi." },
+          { "target": "She projected next year's {revenue} based on current trends.", "source": "Mevcut eğilimlere dayanarak gelecek yılın gelirini tahmin etti." },
+          { "target": "He said the merger would increase {revenue} for both companies.", "source": "Birleşmenin her iki şirketin gelirini artıracağını söyledi." },
+          { "target": "She said tax {revenue} funds public services.", "source": "Vergi gelirinin kamu hizmetlerini finanse ettiğini söyledi." },
+          { "target": "He analysed the sources of {revenue} before preparing the report.", "source": "Raporu hazırlamadan önce gelir kaynaklarını analiz etti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-8",
+        "kind": "word",
+        "term": "supplier",
+        "type": "noun",
+        "meaning": "tedarikçi",
+        "examples": [
+          { "target": "She contacted three different {suppliers} to compare prices.", "source": "Fiyatları karşılaştırmak için üç farklı tedarikçiyle iletişime geçti." },
+          { "target": "He said the {supplier} delivered the parts two days late.", "source": "Tedarikçinin parçaları iki gün geç teslim ettiğini söyledi." },
+          { "target": "She chose a local {supplier} to reduce delivery time.", "source": "Teslim süresini kısaltmak için yerel bir tedarikçi seçti." },
+          { "target": "He negotiated better payment terms with the {supplier}.", "source": "Tedarikçiyle daha iyi ödeme koşulları müzakere etti." },
+          { "target": "She said they switched {suppliers} after repeated quality issues.", "source": "Tekrar eden kalite sorunları nedeniyle tedarikçi değiştirdiklerini söyledi." },
+          { "target": "He audited the {supplier}'s factory to check conditions.", "source": "Koşulları kontrol etmek için tedarikçinin fabrikasını denetledi." },
+          { "target": "She maintained a list of approved {suppliers} for each product.", "source": "Her ürün için onaylı tedarikçilerin listesini tuttu." },
+          { "target": "He said the shortage was caused by a single {supplier} failing.", "source": "Kıtlığın tek bir tedarikçinin başarısız olmasından kaynaklandığını söyledi." },
+          { "target": "She built a strong long-term relationship with the main {supplier}.", "source": "Ana tedarikçiyle güçlü uzun vadeli bir ilişki kurdu." },
+          { "target": "He said diversifying {suppliers} reduces risk.", "source": "Tedarikçileri çeşitlendirmenin riski azalttığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-9",
+        "kind": "word",
+        "term": "demand",
+        "type": "noun",
+        "meaning": "talep, istem",
+        "examples": [
+          { "target": "She said consumer {demand} for the product had increased sharply.", "source": "Ürüne yönelik tüketici talebinin keskin biçimde arttığını söyledi." },
+          { "target": "He said the {demand} for renewable energy is growing.", "source": "Yenilenebilir enerji talebinin büyüdüğünü söyledi." },
+          { "target": "She made a formal {demand} for a refund.", "source": "Resmi bir geri ödeme talebinde bulundu." },
+          { "target": "He could not keep up with the {demand} for his handmade items.", "source": "El yapımı ürünlerine gelen talebe yetişemedi." },
+          { "target": "She said {demand} usually rises in the holiday season.", "source": "Talep'in genellikle tatil sezonunda arttığını söyledi." },
+          { "target": "He said the law of supply and {demand} governs prices.", "source": "Arz ve talep yasasının fiyatları yönettiğini söyledi." },
+          { "target": "She made demands that seemed unreasonable to the team.", "source": "Ekibe makul olmayan talepler sundu." },
+          { "target": "He said the {demand} for skilled workers outpaced supply.", "source": "Nitelikli işçi talebinin arzın önüne geçtiğini söyledi." },
+          { "target": "She responded to every {demand} of her clients promptly.", "source": "Müşterilerinin her talebine hızlıca yanıt verdi." },
+          { "target": "He said the role was very {demanding} and exhausting.", "source": "Rolün çok talepkar ve yorucu olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-10",
+        "kind": "word",
+        "term": "supply",
+        "type": "noun",
+        "meaning": "arz, tedarik",
+        "examples": [
+          { "target": "She said the {supply} of fresh water is limited.", "source": "Tatlı su arzının sınırlı olduğunu söyledi." },
+          { "target": "He managed the {supply} chain for the entire region.", "source": "Tüm bölgenin tedarik zincirini yönetti." },
+          { "target": "She ordered extra {supplies} before the busy season.", "source": "Yoğun sezonu öncesinde fazladan malzeme sipariş etti." },
+          { "target": "He said a disruption in {supply} caused prices to rise.", "source": "Arz'daki aksaklığın fiyatları artırdığını söyledi." },
+          { "target": "She checked the office {supply} cabinet and ordered what was missing.", "source": "Ofis malzeme dolabını kontrol etti ve eksikleri sipariş etti." },
+          { "target": "He said the company needed to diversify its {supply} sources.", "source": "Şirketin tedarik kaynaklarını çeşitlendirmesi gerektiğini söyledi." },
+          { "target": "She said energy {supply} was a concern for the winter months.", "source": "Enerji arzının kış ayları için bir endişe kaynağı olduğunu söyledi." },
+          { "target": "He packed emergency {supplies} for the camping trip.", "source": "Kamp gezisi için acil malzeme hazırladı." },
+          { "target": "She said the hospital kept a six-month {supply} of medicine.", "source": "Hastanenin altı aylık ilaç stoğu tuttuğunu söyledi." },
+          { "target": "He said the teacher would {supply} the students with textbooks.", "source": "Öğretmenin öğrencilere ders kitabı temin edeceğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-11",
+        "kind": "word",
+        "term": "import",
+        "type": "noun",
+        "meaning": "ithalat, ithal etmek",
+        "examples": [
+          { "target": "She said the country relies heavily on food {imports}.", "source": "Ülkenin büyük ölçüde gıda ithalatına bağımlı olduğunu söyledi." },
+          { "target": "He said the {import} tax made foreign goods more expensive.", "source": "İthalat vergisinin yabancı malları daha pahalı kıldığını söyledi." },
+          { "target": "She filled out the {import} declaration at customs.", "source": "Gümrükte ithalat beyannamesini doldurdu." },
+          { "target": "He said the company decided to {import} the raw materials.", "source": "Şirketin hammaddeleri ithal etmeye karar verdiğini söyledi." },
+          { "target": "She said the {import} of luxury goods was restricted.", "source": "Lüks ürün ithalatının kısıtlandığını söyledi." },
+          { "target": "He understood the full {import} of the announcement.", "source": "Açıklamanın tam önemini kavradı." },
+          { "target": "She managed the {import} logistics for the new product line.", "source": "Yeni ürün serisi için ithalat lojistiğini yönetti." },
+          { "target": "He checked the {import} regulations before placing the order.", "source": "Sipariş vermeden önce ithalat yönetmeliklerini kontrol etti." },
+          { "target": "She said the rise in {imports} had widened the trade deficit.", "source": "İthalattaki artışın ticaret açığını genişlettiğini söyledi." },
+          { "target": "He said it is cheaper to {import} than to produce locally.", "source": "Yerel üretimden çok ithal etmenin daha ucuz olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-12",
+        "kind": "word",
+        "term": "export",
+        "type": "noun",
+        "meaning": "ihracat, ihraç etmek",
+        "examples": [
+          { "target": "She said oil is the country's main {export}.", "source": "Petrolün ülkenin ana ihracat ürünü olduğunu söyledi." },
+          { "target": "He worked in the {export} division of a manufacturing company.", "source": "Bir üretim şirketinin ihracat bölümünde çalıştı." },
+          { "target": "She said the government aims to increase {exports} by ten percent.", "source": "Hükümetin ihracatı yüzde on artırmayı hedeflediğini söyledi." },
+          { "target": "He helped prepare the {export} documentation.", "source": "İhracat belgelerini hazırlamaya yardımcı oldu." },
+          { "target": "She said the company began to {export} its products last year.", "source": "Şirketin ürünlerini geçen yıl ihraç etmeye başladığını söyledi." },
+          { "target": "He said strong {exports} helped reduce the trade deficit.", "source": "Güçlü ihracatın ticaret açığını azaltmaya yardımcı olduğunu söyledi." },
+          { "target": "She said the café {exports} its signature blend to three countries.", "source": "Kafenin imza karışımını üç ülkeye ihraç ettiğini söyledi." },
+          { "target": "He said they planned to {export} the technology overseas.", "source": "Teknolojiyi yurt dışına ihraç etmeyi planladıklarını söyledi." },
+          { "target": "She said the {export} of cultural goods had grown steadily.", "source": "Kültürel ürün ihracatının istikrarlı biçimde büyüdüğünü söyledi." },
+          { "target": "He said the {export} licence was approved after six weeks.", "source": "İhracat lisansının altı haftadan sonra onaylandığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-13",
+        "kind": "word",
+        "term": "trade",
+        "type": "noun",
+        "meaning": "ticaret, meslek",
+        "examples": [
+          { "target": "She said {trade} between the two countries had grown.", "source": "İki ülke arasındaki ticaretin büyüdüğünü söyledi." },
+          { "target": "He learned a skilled {trade} at the local vocational school.", "source": "Yerel meslek okulunda beceri gerektiren bir meslek öğrendi." },
+          { "target": "She said the {trade} deal took three years to negotiate.", "source": "Ticaret anlaşmasının müzakere edilmesinin üç yıl aldığını söyledi." },
+          { "target": "He worked in the construction {trade} for fifteen years.", "source": "On beş yıl inşaat sektöründe çalıştı." },
+          { "target": "She said {trade} fairs are great for meeting new buyers.", "source": "Ticaret fuarlarının yeni alıcılarla tanışmak için harika olduğunu söyledi." },
+          { "target": "He said the {trade} route linked the east and west for centuries.", "source": "Ticaret yolunun yüzyıllarca doğuyu ve batıyı birbirine bağladığını söyledi." },
+          { "target": "She decided to {trade} her old laptop for a newer model.", "source": "Eski dizüstü bilgisayarını yeni bir modelle takas etmeye karar verdi." },
+          { "target": "He said free {trade} benefits consumers with lower prices.", "source": "Serbest ticaretin tüketicilere daha düşük fiyatlarla fayda sağladığını söyledi." },
+          { "target": "She said {trade} secrets must be carefully protected.", "source": "Ticaret sırlarının dikkatle korunması gerektiğini söyledi." },
+          { "target": "He said a plumber was a skilled {trade} worth pursuing.", "source": "Tesisatçılığın değer verilmesi gereken becerili bir meslek olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-79-14",
+        "kind": "word",
+        "term": "consumer",
+        "type": "noun",
+        "meaning": "tüketici",
+        "examples": [
+          { "target": "She said {consumers} are becoming more aware of environmental issues.", "source": "Tüketicilerin çevre sorunları konusunda daha bilinçli hale geldiğini söyledi." },
+          { "target": "He said the new law protects {consumer} rights.", "source": "Yeni yasanın tüketici haklarını koruduğunu söyledi." },
+          { "target": "She said {consumer} spending drives economic growth.", "source": "Tüketici harcamalarının ekonomik büyümeyi yönlendirdiğini söyledi." },
+          { "target": "He filed a complaint through the {consumer} protection agency.", "source": "Tüketici koruma ajansı aracılığıyla şikayette bulundu." },
+          { "target": "She said the product was designed with the {consumer} in mind.", "source": "Ürünün tüketici gözetilerek tasarlandığını söyledi." },
+          { "target": "He said {consumer} confidence had dropped after the announcement.", "source": "Duyurunun ardından tüketici güveninin düştüğünü söyledi." },
+          { "target": "She said the survey measured {consumer} satisfaction.", "source": "Anketin tüketici memnuniyetini ölçtüğünü söyledi." },
+          { "target": "He said {consumers} have more choice than ever before.", "source": "Tüketicilerin her zamankinden daha fazla seçeneğe sahip olduğunu söyledi." },
+          { "target": "She said companies must listen to {consumer} feedback.", "source": "Şirketlerin tüketici geri bildirimlerini dinlemesi gerektiğini söyledi." },
+          { "target": "He said the {consumer} is ultimately who the business serves.", "source": "İşletmenin nihayetinde tüketiciye hizmet ettiğini söyledi." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-80",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 80",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-80-0",
+        "kind": "word",
+        "term": "consecutive",
+        "type": "adjective",
+        "meaning": "ardışık, arka arkaya",
+        "examples": [
+          { "target": "She won the award for three {consecutive} years.", "source": "Üç yıl arka arkaya ödülü kazandı." },
+          { "target": "He worked for ten {consecutive} hours without a break.", "source": "On saat arka arkaya mola vermeden çalıştı." },
+          { "target": "She said the team had won seven {consecutive} matches.", "source": "Takımın yedi maçı arka arkaya kazandığını söyledi." },
+          { "target": "He received two {consecutive} warnings from the referee.", "source": "Hakemden arka arkaya iki uyarı aldı." },
+          { "target": "She worked four {consecutive} night shifts at the hospital.", "source": "Hastanede dört arka arkaya gece vardiyasında çalıştı." },
+          { "target": "He said the country had experienced five {consecutive} years of growth.", "source": "Ülkenin beş yıl arka arkaya büyüme yaşadığını söyledi." },
+          { "target": "She read three {consecutive} chapters before stopping.", "source": "Durmadan önce arka arkaya üç bölüm okudu." },
+          { "target": "He spent three {consecutive} weekends painting the house.", "source": "Üç hafta sonu arka arkaya evi boyayarak geçirdi." },
+          { "target": "She said {consecutive} delays had frustrated the passengers.", "source": "Arka arkaya yaşanan gecikmelerin yolcuları çileden çıkardığını söyledi." },
+          { "target": "He said the suspects received {consecutive} prison sentences.", "source": "Sanıkların arka arkaya hapis cezası aldığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-1",
+        "kind": "word",
+        "term": "simultaneous",
+        "type": "adjective",
+        "meaning": "eş zamanlı, aynı anda olan",
+        "examples": [
+          { "target": "She said the two events were {simultaneous}.", "source": "İki olayın eş zamanlı gerçekleştiğini söyledi." },
+          { "target": "He provided {simultaneous} interpretation during the summit.", "source": "Zirve sırasında eş zamanlı tercümanlık yaptı." },
+          { "target": "She said {simultaneous} tasks can reduce focus and quality.", "source": "Eş zamanlı görevlerin odağı ve kaliteyi düşürebileceğini söyledi." },
+          { "target": "He launched the product in {simultaneous} markets across five countries.", "source": "Ürünü beş ülkede eş zamanlı piyasalarda tanıttı." },
+          { "target": "She said the {simultaneous} broadcast reached millions.", "source": "Eş zamanlı yayının milyonlara ulaştığını söyledi." },
+          { "target": "He said it is hard to have {simultaneous} conversations.", "source": "Eş zamanlı konuşmalar yapmanın zor olduğunu söyledi." },
+          { "target": "She read and listened to music {simultaneously}.", "source": "Okurken aynı anda müzik dinledi." },
+          { "target": "He said the signals arrived {simultaneously} from both directions.", "source": "Her iki yönden sinyallerin aynı anda geldiğini söyledi." },
+          { "target": "She coordinated the {simultaneous} release of the album worldwide.", "source": "Albümün dünya genelinde eş zamanlı yayınlanmasını koordine etti." },
+          { "target": "He said the system processes {simultaneous} requests efficiently.", "source": "Sistemin eş zamanlı istekleri verimli şekilde işlediğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-2",
+        "kind": "word",
+        "term": "eventual",
+        "type": "adjective",
+        "meaning": "nihai, er ya da geç olan",
+        "examples": [
+          { "target": "She said the {eventual} outcome was better than expected.", "source": "Nihai sonucun beklenenden daha iyi olduğunu söyledi." },
+          { "target": "He said the {eventual} winner had worked harder than anyone.", "source": "Nihai kazananın herkesten daha çok çalıştığını söyledi." },
+          { "target": "She prepared for the {eventual} end of the project.", "source": "Projenin er ya da geç sona ermesi için hazırlandı." },
+          { "target": "He said the {eventual} collapse of the plan was predictable.", "source": "Planın er ya da geç çökeceğinin tahmin edilebilir olduğunu söyledi." },
+          { "target": "She said {eventual} success required patience and persistence.", "source": "Nihai başarının sabır ve kararlılık gerektirdiğini söyledi." },
+          { "target": "He said the {eventual} decision rested with the committee.", "source": "Nihai kararın komitede olduğunu söyledi." },
+          { "target": "She worked toward the {eventual} goal of owning a business.", "source": "Bir işletmeye sahip olma nihai hedefi doğrultusunda çalıştı." },
+          { "target": "He said the {eventual} resolution brought relief to everyone.", "source": "Nihai çözümün herkese rahatlama getirdiğini söyledi." },
+          { "target": "She said his {eventual} acceptance of the offer was surprising.", "source": "Teklifi er ya da geç kabul etmesinin şaşırtıcı olduğunu söyledi." },
+          { "target": "He said the team looked forward to their {eventual} reunion.", "source": "Ekibin er ya da geç gerçekleşecek yeniden bir araya gelmeyi dört gözle beklediğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-3",
+        "kind": "word",
+        "term": "timely",
+        "type": "adjective",
+        "meaning": "zamanında, uygun zamanlı",
+        "examples": [
+          { "target": "She said the {timely} warning saved many lives.", "source": "Zamanında yapılan uyarının pek çok hayat kurtardığını söyledi." },
+          { "target": "He made a {timely} intervention before the argument escalated.", "source": "Tartışma tırmanmadan zamanında müdahale etti." },
+          { "target": "She appreciated the {timely} feedback on her work.", "source": "Çalışması hakkında zamanında verilen geri bildirimi takdirle karşıladı." },
+          { "target": "He said a {timely} decision could have changed the outcome.", "source": "Zamanında alınan bir kararın sonucu değiştirebileceğini söyledi." },
+          { "target": "She completed the report in a {timely} fashion.", "source": "Raporu zamanında tamamladı." },
+          { "target": "He said a {timely} response is important in customer service.", "source": "Müşteri hizmetlerinde zamanında yanıt vermenin önemli olduğunu söyledi." },
+          { "target": "She said the article was {timely} given the recent events.", "source": "Makalenin son olaylar göz önünde bulundurulduğunda zamanında çıktığını söyledi." },
+          { "target": "He provided {timely} support when she needed it most.", "source": "En çok ihtiyaç duyduğu anda zamanında destek verdi." },
+          { "target": "She said a {timely} reminder helped her meet the deadline.", "source": "Zamanında yapılan hatırlatmanın son tarihe yetişmesine yardımcı olduğunu söyledi." },
+          { "target": "He described the investment as {timely} and well-judged.", "source": "Yatırımı zamanında ve iyi değerlendirilmiş olarak nitelendirdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-4",
+        "kind": "word",
+        "term": "prompt",
+        "type": "adjective",
+        "meaning": "hızlı, anında, zamanında",
+        "examples": [
+          { "target": "She said the {prompt} reply impressed the client.", "source": "Hızlı yanıtın müşteriyi etkilediğini söyledi." },
+          { "target": "He was known for his {prompt} responses to emails.", "source": "E-postalara hızlı yanıt vermesiyle bilinirdi." },
+          { "target": "She appreciated the {prompt} delivery of her order.", "source": "Siparişinin hızlı teslimatını takdirle karşıladı." },
+          { "target": "He said {prompt} action prevented a larger problem.", "source": "Hızlı hareketin daha büyük bir sorunu önlediğini söyledi." },
+          { "target": "She asked the students to be {prompt} for the morning session.", "source": "Öğrencilerden sabah oturumuna zamanında gelmelerini istedi." },
+          { "target": "He used a writing {prompt} to get started on his essay.", "source": "Denemesine başlamak için yazma yönlendirici ipucu kullandı." },
+          { "target": "She said the team's {prompt} response avoided a crisis.", "source": "Ekibin hızlı tepkisinin bir krizi önlediğini söyledi." },
+          { "target": "He typed the {prompt} into the AI tool and read the output.", "source": "Yapay zeka aracına yönlendirici metni yazdı ve çıktıyı okudu." },
+          { "target": "She described the service as {prompt} and professional.", "source": "Hizmeti hızlı ve profesyonel olarak nitelendirdi." },
+          { "target": "He said the {prompt} attention of medical staff saved the patient.", "source": "Sağlık personelinin hızlı müdahalesinin hastayı kurtardığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-5",
+        "kind": "word",
+        "term": "duration",
+        "type": "noun",
+        "meaning": "süre, müddet",
+        "examples": [
+          { "target": "She said the {duration} of the event was three hours.", "source": "Etkinliğin süresinin üç saat olduğunu söyledi." },
+          { "target": "He checked the {duration} of the flight before booking.", "source": "Rezervasyon yapmadan önce uçuşun süresini kontrol etti." },
+          { "target": "She said the treatment required a long {duration}.", "source": "Tedavinin uzun bir süre gerektirdiğini söyledi." },
+          { "target": "He said the contract had a {duration} of two years.", "source": "Sözleşmenin iki yıllık bir süresi olduğunu söyledi." },
+          { "target": "She tracked the {duration} of her daily exercise sessions.", "source": "Günlük egzersiz oturumlarının süresini takip etti." },
+          { "target": "He said the average call {duration} had increased this month.", "source": "Bu ay ortalama görüşme süresinin arttığını söyledi." },
+          { "target": "She said the {duration} of the journey depends on traffic.", "source": "Yolculuğun süresinin trafiğe bağlı olduğunu söyledi." },
+          { "target": "He set a maximum {duration} for each meeting.", "source": "Her toplantı için maksimum süre belirledi." },
+          { "target": "She said the course ran for the entire {duration} of the term.", "source": "Kursun dönemin tamamı boyunca devam ettiğini söyledi." },
+          { "target": "He recorded the {duration} of each task to improve efficiency.", "source": "Verimliliği artırmak için her görevin süresini kaydetti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-6",
+        "kind": "word",
+        "term": "prior",
+        "type": "adjective",
+        "meaning": "önceki, önceden",
+        "examples": [
+          { "target": "She said {prior} experience was required for the role.", "source": "Rol için önceki deneyimin gerekli olduğunu söyledi." },
+          { "target": "He had no {prior} knowledge of the topic.", "source": "Konu hakkında önceden bilgisi yoktu." },
+          { "target": "She said the meeting had been arranged {prior} to the announcement.", "source": "Toplantının duyurudan önce ayarlandığını söyledi." },
+          { "target": "He checked his {prior} commitments before agreeing.", "source": "Kabul etmeden önce önceki taahhütlerini kontrol etti." },
+          { "target": "She said {prior} approval was needed for any major expense.", "source": "Büyük harcamalar için önceden onay gerektiğini söyledi." },
+          { "target": "He said his {prior} work experience helped him get the job.", "source": "Önceki iş deneyiminin işi almasına yardımcı olduğunu söyledi." },
+          { "target": "She completed a {prior} reading list before the course began.", "source": "Kurs başlamadan önce önceki okuma listesini tamamladı." },
+          { "target": "He said the suspect had no {prior} criminal record.", "source": "Şüphelinin önceki bir sabıka kaydı olmadığını söyledi." },
+          { "target": "She said the decision was made without her {prior} knowledge.", "source": "Kararın onun önceden bilgisi olmadan alındığını söyledi." },
+          { "target": "He said the event was cancelled {prior} to the day.", "source": "Etkinliğin günden önce iptal edildiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-7",
+        "kind": "word",
+        "term": "recent",
+        "type": "adjective",
+        "meaning": "son, yeni, yakın zamanda",
+        "examples": [
+          { "target": "She showed him a {recent} photo of the family.", "source": "Ona ailenin yeni bir fotoğrafını gösterdi." },
+          { "target": "He said the {recent} changes had confused the team.", "source": "Son değişikliklerin ekibi şaşırttığını söyledi." },
+          { "target": "She said the {recent} report showed positive results.", "source": "Son raporun olumlu sonuçlar gösterdiğini söyledi." },
+          { "target": "He referred to {recent} events in his speech.", "source": "Konuşmasında son olaylara atıfta bulundu." },
+          { "target": "She said the {recent} upgrade improved the system's speed.", "source": "Son yükseltmenin sistemin hızını artırdığını söyledi." },
+          { "target": "He was not aware of the {recent} development until today.", "source": "Bugüne kadar son gelişmeden haberdar değildi." },
+          { "target": "She reviewed the {recent} feedback before her appraisal.", "source": "Değerlendirmesinden önce son geri bildirimleri inceledi." },
+          { "target": "He said the {recent} study confirmed earlier findings.", "source": "Son çalışmanın daha önceki bulguları doğruladığını söyledi." },
+          { "target": "She said her {recent} trip had changed her perspective.", "source": "Son gezisinin bakış açısını değiştirdiğini söyledi." },
+          { "target": "He said the {recent} merger affected thousands of employees.", "source": "Son birleşmenin binlerce çalışanı etkilediğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-8",
+        "kind": "word",
+        "term": "temporary",
+        "type": "adjective",
+        "meaning": "geçici",
+        "examples": [
+          { "target": "She took a {temporary} job while waiting for a permanent position.", "source": "Kalıcı bir pozisyon beklerken geçici bir iş aldı." },
+          { "target": "He said the road closure was {temporary}.", "source": "Yol kapanmasının geçici olduğunu söyledi." },
+          { "target": "She said the pain was {temporary} and would fade.", "source": "Acının geçici olduğunu ve geçeceğini söyledi." },
+          { "target": "He set up a {temporary} office while the building was renovated.", "source": "Bina tadilat süresince geçici ofis kurdu." },
+          { "target": "She used a {temporary} solution while the permanent fix was planned.", "source": "Kalıcı çözüm planlanırken geçici bir çözüm kullandı." },
+          { "target": "He said the {temporary} measure became a long-term one.", "source": "Geçici önlemin uzun vadeli bir hale geldiğini söyledi." },
+          { "target": "She said the {temporary} staff covered the busy holiday season.", "source": "Geçici personelin yoğun tatil sezonunu kapsamına aldığını söyledi." },
+          { "target": "He moved into {temporary} accommodation after the flood.", "source": "Taşkından sonra geçici konuta taşındı." },
+          { "target": "She said her {temporary} absence had caused some confusion.", "source": "Geçici yokluğunun bir miktar karışıklığa neden olduğunu söyledi." },
+          { "target": "He said every setback is {temporary} if you keep going.", "source": "Devam ettiğin sürece her başarısızlığın geçici olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-9",
+        "kind": "word",
+        "term": "permanent",
+        "type": "adjective",
+        "meaning": "kalıcı, daimi",
+        "examples": [
+          { "target": "She was offered a {permanent} contract after six months.", "source": "Altı ayın ardından kalıcı sözleşme teklif edildi." },
+          { "target": "He said the scar was {permanent} but faded over time.", "source": "İzin kalıcı olduğunu ama zamanla solduğunu söyledi." },
+          { "target": "She made a {permanent} change to her daily routine.", "source": "Günlük rutininde kalıcı bir değişiklik yaptı." },
+          { "target": "He said the company was looking for a {permanent} solution.", "source": "Şirketin kalıcı bir çözüm aradığını söyledi." },
+          { "target": "She got a {permanent} resident visa after years of waiting.", "source": "Yıllarca bekledikten sonra kalıcı oturma vizesi aldı." },
+          { "target": "He said the damage to the painting was {permanent}.", "source": "Tablodaki hasarın kalıcı olduğunu söyledi." },
+          { "target": "She said the bridge was built as a {permanent} structure.", "source": "Köprünün kalıcı bir yapı olarak inşa edildiğini söyledi." },
+          { "target": "He accepted the {permanent} position and handed in his notice.", "source": "Kalıcı pozisyonu kabul etti ve ihbar süresini başlattı." },
+          { "target": "She said the {permanent} marker would not wash off.", "source": "Kalıcı kalemin yıkandığında çıkmayacağını söyledi." },
+          { "target": "He said some memories feel {permanent} no matter how much time passes.", "source": "Bazı anıların ne kadar zaman geçerse geçsin kalıcı hissettirdiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-10",
+        "kind": "word",
+        "term": "frequent",
+        "type": "adjective",
+        "meaning": "sık, sık sık olan",
+        "examples": [
+          { "target": "She said the buses were {frequent} during rush hour.", "source": "Yoğun saatlerde otobüslerin sık çalıştığını söyledi." },
+          { "target": "He was a {frequent} visitor to the library.", "source": "Kütüphanenin sık ziyaretçisiydi." },
+          { "target": "She said {frequent} exercise improved her mood.", "source": "Sık egzersizin ruh halini iyileştirdiğini söyledi." },
+          { "target": "He complained about the {frequent} interruptions during work.", "source": "İş sırasında sık yaşanan kesintilerden şikayet etti." },
+          { "target": "She signed up for a {frequent} flyer programme.", "source": "Sık uçan yolcu programına kaydoldu." },
+          { "target": "He said {frequent} feedback helped him improve quickly.", "source": "Sık geri bildirimin hızlı gelişmesine yardımcı olduğunu söyledi." },
+          { "target": "She said {frequent} headaches were a sign of stress.", "source": "Sık baş ağrısının stres belirtisi olduğunu söyledi." },
+          { "target": "He became a {frequent} contributor to the blog.", "source": "Blogun sık katkıda bulunanlarından biri oldu." },
+          { "target": "She said their {frequent} arguments were exhausting.", "source": "Sık yaşanan tartışmalarının yorucu olduğunu söyledi." },
+          { "target": "He said {frequent} breaks improved his focus during long tasks.", "source": "Uzun görevlerde sık mola almanın odağını artırdığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-11",
+        "kind": "word",
+        "term": "occasional",
+        "type": "adjective",
+        "meaning": "ara sıra olan, münasebete özgü",
+        "examples": [
+          { "target": "She enjoyed an {occasional} treat without feeling guilty.", "source": "Suçluluk duymadan ara sıra kendini şımartırdı." },
+          { "target": "He said the {occasional} meeting was fine but weekly was too much.", "source": "Ara sıra toplantının iyi olduğunu ama haftalık olanın fazla olduğunu söyledi." },
+          { "target": "She made {occasional} trips to the countryside to relax.", "source": "Dinlenmek için ara sıra kırsal alana geziler yapardı." },
+          { "target": "He said the system had {occasional} glitches but worked well overall.", "source": "Sistemin ara sıra hata yaptığını ama genel olarak iyi çalıştığını söyledi." },
+          { "target": "She wrote {occasional} articles for the local newspaper.", "source": "Yerel gazete için ara sıra makaleler yazdı." },
+          { "target": "He said the {occasional} disagreement was normal in a team.", "source": "Ara sıra yaşanan anlaşmazlığın bir ekipte normal olduğunu söyledi." },
+          { "target": "She allowed herself an {occasional} late night.", "source": "Ara sıra geç saate kadar uyanık kalmasına izin verdi." },
+          { "target": "He sent {occasional} postcards from his travels.", "source": "Gezilerinden ara sıra kartpostallar gönderdi." },
+          { "target": "She said the {occasional} cloud made the weather pleasant.", "source": "Ara sıra beliren bulutların havayı güzel kıldığını söyledi." },
+          { "target": "He said the {occasional} disruption was the price of progress.", "source": "Ara sıra yaşanan aksaklığın ilerlemenin bedeli olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-12",
+        "kind": "word",
+        "term": "immediate",
+        "type": "adjective",
+        "meaning": "anında, acil, yakın",
+        "examples": [
+          { "target": "She needed {immediate} medical attention after the fall.", "source": "Düşmesinin ardından acil tıbbi yardıma ihtiyaç duydu." },
+          { "target": "He said the {immediate} priority was to secure the area.", "source": "Acil önceliğin bölgeyi güvence altına almak olduğunu söyledi." },
+          { "target": "She requested an {immediate} response from the team.", "source": "Ekipten anında yanıt istedi." },
+          { "target": "He said the {immediate} impact of the decision was positive.", "source": "Kararın anlık etkisinin olumlu olduğunu söyledi." },
+          { "target": "She moved to be closer to her {immediate} family.", "source": "Yakın ailesine daha yakın olmak için taşındı." },
+          { "target": "He said the {immediate} area around the station was crowded.", "source": "İstasyonun yakın çevresinin kalabalık olduğunu söyledi." },
+          { "target": "She said the {immediate} concern was the children's safety.", "source": "Acil endişenin çocukların güvenliği olduğunu söyledi." },
+          { "target": "He took {immediate} action when he noticed the error.", "source": "Hatayı fark ettiğinde anında harekete geçti." },
+          { "target": "She said the problem required an {immediate} fix.", "source": "Sorunun acil bir çözüm gerektirdiğini söyledi." },
+          { "target": "He said his {immediate} reaction was disbelief.", "source": "Anlık tepkisinin inanamama olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-13",
+        "kind": "word",
+        "term": "previous",
+        "type": "adjective",
+        "meaning": "önceki, geçmiş",
+        "examples": [
+          { "target": "She compared her {previous} salary with the new offer.", "source": "Önceki maaşını yeni teklifle karşılaştırdı." },
+          { "target": "He said his {previous} employer gave him a strong reference.", "source": "Önceki işvereninin ona güçlü bir referans verdiğini söyledi." },
+          { "target": "She looked back at her {previous} work and saw how far she had come.", "source": "Önceki çalışmalarına baktı ve ne kadar yol kat ettiğini gördü." },
+          { "target": "He said the {previous} version of the software had more bugs.", "source": "Yazılımın önceki sürümünün daha fazla hata içerdiğini söyledi." },
+          { "target": "She said her {previous} experience in marketing was helpful.", "source": "Pazarlamadaki önceki deneyiminin faydalı olduğunu söyledi." },
+          { "target": "He deleted the {previous} draft and started fresh.", "source": "Önceki taslağı sildi ve yeniden başladı." },
+          { "target": "She said the {previous} owner had kept the house in great condition.", "source": "Önceki sahibinin evi çok iyi durumda tuttuğunu söyledi." },
+          { "target": "He said the {previous} meeting had already covered that topic.", "source": "Önceki toplantının o konuyu zaten ele aldığını söyledi." },
+          { "target": "She referred to her {previous} research to support the argument.", "source": "Argümanı desteklemek için önceki araştırmasına atıfta bulundu." },
+          { "target": "He said the {previous} year had been the most challenging of his career.", "source": "Önceki yılın kariyerinin en zorlu yılı olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-80-14",
+        "kind": "word",
+        "term": "upcoming",
+        "type": "adjective",
+        "meaning": "yaklaşan, önümüzdeki",
+        "examples": [
+          { "target": "She said the {upcoming} event would be held in the park.", "source": "Yaklaşan etkinliğin parkta düzenleneceğini söyledi." },
+          { "target": "He prepared thoroughly for the {upcoming} presentation.", "source": "Yaklaşan sunum için kapsamlı hazırlık yaptı." },
+          { "target": "She checked the calendar for {upcoming} deadlines.", "source": "Takvimi yaklaşan son tarihler için kontrol etti." },
+          { "target": "He said the {upcoming} election was expected to be close.", "source": "Yaklaşan seçimin çekişmeli geçmesi beklendiğini söyledi." },
+          { "target": "She promoted the {upcoming} sale on social media.", "source": "Yaklaşan indirimi sosyal medyada duyurdu." },
+          { "target": "He said the {upcoming} changes would affect all employees.", "source": "Yaklaşan değişikliklerin tüm çalışanları etkileyeceğini söyledi." },
+          { "target": "She bought tickets for the {upcoming} concert.", "source": "Yaklaşan konser için bilet aldı." },
+          { "target": "He sent a reminder about the {upcoming} meeting to the team.", "source": "Ekibe yaklaşan toplantı hakkında hatırlatma gönderdi." },
+          { "target": "She was excited about the {upcoming} holiday season.", "source": "Yaklaşan tatil sezonu için heyecanlıydı." },
+          { "target": "He said the {upcoming} review would determine his future at the company.", "source": "Yaklaşan değerlendirmenin şirketteki geleceğini belirleyeceğini söyledi." }
+        ]
+      }
+    ]
+  }
+]

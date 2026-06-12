@@ -1,0 +1,592 @@
+[
+  {
+    "id": "en-tr-beginner-76",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 76",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-76-0",
+        "kind": "word",
+        "term": "premiere",
+        "type": "noun",
+        "meaning": "gala, ilk gösterim",
+        "examples": [
+          { "target": "She attended the world {premiere} of the new film.", "source": "Yeni filmin dünya gala gösterimine katıldı." },
+          { "target": "He walked the red carpet at the {premiere}.", "source": "Galada kırmızı halıda yürüdü." },
+          { "target": "She was nervous before the {premiere} of her first play.", "source": "İlk oyununun prömiyerinden önce heyecanlıydı." },
+          { "target": "He said the {premiere} was sold out within hours.", "source": "Prömiyerin saatler içinde dolduğunu söyledi." },
+          { "target": "She watched the streaming {premiere} at midnight.", "source": "Dijital yayın prömiyerini gece yarısı izledi." },
+          { "target": "He interviewed the director on the night of the {premiere}.", "source": "Gala gecesinde yönetmenle röportaj yaptı." },
+          { "target": "She wore a gown specially made for the film {premiere}.", "source": "Film galası için özel yapılmış bir gece elbisesi giydi." },
+          { "target": "He said the {premiere} received a standing ovation.", "source": "Prömiyerin ayakta alkış aldığını söyledi." },
+          { "target": "She livestreamed the theatre {premiere} to her followers.", "source": "Tiyatro prömiyerini takipçilerine canlı yayınladı." },
+          { "target": "He was moved to tears at the {premiere} of the documentary.", "source": "Belgeselin prömiyerinde gözleri doldu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-1",
+        "kind": "word",
+        "term": "encore",
+        "type": "noun",
+        "meaning": "tekrar sahneye çağırma, bisli",
+        "examples": [
+          { "target": "She shouted for an {encore} after the breathtaking performance.", "source": "Nefes kesen performansın ardından tekrar sahneye çağırdı." },
+          { "target": "He played two {encore} songs before leaving the stage.", "source": "Sahneyi terk etmeden önce iki bis şarkı çaldı." },
+          { "target": "She said the crowd demanded an {encore} with thunderous applause.", "source": "Kalabalığın gürleyen alkışlarla tekrar sahneye çağırdığını söyledi." },
+          { "target": "He stayed until the final {encore} ended.", "source": "Son bis bitene kadar kaldı." },
+          { "target": "She clapped louder than anyone else to get an {encore}.", "source": "Bis almak için herkesten daha yüksek sesle alkışladı." },
+          { "target": "He described the {encore} as better than the main show.", "source": "Bisi asıl gösteriden daha iyi olarak nitelendirdi." },
+          { "target": "She waited in the dark hoping for one more {encore}.", "source": "Bir bis daha umuduyla karanlıkta bekledi." },
+          { "target": "He said the band surprised everyone with an unplanned {encore}.", "source": "Grubun planlanmamış bir bisli herkesi şaşırttığını söyledi." },
+          { "target": "She loved how the {encore} brought the audience back to its feet.", "source": "Bisin seyircileri tekrar ayağa kaldırmasını sevdi." },
+          { "target": "He called the second album an {encore} to their debut success.", "source": "İkinci albümü ilk başarılarının bir devamı olarak nitelendirdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-2",
+        "kind": "word",
+        "term": "conductor",
+        "type": "noun",
+        "meaning": "şef, kondüktör, iletken",
+        "examples": [
+          { "target": "She watched the {conductor} lead the orchestra with precision.", "source": "Şefin orkestraya hassasiyetle liderlik etmesini izledi." },
+          { "target": "He trained for years to become an orchestra {conductor}.", "source": "Orkestra şefi olmak için yıllarca eğitim aldı." },
+          { "target": "She sat near the front so she could watch the {conductor}.", "source": "Şefi izleyebilmek için öne yakın oturdu." },
+          { "target": "He said the {conductor} set the mood for the whole concert.", "source": "Şefin tüm konser için atmosferi belirlediğini söyledi." },
+          { "target": "She checked the ticket with the train {conductor}.", "source": "Biletini tren kondüktörüne kontrol ettirdi." },
+          { "target": "He learned that copper is an excellent electrical {conductor}.", "source": "Bakırın mükemmel bir elektrik iletkenil olduğunu öğrendi." },
+          { "target": "She said the {conductor} raised his baton and silence fell.", "source": "Şefin batonunu kaldırmasıyla salonun sessizleştiğini söyledi." },
+          { "target": "He read about the famous {conductor} who retired last year.", "source": "Geçen yıl emekliye ayrılan ünlü şef hakkında okudu." },
+          { "target": "She said lightning rods act as {conductors} to protect buildings.", "source": "Paratoner çubuklarının binaları korumak için iletken görevi gördüğünü söyledi." },
+          { "target": "He appreciated how the {conductor} guided each section of the orchestra.", "source": "Şefin orkestranın her bölümünü nasıl yönlendirdiğini takdirle izledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-3",
+        "kind": "word",
+        "term": "canvas",
+        "type": "noun",
+        "meaning": "tuval, bez",
+        "examples": [
+          { "target": "She stretched a blank {canvas} over the wooden frame.", "source": "Ahşap çerçevenin üstüne boş bir tuval gerdirdi." },
+          { "target": "He mixed colours and applied them directly to the {canvas}.", "source": "Renkleri karıştırdı ve doğrudan tuvale sürdü." },
+          { "target": "She gave him a large {canvas} painting as a birthday gift.", "source": "Doğum günü hediyesi olarak büyük bir tuval tablo verdi." },
+          { "target": "He said the blank {canvas} always intimidated him before starting.", "source": "Başlamadan önce boş tüvalin her zaman onu korkuttuğunu söyledi." },
+          { "target": "She packed her {canvas} bag for the trip to the market.", "source": "Pazara gitmek için bez çantasını doldurdu." },
+          { "target": "He said the city was like a {canvas} for street artists.", "source": "Şehrin sokak sanatçıları için bir tuval gibi olduğunu söyledi." },
+          { "target": "She bought a set of {canvas} panels for the art class.", "source": "Sanat dersi için bir set tuval paneli satın aldı." },
+          { "target": "He wore {canvas} trainers to the casual event.", "source": "Günlük etkinliğe bez spor ayakkabı giydi." },
+          { "target": "She treated the wall of her studio as her largest {canvas}.", "source": "Stüdyosunun duvarını en büyük tuvali olarak değerlendirdi." },
+          { "target": "He hung the finished {canvas} above the fireplace.", "source": "Bitmiş tuvali şöminenin üstüne astı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-4",
+        "kind": "word",
+        "term": "portrait",
+        "type": "noun",
+        "meaning": "portre, resim",
+        "examples": [
+          { "target": "She commissioned an oil {portrait} of her grandmother.", "source": "Büyükannesinin yağlıboya portresini sipariş etti." },
+          { "target": "He painted a detailed {portrait} in just two hours.", "source": "Sadece iki saatte ayrıntılı bir portre çizdi." },
+          { "target": "She said the {portrait} captured his personality perfectly.", "source": "Portrenin kişiliğini mükemmel şekilde yansıttığını söyledi." },
+          { "target": "He turned his phone to {portrait} mode for the photo.", "source": "Fotoğraf için telefonunu dikey konuma getirdi." },
+          { "target": "She recognised the {portrait} hanging in the museum corridor.", "source": "Müze koridorunda asılı portreyi tanıdı." },
+          { "target": "He said the {portrait} of the queen had been there for centuries.", "source": "Kraliçenin portresinin yüzyıllardır orada asılı olduğunu söyledi." },
+          { "target": "She sketched a quick pencil {portrait} during the lecture.", "source": "Ders sırasında hızlıca karakalem portresi çizdi." },
+          { "target": "He gave the article a human {portrait} of the community.", "source": "Makaleye topluluğun insani bir portresini ekledi." },
+          { "target": "She described the documentary as a vivid {portrait} of life there.", "source": "Belgeseli oradaki yaşamın canlı bir portresi olarak tanımladı." },
+          { "target": "He studied the brush strokes in the famous {portrait}.", "source": "Ünlü portredeki fırça darbelerini inceledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-5",
+        "kind": "word",
+        "term": "sculpture",
+        "type": "noun",
+        "meaning": "heykel, yontu",
+        "examples": [
+          { "target": "She stood in front of the marble {sculpture} for a long time.", "source": "Uzun süre mermer heykelin önünde durdu." },
+          { "target": "He created a large bronze {sculpture} for the park.", "source": "Park için büyük bir bronz heykel yarattı." },
+          { "target": "She learned how to make clay {sculptures} in the workshop.", "source": "Atölyede kil heykel nasıl yapılır öğrendi." },
+          { "target": "He said the {sculpture} was carved from a single block of stone.", "source": "Heykelin tek bir taş bloğundan oyulduğunu söyledi." },
+          { "target": "She donated a {sculpture} to the museum's modern art collection.", "source": "Müzenin modern sanat koleksiyonuna bir heykel bağışladı." },
+          { "target": "He studied the intricate details of the ancient {sculpture}.", "source": "Antik heykelin karmaşık ayrıntılarını inceledi." },
+          { "target": "She said the {sculpture} took the artist three years to complete.", "source": "Heykelin sanatçının tamamlaması için üç yıl aldığını söyledi." },
+          { "target": "He photographed the outdoor {sculptures} in the park.", "source": "Parktaki açık hava heykellerini fotoğrafladı." },
+          { "target": "She used ice for her temporary {sculpture} display.", "source": "Geçici heykel sergisi için buz kullandı." },
+          { "target": "He wrote a review of the gallery's new {sculpture} exhibition.", "source": "Galerinin yeni heykel sergisi hakkında eleştiri yazdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-6",
+        "kind": "word",
+        "term": "melody",
+        "type": "noun",
+        "meaning": "melodi, ezgi",
+        "examples": [
+          { "target": "She hummed a soft {melody} while cooking.", "source": "Yemek pişirirken yavaşça bir melodi mırıldandı." },
+          { "target": "He recognised the {melody} from a film he had seen as a child.", "source": "Çocukken izlediği bir filmden gelen melodiyi tanıdı." },
+          { "target": "She said the {melody} stayed in her head all day.", "source": "Melodinin bütün gün aklında kaldığını söyledi." },
+          { "target": "He composed the {melody} in under an hour.", "source": "Melodiyi bir saatten kısa sürede besteledi." },
+          { "target": "She played the simple {melody} on her violin.", "source": "Basit melodiyi kemanında çaldı." },
+          { "target": "He said the {melody} was based on an old folk tune.", "source": "Melodinin eski bir halk türküsüne dayandığını söyledi." },
+          { "target": "She sang the {melody} without looking at the sheet music.", "source": "Nota kağıdına bakmadan melodiyi söyledi." },
+          { "target": "He described the {melody} as hauntingly beautiful.", "source": "Melodiyi büyüleyici derecede güzel olarak nitelendirdi." },
+          { "target": "She taught the students the {melody} line first.", "source": "Öğrencilere önce melodi satırını öğretti." },
+          { "target": "He said the {melody} carried a sense of hope.", "source": "Melodinin bir umut duygusu taşıdığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-7",
+        "kind": "word",
+        "term": "chorus",
+        "type": "noun",
+        "meaning": "nakarat, koro",
+        "examples": [
+          { "target": "She sang along when the {chorus} came around again.", "source": "Nakarat tekrar geldiğinde eşliğe katıldı." },
+          { "target": "He said the {chorus} was the catchiest part of the song.", "source": "Nakaratın şarkının en akılda kalıcı kısmı olduğunu söyledi." },
+          { "target": "She joined the school {chorus} in her first year.", "source": "İlk yılında okul korosuna katıldı." },
+          { "target": "He wrote the {chorus} before the verses.", "source": "Nakaratı kıtalardan önce yazdı." },
+          { "target": "She said a {chorus} of birds greeted her in the morning.", "source": "Sabah bir kuş korosunun onu selamladığını söyledi." },
+          { "target": "He heard a {chorus} of approval from the audience.", "source": "Seyircilerden bir onaylama korosu duydu." },
+          { "target": "She practised the {chorus} until she knew it by heart.", "source": "Nakaratı ezberleyene kadar pratik yaptı." },
+          { "target": "He arranged the {chorus} for four-part harmony.", "source": "Nakaratı dört sesli armoni için düzenledi." },
+          { "target": "She said the {chorus} of the anthem gave her chills.", "source": "Marşın nakaratının onu ürperttiğini söyledi." },
+          { "target": "He led the {chorus} during the community festival.", "source": "Topluluk festivali sırasında koroyu yönetti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-8",
+        "kind": "word",
+        "term": "verse",
+        "type": "noun",
+        "meaning": "kıta, beyit, ayet",
+        "examples": [
+          { "target": "She wrote a {verse} about her childhood home.", "source": "Çocukluğunun evini anlatan bir kıta yazdı." },
+          { "target": "He memorised every {verse} of the poem.", "source": "Şiirin her kıtasını ezberledi." },
+          { "target": "She recited the opening {verse} clearly and confidently.", "source": "Açılış kıtasını net ve güvenli şekilde okudu." },
+          { "target": "He said the second {verse} of the song was his favourite.", "source": "Şarkının ikinci kıtasının favorisi olduğunu söyledi." },
+          { "target": "She studied the {verse} from the ancient text.", "source": "Antik metinden gelen ayeti inceledi." },
+          { "target": "He compared the two {verses} to find the deeper meaning.", "source": "Derin anlamı bulmak için iki ayeti karşılaştırdı." },
+          { "target": "She expressed her sorrow in a moving {verse}.", "source": "Hüznünü dokunaklı bir kıtayla dile getirdi." },
+          { "target": "He said the song went from {verse} to chorus three times.", "source": "Şarkının kıtadan nakarata üç kez geçtiğini söyledi." },
+          { "target": "She included a {verse} from scripture in her speech.", "source": "Konuşmasına kutsal metinden bir ayet ekledi." },
+          { "target": "He admired the poet for fitting so much emotion into one {verse}.", "source": "Şairin tek bir kıtaya bu kadar duygu sığdırabilmesine hayrandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-9",
+        "kind": "word",
+        "term": "genre",
+        "type": "noun",
+        "meaning": "tür, kategori",
+        "examples": [
+          { "target": "She reads every {genre} of fiction but prefers mystery.", "source": "Her türden kurgu okur ama gizemi tercih eder." },
+          { "target": "He said jazz is his favourite musical {genre}.", "source": "Caz'ın en sevdiği müzik türü olduğunu söyledi." },
+          { "target": "She asked the librarian which {genre} the book belonged to.", "source": "Kitabın hangi türe ait olduğunu kütüphaneciye sordu." },
+          { "target": "He said the film crosses multiple {genres}.", "source": "Filmin birden fazla türü kapsadığını söyledi." },
+          { "target": "She explored a new {genre} of writing that she had never tried.", "source": "Hiç denemediği yeni bir yazı türünü keşfetti." },
+          { "target": "He said the {genre} of the game was action role-playing.", "source": "Oyunun türünün aksiyon rol yapma oyunu olduğunu söyledi." },
+          { "target": "She appreciated how the director played with {genre} conventions.", "source": "Yönetmenin tür kurallarıyla nasıl oynadığını takdirle izledi." },
+          { "target": "He said the book defied easy {genre} classification.", "source": "Kitabın kolayca tür sınıflandırmasına dirençli olduğunu söyledi." },
+          { "target": "She gravitated towards the literary fiction {genre}.", "source": "Edebi kurgu türüne yöneldi." },
+          { "target": "He said the {genre} of the painting was Impressionism.", "source": "Tablonun türünün İzlenimcilik olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-10",
+        "kind": "word",
+        "term": "lyrics",
+        "type": "noun",
+        "meaning": "şarkı sözleri",
+        "examples": [
+          { "target": "She looked up the {lyrics} to sing along properly.", "source": "Düzgün eşlik edebilmek için şarkı sözlerini aradı." },
+          { "target": "He wrote the {lyrics} in one sitting late at night.", "source": "Gece geç saatlerde bir oturuşta şarkı sözlerini yazdı." },
+          { "target": "She found the {lyrics} of the old song deeply moving.", "source": "Eski şarkının sözlerini derinden etkileyici buldu." },
+          { "target": "He memorised the {lyrics} before the karaoke night.", "source": "Karaoke gecesinden önce şarkı sözlerini ezberledi." },
+          { "target": "She changed one word in the {lyrics} to make it more personal.", "source": "Şarkı sözlerinde daha kişisel yapmak için bir kelimeyi değiştirdi." },
+          { "target": "He said the {lyrics} told the story of a long journey.", "source": "Şarkı sözlerinin uzun bir yolculuğu anlattığını söyledi." },
+          { "target": "She translated the {lyrics} so her friend could understand.", "source": "Arkadaşının anlayabilmesi için şarkı sözlerini çevirdi." },
+          { "target": "He read the {lyrics} as poetry even without the music.", "source": "Şarkı sözlerini müziksiz bile şiir olarak okudu." },
+          { "target": "She said the {lyrics} of the protest song were very powerful.", "source": "Protesto şarkısının sözlerinin çok güçlü olduğunu söyledi." },
+          { "target": "He struggled to write {lyrics} that felt authentic.", "source": "Otantik hissettiren şarkı sözleri yazmakta zorlandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-11",
+        "kind": "word",
+        "term": "tempo",
+        "type": "noun",
+        "meaning": "tempo, hız",
+        "examples": [
+          { "target": "She tapped her foot to keep up with the fast {tempo}.", "source": "Hızlı tempoyla ayak uydurmak için ayağını vurdu." },
+          { "target": "He asked the pianist to slow down the {tempo}.", "source": "Piyanistten tempoyu yavaşlatmasını istedi." },
+          { "target": "She said the {tempo} of the piece changed in the final movement.", "source": "Parçanın temposunun son bölümde değiştiğini söyledi." },
+          { "target": "He found it hard to keep {tempo} when nervous.", "source": "Sinirlendiğinde tempoyu korumakta güçlük çekti." },
+          { "target": "She matched the {tempo} of her speech to the audience's energy.", "source": "Konuşmasının temposunu izleyicilerin enerjisiyle eşleştirdi." },
+          { "target": "He used a metronome to maintain the correct {tempo}.", "source": "Doğru tempoyu korumak için metronom kullandı." },
+          { "target": "She said the {tempo} of city life was too fast for her.", "source": "Şehir hayatının temposunun onun için çok hızlı olduğunu söyledi." },
+          { "target": "He described the meeting's {tempo} as rushed and unproductive.", "source": "Toplantının temposunu aceleye getirilmiş ve verimsiz olarak nitelendirdi." },
+          { "target": "She practised at half {tempo} before increasing the speed.", "source": "Hızı artırmadan önce yarı tempoda pratik yaptı." },
+          { "target": "He said the {tempo} marking on the score was allegro.", "source": "Partisyondaki tempo işaretinin allegro olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-12",
+        "kind": "word",
+        "term": "rehearsal",
+        "type": "noun",
+        "meaning": "prova, prova yapmak",
+        "examples": [
+          { "target": "She attended the final {rehearsal} the night before the show.", "source": "Gösteri öncesi gece son provaya katıldı." },
+          { "target": "He said the {rehearsal} ran two hours overtime.", "source": "Provanın iki saat uzadığını söyledi." },
+          { "target": "She forgot her lines during the {rehearsal} but recovered quickly.", "source": "Prova sırasında sözlerini unuttu ama hızla topladı kendini." },
+          { "target": "He gave detailed notes to the cast after each {rehearsal}.", "source": "Her provadan sonra oyunculara ayrıntılı notlar verdi." },
+          { "target": "She said the {rehearsal} schedule was intense for six weeks.", "source": "Prova programının altı hafta boyunca yoğun olduğunu söyledi." },
+          { "target": "He ran a {rehearsal} dinner the evening before the wedding.", "source": "Düğünden önceki akşam provayı yemek yiyerek yaptı." },
+          { "target": "She treated every meeting as a {rehearsal} for the real presentation.", "source": "Her toplantıyı gerçek sunum için bir prova olarak değerlendirdi." },
+          { "target": "He said the {rehearsal} made the band much more confident.", "source": "Provanın grubu çok daha güvenli kıldığını söyledi." },
+          { "target": "She took notes during the {rehearsal} to improve her performance.", "source": "Performansını geliştirmek için prova sırasında notlar aldı." },
+          { "target": "He said the director stopped the {rehearsal} to correct a scene.", "source": "Yönetmenin bir sahneyi düzeltmek için provayı durdurduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-13",
+        "kind": "word",
+        "term": "solo",
+        "type": "noun",
+        "meaning": "solo, tek başına",
+        "examples": [
+          { "target": "She played a beautiful violin {solo} in the concert.", "source": "Konserde güzel bir keman solosu çaldı." },
+          { "target": "He performed his guitar {solo} from memory.", "source": "Gitar solosunu ezberden çaldı." },
+          { "target": "She said singing a {solo} in front of thousands was terrifying.", "source": "Binlerce kişinin önünde solo söylemenin korkunç olduğunu söyledi." },
+          { "target": "He chose to travel {solo} on his sabbatical year.", "source": "Sabatik yılında yalnız seyahat etmeyi seçti." },
+          { "target": "She completed the {solo} climb to the summit.", "source": "Zirveye yalnız tırmanışı tamamladı." },
+          { "target": "He said the guitarist's {solo} was the highlight of the show.", "source": "Gitaristin solosunun gösterinin öne çıkan kısmı olduğunu söyledi." },
+          { "target": "She practised her {solo} for weeks before the recital.", "source": "Resitalden önce solosunu haftalarca çalıştı." },
+          { "target": "He decided to launch a {solo} career after leaving the band.", "source": "Grubu terk ettikten sonra solo kariyere başlamaya karar verdi." },
+          { "target": "She flew her first {solo} flight at the age of seventeen.", "source": "İlk solo uçuşunu on yedi yaşında yaptı." },
+          { "target": "He said the drum {solo} lasted over three minutes.", "source": "Davul solosunun üç dakikadan fazla sürdüğünü söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-76-14",
+        "kind": "word",
+        "term": "stage",
+        "type": "noun",
+        "meaning": "sahne, aşama",
+        "examples": [
+          { "target": "She walked onto the {stage} and the audience cheered.", "source": "Sahneye çıktı ve seyirciler sevinç çığlıkları attı." },
+          { "target": "He set up the lighting equipment on the {stage}.", "source": "Sahneye aydınlatma ekipmanını kurdu." },
+          { "target": "She said she had always dreamed of performing on a big {stage}.", "source": "Her zaman büyük bir sahnede sahne almayı hayal ettiğini söyledi." },
+          { "target": "He said the project was now in its final {stage}.", "source": "Projenin artık son aşamasında olduğunu söyledi." },
+          { "target": "She moved through each {stage} of grief in her own time.", "source": "Yasın her aşamasını kendi zamanında geçirdi." },
+          { "target": "He described adolescence as an important {stage} in life.", "source": "Ergenliği hayatın önemli bir aşaması olarak tanımladı." },
+          { "target": "She rehearsed until she felt comfortable on {stage}.", "source": "Sahnede rahat hissedene kadar prova yaptı." },
+          { "target": "He said the first {stage} of the race was the most difficult.", "source": "Yarışın ilk aşamasının en zorlu olduğunu söyledi." },
+          { "target": "She set up a small {stage} in the backyard for the party.", "source": "Parti için arka bahçeye küçük bir sahne kurdu." },
+          { "target": "He managed to stay calm at every {stage} of the interview.", "source": "Mülakatin her aşamasında sakin kalmayı başardı." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-77",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 77",
+    "level": "beginner",
+    "category": "academic",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-77-0",
+        "kind": "word",
+        "term": "justify",
+        "type": "verb",
+        "meaning": "haklı çıkarmak, gerekçelendirmek",
+        "examples": [
+          { "target": "She tried to {justify} her decision with clear evidence.", "source": "Kararını net kanıtlarla gerekçelendirmeye çalıştı." },
+          { "target": "He could not {justify} spending so much on a single item.", "source": "Tek bir ürüne bu kadar para harcamayı haklı çıkaramadı." },
+          { "target": "She asked him to {justify} his argument before she accepted it.", "source": "Kabul etmeden önce argümanını gerekçelendirmesini istedi." },
+          { "target": "He said the result alone did not {justify} the methods used.", "source": "Sonucun tek başına kullanılan yöntemleri meşrulaştırmadığını söyledi." },
+          { "target": "She had to {justify} each budget line to the finance team.", "source": "Finans ekibine her bütçe kalemini gerekçelendirmek zorundaydı." },
+          { "target": "He said it was impossible to {justify} the delay.", "source": "Gecikmeyi haklı çıkarmanın imkansız olduğunu söyledi." },
+          { "target": "She felt she should not have to {justify} her personal choices.", "source": "Kişisel seçimlerini haklı göstermek zorunda olmadığını hissetti." },
+          { "target": "He used statistics to {justify} the proposed changes.", "source": "Önerilen değişiklikleri gerekçelendirmek için istatistikler kullandı." },
+          { "target": "She pressed {align} to {justify} the text in the document.", "source": "Belgedeki metni hizalamak için hizala düğmesine bastı." },
+          { "target": "He struggled to {justify} the ethical concerns raised.", "source": "Dile getirilen etik kaygıları haklı çıkarmakta güçlük çekti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-1",
+        "kind": "word",
+        "term": "reflect",
+        "type": "verb",
+        "meaning": "yansıtmak, düşünmek",
+        "examples": [
+          { "target": "She took time to {reflect} on what had happened.", "source": "Yaşananları düşünmek için zaman ayırdı." },
+          { "target": "He said the data does not {reflect} the true situation.", "source": "Verilerin gerçek durumu yansıtmadığını söyledi." },
+          { "target": "She kept a journal to {reflect} on her daily experiences.", "source": "Günlük deneyimlerini düşünmek için günlük tuttu." },
+          { "target": "He said the building's glass walls {reflect} the sky beautifully.", "source": "Binanın cam duvarlarının gökyüzünü güzel bir şekilde yansıttığını söyledi." },
+          { "target": "She paused to {reflect} before giving her answer.", "source": "Cevabını vermeden önce düşünmek için durdu." },
+          { "target": "He said the policy should {reflect} community values.", "source": "Politikanın toplumun değerlerini yansıtması gerektiğini söyledi." },
+          { "target": "She looked at the lake to see her face {reflect} in it.", "source": "Yüzünün yansımasını görmek için göle baktı." },
+          { "target": "He said the exam results {reflect} months of hard work.", "source": "Sınav sonuçlarının aylarca süren sıkı çalışmayı yansıttığını söyledi." },
+          { "target": "She was asked to {reflect} on her leadership style.", "source": "Liderlik tarzını düşünmesi istendi." },
+          { "target": "He used the end of the year to {reflect} and set new goals.", "source": "Yılın sonunu hem düşünmek hem de yeni hedefler belirlemek için kullandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-2",
+        "kind": "word",
+        "term": "interpret",
+        "type": "verb",
+        "meaning": "yorumlamak, tercüme etmek",
+        "examples": [
+          { "target": "She tried to {interpret} the ambiguous instructions correctly.", "source": "Belirsiz talimatları doğru şekilde yorumlamaya çalıştı." },
+          { "target": "He was asked to {interpret} the poem for the class.", "source": "Sınıf için şiiri yorumlaması istendi." },
+          { "target": "She trained to {interpret} between Spanish and English.", "source": "İspanyolca ile İngilizce arasında tercümanlık yapmak için eğitim aldı." },
+          { "target": "He said it's easy to {interpret} silence as agreement.", "source": "Sessizliği anlaşma olarak yorumlamanın kolay olduğunu söyledi." },
+          { "target": "She used her experience to {interpret} the historical data.", "source": "Tarihi verileri yorumlamak için deneyimini kullandı." },
+          { "target": "He hired a professional to {interpret} during the negotiation.", "source": "Müzakere sırasında tercüme etmesi için bir profesyonel kiraladı." },
+          { "target": "She said each reader will {interpret} the novel differently.", "source": "Her okurun romanı farklı şekilde yorumlayacağını söyledi." },
+          { "target": "He learned to {interpret} body language over time.", "source": "Zamanla beden dilini yorumlamayı öğrendi." },
+          { "target": "She was careful not to {interpret} the results too broadly.", "source": "Sonuçları çok geniş yorumlamamaya özen gösterdi." },
+          { "target": "He said the diplomat needed to {interpret} the statement carefully.", "source": "Diplomatın açıklamayı dikkatle yorumlaması gerektiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-3",
+        "kind": "word",
+        "term": "logic",
+        "type": "noun",
+        "meaning": "mantık",
+        "examples": [
+          { "target": "She used pure {logic} to solve the puzzle.", "source": "Bulmacayı çözmek için saf mantık kullandı." },
+          { "target": "He said her argument lacked basic {logic}.", "source": "Argümanının temel mantıktan yoksun olduğunu söyledi." },
+          { "target": "She studied formal {logic} as part of her philosophy degree.", "source": "Felsefe lisansının bir parçası olarak biçimsel mantık okudu." },
+          { "target": "He applied business {logic} to the marketing strategy.", "source": "Pazarlama stratejisine iş mantığını uyguladı." },
+          { "target": "She questioned the {logic} behind the new policy.", "source": "Yeni politikanın arkasındaki mantığı sorguladı." },
+          { "target": "He said there was a clear {logic} to the approach.", "source": "Yaklaşımda açık bir mantık olduğunu söyledi." },
+          { "target": "She said his {logic} was sound but the conclusion was wrong.", "source": "Mantığının sağlam olduğunu ama sonucun yanlış olduğunu söyledi." },
+          { "target": "He designed the system using clear programming {logic}.", "source": "Sistemi açık programlama mantığı kullanarak tasarladı." },
+          { "target": "She explained the {logic} step by step so everyone could follow.", "source": "Herkesin takip edebilmesi için mantığı adım adım açıkladı." },
+          { "target": "He said he could not follow the {logic} of her explanation.", "source": "Açıklamasının mantığını takip edemediğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-4",
+        "kind": "word",
+        "term": "reason",
+        "type": "noun",
+        "meaning": "neden, sebep, akıl",
+        "examples": [
+          { "target": "She asked for the {reason} behind the sudden change.", "source": "Ani değişikliğin arkasındaki nedeni sordu." },
+          { "target": "He said there was no good {reason} to delay further.", "source": "Daha fazla ertelemenin iyi bir nedeni olmadığını söyledi." },
+          { "target": "She used {reason} rather than emotion to make the decision.", "source": "Kararı vermek için duygu yerine akıl kullandı." },
+          { "target": "He could not give a clear {reason} for being late.", "source": "Geç kalmanın açık bir nedenini veremedi." },
+          { "target": "She believed that people could be persuaded through {reason}.", "source": "İnsanların akıl yoluyla ikna edilebileceğine inandı." },
+          { "target": "He said the real {reason} was never revealed.", "source": "Gerçek nedenin hiçbir zaman ortaya çıkmadığını söyledi." },
+          { "target": "She has every {reason} to be proud of her work.", "source": "Çalışmasıyla gurur duymak için her nedeni var." },
+          { "target": "He tried to {reason} with his upset colleague.", "source": "Üzgün meslektaşıyla akıl yürütmeye çalıştı." },
+          { "target": "She said age was no {reason} to stop learning.", "source": "Yaşın öğrenmeyi bırakmak için bir sebep olmadığını söyledi." },
+          { "target": "He gave several {reasons} why the plan needed revision.", "source": "Planın neden revize edilmesi gerektiğine dair birkaç neden ileri sürdü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-5",
+        "kind": "word",
+        "term": "concept",
+        "type": "noun",
+        "meaning": "kavram, konsept",
+        "examples": [
+          { "target": "She struggled to understand the abstract {concept}.", "source": "Soyut kavramı anlamakta güçlük çekti." },
+          { "target": "He introduced the {concept} of supply and demand.", "source": "Arz ve talep kavramını tanıttı." },
+          { "target": "She designed a {concept} car that pushed design limits.", "source": "Tasarım sınırlarını zorlayan bir konsept araba tasarladı." },
+          { "target": "He explained the {concept} using a simple everyday example.", "source": "Kavramı basit bir günlük örnek kullanarak açıkladı." },
+          { "target": "She said the {concept} of time is fascinating to philosophers.", "source": "Zaman kavramının filozoflar için büyüleyici olduğunu söyledi." },
+          { "target": "He explored the {concept} of identity in his essay.", "source": "Denemesinde kimlik kavramını inceledi." },
+          { "target": "She pitched her business {concept} to the investors.", "source": "İş konseptini yatırımcılara sundu." },
+          { "target": "He said the {concept} was clever but difficult to execute.", "source": "Konseptin zekice ama uygulaması güç olduğunu söyledi." },
+          { "target": "She grasped the {concept} quickly during the lesson.", "source": "Ders sırasında kavramı hızla kavradı." },
+          { "target": "He based the entire project on a single {concept}.", "source": "Tüm projeyi tek bir kavram üzerine kurdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-6",
+        "kind": "word",
+        "term": "theory",
+        "type": "noun",
+        "meaning": "teori, kuram",
+        "examples": [
+          { "target": "She proposed a new {theory} to explain the behaviour.", "source": "Davranışı açıklamak için yeni bir teori önerdi." },
+          { "target": "He said the {theory} had been tested many times.", "source": "Teorinin birçok kez test edildiğini söyledi." },
+          { "target": "She studied evolutionary {theory} in her biology class.", "source": "Biyoloji dersinde evrim teorisini inceledi." },
+          { "target": "He said it was just a {theory} and needed more evidence.", "source": "Bunun sadece bir teori olduğunu ve daha fazla kanıt gerektirdiğini söyledi." },
+          { "target": "She passed her music {theory} exam with distinction.", "source": "Müzik teorisi sınavını pekiyi notla geçti." },
+          { "target": "He developed a {theory} about why the business had failed.", "source": "İşletmenin neden başarısız olduğuna dair bir teori geliştirdi." },
+          { "target": "She said the {theory} of relativity changed physics forever.", "source": "Görelilik teorisinin fiziği sonsuza kadar değiştirdiğini söyledi." },
+          { "target": "He knew the {theory} but had trouble applying it.", "source": "Teoriyi biliyordu ama uygulamakta güçlük çekti." },
+          { "target": "She explored conspiracy {theories} in her media studies course.", "source": "Medya çalışmaları dersinde komplo teorilerini inceledi." },
+          { "target": "He said in {theory} the plan was excellent but in practice it failed.", "source": "Teoride planın mükemmel olduğunu ama pratikte başarısız olduğunu söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-7",
+        "kind": "word",
+        "term": "argument",
+        "type": "noun",
+        "meaning": "argüman, tartışma",
+        "examples": [
+          { "target": "She made a compelling {argument} for the new policy.", "source": "Yeni politika için ikna edici bir argüman sundu." },
+          { "target": "He had a heated {argument} with his neighbour over the noise.", "source": "Komşusuyla gürültü konusunda ateşli bir tartışma yaşadı." },
+          { "target": "She said his {argument} was well-structured but flawed.", "source": "Argümanının iyi yapılandırılmış ama kusurlu olduğunu söyledi." },
+          { "target": "He presented the {argument} in three clear stages.", "source": "Argümanı üç net aşamada sundu." },
+          { "target": "She won the {argument} by sticking to the facts.", "source": "Olgulara bağlı kalarak tartışmayı kazandı." },
+          { "target": "He said their {argument} began over something trivial.", "source": "Tartışmalarının önemsiz bir şeyden başladığını söyledi." },
+          { "target": "She found his main {argument} persuasive.", "source": "Ana argümanını ikna edici buldu." },
+          { "target": "He said the strongest {argument} was also the simplest.", "source": "En güçlü argümanın aynı zamanda en basit olanı olduğunu söyledi." },
+          { "target": "She avoided the {argument} by staying calm.", "source": "Sakin kalarak tartışmadan kaçındı." },
+          { "target": "He admitted that her {argument} had changed his opinion.", "source": "Onun argümanının fikrini değiştirdiğini kabul etti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-8",
+        "kind": "word",
+        "term": "evidence",
+        "type": "noun",
+        "meaning": "kanıt, delil",
+        "examples": [
+          { "target": "She presented strong {evidence} to support her claim.", "source": "İddiasını desteklemek için güçlü kanıtlar sundu." },
+          { "target": "He said there was no {evidence} of wrongdoing.", "source": "Usulsüzlük kanıtı olmadığını söyledi." },
+          { "target": "She collected {evidence} from multiple reliable sources.", "source": "Birden fazla güvenilir kaynaktan kanıt topladı." },
+          { "target": "He said the {evidence} pointed to a single conclusion.", "source": "Kanıtların tek bir sonuca işaret ettiğini söyledi." },
+          { "target": "She found clear {evidence} that the product had been tampered with.", "source": "Ürünle oynanıldığına dair açık kanıt buldu." },
+          { "target": "He asked for more {evidence} before making a decision.", "source": "Karar vermeden önce daha fazla kanıt istedi." },
+          { "target": "She reviewed all the {evidence} before drawing conclusions.", "source": "Sonuç çıkarmadan önce tüm kanıtları inceledi." },
+          { "target": "He said the forensic {evidence} was crucial to the case.", "source": "Adli tıp kanıtlarının dava için kritik olduğunu söyledi." },
+          { "target": "She said scientific {evidence} backed the new treatment.", "source": "Bilimsel kanıtların yeni tedaviyi desteklediğini söyledi." },
+          { "target": "He presented photographic {evidence} of the damage.", "source": "Hasarın fotoğrafik kanıtını sundu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-9",
+        "kind": "word",
+        "term": "opinion",
+        "type": "noun",
+        "meaning": "görüş, kanı",
+        "examples": [
+          { "target": "She shared her {opinion} openly during the meeting.", "source": "Toplantıda görüşünü açıkça paylaştı." },
+          { "target": "He said everyone is entitled to their own {opinion}.", "source": "Herkesin kendi görüşüne sahip olma hakkı olduğunu söyledi." },
+          { "target": "She asked for a second {opinion} before the surgery.", "source": "Ameliyattan önce ikinci bir görüş aldı." },
+          { "target": "He expressed the {opinion} that the plan was too risky.", "source": "Planın çok riskli olduğu görüşünü dile getirdi." },
+          { "target": "She said her {opinion} had changed after reading the report.", "source": "Raporu okuduktan sonra görüşünün değiştiğini söyledi." },
+          { "target": "He always listens to different {opinions} before deciding.", "source": "Karar vermeden önce her zaman farklı görüşleri dinler." },
+          { "target": "She said this was just her personal {opinion}.", "source": "Bunun sadece kişisel görüşü olduğunu söyledi." },
+          { "target": "He said public {opinion} had shifted over time.", "source": "Kamuoyunun zamanla değiştiğini söyledi." },
+          { "target": "She was not afraid to voice an unpopular {opinion}.", "source": "Popüler olmayan bir görüşü dile getirmekten korkmuyordu." },
+          { "target": "He wrote a column sharing his {opinion} on the election.", "source": "Seçim hakkındaki görüşünü paylaşan bir köşe yazısı yazdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-10",
+        "kind": "word",
+        "term": "conclude",
+        "type": "verb",
+        "meaning": "sonuca varmak, bitirmek",
+        "examples": [
+          { "target": "She {concluded} the speech with a powerful message.", "source": "Konuşmayı güçlü bir mesajla bitirdi." },
+          { "target": "He {concluded} that more research was needed.", "source": "Daha fazla araştırmaya ihtiyaç olduğu sonucuna vardı." },
+          { "target": "She asked him to {conclude} his remarks before the break.", "source": "Aradan önce sözlerini bitirmesini istedi." },
+          { "target": "He {concluded} from the data that the trend was reversing.", "source": "Verilerden trendin tersine döndüğü sonucuna vardı." },
+          { "target": "She {concluded} the meeting with a summary of action points.", "source": "Toplantıyı eylem noktalarının özetiyle bitirdi." },
+          { "target": "He {concluded} that the two events were unrelated.", "source": "İki olayın ilgisiz olduğu sonucuna vardı." },
+          { "target": "She was relieved when the long negotiation finally {concluded}.", "source": "Uzun müzakere sonunda bitince rahatlama hissetti." },
+          { "target": "He said it was too early to {conclude} anything definitive.", "source": "Herhangi bir kesin sonuca varmak için çok erken olduğunu söyledi." },
+          { "target": "She {concluded} the essay with a thought-provoking question.", "source": "Denemeyi düşündürücü bir soruyla bitirdi." },
+          { "target": "He {concluded} that the benefits outweighed the risks.", "source": "Faydaların riskleri geçtiği sonucuna vardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-11",
+        "kind": "word",
+        "term": "debate",
+        "type": "noun",
+        "meaning": "tartışma, münazara",
+        "examples": [
+          { "target": "She won the school {debate} competition.", "source": "Okul münazara yarışmasını kazandı." },
+          { "target": "He followed the political {debate} closely.", "source": "Siyasi tartışmayı yakından takip etti." },
+          { "target": "She raised an important point during the {debate}.", "source": "Tartışma sırasında önemli bir nokta gündeme getirdi." },
+          { "target": "He said the {debate} over the policy lasted weeks.", "source": "Politikayla ilgili tartışmanın haftalarca sürdüğünü söyledi." },
+          { "target": "She prepared thoroughly for the {debate} by reading both sides.", "source": "Her iki tarafı da okuyarak münazaraya kapsamlı hazırlandı." },
+          { "target": "He {debated} the issue with his professor after class.", "source": "Dersten sonra konuyu profesörüyle tartıştı." },
+          { "target": "She said the {debate} ended without a clear winner.", "source": "Tartışmanın net bir kazananı olmadan sona erdiğini söyledi." },
+          { "target": "He watched the presidential {debate} with his family.", "source": "Cumhurbaşkanlığı tartışmasını ailesiyle izledi." },
+          { "target": "She used data to strengthen her position in the {debate}.", "source": "Tartışmadaki pozisyonunu güçlendirmek için veri kullandı." },
+          { "target": "He said the {debate} about education reform is ongoing.", "source": "Eğitim reformu tartışmasının devam ettiğini söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-12",
+        "kind": "word",
+        "term": "analyze",
+        "type": "verb",
+        "meaning": "analiz etmek, incelemek",
+        "examples": [
+          { "target": "She {analyzed} the data to find patterns.", "source": "Örüntüler bulmak için verileri analiz etti." },
+          { "target": "He was asked to {analyze} the competitor's strategy.", "source": "Rakibin stratejisini analiz etmesi istendi." },
+          { "target": "She {analyzed} the poem line by line.", "source": "Şiiri satır satır inceledi." },
+          { "target": "He said the lab would {analyze} the sample within two days.", "source": "Laboratuarın örneği iki gün içinde analiz edeceğini söyledi." },
+          { "target": "She {analyzed} the feedback to improve the product.", "source": "Ürünü geliştirmek için geri bildirimleri analiz etti." },
+          { "target": "He {analyzed} the risks before signing the contract.", "source": "Sözleşmeyi imzalamadan önce riskleri analiz etti." },
+          { "target": "She used software to {analyze} customer behaviour.", "source": "Müşteri davranışını analiz etmek için yazılım kullandı." },
+          { "target": "He was trained to {analyze} complex situations quickly.", "source": "Karmaşık durumları hızla analiz etmek üzere eğitildi." },
+          { "target": "She {analyzed} the argument and found several weak points.", "source": "Argümanı analiz etti ve birkaç zayıf nokta buldu." },
+          { "target": "He used graphs to help {analyze} the sales trends.", "source": "Satış trendlerini analiz etmeye yardımcı olması için grafikler kullandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-13",
+        "kind": "word",
+        "term": "define",
+        "type": "verb",
+        "meaning": "tanımlamak, belirlemek",
+        "examples": [
+          { "target": "She asked the teacher to {define} the term clearly.", "source": "Öğretmenden terimi açıkça tanımlamasını istedi." },
+          { "target": "He said it was hard to {define} success in one sentence.", "source": "Başarıyı tek cümlede tanımlamanın zor olduğunu söyledi." },
+          { "target": "She worked hard to {define} her personal goals.", "source": "Kişisel hedeflerini belirlemek için çok çalıştı." },
+          { "target": "He said the contract would {define} their responsibilities.", "source": "Sözleşmenin sorumluluklarını belirleyeceğini söyledi." },
+          { "target": "She used examples to {define} the abstract concept.", "source": "Soyut kavramı tanımlamak için örnekler kullandı." },
+          { "target": "He {defined} the key terms at the start of the report.", "source": "Raporun başında temel terimleri tanımladı." },
+          { "target": "She said the project manager would {define} the scope.", "source": "Proje yöneticisinin kapsamı belirleyeceğini söyledi." },
+          { "target": "He refused to let others {define} who he was.", "source": "Başkalarının onun kim olduğunu belirlemesine izin vermedi." },
+          { "target": "She {defined} the problem before trying to solve it.", "source": "Çözmeye çalışmadan önce sorunu tanımladı." },
+          { "target": "He said the law clearly {defines} what is permitted.", "source": "Yasanın neye izin verildiğini açıkça tanımladığını söyledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-77-14",
+        "kind": "word",
+        "term": "evaluate",
+        "type": "verb",
+        "meaning": "değerlendirmek",
+        "examples": [
+          { "target": "She was asked to {evaluate} the project proposal.", "source": "Proje teklifini değerlendirmesi istendi." },
+          { "target": "He took time to {evaluate} all the options available.", "source": "Mevcut tüm seçenekleri değerlendirmek için zaman ayırdı." },
+          { "target": "She said the teacher will {evaluate} the work on three criteria.", "source": "Öğretmenin çalışmayı üç kriter üzerinden değerlendireceğini söyledi." },
+          { "target": "He {evaluated} the risks and decided to proceed.", "source": "Riskleri değerlendirdi ve devam etmeye karar verdi." },
+          { "target": "She uses customer feedback to {evaluate} service quality.", "source": "Hizmet kalitesini değerlendirmek için müşteri geri bildirimlerini kullanıyor." },
+          { "target": "He said experts would {evaluate} the environmental impact.", "source": "Uzmanların çevresel etkiyi değerlendireceğini söyledi." },
+          { "target": "She {evaluated} the study before including it in her research.", "source": "Araştırmasına dahil etmeden önce çalışmayı değerlendirdi." },
+          { "target": "He was trained to {evaluate} financial statements accurately.", "source": "Mali tabloları doğru bir şekilde değerlendirmek üzere eğitildi." },
+          { "target": "She {evaluated} the situation and chose the safest path.", "source": "Durumu değerlendirdi ve en güvenli yolu seçti." },
+          { "target": "He said it takes time to properly {evaluate} a new employee's performance.", "source": "Yeni bir çalışanın performansını doğru şekilde değerlendirmenin zaman aldığını söyledi." }
+        ]
+      }
+    ]
+  }
+]
