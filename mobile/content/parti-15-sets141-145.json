@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "en-tr-intermediate-141",
+    "languagePair": "en-tr",
+    "name": "Orta 141",
+    "level": "intermediate",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-141-1",
+        "kind": "word",
+        "term": "abundance",
+        "type": "noun",
+        "meaning": "bolluk, bereket",
+        "examples": [
+          { "target": "There was an {abundance} of food at the festival.", "source": "Festivalde bol miktarda yiyecek vardı." },
+          { "target": "The region has an {abundance} of natural resources.", "source": "Bölge, doğal kaynaklar açısından bolluğa sahip." },
+          { "target": "She lives in {abundance} and comfort.", "source": "Bolluk ve konfor içinde yaşıyor." },
+          { "target": "An {abundance} of sunshine helps the crops grow.", "source": "Bol güneş ekinlerin büyümesine yardımcı olur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-2",
+        "kind": "word",
+        "term": "accountability",
+        "type": "noun",
+        "meaning": "hesap verebilirlik",
+        "examples": [
+          { "target": "{Accountability} is key in good governance.", "source": "Hesap verebilirlik iyi yönetimin anahtarıdır." },
+          { "target": "She called for greater {accountability} in the process.", "source": "Süreçte daha fazla hesap verebilirlik talep etti." },
+          { "target": "Employees must show {accountability} for their work.", "source": "Çalışanlar işleri için hesap verebilir olmalıdır." },
+          { "target": "There is a lack of {accountability} in the system.", "source": "Sistemde hesap verebilirlik eksikliği var." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-3",
+        "kind": "word",
+        "term": "aftermath",
+        "type": "noun",
+        "meaning": "sonrası, ardından gelen",
+        "examples": [
+          { "target": "The city was in chaos in the {aftermath} of the storm.", "source": "Fırtınanın ardından şehir kaos içindeydi." },
+          { "target": "In the {aftermath} of the war, many were homeless.", "source": "Savaşın ardından pek çok kişi evsiz kaldı." },
+          { "target": "The economic {aftermath} of the crisis lasted years.", "source": "Krizin ekonomik sonrası yıllarca sürdü." },
+          { "target": "She struggled in the {aftermath} of the accident.", "source": "Kazanın ardından mücadele etti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-4",
+        "kind": "word",
+        "term": "ambiguity",
+        "type": "noun",
+        "meaning": "belirsizlik, muğlaklık",
+        "examples": [
+          { "target": "The contract was full of legal {ambiguity}.", "source": "Sözleşme hukuki belirsizliklerle doluydu." },
+          { "target": "She prefers clarity over {ambiguity}.", "source": "Belirsizlik yerine netliği tercih eder." },
+          { "target": "The {ambiguity} in the instructions caused confusion.", "source": "Talimatlardaki belirsizlik kafa karışıklığına yol açtı." },
+          { "target": "He thrives in situations of {ambiguity}.", "source": "Belirsizlik ortamlarında başarıyla çalışıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-5",
+        "kind": "word",
+        "term": "apparatus",
+        "type": "noun",
+        "meaning": "aygıt, cihaz, sistem",
+        "examples": [
+          { "target": "The laboratory has complex scientific {apparatus}.", "source": "Laboratuvarda karmaşık bilimsel aygıtlar var." },
+          { "target": "The government {apparatus} was inefficient.", "source": "Hükümet aygıtı verimsizdi." },
+          { "target": "She used a special {apparatus} for the experiment.", "source": "Deney için özel bir cihaz kullandı." },
+          { "target": "The {apparatus} broke during the demonstration.", "source": "Aygıt gösteri sırasında bozuldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-6",
+        "kind": "word",
+        "term": "aptitude",
+        "type": "noun",
+        "meaning": "yetenek, kabiliyet",
+        "examples": [
+          { "target": "She has a natural {aptitude} for music.", "source": "Müzik için doğal bir yeteneği var." },
+          { "target": "He showed an {aptitude} for problem-solving early on.", "source": "Erken yaşta problem çözme yeteneği gösterdi." },
+          { "target": "The test measures students' {aptitude}.", "source": "Test öğrencilerin yeteneklerini ölçüyor." },
+          { "target": "Her {aptitude} for languages is impressive.", "source": "Dillerdeki kabiliyeti etkileyici." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-7",
+        "kind": "word",
+        "term": "arbitrary",
+        "type": "adjective",
+        "meaning": "keyfi, rastgele",
+        "examples": [
+          { "target": "The decision seemed {arbitrary} and unfair.", "source": "Karar keyfi ve haksız görünüyordu." },
+          { "target": "The number was chosen in an {arbitrary} way.", "source": "Sayı keyfi bir şekilde seçildi." },
+          { "target": "{Arbitrary} rules are hard to follow.", "source": "Keyfi kuralları takip etmek zordur." },
+          { "target": "She felt the punishment was {arbitrary}.", "source": "Cezanın keyfi olduğunu düşündü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-8",
+        "kind": "word",
+        "term": "articulate",
+        "type": "verb",
+        "meaning": "açık ifade etmek, dile getirmek",
+        "examples": [
+          { "target": "She was able to {articulate} her ideas clearly.", "source": "Fikirlerini açık biçimde dile getirebildi." },
+          { "target": "He struggled to {articulate} his feelings.", "source": "Duygularını ifade etmekte zorlandı." },
+          { "target": "The lawyer {articulated} the argument well.", "source": "Avukat argümanı iyi bir şekilde dile getirdi." },
+          { "target": "Please {articulate} your concerns.", "source": "Lütfen endişelerinizi dile getirin." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-9",
+        "kind": "word",
+        "term": "aspiration",
+        "type": "noun",
+        "meaning": "özlem, arzu, hedef",
+        "examples": [
+          { "target": "Her {aspiration} is to become a scientist.", "source": "Bilim insanı olmak onun hedefi." },
+          { "target": "He had {aspiration}s of traveling the world.", "source": "Dünyayı gezme özlemi vardı." },
+          { "target": "Young people need support to achieve their {aspiration}s.", "source": "Gençlerin hedeflerine ulaşmak için desteğe ihtiyacı var." },
+          { "target": "The program nurtures students' {aspiration}s.", "source": "Program öğrencilerin özlemlerini besliyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-10",
+        "kind": "word",
+        "term": "authentic",
+        "type": "adjective",
+        "meaning": "özgün, gerçek, sahici",
+        "examples": [
+          { "target": "The museum displays {authentic} artifacts.", "source": "Müze gerçek eserleri sergiliyor." },
+          { "target": "She has an {authentic} way of connecting with people.", "source": "İnsanlarla bağ kurmanın sahici bir yolu var." },
+          { "target": "Is this painting {authentic} or a copy?", "source": "Bu tablo gerçek mi yoksa kopya mı?" },
+          { "target": "He was known for his {authentic} leadership style.", "source": "Özgün liderlik tarzıyla tanınırdı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-11",
+        "kind": "word",
+        "term": "autonomy",
+        "type": "noun",
+        "meaning": "özerklik, bağımsızlık",
+        "examples": [
+          { "target": "The region seeks greater political {autonomy}.", "source": "Bölge daha fazla siyasi özerklik istiyor." },
+          { "target": "She values her professional {autonomy}.", "source": "Mesleki özerkliğine değer veriyor." },
+          { "target": "Children need {autonomy} to develop independence.", "source": "Çocukların bağımsızlık geliştirebilmesi için özerkliğe ihtiyacı var." },
+          { "target": "The subsidiary operates with full {autonomy}.", "source": "Bağlı şirket tam özerklikle faaliyet gösteriyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-12",
+        "kind": "word",
+        "term": "benchmark",
+        "type": "noun",
+        "meaning": "kriter, ölçüt, referans noktası",
+        "examples": [
+          { "target": "Her performance sets a new {benchmark}.", "source": "Performansı yeni bir kriter belirliyor." },
+          { "target": "The company uses industry {benchmark}s.", "source": "Şirket sektör ölçütlerini kullanıyor." },
+          { "target": "This result is below the expected {benchmark}.", "source": "Bu sonuç beklenen ölçütün altında." },
+          { "target": "The {benchmark} test compares system speeds.", "source": "Kriter testi sistem hızlarını karşılaştırıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-13",
+        "kind": "word",
+        "term": "coherence",
+        "type": "noun",
+        "meaning": "tutarlılık, bütünlük",
+        "examples": [
+          { "target": "The essay lacks {coherence}.", "source": "Makalenin tutarlılığı yok." },
+          { "target": "{Coherence} in a team is essential for success.", "source": "Takımda tutarlılık, başarı için esastır." },
+          { "target": "The argument needs more {coherence}.", "source": "Argümanın daha fazla bütünlüğe ihtiyacı var." },
+          { "target": "She praised the {coherence} of his writing.", "source": "Yazısının tutarlılığını övdü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-14",
+        "kind": "word",
+        "term": "coincidence",
+        "type": "noun",
+        "meaning": "rastlantı, tesadüf",
+        "examples": [
+          { "target": "What a {coincidence} meeting you here!", "source": "Sizi burada görmek ne kadar tesadüf!" },
+          { "target": "The similarities are too strong to be a {coincidence}.", "source": "Benzerlikler tesadüf olamayacak kadar güçlü." },
+          { "target": "It was a pure {coincidence} that they arrived at the same time.", "source": "Aynı anda gelmeleri saf bir rastlantıydı." },
+          { "target": "He doesn't believe in {coincidence}.", "source": "Tesadüfe inanmıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-141-15",
+        "kind": "word",
+        "term": "complexity",
+        "type": "noun",
+        "meaning": "karmaşıklık",
+        "examples": [
+          { "target": "The {complexity} of the issue surprised everyone.", "source": "Meselenin karmaşıklığı herkesi şaşırttı." },
+          { "target": "Technology has increased the {complexity} of work.", "source": "Teknoloji işin karmaşıklığını artırdı." },
+          { "target": "She handles {complexity} with great skill.", "source": "Karmaşıklıkla büyük bir beceriyle başa çıkıyor." },
+          { "target": "The {complexity} of the language makes it difficult to learn.", "source": "Dilin karmaşıklığı öğrenmeyi zorlaştırıyor." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-142",
+    "languagePair": "en-tr",
+    "name": "Orta 142",
+    "level": "intermediate",
+    "category": "work-career",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-142-1",
+        "kind": "word",
+        "term": "acknowledge",
+        "type": "verb",
+        "meaning": "onaylamak, kabul etmek",
+        "examples": [
+          { "target": "The company {acknowledged} the issue publicly.", "source": "Şirket sorunu kamuoyu önünde kabul etti." },
+          { "target": "She {acknowledged} the applause with a bow.", "source": "Alkışı eğilerek karşıladı." },
+          { "target": "He {acknowledged} the contribution of his team.", "source": "Ekibinin katkısını kabul etti." },
+          { "target": "The award {acknowledged} her years of service.", "source": "Ödül, yıllarca süren hizmetini onayladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-2",
+        "kind": "word",
+        "term": "acquisition",
+        "type": "noun",
+        "meaning": "satın alma, edinim",
+        "examples": [
+          { "target": "The {acquisition} of the startup surprised the industry.", "source": "Startup'ın satın alınması sektörü şaşırttı." },
+          { "target": "Language {acquisition} is faster in children.", "source": "Dil edinimi çocuklarda daha hızlıdır." },
+          { "target": "The {acquisition} was completed for $5 billion.", "source": "Satın alma 5 milyar dolara tamamlandı." },
+          { "target": "Knowledge {acquisition} is a lifelong process.", "source": "Bilgi edinimi bir yaşam boyu süren bir süreçtir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-3",
+        "kind": "word",
+        "term": "agenda",
+        "type": "noun",
+        "meaning": "gündem, ajanda",
+        "examples": [
+          { "target": "What's on the {agenda} for tomorrow?", "source": "Yarın gündemde neler var?" },
+          { "target": "She has her own personal {agenda}.", "source": "Kendi kişisel gündemi var." },
+          { "target": "The hidden {agenda} became clear later.", "source": "Gizli gündem daha sonra ortaya çıktı." },
+          { "target": "The meeting {agenda} was shared in advance.", "source": "Toplantı gündemi önceden paylaşıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-4",
+        "kind": "word",
+        "term": "asset",
+        "type": "noun",
+        "meaning": "varlık, değer, avantaj",
+        "examples": [
+          { "target": "Her language skills are a valuable {asset}.", "source": "Dil becerileri değerli bir avantaj." },
+          { "target": "The company's {asset}s include land and equipment.", "source": "Şirketin varlıkları arazi ve ekipmanı kapsıyor." },
+          { "target": "He is an {asset} to any team.", "source": "Her takım için bir varlıktır." },
+          { "target": "Loyalty is the greatest {asset} in a partnership.", "source": "Sadakat, bir ortaklıktaki en büyük değerdir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-5",
+        "kind": "word",
+        "term": "audit",
+        "type": "noun",
+        "meaning": "denetim, teftiş",
+        "examples": [
+          { "target": "The company undergoes an {audit} every year.", "source": "Şirket her yıl denetime tabi tutuluyor." },
+          { "target": "An independent {audit} was requested.", "source": "Bağımsız bir denetim talep edildi." },
+          { "target": "The {audit} revealed financial irregularities.", "source": "Denetim, mali usulsüzlükleri ortaya çıkardı." },
+          { "target": "She was hired to {audit} the accounts.", "source": "Hesapları denetlemesi için tutuldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-6",
+        "kind": "word",
+        "term": "bonus",
+        "type": "noun",
+        "meaning": "prim, ek ücret",
+        "examples": [
+          { "target": "She received a large year-end {bonus}.", "source": "Yıl sonu büyük bir prim aldı." },
+          { "target": "The {bonus} was tied to performance.", "source": "Prim performansa bağlıydı." },
+          { "target": "He got a {bonus} for completing the project early.", "source": "Projeyi erken tamamladığı için prim aldı." },
+          { "target": "Holiday {bonus}es motivate employees.", "source": "Tatil primleri çalışanları motive eder." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-7",
+        "kind": "word",
+        "term": "bureaucracy",
+        "type": "noun",
+        "meaning": "bürokrasi",
+        "examples": [
+          { "target": "The process was delayed by {bureaucracy}.", "source": "Süreç bürokrasi nedeniyle gecikti." },
+          { "target": "He was frustrated by the endless {bureaucracy}.", "source": "Bitmeyen bürokrasiden bıktı." },
+          { "target": "{Bureaucracy} can slow down innovation.", "source": "Bürokrasi yenilikleri yavaşlatabilir." },
+          { "target": "Simplifying {bureaucracy} improves efficiency.", "source": "Bürokrasiyi basitleştirmek verimliliği artırır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-8",
+        "kind": "word",
+        "term": "candidate",
+        "type": "noun",
+        "meaning": "aday",
+        "examples": [
+          { "target": "There were ten {candidate}s for the position.", "source": "Pozisyon için on aday vardı." },
+          { "target": "She is a strong {candidate} for the promotion.", "source": "Terfi için güçlü bir aday." },
+          { "target": "The {candidate} gave an impressive interview.", "source": "Aday etkileyici bir mülakat verdi." },
+          { "target": "Which {candidate} did you vote for?", "source": "Hangi adaya oy verdiniz?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-9",
+        "kind": "word",
+        "term": "certification",
+        "type": "noun",
+        "meaning": "sertifikasyon, belgelendirme",
+        "examples": [
+          { "target": "She obtained a teaching {certification}.", "source": "Öğretmenlik sertifikası aldı." },
+          { "target": "The product received safety {certification}.", "source": "Ürün güvenlik belgelendirmesi aldı." },
+          { "target": "A professional {certification} improves career prospects.", "source": "Mesleki sertifikasyon kariyer olanaklarını geliştirir." },
+          { "target": "He is studying for his IT {certification}.", "source": "BT sertifikası için ders çalışıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-10",
+        "kind": "word",
+        "term": "collaboration",
+        "type": "noun",
+        "meaning": "iş birliği",
+        "examples": [
+          { "target": "The project was a {collaboration} between two firms.", "source": "Proje, iki firmanın iş birliğiydi." },
+          { "target": "{Collaboration} leads to better outcomes.", "source": "İş birliği daha iyi sonuçlara yol açar." },
+          { "target": "She values {collaboration} over competition.", "source": "Rekabet yerine iş birliğine değer veriyor." },
+          { "target": "International {collaboration} in research is vital.", "source": "Araştırmada uluslararası iş birliği hayati önem taşır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-11",
+        "kind": "word",
+        "term": "compensation",
+        "type": "noun",
+        "meaning": "tazminat, ücret",
+        "examples": [
+          { "target": "He received {compensation} for the injury.", "source": "Yaralanma için tazminat aldı." },
+          { "target": "The {compensation} package includes health benefits.", "source": "Ücret paketi sağlık yardımlarını içeriyor." },
+          { "target": "Financial {compensation} does not always heal emotional wounds.", "source": "Mali tazminat her zaman duygusal yaraları iyileştirmez." },
+          { "target": "Workers demanded fair {compensation}.", "source": "İşçiler adil ücret talep etti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-12",
+        "kind": "word",
+        "term": "compliance",
+        "type": "noun",
+        "meaning": "uyum, itaat",
+        "examples": [
+          { "target": "The company is in full {compliance} with the law.", "source": "Şirket yasaya tam uyum içinde." },
+          { "target": "{Compliance} with safety rules is mandatory.", "source": "Güvenlik kurallarına uyum zorunludur." },
+          { "target": "She worked in the {compliance} department.", "source": "Uyum departmanında çalıştı." },
+          { "target": "Non-{compliance} can result in fines.", "source": "Uyumsuzluk para cezasına yol açabilir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-13",
+        "kind": "word",
+        "term": "confidential",
+        "type": "adjective",
+        "meaning": "gizli, gizlilik içeren",
+        "examples": [
+          { "target": "This information is strictly {confidential}.", "source": "Bu bilgi kesinlikle gizlidir." },
+          { "target": "He signed a {confidential} agreement.", "source": "Gizlilik sözleşmesi imzaladı." },
+          { "target": "The report contains {confidential} data.", "source": "Rapor gizli veriler içeriyor." },
+          { "target": "Please keep this {confidential}.", "source": "Lütfen bunu gizli tutun." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-14",
+        "kind": "word",
+        "term": "consensus",
+        "type": "noun",
+        "meaning": "uzlaşı, fikir birliği",
+        "examples": [
+          { "target": "The team reached a {consensus} on the plan.", "source": "Takım plan üzerinde fikir birliğine vardı." },
+          { "target": "There is broad {consensus} that action is needed.", "source": "Harekete geçilmesi gerektiği konusunda geniş bir uzlaşı var." },
+          { "target": "Building {consensus} takes time.", "source": "Uzlaşı sağlamak zaman alır." },
+          { "target": "The decision was made by {consensus}.", "source": "Karar fikir birliğiyle alındı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-142-15",
+        "kind": "word",
+        "term": "constraint",
+        "type": "noun",
+        "meaning": "kısıtlama, engel",
+        "examples": [
+          { "target": "Budget {constraint}s limited the project scope.", "source": "Bütçe kısıtlamaları proje kapsamını sınırladı." },
+          { "target": "She worked within the {constraint}s given.", "source": "Verilen kısıtlamalar içinde çalıştı." },
+          { "target": "Time is the biggest {constraint} in this project.", "source": "Zamandır bu projedeki en büyük kısıtlama." },
+          { "target": "Remove {constraint}s to allow creative thinking.", "source": "Yaratıcı düşünceye izin vermek için kısıtlamaları kaldırın." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-143",
+    "languagePair": "en-tr",
+    "name": "Orta 143",
+    "level": "intermediate",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-143-1",
+        "kind": "word",
+        "term": "compensate",
+        "type": "verb",
+        "meaning": "telafi etmek, tazminat ödemek",
+        "examples": [
+          { "target": "The company will {compensate} victims of the accident.", "source": "Şirket kaza mağdurlarına tazminat ödeyecek." },
+          { "target": "She worked extra hours to {compensate} for the missed day.", "source": "Kaçırdığı günü telafi etmek için fazla mesai yaptı." },
+          { "target": "Nothing can {compensate} for losing a loved one.", "source": "Hiçbir şey bir sevgilinizi kaybetmenin yerini tutamaz." },
+          { "target": "He {compensated} for his weakness with preparation.", "source": "Zayıflığını hazırlıkla telafi etti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-2",
+        "kind": "word",
+        "term": "compete",
+        "type": "verb",
+        "meaning": "rekabet etmek",
+        "examples": [
+          { "target": "They {compete}d fiercely for the top prize.", "source": "Birinci ödül için amansızca rekabet ettiler." },
+          { "target": "She was born to {compete}.", "source": "Rekabet etmek için doğmuş." },
+          { "target": "Local stores struggle to {compete} with online shops.", "source": "Yerel mağazalar online dükkanlarla rekabet etmekte zorlanıyor." },
+          { "target": "Nations {compete} for the best talent.", "source": "Uluslar en iyi yetenekler için rekabet eder." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-3",
+        "kind": "word",
+        "term": "consent",
+        "type": "noun",
+        "meaning": "rıza, onay",
+        "examples": [
+          { "target": "She gave her {consent} to the procedure.", "source": "İşleme rızasını verdi." },
+          { "target": "You need parental {consent} to participate.", "source": "Katılmak için ebeveyn izni gerekiyor." },
+          { "target": "Without {consent}, the action is illegal.", "source": "Rıza olmadan eylem yasadışıdır." },
+          { "target": "He withdrew his {consent} at the last minute.", "source": "Son dakikada rızasını geri çekti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-4",
+        "kind": "word",
+        "term": "constitute",
+        "type": "verb",
+        "meaning": "oluşturmak, teşkil etmek",
+        "examples": [
+          { "target": "Women {constitute} half of the population.", "source": "Kadınlar nüfusun yarısını oluşturuyor." },
+          { "target": "This behavior {constitutes} a crime.", "source": "Bu davranış suç teşkil ediyor." },
+          { "target": "The twelve members {constitute} the board.", "source": "On iki üye yönetim kurulunu oluşturuyor." },
+          { "target": "Lying under oath {constitutes} perjury.", "source": "Yemin altında yalan söylemek yalancı tanıklık teşkil eder." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-5",
+        "kind": "word",
+        "term": "contradict",
+        "type": "verb",
+        "meaning": "çelişmek, yalanlamak",
+        "examples": [
+          { "target": "The evidence {contradicts} his alibi.", "source": "Kanıtlar onun mazeretini yalanlamaktadır." },
+          { "target": "His speech {contradicts} his earlier statements.", "source": "Konuşması önceki ifadesiyle çelişiyor." },
+          { "target": "The two reports directly {contradict} each other.", "source": "İki rapor birbirini doğrudan çelişiyor." },
+          { "target": "She hates to be {contradict}ed.", "source": "Yalanlanmaktan nefret eder." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-6",
+        "kind": "word",
+        "term": "cope",
+        "type": "verb",
+        "meaning": "başa çıkmak, üstesinden gelmek",
+        "examples": [
+          { "target": "She found it hard to {cope} with the loss.", "source": "Kayıpla başa çıkmakta zorlandı." },
+          { "target": "He {cope}d with stress by exercising.", "source": "Egzersiz yaparak stresle başa çıktı." },
+          { "target": "How do you {cope} under pressure?", "source": "Baskı altında nasıl başa çıkıyorsunuz?" },
+          { "target": "Children {cope} with change differently.", "source": "Çocuklar değişimle farklı biçimlerde başa çıkar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-7",
+        "kind": "word",
+        "term": "diagnose",
+        "type": "verb",
+        "meaning": "teşhis koymak",
+        "examples": [
+          { "target": "The doctor {diagnosed} her with anemia.", "source": "Doktor anemi teşhisi koydu." },
+          { "target": "The problem was {diagnosed} by an engineer.", "source": "Sorun bir mühendis tarafından teşhis edildi." },
+          { "target": "It took months to {diagnose} the illness.", "source": "Hastalığı teşhis etmek aylar sürdü." },
+          { "target": "He was {diagnosed} early, which helped his recovery.", "source": "Erken teşhis konulması iyileşmesine yardımcı oldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-8",
+        "kind": "word",
+        "term": "dismiss",
+        "type": "verb",
+        "meaning": "görevden almak, reddetmek, göndermek",
+        "examples": [
+          { "target": "He was {dismissed} from his job.", "source": "İşinden çıkarıldı." },
+          { "target": "She {dismissed} the idea without consideration.", "source": "Fikri düşünmeksizin reddetti." },
+          { "target": "The judge {dismissed} the case.", "source": "Yargıç davayı düşürdü." },
+          { "target": "The teacher {dismissed} the class early.", "source": "Öğretmen sınıfı erken terketti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-9",
+        "kind": "word",
+        "term": "dispute",
+        "type": "verb",
+        "meaning": "itiraz etmek, tartışmak",
+        "examples": [
+          { "target": "He {disputed} the findings of the report.", "source": "Raporun bulgularına itiraz etti." },
+          { "target": "She {disputed} the charge on her bill.", "source": "Faturasındaki ücrete itiraz etti." },
+          { "target": "No one {dispute}d his leadership.", "source": "Liderliğine kimse itiraz etmedi." },
+          { "target": "The ownership was {dispute}d in court.", "source": "Mülkiyet mahkemede tartışıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-10",
+        "kind": "word",
+        "term": "dominate",
+        "type": "verb",
+        "meaning": "hakim olmak, egemen olmak",
+        "examples": [
+          { "target": "The company {dominate}s the market.", "source": "Şirket pazara hakim." },
+          { "target": "She {dominated} the debate from the start.", "source": "Başından beri tartışmaya hakim oldu." },
+          { "target": "Technology companies {dominate} today's economy.", "source": "Teknoloji şirketleri günümüz ekonomisine egemen." },
+          { "target": "He {dominate}d the sport for a decade.", "source": "On yıl boyunca spora hakim oldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-11",
+        "kind": "word",
+        "term": "elaborate",
+        "type": "verb",
+        "meaning": "ayrıntılı açıklamak, geliştirmek",
+        "examples": [
+          { "target": "Could you {elaborate} on that point?", "source": "O noktayı daha ayrıntılı açıklar mısınız?" },
+          { "target": "She {elaborated} on the plan with examples.", "source": "Planı örneklerle ayrıntılandırdı." },
+          { "target": "He {elaborated} a complex strategy.", "source": "Karmaşık bir strateji geliştirdi." },
+          { "target": "Please {elaborate} your answer.", "source": "Lütfen cevabınızı genişletin." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-12",
+        "kind": "word",
+        "term": "embody",
+        "type": "verb",
+        "meaning": "somutlaştırmak, temsil etmek",
+        "examples": [
+          { "target": "She {embodies} the spirit of the organization.", "source": "Kuruluşun ruhunu somutlaştırıyor." },
+          { "target": "The statue {embodies} national pride.", "source": "Heykel ulusal gururu temsil ediyor." },
+          { "target": "He {embodies} everything a good teacher should be.", "source": "İyi bir öğretmenin olması gereken her şeyi somutlaştırıyor." },
+          { "target": "The design {embodies} simplicity and elegance.", "source": "Tasarım sadeliği ve zarafeti somutlaştırıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-13",
+        "kind": "word",
+        "term": "encounter",
+        "type": "verb",
+        "meaning": "karşılaşmak, rastlamak",
+        "examples": [
+          { "target": "She {encountered} many obstacles on her journey.", "source": "Yolculuğunda pek çok engelle karşılaştı." },
+          { "target": "He {encountered} her by chance at the airport.", "source": "Havalimanında tesadüfen ona rastladı." },
+          { "target": "Students may {encounter} difficult texts.", "source": "Öğrenciler zor metinlerle karşılaşabilir." },
+          { "target": "The team {encountered} technical problems.", "source": "Takım teknik sorunlarla karşılaştı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-14",
+        "kind": "word",
+        "term": "endure",
+        "type": "verb",
+        "meaning": "dayanmak, katlanmak, sürmek",
+        "examples": [
+          { "target": "She {endured} years of hardship.", "source": "Yıllarca zorluğa katlandı." },
+          { "target": "Great art {endures} through the ages.", "source": "Büyük sanat çağlar boyunca sürer." },
+          { "target": "He {endured} the pain without complaint.", "source": "Acıya şikayetsizce dayanmaktadır." },
+          { "target": "Their friendship {endured} despite the distance.", "source": "Arkadaşlıkları mesafeye rağmen sürdü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-143-15",
+        "kind": "word",
+        "term": "enforce",
+        "type": "verb",
+        "meaning": "uygulatmak, zorunlu kılmak",
+        "examples": [
+          { "target": "The law must be {enforced} equally.", "source": "Yasa eşit biçimde uygulanmalıdır." },
+          { "target": "Who is responsible for {enforce}ing the rules?", "source": "Kuralları uygulamaktan kim sorumlu?" },
+          { "target": "Courts {enforce} legal judgments.", "source": "Mahkemeler hukuki kararları uygular." },
+          { "target": "The policy was difficult to {enforce}.", "source": "Politikayı uygulatmak zordu." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-144",
+    "languagePair": "en-tr",
+    "name": "Orta 144",
+    "level": "intermediate",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-144-1",
+        "kind": "word",
+        "term": "framework",
+        "type": "noun",
+        "meaning": "çerçeve, yapı",
+        "examples": [
+          { "target": "We need a legal {framework} for the project.", "source": "Proje için yasal bir çerçeveye ihtiyacımız var." },
+          { "target": "The policy provides a {framework} for action.", "source": "Politika eylem için bir çerçeve sunuyor." },
+          { "target": "She developed a {framework} for the analysis.", "source": "Analiz için bir yapı geliştirdi." },
+          { "target": "The new {framework} was adopted by all departments.", "source": "Yeni çerçeve tüm bölümlerce benimsendi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-2",
+        "kind": "word",
+        "term": "fraud",
+        "type": "noun",
+        "meaning": "dolandırıcılık, sahtecilik",
+        "examples": [
+          { "target": "He was arrested for tax {fraud}.", "source": "Vergi dolandırıcılığı nedeniyle tutuklandı." },
+          { "target": "The company committed financial {fraud}.", "source": "Şirket mali dolandırıcılık yaptı." },
+          { "target": "{Fraud} is a serious criminal offense.", "source": "Dolandırıcılık ciddi bir suçtur." },
+          { "target": "Protect yourself from online {fraud}.", "source": "Kendinizi çevrimiçi dolandırıcılıktan koruyun." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-3",
+        "kind": "word",
+        "term": "fundamental",
+        "type": "adjective",
+        "meaning": "temel, köklü",
+        "examples": [
+          { "target": "Freedom of speech is a {fundamental} right.", "source": "İfade özgürlüğü temel bir haktır." },
+          { "target": "This is a {fundamental} change in policy.", "source": "Bu politikada köklü bir değişiklik." },
+          { "target": "Mathematics is {fundamental} to science.", "source": "Matematik, bilimin temelidir." },
+          { "target": "She understands the {fundamental} principles.", "source": "Temel ilkeleri anlıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-4",
+        "kind": "word",
+        "term": "generate",
+        "type": "verb",
+        "meaning": "üretmek, yaratmak",
+        "examples": [
+          { "target": "The new policy will {generate} debate.", "source": "Yeni politika tartışma yaratacak." },
+          { "target": "The solar panels {generate} clean energy.", "source": "Güneş panelleri temiz enerji üretiyor." },
+          { "target": "The event {generated} significant revenue.", "source": "Etkinlik önemli gelir yarattı." },
+          { "target": "She {generated} a list of ideas quickly.", "source": "Hızla bir fikir listesi oluşturdu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-5",
+        "kind": "word",
+        "term": "genuine",
+        "type": "adjective",
+        "meaning": "gerçek, sahici, samimi",
+        "examples": [
+          { "target": "She showed {genuine} concern for the children.", "source": "Çocuklar için gerçek bir endişe gösterdi." },
+          { "target": "Is this painting {genuine}?", "source": "Bu tablo gerçek mi?" },
+          { "target": "His {genuine} smile put everyone at ease.", "source": "Samimi gülümsemesi herkesi rahatıattı." },
+          { "target": "A {genuine} apology is heartfelt.", "source": "Samimi bir özür yürekten gelir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-6",
+        "kind": "word",
+        "term": "globally",
+        "type": "adverb",
+        "meaning": "küresel olarak, dünya genelinde",
+        "examples": [
+          { "target": "The product is sold {globally}.", "source": "Ürün küresel olarak satılıyor." },
+          { "target": "Climate change affects us {globally}.", "source": "İklim değişikliği hepimizi küresel olarak etkiliyor." },
+          { "target": "She is {globally} recognized for her work.", "source": "Çalışmasıyla dünya genelinde tanınıyor." },
+          { "target": "The company operates {globally}.", "source": "Şirket dünya genelinde faaliyet gösteriyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-7",
+        "kind": "word",
+        "term": "harm",
+        "type": "noun",
+        "meaning": "zarar, hasar",
+        "examples": [
+          { "target": "The accident caused significant {harm}.", "source": "Kaza önemli bir zarar verdi." },
+          { "target": "{Harm} to the environment is hard to reverse.", "source": "Çevreye verilen zarar geri döndürülmesi zordur." },
+          { "target": "Do you mean to cause {harm}?", "source": "Zarar vermeyi mi amaçlıyorsunuz?" },
+          { "target": "The drug has no known side {harm}.", "source": "İlacın bilinen bir yan zararı yoktur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-8",
+        "kind": "word",
+        "term": "hierarchy",
+        "type": "noun",
+        "meaning": "hiyerarşi, sıra düzeni",
+        "examples": [
+          { "target": "The company has a strict {hierarchy}.", "source": "Şirket katı bir hiyerarşiye sahip." },
+          { "target": "She challenged the existing social {hierarchy}.", "source": "Mevcut toplumsal hiyerarşiye meydan okudu." },
+          { "target": "A {hierarchy} of needs describes human motivation.", "source": "İhtiyaçlar hiyerarşisi insan motivasyonunu açıklar." },
+          { "target": "In the {hierarchy}, managers report to directors.", "source": "Hiyerarşide yöneticiler direktörlere rapor verir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-9",
+        "kind": "word",
+        "term": "implement",
+        "type": "noun",
+        "meaning": "araç, alet",
+        "examples": [
+          { "target": "Farming {implement}s have changed over centuries.", "source": "Çiftçilik aletleri yüzyıllar içinde değişti." },
+          { "target": "The {implement} was used for the ceremony.", "source": "Tören için alet kullanıldı." },
+          { "target": "She used a small {implement} to open the lock.", "source": "Kilidi açmak için küçük bir alet kullandı." },
+          { "target": "Dental {implement}s must be sterilized.", "source": "Diş aletleri sterilize edilmek zorundadır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-10",
+        "kind": "word",
+        "term": "incentive",
+        "type": "noun",
+        "meaning": "teşvik, güdü",
+        "examples": [
+          { "target": "What is the {incentive} to work harder?", "source": "Daha sıkı çalışmanın teşviki ne?" },
+          { "target": "A bonus is a common {incentive} at work.", "source": "Prim, işyerinde yaygın bir teşviktir." },
+          { "target": "Tax breaks are an {incentive} for investors.", "source": "Vergi indirimleri yatırımcılar için bir teşviktir." },
+          { "target": "She had no {incentive} to stay.", "source": "Kalmasına dair hiçbir güdüsü yoktu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-11",
+        "kind": "word",
+        "term": "inevitable",
+        "type": "adjective",
+        "meaning": "kaçınılmaz",
+        "examples": [
+          { "target": "Change is {inevitable}.", "source": "Değişim kaçınılmazdır." },
+          { "target": "The {inevitable} result was a conflict.", "source": "Kaçınılmaz sonuç bir çatışmaydı." },
+          { "target": "Progress is {inevitable} but not always easy.", "source": "İlerleme kaçınılmazdır ama her zaman kolay değildir." },
+          { "target": "It was {inevitable} that she would succeed.", "source": "Başarılı olması kaçınılmazdı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-12",
+        "kind": "word",
+        "term": "infinite",
+        "type": "adjective",
+        "meaning": "sonsuz, sınırsız",
+        "examples": [
+          { "target": "The universe is {infinite}.", "source": "Evren sonsuzdur." },
+          { "target": "She had {infinite} patience with the children.", "source": "Çocuklara karşı sonsuz sabrı vardı." },
+          { "target": "There are {infinite} possibilities.", "source": "Sonsuz olasılıklar var." },
+          { "target": "The number of combinations is {infinite}.", "source": "Kombinasyon sayısı sonsuzdur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-13",
+        "kind": "word",
+        "term": "infrastructure",
+        "type": "noun",
+        "meaning": "altyapı",
+        "examples": [
+          { "target": "The city's {infrastructure} needs improvement.", "source": "Şehrin altyapısının iyileştirilmesi gerekiyor." },
+          { "target": "Good {infrastructure} attracts investment.", "source": "İyi altyapı yatırım çeker." },
+          { "target": "The flood damaged the road {infrastructure}.", "source": "Sel yol altyapısına zarar verdi." },
+          { "target": "Digital {infrastructure} is vital for modern economies.", "source": "Dijital altyapı, modern ekonomiler için hayati önem taşır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-14",
+        "kind": "word",
+        "term": "insight",
+        "type": "noun",
+        "meaning": "içgörü, kavrayış",
+        "examples": [
+          { "target": "She provided valuable {insight}s into the problem.", "source": "Soruna değerli içgörüler sağladı." },
+          { "target": "The book offers deep {insight} into human nature.", "source": "Kitap insan doğasına derin kavrayış sunuyor." },
+          { "target": "His {insight} improved the team's decision-making.", "source": "İçgörüsü takımın karar verme sürecini geliştirdi." },
+          { "target": "Data analysis gives {insight} into customer behavior.", "source": "Veri analizi, müşteri davranışı hakkında içgörü sağlar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-144-15",
+        "kind": "word",
+        "term": "integrity",
+        "type": "noun",
+        "meaning": "dürüstlük, bütünlük",
+        "examples": [
+          { "target": "She is known for her personal {integrity}.", "source": "Kişisel dürüstlüğüyle tanınıyor." },
+          { "target": "The {integrity} of the data was questioned.", "source": "Verilerin bütünlüğü sorgulandı." },
+          { "target": "He maintained his {integrity} under pressure.", "source": "Baskı altında dürüstlüğünü korudu." },
+          { "target": "Academic {integrity} prohibits plagiarism.", "source": "Akademik dürüstlük intihalı yasaklar." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-145",
+    "languagePair": "en-tr",
+    "name": "Orta 145",
+    "level": "intermediate",
+    "category": "nature",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-145-1",
+        "kind": "word",
+        "term": "atmosphere",
+        "type": "noun",
+        "meaning": "atmosfer, hava",
+        "examples": [
+          { "target": "The Earth's {atmosphere} protects us from radiation.", "source": "Dünya'nın atmosferi bizi radyasyondan korur." },
+          { "target": "The restaurant had a warm and cozy {atmosphere}.", "source": "Restoranın sıcak ve samimi bir atmosferi vardı." },
+          { "target": "Carbon dioxide is entering the {atmosphere}.", "source": "Karbondioksit atmosfere karışıyor." },
+          { "target": "The {atmosphere} at the concert was electric.", "source": "Konser atmosferi elektrik yüklüydü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-2",
+        "kind": "word",
+        "term": "avalanche",
+        "type": "noun",
+        "meaning": "çığ",
+        "examples": [
+          { "target": "An {avalanche} buried the village.", "source": "Bir çığ köyü gömdü." },
+          { "target": "Heavy snowfall increased the risk of {avalanche}.", "source": "Yoğun kar yağışı çığ riskini artırdı." },
+          { "target": "Hikers were warned of potential {avalanche}s.", "source": "Yürüyüşçüler olası çığlar konusunda uyarıldı." },
+          { "target": "The {avalanche} buried the mountain road.", "source": "Çığ, dağ yolunu kapattı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-3",
+        "kind": "word",
+        "term": "canyon",
+        "type": "noun",
+        "meaning": "kanyon, derin vadi",
+        "examples": [
+          { "target": "The river carved the {canyon} over millions of years.", "source": "Nehir, milyonlarca yıl boyunca kanyonu oydu." },
+          { "target": "The Grand {canyon} is a natural wonder.", "source": "Büyük Kanyon bir doğal harikadır." },
+          { "target": "Tourists hike through the {canyon}.", "source": "Turistler kanyonun içinden yürüyüş yapıyor." },
+          { "target": "The {canyon} was breathtakingly beautiful.", "source": "Kanyon nefes kesici güzelliğiyle büyüleyiciydi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-4",
+        "kind": "word",
+        "term": "climate",
+        "type": "noun",
+        "meaning": "iklim",
+        "examples": [
+          { "target": "The {climate} in the tropics is hot and humid.", "source": "Tropik bölgelerdeki iklim sıcak ve nemlidir." },
+          { "target": "{Climate} change is a pressing global issue.", "source": "İklim değişikliği acil bir küresel sorundur." },
+          { "target": "She prefers a dry {climate}.", "source": "Kuru bir iklimi tercih ediyor." },
+          { "target": "The {climate} of the country is mild year-round.", "source": "Ülkenin iklimi yıl boyunca ılımandır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-5",
+        "kind": "word",
+        "term": "contamination",
+        "type": "noun",
+        "meaning": "kirlenme, kontaminasyon",
+        "examples": [
+          { "target": "Water {contamination} is a public health risk.", "source": "Su kirlenmesi halk sağlığı için bir risktir." },
+          { "target": "The factory caused soil {contamination}.", "source": "Fabrika toprak kirlenmesine yol açtı." },
+          { "target": "{Contamination} of food can cause illness.", "source": "Gıdanın kirlenmesi hastalığa neden olabilir." },
+          { "target": "They tested the area for {contamination}.", "source": "Bölgeyi kirlenme açısından test ettiler." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-6",
+        "kind": "word",
+        "term": "coral",
+        "type": "noun",
+        "meaning": "mercan",
+        "examples": [
+          { "target": "{Coral} reefs are home to thousands of species.", "source": "Mercan resifleri binlerce türe ev sahipliği yapar." },
+          { "target": "Rising temperatures are bleaching {coral}.", "source": "Yükselen sıcaklıklar merca nları ağartıyor." },
+          { "target": "She wore a {coral}-colored dress.", "source": "Mercan rengi elbise giydi." },
+          { "target": "Scientists study how to protect {coral} reefs.", "source": "Bilim insanları mercan resiflerini korumayı araştırıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-7",
+        "kind": "word",
+        "term": "current",
+        "type": "noun",
+        "meaning": "akıntı, cereyan",
+        "examples": [
+          { "target": "The {current} pulled the swimmer off course.", "source": "Akıntı yüzücüyü rotadan saptırdı." },
+          { "target": "Ocean {current}s affect global weather.", "source": "Okyanus akıntıları küresel havaları etkiler." },
+          { "target": "He swam against the {current}.", "source": "Akıntıya karşı yüzdü." },
+          { "target": "Electric {current} flows through the wire.", "source": "Elektrik cereyanı telden akar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-8",
+        "kind": "word",
+        "term": "deforestation",
+        "type": "noun",
+        "meaning": "ormansızlaşma",
+        "examples": [
+          { "target": "{Deforestation} is destroying natural habitats.", "source": "Ormansızlaşma doğal habitatları yok ediyor." },
+          { "target": "Brazil struggles with {deforestation} in the Amazon.", "source": "Brezilya, Amazon'daki ormansızlaşmayla mücadele ediyor." },
+          { "target": "{Deforestation} contributes to climate change.", "source": "Ormansızlaşma iklim değişikliğine katkıda bulunuyor." },
+          { "target": "Laws were passed to reduce {deforestation}.", "source": "Ormansızlaşmayı azaltmak için yasalar çıkarıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-9",
+        "kind": "word",
+        "term": "delta",
+        "type": "noun",
+        "meaning": "delta (coğrafya)",
+        "examples": [
+          { "target": "The Nile {delta} is one of the world's largest.", "source": "Nil deltası dünyanın en büyüklerinden biridir." },
+          { "target": "The {delta} is a fertile area for farming.", "source": "Delta, tarım için verimli bir alandır." },
+          { "target": "Floods reshaped the river {delta}.", "source": "Seller nehir deltasını yeniden şekillendirdi." },
+          { "target": "The {delta} is home to rare birds.", "source": "Delta nadir kuşlara ev sahipliği yapıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-10",
+        "kind": "word",
+        "term": "elevation",
+        "type": "noun",
+        "meaning": "yükseklik, rakım",
+        "examples": [
+          { "target": "The city is at an {elevation} of 2,000 meters.", "source": "Şehir 2.000 metre rakımda yer alıyor." },
+          { "target": "At high {elevation}, the air is thin.", "source": "Yüksek rakımda hava seyrektir." },
+          { "target": "The {elevation} of the path increases steeply.", "source": "Yolun yüksekliği dik biçimde artıyor." },
+          { "target": "Crops vary depending on {elevation}.", "source": "Ürünler rakıma bağlı olarak değişiklik gösterir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-11",
+        "kind": "word",
+        "term": "estuary",
+        "type": "noun",
+        "meaning": "haliç, denize dökülen nehrin ağzı",
+        "examples": [
+          { "target": "The {estuary} is rich in marine life.", "source": "Haliç deniz canlıları açısından zengin." },
+          { "target": "The city was built near the river {estuary}.", "source": "Şehir nehir haliçinin yakınına kurulmuştu." },
+          { "target": "Tidal flows shape the {estuary}'s landscape.", "source": "Gelgit akışları haliç manzarasını şekillendiriyor." },
+          { "target": "The {estuary} is a protected natural area.", "source": "Haliç, korunan doğal bir alandır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-12",
+        "kind": "word",
+        "term": "fauna",
+        "type": "noun",
+        "meaning": "fauna, hayvan varlığı",
+        "examples": [
+          { "target": "The island has unique {fauna}.", "source": "Adanın kendine özgü faunası var." },
+          { "target": "Scientists recorded the {fauna} of the region.", "source": "Bilim insanları bölgenin faunasını kaydetti." },
+          { "target": "Invasive species threaten local {fauna}.", "source": "İstilacı türler yerel faunayı tehdit ediyor." },
+          { "target": "The park is known for its diverse {fauna}.", "source": "Park, çeşitli faunasıyla tanınıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-13",
+        "kind": "word",
+        "term": "flora",
+        "type": "noun",
+        "meaning": "flora, bitki örtüsü",
+        "examples": [
+          { "target": "The rainforest has incredibly rich {flora}.", "source": "Yağmur ormanının inanılmaz zengin bir florası var." },
+          { "target": "She studied the {flora} of the wetlands.", "source": "Sulak alanların florasını inceledi." },
+          { "target": "Local {flora} depends on climate and soil.", "source": "Yerel flora, iklim ve toprağa bağlıdır." },
+          { "target": "The {flora} of the island includes rare orchids.", "source": "Adanın florası nadir orkide türlerini içeriyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-14",
+        "kind": "word",
+        "term": "flood",
+        "type": "noun",
+        "meaning": "sel, taşkın",
+        "examples": [
+          { "target": "The village was destroyed by a {flood}.", "source": "Köy bir sel tarafından tahrip edildi." },
+          { "target": "Heavy rain caused {flood}s in the city.", "source": "Yoğun yağmur şehirde sellere neden oldu." },
+          { "target": "{Flood} warnings were issued for the region.", "source": "Bölge için sel uyarısı verildi." },
+          { "target": "Emergency teams responded to the {flood}.", "source": "Acil ekipler sele müdahale etti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-145-15",
+        "kind": "word",
+        "term": "fog",
+        "type": "noun",
+        "meaning": "sis",
+        "examples": [
+          { "target": "Thick {fog} reduced visibility on the road.", "source": "Yoğun sis yoldaki görüş mesafesini düşürdü." },
+          { "target": "The city was covered in morning {fog}.", "source": "Şehir sabah sisiyle örtülmüştü." },
+          { "target": "{Fog} is common along the coastal areas.", "source": "Sis, kıyı bölgelerinde yaygındır." },
+          { "target": "The {fog} lifted by noon.", "source": "Sis öğleden sonra dağıldı." }
+        ]
+      }
+    ]
+  }
+]
