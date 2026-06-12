@@ -33,8 +33,8 @@ export default function TabsLayout() {
         options={{ title: t("tabExplore"), tabBarIcon: icon("🧭") }}
       />
       <Tabs.Screen
-        name="history"
-        options={{ title: t("tabHistory"), tabBarIcon: icon("🕘") }}
+        name="learned"
+        options={{ title: t("tabLearned"), tabBarIcon: icon("🎓") }}
       />
       <Tabs.Screen
         name="settings"

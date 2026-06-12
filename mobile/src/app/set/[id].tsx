@@ -17,9 +17,12 @@ export default function SetDetail() {
   const set = useSet(id);
   const pair = useSettings((s) => s.languagePair);
   const studyIds = useLibrary((s) => s.studyList[pair]) ?? [];
+  const learnedIds = useLibrary((s) => s.learnedSets[pair]) ?? [];
   const states = useLibrary((s) => s.wordStates[pair]);
   const addToList = useLibrary((s) => s.addToStudyList);
   const removeFromList = useLibrary((s) => s.removeFromStudyList);
+  const markLearned = useLibrary((s) => s.markLearned);
+  const unmarkLearned = useLibrary((s) => s.unmarkLearned);
 
   if (!set) {
     return (
@@ -31,6 +34,7 @@ export default function SetDetail() {
   }
 
   const inList = studyIds.includes(set.id);
+  const isLearned = learnedIds.includes(set.id);
   const mastered = masteredCount(states, set.entries.map((e) => e.id));
 
   return (
@@ -69,6 +73,14 @@ export default function SetDetail() {
                 style={styles.flex}
               />
             </View>
+            <Button
+              title={isLearned ? t("setUnmarkLearned") : t("setMarkLearned")}
+              variant={isLearned ? "ok" : "surface"}
+              onPress={() =>
+                isLearned ? unmarkLearned(pair, set.id) : markLearned(pair, set.id)
+              }
+              style={styles.learnedBtn}
+            />
           </View>
         }
         renderItem={({ item }) => <EntryRow entry={item} status={states?.[item.id]?.status} />}
@@ -104,6 +116,7 @@ const styles = StyleSheet.create({
   badges: { flexDirection: "row", gap: spacing.sm, flexWrap: "wrap", marginTop: spacing.xs },
   mastered: { color: colors.muted, fontSize: 13, marginTop: spacing.xs },
   actions: { flexDirection: "row", gap: spacing.sm, marginTop: spacing.md },
+  learnedBtn: { alignSelf: "stretch", marginTop: spacing.sm },
   flex: { flex: 1 },
   entry: {
     flexDirection: "row",

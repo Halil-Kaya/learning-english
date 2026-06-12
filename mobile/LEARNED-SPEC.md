@@ -61,11 +61,12 @@ kaydırma oturumu başlatır; oturum sonunda bilinmeyen kelimeler listelenir.
 
 ## Uygulama Partileri ("devam et" akışı)
 
-- [ ] **Parti A** — İşaretleme + sekme: `learnedSets` store alanı, set detayında
-      🎓 toggle, Geçmiş sekmesinin Öğrendiklerim'e dönüşmesi (liste + boş durum),
-      `addSession` çağrısının kaldırılması.
-- [ ] **Parti B** — Kendini Dene: havuz seçimi (Hızlı 20 / Hepsi), swipe kart
-      ekranı (`self-test.tsx`, PanResponder), bilinmeyenler listeli sonuç ekranı,
+- [x] **Parti A** — İşaretleme + sekme ✓ 2026-06-12: `learnedSets` store alanı,
+      set detayında 🎓 toggle, Geçmiş sekmesinin Öğrendiklerim'e dönüşmesi
+      (liste + boş durum), `addSession` çağrısının kaldırılması.
+- [x] **Parti B** — Kendini Dene ✓ 2026-06-12: havuz seçimi (Hızlı 20 / Hepsi,
+      Alert ile), swipe kart ekranı (`self-test.tsx` + `SwipeCard`, PanResponder,
+      arkada sıradaki kart görünümü), bilinmeyenler listeli sonuç ekranı,
       "bilmediklerimi tekrar dene" turu.
 
 Her parti sonunda: `npx tsc --noEmit` → commit → push.

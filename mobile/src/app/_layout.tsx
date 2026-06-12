@@ -44,6 +44,10 @@ export default function RootLayout() {
             name="create-set"
             options={{ animation: "slide_from_bottom" }}
           />
+          <Stack.Screen
+            name="self-test"
+            options={{ animation: "slide_from_bottom" }}
+          />
         </Stack>
       </SafeAreaProvider>
     </GestureHandlerRootView>

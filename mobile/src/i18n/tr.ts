@@ -9,7 +9,7 @@ export const tr = {
   // sekmeler
   tabHome: "Hedefim",
   tabExplore: "Keşfet",
-  tabHistory: "Geçmiş",
+  tabLearned: "Öğrendiklerim",
   tabSettings: "Ayarlar",
 
   // onboarding
@@ -41,11 +41,30 @@ export const tr = {
   setRemove: "Listeden çıkar",
   setAdd: "Hedef listeme ekle",
   setStart: "Çalışmaya başla",
+  setMarkLearned: "🎓 Öğrendim olarak işaretle",
+  setUnmarkLearned: "🎓 Öğrenilmiş ✓ — işareti kaldır",
 
-  // history
-  historyTitle: "Çalıştıklarım",
-  historyEmpty: "Henüz çalışma kaydın yok.",
-  historyAgain: "Tekrar çalış",
+  // öğrendiklerim
+  learnedTitle: "Öğrendiklerim",
+  learnedEmpty:
+    "Henüz öğrenilmiş set yok.\nBir setin detayından 🎓 Öğrendim'i işaretle.",
+  learnedGoExplore: "Keşfet'e git",
+  learnedCount: "set öğrenildi",
+
+  // kendini dene
+  selfTest: "🃏 Kendini Dene",
+  selfTestChoiceTitle: "Kendini Dene",
+  selfTestChoiceMsg: "Kaç kelimeyle denemek istersin?",
+  selfTestQuick: "Hızlı (20 kelime)",
+  selfTestFull: "Tam tarama (hepsi)",
+  selfTestCancel: "Vazgeç",
+  selfTestSwipeHint: "sağa kaydır = biliyorum · sola = bilmiyorum · dokun = anlam",
+  selfTestKnow: "✓ Biliyorum",
+  selfTestDontKnow: "✗ Bilmiyorum",
+  selfTestAllKnown: "Hepsini bildin! 🎉",
+  selfTestUnknownTitle: "Bilmediklerin",
+  selfTestRetryWrong: "Bilmediklerimi tekrar dene",
+  selfTestClose: "Kapat",
 
   // settings
   settingsTitle: "Ayarlar",

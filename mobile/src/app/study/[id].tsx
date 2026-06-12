@@ -15,7 +15,7 @@ import { ResultView } from "../../components/modes/ResultView";
 import { TestMode } from "../../components/modes/TestMode";
 import { WriteMode } from "../../components/modes/WriteMode";
 import type { ModeProps, ModeResult } from "../../components/modes/types";
-import { GAME_MODES, type Entry, type StudyMode } from "../../data/types";
+import type { Entry, StudyMode } from "../../data/types";
 import { useSet } from "../../data/useSets";
 import { makeSpeak } from "../../engine/speak";
 import { useLibrary } from "../../store/library";
@@ -42,7 +42,6 @@ export default function StudySession() {
   const pair = useSettings((s) => s.languagePair);
   const sound = useSettings((s) => s.sound);
   const recordWord = useLibrary((s) => s.recordWord);
-  const addSession = useLibrary((s) => s.addSession);
 
   const speak = useMemo(() => makeSpeak(pair, sound), [pair, sound]);
 
@@ -67,20 +66,8 @@ export default function StudySession() {
     setRunKey((k) => k + 1);
   };
 
-  const onFinish = (res: ModeResult) => {
-    setResult(res);
-    // oyun modları geçmişe yazılmaz (yalnız yüksek skor — games store)
-    if (GAME_MODES.has(mode!)) return;
-    addSession(pair, {
-      id: `${Date.now()}-${Math.round(Math.random() * 1e6)}`,
-      setId: set.id,
-      mode: mode!,
-      date: new Date().toISOString(),
-      know: res.know,
-      learn: res.learn,
-      durationSec: res.durationSec,
-    });
-  };
+  // Geçmiş UI'ı kaldırıldı (Öğrendiklerim'e dönüştü) — oturum kaydı tutulmuyor.
+  const onFinish = (res: ModeResult) => setResult(res);
 
   const onRecordWord: ModeProps["onRecordWord"] = (entryId, r) =>
     recordWord(pair, entryId, r);

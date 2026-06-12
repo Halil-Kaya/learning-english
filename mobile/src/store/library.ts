@@ -21,9 +21,13 @@ interface LibraryState {
   history: ByPair<SessionRecord[]>;
   wordStates: ByPair<Record<string, WordState>>;
   userSets: ByPair<WordSet[]>;
+  /** "Öğrendim" işaretli set id'leri (işaretlenme sırasıyla). */
+  learnedSets: ByPair<string[]>;
 
   addToStudyList: (pair: LanguagePair, setId: string) => void;
   removeFromStudyList: (pair: LanguagePair, setId: string) => void;
+  markLearned: (pair: LanguagePair, setId: string) => void;
+  unmarkLearned: (pair: LanguagePair, setId: string) => void;
   addSession: (pair: LanguagePair, rec: SessionRecord) => void;
   recordWord: (
     pair: LanguagePair,
@@ -43,6 +47,22 @@ export const useLibrary = create<LibraryState>()(
       history: {},
       wordStates: {},
       userSets: {},
+      learnedSets: {},
+
+      markLearned: (pair, setId) =>
+        set((s) => {
+          const list = s.learnedSets[pair] ?? [];
+          if (list.includes(setId)) return s;
+          return { learnedSets: { ...s.learnedSets, [pair]: [...list, setId] } };
+        }),
+
+      unmarkLearned: (pair, setId) =>
+        set((s) => ({
+          learnedSets: {
+            ...s.learnedSets,
+            [pair]: (s.learnedSets[pair] ?? []).filter((id) => id !== setId),
+          },
+        })),
 
       addToStudyList: (pair, setId) =>
         set((s) => {
@@ -97,7 +117,13 @@ export const useLibrary = create<LibraryState>()(
         })),
 
       reset: () =>
-        set({ studyList: {}, history: {}, wordStates: {}, userSets: {} }),
+        set({
+          studyList: {},
+          history: {},
+          wordStates: {},
+          userSets: {},
+          learnedSets: {},
+        }),
     }),
     {
       name: "ke-library",

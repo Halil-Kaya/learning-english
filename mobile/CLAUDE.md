@@ -8,7 +8,7 @@
 
 React Native (**Expo**, TypeScript, Expo Router) kelime ezberleme uygulaması.
 Web sürümündeki ([../index.html](../index.html)) 6 çalışma modunu taşır, üstüne
-set yönetimi (keşfet / hedef listesi / geçmiş / set oluşturma) ekler.
+set yönetimi (keşfet / hedef listesi / öğrendiklerim / set oluşturma) ekler.
 
 - **Tüm veri cihazda.** Backend yok. Katalog uygulamayla paketlenir; kullanıcı
   verisi (listeler, ilerleme, kullanıcı setleri) AsyncStorage'da (zustand persist).
@@ -106,8 +106,10 @@ modu yaz → `ModePicker` ve `study/[id].tsx`'teki `MODE_COMPONENTS`'e ekle →
 
 `recordWord(pair, entryId, {correct, mastered?})` her girdi için durum tutar
 (`new → learning → mastered`). Ezber final'ini ilk denemede, **göstermeden**
-geçen kelime `mastered`. Oturum bitince `addSession` geçmişe yazar. İkisi de
-`src/store/library.ts`.
+geçen kelime `mastered`. Geçmiş sekmesi kaldırıldı → **Öğrendiklerim**:
+`learnedSets` (set detayındaki 🎓 toggle ile) + **Kendini Dene** swipe turu
+(`src/app/self-test.tsx`, `SwipeCard`). `addSession`/`history` store'da duruyor
+ama artık ÇAĞRILMIYOR (UI yok). Hepsi `src/store/library.ts`.
 
 ## Gelecek Entegrasyonlar (v1'de UYGULANMADI — yeri burada)
 
