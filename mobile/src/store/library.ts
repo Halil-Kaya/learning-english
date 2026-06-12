@@ -51,9 +51,16 @@ export const useLibrary = create<LibraryState>()(
 
       markLearned: (pair, setId) =>
         set((s) => {
-          const list = s.learnedSets[pair] ?? [];
-          if (list.includes(setId)) return s;
-          return { learnedSets: { ...s.learnedSets, [pair]: [...list, setId] } };
+          const learned = s.learnedSets[pair] ?? [];
+          if (learned.includes(setId)) return s;
+          return {
+            learnedSets: { ...s.learnedSets, [pair]: [...learned, setId] },
+            // Öğrendim işaretlenince hedef listesinden otomatik çıkar
+            studyList: {
+              ...s.studyList,
+              [pair]: (s.studyList[pair] ?? []).filter((id) => id !== setId),
+            },
+          };
         }),
 
       unmarkLearned: (pair, setId) =>
