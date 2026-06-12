@@ -1,0 +1,822 @@
+[
+  {
+    "id": "en-tr-intermediate-87",
+    "languagePair": "en-tr",
+    "name": "Orta 87",
+    "level": "intermediate",
+    "category": "health",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-87-0",
+        "kind": "word",
+        "term": "anxiety",
+        "type": "noun",
+        "meaning": "kaygı, anksiyete",
+        "examples": [
+          { "target": "She experiences {anxiety} before public speaking.", "source": "Halk önünde konuşmadan önce kaygı yaşıyor." },
+          { "target": "He was diagnosed with social {anxiety}.", "source": "Sosyal anksiyete teşhisi konuldu." },
+          { "target": "Regular exercise can reduce {anxiety}.", "source": "Düzenli egzersiz kaygıyı azaltabilir." },
+          { "target": "Her {anxiety} about the exam kept her awake.", "source": "Sınav kaygısı onu uyanık tuttu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-1",
+        "kind": "word",
+        "term": "consult",
+        "type": "verb",
+        "meaning": "danışmak, görüş almak",
+        "examples": [
+          { "target": "You should {consult} a doctor about that cough.", "source": "O öksürük için bir doktora danışmalısın." },
+          { "target": "She {consulted} a lawyer before signing the contract.", "source": "Sözleşmeyi imzalamadan önce bir avukata danıştı." },
+          { "target": "Let me {consult} my notes before answering.", "source": "Cevaplamadan önce notlarıma bakayım." },
+          { "target": "Always {consult} an expert if you are unsure.", "source": "Emin değilseniz her zaman bir uzmanla danışın." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-2",
+        "kind": "word",
+        "term": "diagnose",
+        "type": "verb",
+        "meaning": "teşhis koymak",
+        "examples": [
+          { "target": "The doctor {diagnosed} her with a vitamin deficiency.", "source": "Doktor ona vitamin eksikliği teşhisi koydu." },
+          { "target": "It took weeks to correctly {diagnose} the illness.", "source": "Hastalığı doğru teşhis etmek haftalarca sürdü." },
+          { "target": "He was {diagnosed} with diabetes last year.", "source": "Geçen yıl kendisine diyabet teşhisi konuldu." },
+          { "target": "Early detection helps doctors {diagnose} cancer sooner.", "source": "Erken tespit doktorların kanseri daha erken teşhis etmesine yardımcı olur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-3",
+        "kind": "word",
+        "term": "disorder",
+        "type": "noun",
+        "meaning": "bozukluk, rahatsızlık",
+        "examples": [
+          { "target": "Insomnia is a common sleep {disorder}.", "source": "Uykusuzluk yaygın bir uyku bozukluğudur." },
+          { "target": "She was diagnosed with an eating {disorder}.", "source": "Kendisine yeme bozukluğu teşhisi konuldu." },
+          { "target": "Anxiety is a mental health {disorder} that can be treated.", "source": "Anksiyete tedavi edilebilen bir ruh sağlığı bozukluğudur." },
+          { "target": "The child has a learning {disorder}.", "source": "Çocukta öğrenme bozukluğu var." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-4",
+        "kind": "word",
+        "term": "emergency",
+        "type": "noun",
+        "meaning": "acil durum",
+        "examples": [
+          { "target": "Call 112 in case of an {emergency}.", "source": "Acil durumda 112'yi arayın." },
+          { "target": "She was rushed to the {emergency} room.", "source": "Acil servise götürüldü." },
+          { "target": "The government declared a state of {emergency}.", "source": "Hükümet olağanüstü hal ilan etti." },
+          { "target": "Always keep an {emergency} kit in your car.", "source": "Arabanızda her zaman bir acil durum kiti bulundurun." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-5",
+        "kind": "word",
+        "term": "exhausted",
+        "type": "adjective",
+        "meaning": "bitkin, tükenmiş",
+        "examples": [
+          { "target": "She was {exhausted} after the long hike.", "source": "Uzun yürüyüşün ardından bitkin düştü." },
+          { "target": "I feel completely {exhausted} today.", "source": "Bugün tamamen tükenmiş hissediyorum." },
+          { "target": "The {exhausted} doctor sat down after a twelve-hour shift.", "source": "Bitkin düşen doktor on iki saatlik mesainin ardından oturdu." },
+          { "target": "He was {exhausted} but couldn't sleep.", "source": "Bitkin düşmüştü ama uyuyamıyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-6",
+        "kind": "word",
+        "term": "heal",
+        "type": "verb",
+        "meaning": "iyileşmek, iyileştirmek",
+        "examples": [
+          { "target": "The wound will {heal} in a few days.", "source": "Yara birkaç günde iyileşecek." },
+          { "target": "Time can {heal} emotional pain.", "source": "Zaman duygusal acıyı iyileştirebilir." },
+          { "target": "The medicine helped {heal} the infection.", "source": "İlaç enfeksiyonun iyileşmesine yardımcı oldu." },
+          { "target": "Her kindness helped him {heal} after the loss.", "source": "Şefkati, kaybın ardından iyileşmesine yardımcı oldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-7",
+        "kind": "word",
+        "term": "immune",
+        "type": "adjective",
+        "meaning": "bağışık, muaf",
+        "examples": [
+          { "target": "After the illness, she was {immune} to the virus.", "source": "Hastalığın ardından virüse bağışık oldu." },
+          { "target": "The vaccine makes you {immune} to the disease.", "source": "Aşı sizi hastalığa karşı bağışık kılar." },
+          { "target": "No one is {immune} to criticism.", "source": "Hiç kimse eleştiriden muaf değildir." },
+          { "target": "Your {immune} system fights off infections.", "source": "Bağışıklık sisteminiz enfeksiyonlarla savaşır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-8",
+        "kind": "word",
+        "term": "inherit",
+        "type": "verb",
+        "meaning": "miras almak; kalıtımla geçmek",
+        "examples": [
+          { "target": "She {inherited} her mother's blue eyes.", "source": "Annesinden mavi gözleri miras aldı." },
+          { "target": "He {inherited} the family business after his father died.", "source": "Babası öldükten sonra aile işletmesini devraldı." },
+          { "target": "Some diseases can be {inherited}.", "source": "Bazı hastalıklar kalıtımla geçebilir." },
+          { "target": "She {inherited} a house and some land.", "source": "Bir ev ve biraz arazi miras aldı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-9",
+        "kind": "word",
+        "term": "medication",
+        "type": "noun",
+        "meaning": "ilaç, ilaç tedavisi",
+        "examples": [
+          { "target": "The doctor prescribed new {medication}.", "source": "Doktor yeni ilaç yazdı." },
+          { "target": "Take this {medication} twice a day with food.", "source": "Bu ilacı günde iki kez yemekle birlikte alın." },
+          { "target": "She forgot to bring her {medication} on the trip.", "source": "Yolculukta ilaçlarını almayı unuttu." },
+          { "target": "Some {medication} can cause side effects.", "source": "Bazı ilaçlar yan etkilere yol açabilir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-10",
+        "kind": "word",
+        "term": "mental",
+        "type": "adjective",
+        "meaning": "zihinsel, ruhsal",
+        "examples": [
+          { "target": "Taking breaks improves your {mental} health.", "source": "Mola vermek ruh sağlığınızı iyileştirir." },
+          { "target": "He has a strong {mental} ability for numbers.", "source": "Sayılar konusunda güçlü bir zihinsel yeteneği var." },
+          { "target": "Sports benefit both physical and {mental} fitness.", "source": "Sporlar hem fiziksel hem de zihinsel sağlığa faydalıdır." },
+          { "target": "She sees a therapist for her {mental} well-being.", "source": "Ruhsal esenliği için bir terapiste gidiyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-11",
+        "kind": "word",
+        "term": "nutrition",
+        "type": "noun",
+        "meaning": "beslenme, besin değeri",
+        "examples": [
+          { "target": "Good {nutrition} is key to staying healthy.", "source": "İyi beslenme sağlıklı kalmak için önemlidir." },
+          { "target": "The label shows the {nutrition} facts of the food.", "source": "Etiket yiyeceğin besin değerlerini gösteriyor." },
+          { "target": "She studies {nutrition} at university.", "source": "Üniversitede beslenme okuyor." },
+          { "target": "Children need proper {nutrition} to grow well.", "source": "Çocukların iyi büyüyebilmesi için uygun beslenmeye ihtiyaçları var." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-12",
+        "kind": "word",
+        "term": "obesity",
+        "type": "noun",
+        "meaning": "obezite, aşırı şişmanlık",
+        "examples": [
+          { "target": "{Obesity} increases the risk of heart disease.", "source": "Obezite kalp hastalığı riskini artırır." },
+          { "target": "Lack of exercise is linked to {obesity}.", "source": "Egzersiz eksikliği obeziteyle bağlantılıdır." },
+          { "target": "The government launched a campaign against {obesity}.", "source": "Hükümet obeziteye karşı bir kampanya başlattı." },
+          { "target": "Childhood {obesity} is a growing concern worldwide.", "source": "Çocukluk çağı obezitesi dünya genelinde artan bir endişedir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-13",
+        "kind": "word",
+        "term": "recover",
+        "type": "verb",
+        "meaning": "iyileşmek, toparlanmak",
+        "examples": [
+          { "target": "He is slowly {recovering} from his surgery.", "source": "Ameliyatından yavaş yavaş iyileşiyor." },
+          { "target": "She {recovered} quickly thanks to rest and medicine.", "source": "Dinlenme ve ilaç sayesinde hızla toparlandı." },
+          { "target": "The economy is starting to {recover} after the crisis.", "source": "Ekonomi krizin ardından toparlanmaya başlıyor." },
+          { "target": "It takes time to {recover} from a broken heart.", "source": "Kırık bir kalbi iyileştirmek zaman alır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-87-14",
+        "kind": "word",
+        "term": "symptom",
+        "type": "noun",
+        "meaning": "belirti, semptom",
+        "examples": [
+          { "target": "A sore throat is a common {symptom} of a cold.", "source": "Boğaz ağrısı soğuk algınlığının yaygın bir belirtisidir." },
+          { "target": "Report any new {symptoms} to your doctor.", "source": "Yeni belirtileri doktorunuza bildirin." },
+          { "target": "Fatigue is a {symptom} of many illnesses.", "source": "Yorgunluk pek çok hastalığın belirtisidir." },
+          { "target": "What {symptoms} are you experiencing?", "source": "Hangi belirtileri yaşıyorsunuz?" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-88",
+    "languagePair": "en-tr",
+    "name": "Orta 88",
+    "level": "intermediate",
+    "category": "travel",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-88-0",
+        "kind": "word",
+        "term": "accommodation",
+        "type": "noun",
+        "meaning": "konaklama, barınma",
+        "examples": [
+          { "target": "We need to book {accommodation} for the conference.", "source": "Konferans için konaklama rezervasyonu yapmamız gerekiyor." },
+          { "target": "The tour includes flights and {accommodation}.", "source": "Tur, uçuşları ve konaklamayı içeriyor." },
+          { "target": "Finding affordable {accommodation} in the city is hard.", "source": "Şehirde uygun fiyatlı konaklama bulmak zor." },
+          { "target": "The hotel provides excellent {accommodation}.", "source": "Otel mükemmel konaklama sunuyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-1",
+        "kind": "word",
+        "term": "boundary",
+        "type": "noun",
+        "meaning": "sınır, hudut",
+        "examples": [
+          { "target": "The fence marks the {boundary} of the property.", "source": "Çit mülkün sınırını gösteriyor." },
+          { "target": "You must respect others' personal {boundaries}.", "source": "Başkalarının kişisel sınırlarına saygı göstermelisin." },
+          { "target": "The river forms the {boundary} between the two countries.", "source": "Nehir iki ülke arasındaki sınırı oluşturuyor." },
+          { "target": "Set clear {boundaries} in your work schedule.", "source": "Çalışma programınızda net sınırlar koyun." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-2",
+        "kind": "word",
+        "term": "currency",
+        "type": "noun",
+        "meaning": "para birimi, döviz",
+        "examples": [
+          { "target": "What is the local {currency} in Japan?", "source": "Japonya'nın yerel para birimi nedir?" },
+          { "target": "You can exchange {currency} at the airport.", "source": "Havalimanında döviz bozdurabilirsiniz." },
+          { "target": "The euro is the {currency} of many European countries.", "source": "Euro pek çok Avrupa ülkesinin para birimidir." },
+          { "target": "The {currency} has lost value this year.", "source": "Para birimi bu yıl değer kaybetti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-3",
+        "kind": "word",
+        "term": "customs",
+        "type": "noun",
+        "meaning": "gümrük; gelenekler",
+        "examples": [
+          { "target": "You must declare items at {customs}.", "source": "Gümrükte eşyaları beyan etmek zorundasınız." },
+          { "target": "She was stopped at {customs} with extra goods.", "source": "Fazla eşyayla birlikte gümrükte durduruldu." },
+          { "target": "Every country has its own {customs} and traditions.", "source": "Her ülkenin kendine ait gelenek ve görenekleri vardır." },
+          { "target": "Learning local {customs} helps you fit in abroad.", "source": "Yerel gelenekleri öğrenmek yurt dışında uyum sağlamanıza yardımcı olur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-4",
+        "kind": "word",
+        "term": "destination",
+        "type": "noun",
+        "meaning": "varış yeri, destinasyon",
+        "examples": [
+          { "target": "Paris is a popular tourist {destination}.", "source": "Paris popüler bir turizm destinasyonudur." },
+          { "target": "What is your final {destination}?", "source": "Nihai varış yeriniz neresi?" },
+          { "target": "She chose a beach as her holiday {destination}.", "source": "Tatil destinasyonu olarak bir sahil seçti." },
+          { "target": "The train stopped at every {destination} on the route.", "source": "Tren güzergahtaki her durağa durdu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-5",
+        "kind": "word",
+        "term": "domestic",
+        "type": "adjective",
+        "meaning": "yurt içi; evcil",
+        "examples": [
+          { "target": "She took a {domestic} flight to Istanbul.", "source": "İstanbul'a yurt içi uçuş aldı." },
+          { "target": "The company focuses on {domestic} sales.", "source": "Şirket yurt içi satışlara odaklanıyor." },
+          { "target": "Cats and dogs are {domestic} animals.", "source": "Kediler ve köpekler evcil hayvanlardır." },
+          { "target": "The {domestic} market has grown this year.", "source": "Yurt içi pazar bu yıl büyüdü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-6",
+        "kind": "word",
+        "term": "expedition",
+        "type": "noun",
+        "meaning": "keşif gezisi, sefer",
+        "examples": [
+          { "target": "They went on an {expedition} to the Arctic.", "source": "Arktik'e bir keşif gezisi yaptılar." },
+          { "target": "The mountain {expedition} lasted three weeks.", "source": "Dağ seferi üç hafta sürdü." },
+          { "target": "The explorer led a scientific {expedition}.", "source": "Kaşif bir bilimsel keşif gezisi yönetti." },
+          { "target": "Planning an {expedition} requires careful preparation.", "source": "Bir keşif gezisi planlamak dikkatli hazırlık gerektirir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-7",
+        "kind": "word",
+        "term": "fare",
+        "type": "noun",
+        "meaning": "bilet ücreti, navlun",
+        "examples": [
+          { "target": "The bus {fare} increased by ten percent.", "source": "Otobüs bilet ücreti yüzde on arttı." },
+          { "target": "She asked how much the train {fare} was.", "source": "Tren biletinin kaç para olduğunu sordu." },
+          { "target": "Children under five travel at half {fare}.", "source": "Beş yaşından küçük çocuklar yarı ücretle seyahat eder." },
+          { "target": "What is the {fare} from here to the airport?", "source": "Buradan havalimanına bilet ücreti ne kadar?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-8",
+        "kind": "word",
+        "term": "hospitality",
+        "type": "noun",
+        "meaning": "misafirperverlik, konukseverlik",
+        "examples": [
+          { "target": "The locals showed great {hospitality} to the visitors.", "source": "Yerliler ziyaretçilere büyük misafirperverlik gösterdi." },
+          { "target": "Turkish {hospitality} is known worldwide.", "source": "Türk misafirperverliği dünyaca tanınmaktadır." },
+          { "target": "She works in the {hospitality} industry.", "source": "Konaklama ve ağırlama sektöründe çalışıyor." },
+          { "target": "Thank you for your warm {hospitality}.", "source": "Sıcak konukseverliğiniz için teşekkür ederiz." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-9",
+        "kind": "word",
+        "term": "luggage",
+        "type": "noun",
+        "meaning": "bagaj, valiz",
+        "examples": [
+          { "target": "Please keep your {luggage} with you at all times.", "source": "Lütfen bagajınızı her zaman yanınızda bulundurun." },
+          { "target": "She lost her {luggage} at the airport.", "source": "Havalimanında bagajını kaybetti." },
+          { "target": "The airline allows one piece of carry-on {luggage}.", "source": "Havayolu bir el bagajına izin veriyor." },
+          { "target": "The porter carried their {luggage} to the room.", "source": "Kapıcı bagajlarını odaya taşıdı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-10",
+        "kind": "word",
+        "term": "passport",
+        "type": "noun",
+        "meaning": "pasaport",
+        "examples": [
+          { "target": "Don't forget to bring your {passport} to the airport.", "source": "Havalimanına pasaportunuzu getirmeyi unutmayın." },
+          { "target": "Her {passport} expired last month.", "source": "Pasaportu geçen ay doldu." },
+          { "target": "You need a valid {passport} to travel abroad.", "source": "Yurt dışına seyahat etmek için geçerli bir pasaport gerekir." },
+          { "target": "The officer checked her {passport} at the border.", "source": "Memur sınırda pasaportunu kontrol etti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-11",
+        "kind": "word",
+        "term": "route",
+        "type": "noun",
+        "meaning": "rota, güzergah",
+        "examples": [
+          { "target": "We took a scenic {route} through the mountains.", "source": "Dağlardan geçen manzaralı bir güzergah aldık." },
+          { "target": "The bus {route} changed due to road works.", "source": "Yol çalışmaları nedeniyle otobüs güzergahı değişti." },
+          { "target": "What is the fastest {route} to the city center?", "source": "Şehir merkezine en hızlı güzergah hangisi?" },
+          { "target": "She memorized the {route} before the hike.", "source": "Yürüyüşten önce rotayı ezberledi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-12",
+        "kind": "word",
+        "term": "schedule",
+        "type": "noun",
+        "meaning": "program, tarifle",
+        "examples": [
+          { "target": "The train {schedule} shows departures every hour.", "source": "Tren tarifesi her saat bir sefer olduğunu gösteriyor." },
+          { "target": "My {schedule} is very busy this week.", "source": "Bu hafta programım çok yoğun." },
+          { "target": "She checked her {schedule} before agreeing to the meeting.", "source": "Toplantıya katılmayı kabul etmeden önce programını kontrol etti." },
+          { "target": "The project is on {schedule} so far.", "source": "Proje şu ana kadar programa uygun ilerliyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-13",
+        "kind": "word",
+        "term": "souvenir",
+        "type": "noun",
+        "meaning": "hatıra eşyası, hediyelik",
+        "examples": [
+          { "target": "She bought a {souvenir} magnet from every city.", "source": "Her şehirden bir hatıra mıknatısı satın aldı." },
+          { "target": "He gave me a {souvenir} from his trip to Rome.", "source": "Roma seyahatinden bana hatıra eşyası getirdi." },
+          { "target": "The market is full of colorful {souvenirs}.", "source": "Pazar renkli hediyelik eşyalarla dolu." },
+          { "target": "I kept a {souvenir} from every country I visited.", "source": "Ziyaret ettiğim her ülkeden bir hatıra eşyası sakladım." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-88-14",
+        "kind": "word",
+        "term": "visa",
+        "type": "noun",
+        "meaning": "vize",
+        "examples": [
+          { "target": "She applied for a tourist {visa} online.", "source": "Çevrimiçi olarak turist vizesi başvurusu yaptı." },
+          { "target": "His {visa} was rejected without explanation.", "source": "Vizesi açıklama yapılmaksızın reddedildi." },
+          { "target": "Some countries don't require a {visa} for short visits.", "source": "Bazı ülkeler kısa ziyaretler için vize gerektirmiyor." },
+          { "target": "How long does it take to get a work {visa}?", "source": "Çalışma vizesi almak ne kadar zaman alıyor?" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-89",
+    "languagePair": "en-tr",
+    "name": "Orta 89",
+    "level": "intermediate",
+    "category": "technology",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-89-0",
+        "kind": "word",
+        "term": "artificial",
+        "type": "adjective",
+        "meaning": "yapay, suni",
+        "examples": [
+          { "target": "{Artificial} intelligence is changing many industries.", "source": "Yapay zeka pek çok sektörü değiştiriyor." },
+          { "target": "The flowers were {artificial}, but they looked real.", "source": "Çiçekler yapay olmasına rağmen gerçek görünüyordu." },
+          { "target": "He used {artificial} sweeteners instead of sugar.", "source": "Şeker yerine yapay tatlandırıcı kullandı." },
+          { "target": "The lake was {artificial}, built for the city.", "source": "Göl, şehir için inşa edilmiş yapay bir göletti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-1",
+        "kind": "word",
+        "term": "automate",
+        "type": "verb",
+        "meaning": "otomatikleştirmek",
+        "examples": [
+          { "target": "The factory {automated} its assembly line.", "source": "Fabrika montaj hattını otomatikleştirdi." },
+          { "target": "You can {automate} email replies with software.", "source": "Yazılım ile e-posta yanıtlarını otomatikleştirebilirsiniz." },
+          { "target": "They plan to {automate} the checkout process.", "source": "Ödeme sürecini otomatikleştirmeyi planlıyorlar." },
+          { "target": "{Automating} tasks saves time and reduces errors.", "source": "Görevleri otomatikleştirmek zamandan tasarruf sağlar ve hataları azaltır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-2",
+        "kind": "word",
+        "term": "bandwidth",
+        "type": "noun",
+        "meaning": "bant genişliği",
+        "examples": [
+          { "target": "High-definition streaming requires a lot of {bandwidth}.", "source": "Yüksek çözünürlüklü yayın çok fazla bant genişliği gerektirir." },
+          { "target": "The office upgraded its {bandwidth} to handle more traffic.", "source": "Ofis daha fazla trafiği karşılamak için bant genişliğini artırdı." },
+          { "target": "Low {bandwidth} makes video calls difficult.", "source": "Düşük bant genişliği görüntülü aramaları zorlaştırır." },
+          { "target": "Check your internet plan for available {bandwidth}.", "source": "Mevcut bant genişliği için internet planınızı kontrol edin." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-3",
+        "kind": "word",
+        "term": "broadcast",
+        "type": "verb",
+        "meaning": "yayınlamak, iletmek",
+        "examples": [
+          { "target": "The match will be {broadcast} live on TV.", "source": "Maç televizyonda canlı yayınlanacak." },
+          { "target": "The radio station {broadcasts} news every hour.", "source": "Radyo istasyonu her saat haber yayınlıyor." },
+          { "target": "She {broadcasts} her cooking show online.", "source": "Yemek programını çevrimiçi yayınlıyor." },
+          { "target": "The company {broadcast} its new product launch live.", "source": "Şirket yeni ürün lansmanını canlı olarak yayınladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-4",
+        "kind": "word",
+        "term": "calculate",
+        "type": "verb",
+        "meaning": "hesaplamak",
+        "examples": [
+          { "target": "Can you {calculate} the total cost?", "source": "Toplam maliyeti hesaplayabilir misin?" },
+          { "target": "The app {calculates} the fastest route automatically.", "source": "Uygulama en hızlı rotayı otomatik olarak hesaplıyor." },
+          { "target": "She {calculated} the tip on her phone.", "source": "Telefonunda bahşişi hesapladı." },
+          { "target": "Engineers {calculate} stress on building materials.", "source": "Mühendisler yapı malzemeleri üzerindeki yükü hesaplar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-5",
+        "kind": "word",
+        "term": "configure",
+        "type": "verb",
+        "meaning": "yapılandırmak, ayarlamak",
+        "examples": [
+          { "target": "You need to {configure} the router before using it.", "source": "Kullanmadan önce yönlendiriciyi yapılandırmanız gerekiyor." },
+          { "target": "The technician {configured} the new server.", "source": "Teknisyen yeni sunucuyu yapılandırdı." },
+          { "target": "How do I {configure} my email on this phone?", "source": "Bu telefonda e-postamı nasıl ayarlarım?" },
+          { "target": "The software can be {configured} for any language.", "source": "Yazılım herhangi bir dil için ayarlanabilir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-6",
+        "kind": "word",
+        "term": "database",
+        "type": "noun",
+        "meaning": "veritabanı",
+        "examples": [
+          { "target": "All customer information is stored in a {database}.", "source": "Tüm müşteri bilgileri bir veritabanında saklanıyor." },
+          { "target": "The hacker accessed the company's {database}.", "source": "Hacker şirketin veritabanına erişti." },
+          { "target": "We need to update the product {database}.", "source": "Ürün veritabanını güncellememiz gerekiyor." },
+          { "target": "The search engine scans millions of {database} records.", "source": "Arama motoru milyonlarca veritabanı kaydını tarar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-7",
+        "kind": "word",
+        "term": "digital",
+        "type": "adjective",
+        "meaning": "dijital",
+        "examples": [
+          { "target": "We live in a {digital} age.", "source": "Dijital bir çağda yaşıyoruz." },
+          { "target": "She prefers {digital} books over paper ones.", "source": "Kağıt kitaplar yerine dijital kitapları tercih ediyor." },
+          { "target": "The company moved to a {digital} payment system.", "source": "Şirket dijital bir ödeme sistemine geçti." },
+          { "target": "He learned {digital} photography last year.", "source": "Geçen yıl dijital fotoğrafçılık öğrendi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-8",
+        "kind": "word",
+        "term": "encrypt",
+        "type": "verb",
+        "meaning": "şifrelemek",
+        "examples": [
+          { "target": "The app {encrypts} all your messages.", "source": "Uygulama tüm mesajlarınızı şifreler." },
+          { "target": "You should {encrypt} sensitive files on your computer.", "source": "Bilgisayarınızdaki hassas dosyaları şifrelemelisiniz." },
+          { "target": "The website {encrypts} payment data for security.", "source": "Web sitesi güvenlik için ödeme verilerini şifreler." },
+          { "target": "It's important to {encrypt} data before sending it.", "source": "Göndermeden önce verileri şifrelemek önemlidir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-9",
+        "kind": "word",
+        "term": "interface",
+        "type": "noun",
+        "meaning": "arayüz",
+        "examples": [
+          { "target": "The new software has a user-friendly {interface}.", "source": "Yeni yazılımın kullanıcı dostu bir arayüzü var." },
+          { "target": "The {interface} makes it easy to find what you need.", "source": "Arayüz ihtiyacınız olanı bulmayı kolaylaştırıyor." },
+          { "target": "Designers work hard to create a good {interface}.", "source": "Tasarımcılar iyi bir arayüz oluşturmak için çok çalışır." },
+          { "target": "The touch {interface} is very responsive.", "source": "Dokunmatik arayüz çok duyarlı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-10",
+        "kind": "word",
+        "term": "network",
+        "type": "noun",
+        "meaning": "ağ, şebeke",
+        "examples": [
+          { "target": "The office has a fast wireless {network}.", "source": "Ofiste hızlı bir kablosuz ağ var." },
+          { "target": "She built a professional {network} over the years.", "source": "Yıllar içinde profesyonel bir ağ kurdu." },
+          { "target": "The {network} went down for two hours.", "source": "Ağ iki saat çöktü." },
+          { "target": "He used social media to expand his {network}.", "source": "Ağını genişletmek için sosyal medyayı kullandı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-11",
+        "kind": "word",
+        "term": "software",
+        "type": "noun",
+        "meaning": "yazılım",
+        "examples": [
+          { "target": "Please update your {software} to the latest version.", "source": "Lütfen yazılımınızı en son sürüme güncelleyin." },
+          { "target": "She develops {software} for mobile phones.", "source": "Cep telefonları için yazılım geliştiriyor." },
+          { "target": "The {software} crashed and I lost my work.", "source": "Yazılım çöktü ve çalışmamı kaybettim." },
+          { "target": "What {software} do you use for graphic design?", "source": "Grafik tasarım için hangi yazılımı kullanıyorsun?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-12",
+        "kind": "word",
+        "term": "storage",
+        "type": "noun",
+        "meaning": "depolama, depo",
+        "examples": [
+          { "target": "My phone is running out of {storage}.", "source": "Telefonumun depolama alanı dolmak üzere." },
+          { "target": "They rent a {storage} unit for extra furniture.", "source": "Fazla mobilyaları için bir depolama birimi kiralıyorlar." },
+          { "target": "Cloud {storage} lets you access files from anywhere.", "source": "Bulut depolama, dosyalara her yerden erişmenizi sağlar." },
+          { "target": "This laptop has 512 GB of internal {storage}.", "source": "Bu dizüstü bilgisayarın 512 GB dahili depolama alanı var." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-13",
+        "kind": "word",
+        "term": "update",
+        "type": "verb",
+        "meaning": "güncellemek",
+        "examples": [
+          { "target": "Please {update} your password regularly.", "source": "Lütfen şifrenizi düzenli olarak güncelleyin." },
+          { "target": "The app {updated} automatically overnight.", "source": "Uygulama gece boyunca otomatik olarak güncellendi." },
+          { "target": "He {updated} the team on the latest developments.", "source": "Ekibi son gelişmeler hakkında bilgilendirdi." },
+          { "target": "We need to {update} the website design.", "source": "Web sitesi tasarımını güncellememiz gerekiyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-89-14",
+        "kind": "word",
+        "term": "wireless",
+        "type": "adjective",
+        "meaning": "kablosuz",
+        "examples": [
+          { "target": "The office has {wireless} internet access.", "source": "Ofiste kablosuz internet erişimi var." },
+          { "target": "She uses a {wireless} keyboard and mouse.", "source": "Kablosuz klavye ve fare kullanıyor." },
+          { "target": "{Wireless} headphones are popular for commuters.", "source": "Kablosuz kulaklıklar yolcular arasında popüler." },
+          { "target": "The {wireless} connection keeps dropping.", "source": "Kablosuz bağlantı sürekli kopuyor." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-90",
+    "languagePair": "en-tr",
+    "name": "Orta 90",
+    "level": "intermediate",
+    "category": "grammar-words",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-90-0",
+        "kind": "phrase",
+        "term": "according to",
+        "type": "phrase",
+        "meaning": "göre, -e nazaran",
+        "examples": [
+          { "target": "{According to} the report, sales increased by 20%.", "source": "Rapora göre satışlar yüzde 20 arttı." },
+          { "target": "{According to} the weather forecast, it will rain tomorrow.", "source": "Hava tahminine göre yarın yağmur yağacak." },
+          { "target": "{According to} the rules, phones must be off.", "source": "Kurallara göre telefonlar kapalı olmalıdır." },
+          { "target": "{According to} him, the meeting starts at nine.", "source": "Ona göre toplantı dokuzda başlıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-1",
+        "kind": "word",
+        "term": "although",
+        "type": "conjunction",
+        "meaning": "her ne kadar, -se de",
+        "examples": [
+          { "target": "{Although} it was raining, they went for a walk.", "source": "Her ne kadar yağmur yağıyor olsa da yürüyüşe çıktılar." },
+          { "target": "She passed the exam {although} she was nervous.", "source": "Sinirli olmasına rağmen sınavı geçti." },
+          { "target": "{Although} he is young, he is very wise.", "source": "Genç olmasına rağmen çok bilgedir." },
+          { "target": "I liked the movie {although} it was very long.", "source": "Çok uzun olmasına rağmen filmi beğendim." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-2",
+        "kind": "word",
+        "term": "besides",
+        "type": "adverb",
+        "meaning": "bunun yanı sıra, üstelik",
+        "examples": [
+          { "target": "I don't want to go out; {besides}, it's too cold.", "source": "Dışarı çıkmak istemiyorum; üstelik çok soğuk." },
+          { "target": "She speaks French and, {besides}, she knows Italian.", "source": "Fransızca biliyor ve bunun yanı sıra İtalyanca da biliyor." },
+          { "target": "{Besides} working full time, he studies at night.", "source": "Tam zamanlı çalışmanın yanı sıra geceleri okuyor." },
+          { "target": "There is nothing to eat; {besides}, I'm not hungry.", "source": "Yiyecek bir şey yok; üstelik aç da değilim." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-3",
+        "kind": "word",
+        "term": "consequently",
+        "type": "adverb",
+        "meaning": "sonuç olarak, dolayısıyla",
+        "examples": [
+          { "target": "He didn't study; {consequently}, he failed the exam.", "source": "Ders çalışmadı; sonuç olarak sınavdan kaldı." },
+          { "target": "The road was blocked; {consequently}, we arrived late.", "source": "Yol tıkandı; dolayısıyla geç kaldık." },
+          { "target": "She worked hard and {consequently} got promoted.", "source": "Çok çalıştı ve sonuç olarak terfi etti." },
+          { "target": "Sales dropped; {consequently}, the company lost profit.", "source": "Satışlar düştü; sonuç olarak şirket kâr kaybetti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-4",
+        "kind": "word",
+        "term": "despite",
+        "type": "preposition",
+        "meaning": "rağmen, -e karşın",
+        "examples": [
+          { "target": "{Despite} the rain, the match continued.", "source": "Yağmura rağmen maç devam etti." },
+          { "target": "She smiled {despite} feeling sad.", "source": "Üzgün hissetmesine rağmen güldü." },
+          { "target": "He succeeded {despite} many obstacles.", "source": "Pek çok engele rağmen başardı." },
+          { "target": "{Despite} the high price, the product sold quickly.", "source": "Yüksek fiyatına rağmen ürün hızla satıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-5",
+        "kind": "word",
+        "term": "furthermore",
+        "type": "adverb",
+        "meaning": "dahası, ayrıca",
+        "examples": [
+          { "target": "The hotel is cheap; {furthermore}, it has a pool.", "source": "Otel ucuz; dahası bir yüzme havuzu da var." },
+          { "target": "She is talented; {furthermore}, she works very hard.", "source": "Yeteneklidir; ayrıca çok çalışıyor." },
+          { "target": "{Furthermore}, the plan includes free meals.", "source": "Dahası, plan ücretsiz yemekleri de kapsıyor." },
+          { "target": "The new policy saves money; {furthermore}, it saves time.", "source": "Yeni politika para kazandırıyor; üstelik zaman da kazandırıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-6",
+        "kind": "word",
+        "term": "however",
+        "type": "adverb",
+        "meaning": "ancak, bununla birlikte",
+        "examples": [
+          { "target": "The plan seemed good; {however}, it had a problem.", "source": "Plan iyi görünüyordu; ancak bir sorunu vardı." },
+          { "target": "I like coffee; {however}, I drink it only in the morning.", "source": "Kahveyi seviyorum; bununla birlikte sadece sabahları içiyorum." },
+          { "target": "{However}, we must consider the cost carefully.", "source": "Ancak, maliyeti dikkatli bir şekilde değerlendirmeliyiz." },
+          { "target": "She wanted to help; {however}, she was too busy.", "source": "Yardım etmek istedi; ancak çok meşguldü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-7",
+        "kind": "word",
+        "term": "meanwhile",
+        "type": "adverb",
+        "meaning": "bu arada, bu esnada",
+        "examples": [
+          { "target": "Cook the rice; {meanwhile}, chop the vegetables.", "source": "Pirinçleri pişir; bu arada sebzeleri doğra." },
+          { "target": "She was studying; {meanwhile}, her brother was sleeping.", "source": "O ders çalışıyordu; bu esnada kardeşi uyuyordu." },
+          { "target": "{Meanwhile}, the situation outside got worse.", "source": "Bu arada dışarıdaki durum daha da kötüleşti." },
+          { "target": "Finish the report; {meanwhile}, I will make calls.", "source": "Raporu bitir; bu arada ben telefon görüşmeleri yapacağım." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-8",
+        "kind": "word",
+        "term": "moreover",
+        "type": "adverb",
+        "meaning": "üstelik, bunun yanı sıra",
+        "examples": [
+          { "target": "The apartment is spacious; {moreover}, it has a garden.", "source": "Daire geniş; üstelik bir bahçesi de var." },
+          { "target": "He is experienced; {moreover}, he has excellent references.", "source": "Deneyimlidir; bunun yanı sıra mükemmel referansları var." },
+          { "target": "{Moreover}, the new system is faster and cheaper.", "source": "Üstelik yeni sistem daha hızlı ve ucuz." },
+          { "target": "The food was delicious; {moreover}, the service was excellent.", "source": "Yemek lezzetliydi; üstelik servis mükemmeldi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-9",
+        "kind": "word",
+        "term": "nevertheless",
+        "type": "adverb",
+        "meaning": "yine de, buna rağmen",
+        "examples": [
+          { "target": "It was risky; {nevertheless}, she tried.", "source": "Riskli olmasına rağmen yine de denedi." },
+          { "target": "The news was bad; {nevertheless}, they stayed hopeful.", "source": "Haberler kötüydü; yine de umutlarını korudular." },
+          { "target": "{Nevertheless}, we must keep moving forward.", "source": "Yine de ilerlemeye devam etmeliyiz." },
+          { "target": "He was tired; {nevertheless}, he finished the race.", "source": "Yorgundu; yine de yarışı tamamladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-10",
+        "kind": "word",
+        "term": "otherwise",
+        "type": "adverb",
+        "meaning": "aksi takdirde, yoksa",
+        "examples": [
+          { "target": "Leave now; {otherwise}, you will miss the bus.", "source": "Şimdi çık; aksi takdirde otobüsü kaçırırsın." },
+          { "target": "Study hard; {otherwise}, you will fail.", "source": "Çok çalış; yoksa başarısız olursun." },
+          { "target": "Keep the receipt; {otherwise}, you can't return it.", "source": "Fişi sakla; aksi takdirde iade edemezsin." },
+          { "target": "She exercised daily; {otherwise}, she felt tired.", "source": "Her gün egzersiz yaptı; aksi halde yorgun hissediyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-11",
+        "kind": "word",
+        "term": "rather",
+        "type": "adverb",
+        "meaning": "oldukça; daha ziyade",
+        "examples": [
+          { "target": "The test was {rather} difficult.", "source": "Sınav oldukça zordu." },
+          { "target": "I would {rather} stay home than go out tonight.", "source": "Bu gece çıkmaktansa evde kalmayı tercih ederim." },
+          { "target": "She is {rather} shy in large groups.", "source": "Büyük gruplarda oldukça çekingen." },
+          { "target": "I'd {rather} have tea than coffee.", "source": "Kahve yerine çay içmeyi tercih ederim." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-12",
+        "kind": "phrase",
+        "term": "regarding",
+        "type": "preposition",
+        "meaning": "ile ilgili olarak, hakkında",
+        "examples": [
+          { "target": "I have a question {regarding} the invoice.", "source": "Fatura ile ilgili bir sorum var." },
+          { "target": "She sent an email {regarding} the new policy.", "source": "Yeni politika hakkında bir e-posta gönderdi." },
+          { "target": "{Regarding} your application, we need more documents.", "source": "Başvurunuzla ilgili olarak daha fazla belgeye ihtiyacımız var." },
+          { "target": "Please contact us {regarding} any complaints.", "source": "Herhangi bir şikâyet ile ilgili olarak bizimle iletişime geçin." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-13",
+        "kind": "word",
+        "term": "therefore",
+        "type": "adverb",
+        "meaning": "bu nedenle, dolayısıyla",
+        "examples": [
+          { "target": "It was late; {therefore}, we took a taxi.", "source": "Geç olmuştu; bu nedenle taksi aldık." },
+          { "target": "She is the best candidate; {therefore}, she got the job.", "source": "En iyi adaydı; dolayısıyla işi o aldı." },
+          { "target": "The building is old; {therefore}, it needs repairs.", "source": "Bina eski; bu nedenle onarım gerekiyor." },
+          { "target": "{Therefore}, we must act quickly.", "source": "Bu nedenle hızlı hareket etmeliyiz." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-90-14",
+        "kind": "word",
+        "term": "whereas",
+        "type": "conjunction",
+        "meaning": "oysa, -iken",
+        "examples": [
+          { "target": "He likes coffee, {whereas} she prefers tea.", "source": "O kahveyi severken, o çayı tercih eder." },
+          { "target": "Dogs are loyal, {whereas} cats are more independent.", "source": "Köpekler sadıkken kediler daha bağımsızdır." },
+          { "target": "{Whereas} the north is cold, the south is warm.", "source": "Kuzey soğukken güney sıcaktır." },
+          { "target": "She earns a lot, {whereas} her brother earns very little.", "source": "O çok kazanırken kardeşi çok az kazanıyor." }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "id": "en-tr-intermediate-84",
+    "languagePair": "en-tr",
+    "name": "Orta 84",
+    "level": "intermediate",
+    "category": "work-career",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-84-0",
+        "kind": "word",
+        "term": "application",
+        "type": "noun",
+        "meaning": "başvuru; uygulama",
+        "examples": [
+          { "target": "I submitted my job {application} online.", "source": "İş başvurumu çevrimiçi gönderdim." },
+          { "target": "Her {application} for the scholarship was accepted.", "source": "Burs başvurusu kabul edildi." },
+          { "target": "This phone {application} tracks your daily steps.", "source": "Bu telefon uygulaması günlük adımlarını takip eder." },
+          { "target": "Fill in the {application} form carefully.", "source": "Başvuru formunu dikkatlice doldurun." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-1",
+        "kind": "word",
+        "term": "complaint",
+        "type": "noun",
+        "meaning": "şikâyet",
+        "examples": [
+          { "target": "The hotel received many {complaints} about the noise.", "source": "Otel gürültüyle ilgili çok sayıda şikâyet aldı." },
+          { "target": "She filed a {complaint} against the company.", "source": "Şirkete karşı şikâyette bulundu." },
+          { "target": "His main {complaint} was the slow service.", "source": "Ana şikâyeti yavaş hizmetti." },
+          { "target": "Do you have a {complaint} about your order?", "source": "Siparişinizle ilgili bir şikâyetiniz var mı?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-2",
+        "kind": "word",
+        "term": "contract",
+        "type": "noun",
+        "meaning": "sözleşme, kontrat",
+        "examples": [
+          { "target": "Both parties signed the {contract} yesterday.", "source": "Her iki taraf dün sözleşmeyi imzaladı." },
+          { "target": "Read the {contract} carefully before signing.", "source": "İmzalamadan önce sözleşmeyi dikkatlice okuyun." },
+          { "target": "She is on a one-year {contract} with the company.", "source": "Şirketle bir yıllık sözleşmesi var." },
+          { "target": "They broke the {contract} by missing the deadline.", "source": "Son tarihi kaçırarak sözleşmeyi ihlal ettiler." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-3",
+        "kind": "word",
+        "term": "deadline",
+        "type": "noun",
+        "meaning": "son tarih, teslim tarihi",
+        "examples": [
+          { "target": "The {deadline} for the project is Friday.", "source": "Projenin teslim tarihi Cuma." },
+          { "target": "She always finishes her work before the {deadline}.", "source": "Her zaman işini son tarihten önce bitirir." },
+          { "target": "Missing a {deadline} can cost you a client.", "source": "Son tarihi kaçırmak bir müşteri kaybetmene neden olabilir." },
+          { "target": "Can we extend the {deadline} by one week?", "source": "Son tarihi bir hafta uzatabilir miyiz?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-4",
+        "kind": "word",
+        "term": "department",
+        "type": "noun",
+        "meaning": "departman, bölüm",
+        "examples": [
+          { "target": "She works in the marketing {department}.", "source": "Pazarlama departmanında çalışıyor." },
+          { "target": "Each {department} has its own budget.", "source": "Her departmanın kendine ait bütçesi var." },
+          { "target": "The IT {department} fixed my computer.", "source": "IT bölümü bilgisayarımı tamir etti." },
+          { "target": "Which {department} handles customer complaints?", "source": "Müşteri şikayetlerini hangi bölüm ele alıyor?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-5",
+        "kind": "word",
+        "term": "flexible",
+        "type": "adjective",
+        "meaning": "esnek",
+        "examples": [
+          { "target": "The company offers {flexible} working hours.", "source": "Şirket esnek çalışma saatleri sunuyor." },
+          { "target": "She is {flexible} enough to handle any task.", "source": "Herhangi bir görevi üstlenecek kadar esnektir." },
+          { "target": "Being {flexible} is important when traveling.", "source": "Seyahat ederken esnek olmak önemlidir." },
+          { "target": "Our schedule is {flexible}, so we can meet anytime.", "source": "Programımız esnek, bu yüzden istediğimiz zaman buluşabiliriz." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-6",
+        "kind": "word",
+        "term": "industry",
+        "type": "noun",
+        "meaning": "sektör, endüstri",
+        "examples": [
+          { "target": "She has worked in the fashion {industry} for ten years.", "source": "On yıldır moda sektöründe çalışıyor." },
+          { "target": "The tech {industry} is growing rapidly.", "source": "Teknoloji endüstrisi hızla büyüyor." },
+          { "target": "Which {industry} do you want to enter after graduation?", "source": "Mezun olduktan sonra hangi sektöre girmek istiyorsun?" },
+          { "target": "The tourism {industry} was badly hit by the pandemic.", "source": "Turizm sektörü pandemi nedeniyle büyük zarar gördü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-7",
+        "kind": "word",
+        "term": "interview",
+        "type": "noun",
+        "meaning": "mülakat, röportaj",
+        "examples": [
+          { "target": "I have a job {interview} tomorrow morning.", "source": "Yarın sabah iş mülakatım var." },
+          { "target": "She prepared well for the {interview}.", "source": "Mülakat için iyi hazırlandı." },
+          { "target": "The journalist conducted an {interview} with the mayor.", "source": "Gazeteci belediye başkanıyla röportaj yaptı." },
+          { "target": "How did your {interview} go?", "source": "Mülakatın nasıl geçti?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-8",
+        "kind": "word",
+        "term": "manage",
+        "type": "verb",
+        "meaning": "yönetmek; başarmak",
+        "examples": [
+          { "target": "She {manages} a team of twenty people.", "source": "Yirmi kişilik bir ekibi yönetiyor." },
+          { "target": "Did you {manage} to finish on time?", "source": "Zamanında bitirmeyi başardın mı?" },
+          { "target": "He {manages} the entire budget for the project.", "source": "Projenin tüm bütçesini yönetiyor." },
+          { "target": "I don't know how she {manages} to do everything.", "source": "Her şeyi nasıl başardığını bilmiyorum." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-9",
+        "kind": "word",
+        "term": "negotiate",
+        "type": "verb",
+        "meaning": "müzakere etmek, pazarlık yapmak",
+        "examples": [
+          { "target": "They {negotiated} a better price for the car.", "source": "Araba için daha iyi bir fiyat üzerinde pazarlık yaptılar." },
+          { "target": "She {negotiated} her salary before accepting the offer.", "source": "Teklifi kabul etmeden önce maaşını müzakere etti." },
+          { "target": "The two sides {negotiated} for three days.", "source": "İki taraf üç gün müzakere etti." },
+          { "target": "Learning to {negotiate} is a valuable skill.", "source": "Müzakere etmeyi öğrenmek değerli bir beceridir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-10",
+        "kind": "word",
+        "term": "perform",
+        "type": "verb",
+        "meaning": "performans göstermek; gerçekleştirmek",
+        "examples": [
+          { "target": "The band will {perform} live tonight.", "source": "Grup bu gece canlı performans sergileyecek." },
+          { "target": "He {performed} well in the final exam.", "source": "Final sınavında iyi performans gösterdi." },
+          { "target": "Doctors {performed} a successful operation.", "source": "Doktorlar başarılı bir ameliyat gerçekleştirdi." },
+          { "target": "How does the new model {perform} on highways?", "source": "Yeni model otoyollarda nasıl performans gösteriyor?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-11",
+        "kind": "word",
+        "term": "resign",
+        "type": "verb",
+        "meaning": "istifa etmek",
+        "examples": [
+          { "target": "She decided to {resign} from her position.", "source": "Görevinden istifa etmeye karar verdi." },
+          { "target": "He {resigned} after the scandal became public.", "source": "Skandal kamuoyuna yansıdıktan sonra istifa etti." },
+          { "target": "Please give two weeks' notice if you plan to {resign}.", "source": "İstifa etmeyi planlıyorsanız lütfen iki hafta önceden bildirin." },
+          { "target": "Why did the CEO {resign} so suddenly?", "source": "CEO neden bu kadar ani istifa etti?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-12",
+        "kind": "word",
+        "term": "strategy",
+        "type": "noun",
+        "meaning": "strateji",
+        "examples": [
+          { "target": "The company needs a new marketing {strategy}.", "source": "Şirketin yeni bir pazarlama stratejisine ihtiyacı var." },
+          { "target": "What is your {strategy} for winning the game?", "source": "Oyunu kazanmak için stratejin nedir?" },
+          { "target": "They developed a long-term {strategy} for growth.", "source": "Büyüme için uzun vadeli bir strateji geliştirdiler." },
+          { "target": "A good {strategy} can turn failure into success.", "source": "İyi bir strateji başarısızlığı başarıya dönüştürebilir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-13",
+        "kind": "word",
+        "term": "task",
+        "type": "noun",
+        "meaning": "görev, iş",
+        "examples": [
+          { "target": "My first {task} today is to reply to emails.", "source": "Bugünkü ilk görevim e-postalara cevap vermek." },
+          { "target": "She completed every {task} on the list.", "source": "Listedeki her görevi tamamladı." },
+          { "target": "The {task} was harder than expected.", "source": "Görev beklenenden zor çıktı." },
+          { "target": "Assign each team member a specific {task}.", "source": "Her ekip üyesine belirli bir görev atayın." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-84-14",
+        "kind": "word",
+        "term": "workplace",
+        "type": "noun",
+        "meaning": "işyeri",
+        "examples": [
+          { "target": "A clean {workplace} improves productivity.", "source": "Temiz bir işyeri verimliliği artırır." },
+          { "target": "Bullying in the {workplace} is unacceptable.", "source": "İşyerinde zorbalık kabul edilemez." },
+          { "target": "She enjoys the social atmosphere of her {workplace}.", "source": "İşyerinin sosyal atmosferinden keyif alıyor." },
+          { "target": "Safety rules must be followed in any {workplace}.", "source": "Her işyerinde güvenlik kurallarına uyulmalıdır." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-85",
+    "languagePair": "en-tr",
+    "name": "Orta 85",
+    "level": "intermediate",
+    "category": "emotions",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-85-0",
+        "kind": "word",
+        "term": "ambitious",
+        "type": "adjective",
+        "meaning": "hırslı, hevesli",
+        "examples": [
+          { "target": "She is {ambitious} and wants to become a doctor.", "source": "Hırslıdır ve doktor olmak istiyor." },
+          { "target": "The plan is {ambitious} but achievable.", "source": "Plan hırslıdır ama ulaşılabilirdir." },
+          { "target": "He set {ambitious} goals for the new year.", "source": "Yeni yıl için hevesli hedefler belirledi." },
+          { "target": "Being {ambitious} is admirable, but balance is key.", "source": "Hırslı olmak takdire değerdir, ama denge esastır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-1",
+        "kind": "word",
+        "term": "anxious",
+        "type": "adjective",
+        "meaning": "endişeli, kaygılı",
+        "examples": [
+          { "target": "She felt {anxious} before the big presentation.", "source": "Büyük sunumdan önce endişeli hissetti." },
+          { "target": "He becomes {anxious} in crowded places.", "source": "Kalabalık yerlerde kaygılı oluyor." },
+          { "target": "I am {anxious} about the test results.", "source": "Test sonuçları konusunda endişeliyim." },
+          { "target": "Try not to be so {anxious}; things will work out.", "source": "Bu kadar kaygılanmaya çalışma; her şey yoluna girecek." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-2",
+        "kind": "word",
+        "term": "ashamed",
+        "type": "adjective",
+        "meaning": "utanmış, mahcup",
+        "examples": [
+          { "target": "He was {ashamed} of his mistake.", "source": "Hatasından utandı." },
+          { "target": "She felt {ashamed} after losing her temper.", "source": "Sabrını kaybettikten sonra mahcup hissetti." },
+          { "target": "There is no need to be {ashamed} of asking for help.", "source": "Yardım istemekten utanmaya gerek yok." },
+          { "target": "I was {ashamed} when I forgot her birthday.", "source": "Doğum gününü unuttuğumda utandım." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-3",
+        "kind": "word",
+        "term": "content",
+        "type": "adjective",
+        "meaning": "memnun, tatmin olmuş",
+        "examples": [
+          { "target": "He is {content} with his simple life.", "source": "Sade yaşamından memnun." },
+          { "target": "She felt {content} after a long walk in the park.", "source": "Parkta uzun bir yürüyüşün ardından tatmin olmuş hissetti." },
+          { "target": "Are you {content} with the results?", "source": "Sonuçlardan memnun musun?" },
+          { "target": "A {content} person doesn't need much to be happy.", "source": "Tatmin olmuş bir kişinin mutlu olmak için fazlaya ihtiyacı yoktur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-4",
+        "kind": "word",
+        "term": "curious",
+        "type": "adjective",
+        "meaning": "meraklı",
+        "examples": [
+          { "target": "Children are naturally {curious} about everything.", "source": "Çocuklar doğal olarak her şeye karşı meraklıdır." },
+          { "target": "She was {curious} about the strange noise next door.", "source": "Komşudaki garip gürültüyü merak ediyordu." },
+          { "target": "He is {curious} about how machines work.", "source": "Makinelerin nasıl çalıştığını merak ediyor." },
+          { "target": "Stay {curious} and keep learning new things.", "source": "Meraklı kal ve yeni şeyler öğrenmeye devam et." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-5",
+        "kind": "word",
+        "term": "desperate",
+        "type": "adjective",
+        "meaning": "çaresiz, umutsuz",
+        "examples": [
+          { "target": "He was {desperate} to find a job.", "source": "İş bulmak için çaresizdi." },
+          { "target": "The stranded hikers felt {desperate} after two days.", "source": "Mahsur kalan yürüyüşçüler iki gün sonra umutsuz hissetti." },
+          { "target": "She made a {desperate} attempt to save the situation.", "source": "Durumu kurtarmak için çaresiz bir girişimde bulundu." },
+          { "target": "Don't make {desperate} decisions when you're upset.", "source": "Üzgünken çaresiz kararlar alma." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-6",
+        "kind": "word",
+        "term": "disappointed",
+        "type": "adjective",
+        "meaning": "hayal kırıklığına uğramış",
+        "examples": [
+          { "target": "She was {disappointed} by the poor service.", "source": "Kötü hizmetten dolayı hayal kırıklığına uğradı." },
+          { "target": "I am {disappointed} that you didn't call.", "source": "Aramadığın için hayal kırıklığına uğradım." },
+          { "target": "He was {disappointed} when his team lost.", "source": "Takımı kaybedince hayal kırıklığına uğradı." },
+          { "target": "It's normal to feel {disappointed} sometimes.", "source": "Bazen hayal kırıklığı yaşamak normaldir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-7",
+        "kind": "word",
+        "term": "enthusiastic",
+        "type": "adjective",
+        "meaning": "hevesli, coşkulu",
+        "examples": [
+          { "target": "She is {enthusiastic} about her new job.", "source": "Yeni işi konusunda heveslidir." },
+          { "target": "The students were {enthusiastic} about the field trip.", "source": "Öğrenciler gezi konusunda coşkuluydu." },
+          { "target": "He gave an {enthusiastic} welcome to the guests.", "source": "Misafirlere coşkulu bir karşılama yaptı." },
+          { "target": "Be {enthusiastic}, and others will follow your lead.", "source": "Hevesli ol, diğerleri senin önderliğini takip eder." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-8",
+        "kind": "word",
+        "term": "frustrated",
+        "type": "adjective",
+        "meaning": "sinirli, hüsrana uğramış",
+        "examples": [
+          { "target": "She felt {frustrated} after waiting for an hour.", "source": "Bir saat bekledikten sonra sinirli hissetti." },
+          { "target": "He gets {frustrated} easily when things go wrong.", "source": "İşler ters gittiğinde kolayca hüsrana uğrar." },
+          { "target": "It's {frustrated} when technology doesn't work.", "source": "Teknoloji çalışmadığında sinir bozucu olur." },
+          { "target": "I am {frustrated} with the slow internet today.", "source": "Bugünkü yavaş internetle sinirlandım." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-9",
+        "kind": "word",
+        "term": "grateful",
+        "type": "adjective",
+        "meaning": "minnettar, şükran duyan",
+        "examples": [
+          { "target": "I am so {grateful} for your kindness.", "source": "İyiliğiniz için çok minnettarım." },
+          { "target": "She was {grateful} to have such a supportive family.", "source": "Bu kadar destekleyici bir ailesinin olduğuna şükranlıydı." },
+          { "target": "He wrote a letter to say he was {grateful}.", "source": "Minnettarlığını belirtmek için bir mektup yazdı." },
+          { "target": "Being {grateful} improves your mental health.", "source": "Minnettar olmak ruh sağlığınızı iyileştirir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-10",
+        "kind": "word",
+        "term": "guilty",
+        "type": "adjective",
+        "meaning": "suçlu; suçluluk hisseden",
+        "examples": [
+          { "target": "She felt {guilty} for forgetting her friend's birthday.", "source": "Arkadaşının doğum gününü unuttuğu için suçluluk hissetti." },
+          { "target": "The jury found him {guilty} of the crime.", "source": "Jüri onu suçlu buldu." },
+          { "target": "He had a {guilty} look on his face.", "source": "Yüzünde suçlu bir ifade vardı." },
+          { "target": "Don't feel {guilty} for taking a break.", "source": "Mola vermek için kendini suçlu hissetme." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-11",
+        "kind": "word",
+        "term": "jealous",
+        "type": "adjective",
+        "meaning": "kıskanç",
+        "examples": [
+          { "target": "She was {jealous} of her sister's success.", "source": "Kardeşinin başarısını kıskandı." },
+          { "target": "He felt {jealous} when she talked to other boys.", "source": "Başka erkeklerle konuştuğunda kıskanç hissetti." },
+          { "target": "Being {jealous} of others is a waste of energy.", "source": "Başkalarını kıskanmak enerji israfıdır." },
+          { "target": "I was a little {jealous} of his new bicycle.", "source": "Yeni bisikletini biraz kıskandım." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-12",
+        "kind": "word",
+        "term": "overwhelmed",
+        "type": "adjective",
+        "meaning": "bunalmış, ezilmiş",
+        "examples": [
+          { "target": "She felt {overwhelmed} by all the work.", "source": "Tüm işten bunaldı." },
+          { "target": "He was {overwhelmed} with emotion at the ceremony.", "source": "Törende duygulanarak bunaldı." },
+          { "target": "Don't get {overwhelmed}; take it one step at a time.", "source": "Ezilme; adım adım ilerle." },
+          { "target": "She was {overwhelmed} by the positive response.", "source": "Olumlu tepkiler karşısında şaşkına döndü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-13",
+        "kind": "word",
+        "term": "relieved",
+        "type": "adjective",
+        "meaning": "rahatlamış",
+        "examples": [
+          { "target": "She was {relieved} when she passed the exam.", "source": "Sınavı geçince rahatladı." },
+          { "target": "We were all {relieved} to hear the good news.", "source": "İyi haberi duyunca hepimiz rahatlayık." },
+          { "target": "He felt {relieved} after the dentist appointment.", "source": "Diş hekimi randevusunun ardından rahatladı." },
+          { "target": "I was {relieved} that no one was hurt.", "source": "Kimsenin yaralanmadığına rahatlayık." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-85-14",
+        "kind": "word",
+        "term": "sincere",
+        "type": "adjective",
+        "meaning": "samimi, içten",
+        "examples": [
+          { "target": "Please accept my {sincere} apology.", "source": "Lütfen içten özrümü kabul edin." },
+          { "target": "She gave a {sincere} smile when she saw him.", "source": "Onu görünce samimi bir gülümseme verdi." },
+          { "target": "His words were {sincere} and touched everyone.", "source": "Sözleri samimiydi ve herkesi etkiledi." },
+          { "target": "Be {sincere} with your feedback.", "source": "Geri bildiriminde samimi ol." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-86",
+    "languagePair": "en-tr",
+    "name": "Orta 86",
+    "level": "intermediate",
+    "category": "nature",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-86-0",
+        "kind": "word",
+        "term": "beneath",
+        "type": "preposition",
+        "meaning": "altında, aşağısında",
+        "examples": [
+          { "target": "The treasure was hidden {beneath} the old oak tree.", "source": "Hazine eski meşe ağacının altında saklanmıştı." },
+          { "target": "There is a river {beneath} the city.", "source": "Şehrin altında bir nehir var." },
+          { "target": "The temperature drops {beneath} zero at night.", "source": "Geceleri sıcaklık sıfırın altına düşüyor." },
+          { "target": "She found her keys {beneath} a pile of papers.", "source": "Anahtarlarını bir kağıt yığınının altında buldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-1",
+        "kind": "word",
+        "term": "coastal",
+        "type": "adjective",
+        "meaning": "kıyı, sahil",
+        "examples": [
+          { "target": "They live in a {coastal} town in the south.", "source": "Güneyde sahil bir kasabada yaşıyorlar." },
+          { "target": "{Coastal} areas are often affected by storms.", "source": "Kıyı bölgeleri genellikle fırtınalardan etkilenir." },
+          { "target": "The {coastal} road offers beautiful sea views.", "source": "Kıyı yolu güzel deniz manzarası sunuyor." },
+          { "target": "Many birds nest in {coastal} wetlands.", "source": "Pek çok kuş kıyı sulak alanlarında yuva yapar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-2",
+        "kind": "word",
+        "term": "ecosystem",
+        "type": "noun",
+        "meaning": "ekosistem",
+        "examples": [
+          { "target": "The ocean {ecosystem} is fragile and complex.", "source": "Okyanus ekosistemi narin ve karmaşıktır." },
+          { "target": "Pollution can destroy an entire {ecosystem}.", "source": "Kirlilik tüm bir ekosistemi yok edebilir." },
+          { "target": "Bees play a vital role in the {ecosystem}.", "source": "Arılar ekosistemde hayati bir rol oynar." },
+          { "target": "Scientists study the forest {ecosystem} carefully.", "source": "Bilim insanları orman ekosistemini dikkatle inceler." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-3",
+        "kind": "word",
+        "term": "endangered",
+        "type": "adjective",
+        "meaning": "nesli tehlikede olan",
+        "examples": [
+          { "target": "The snow leopard is an {endangered} species.", "source": "Kar leoparı nesli tehlikede olan bir türdür." },
+          { "target": "Many {endangered} animals live in this forest.", "source": "Bu ormanda nesli tehlikede olan pek çok hayvan yaşıyor." },
+          { "target": "Conservation efforts help protect {endangered} species.", "source": "Koruma çalışmaları nesli tehlikede olan türleri korumaya yardımcı olur." },
+          { "target": "The whale shark is listed as {endangered}.", "source": "Balina köpekbalığı nesli tehlikede olarak listelenmiştir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-4",
+        "kind": "word",
+        "term": "extinct",
+        "type": "adjective",
+        "meaning": "soyu tükenmiş",
+        "examples": [
+          { "target": "Dinosaurs have been {extinct} for millions of years.", "source": "Dinozorlar milyonlarca yıldır soyu tükenmiştir." },
+          { "target": "If we don't act, many species will become {extinct}.", "source": "Harekete geçmezsek pek çok tür soyu tükenmiş olacak." },
+          { "target": "The dodo bird became {extinct} in the 17th century.", "source": "Dodo kuşu 17. yüzyılda soyu tükendi." },
+          { "target": "Scientists study {extinct} animals through fossils.", "source": "Bilim insanları soyu tükenmiş hayvanları fosillerle inceler." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-5",
+        "kind": "word",
+        "term": "flood",
+        "type": "noun",
+        "meaning": "sel, taşkın",
+        "examples": [
+          { "target": "The heavy rain caused a {flood} in the valley.", "source": "Şiddetli yağmur vadide sele yol açtı." },
+          { "target": "Many families lost their homes in the {flood}.", "source": "Pek çok aile selde evini kaybetti." },
+          { "target": "The river burst its banks and caused a {flood}.", "source": "Nehir taştı ve sele neden oldu." },
+          { "target": "A {flood} warning was issued for the coastal area.", "source": "Kıyı bölgesi için sel uyarısı verildi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-6",
+        "kind": "word",
+        "term": "harvest",
+        "type": "noun",
+        "meaning": "hasat, ürün",
+        "examples": [
+          { "target": "Farmers celebrated a good {harvest} this year.", "source": "Çiftçiler bu yıl iyi bir hasadı kutladı." },
+          { "target": "The wheat {harvest} begins in late summer.", "source": "Buğday hasadı yaz sonunda başlar." },
+          { "target": "A poor {harvest} can lead to food shortages.", "source": "Kötü bir hasat gıda kıtlığına yol açabilir." },
+          { "target": "They use machines to speed up the {harvest}.", "source": "Hasadı hızlandırmak için makine kullanıyorlar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-7",
+        "kind": "word",
+        "term": "hurricane",
+        "type": "noun",
+        "meaning": "kasırga",
+        "examples": [
+          { "target": "The {hurricane} destroyed dozens of homes.", "source": "Kasırga düzinelerce evi tahrip etti." },
+          { "target": "Residents evacuated before the {hurricane} arrived.", "source": "Sakinler kasırga gelmeden önce tahliye edildi." },
+          { "target": "The {hurricane} brought winds of 200 km/h.", "source": "Kasırga saatte 200 km hız rüzgarı getirdi." },
+          { "target": "Scientists track {hurricanes} using satellites.", "source": "Bilim insanları kasırgaları uydularla takip eder." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-8",
+        "kind": "word",
+        "term": "landscape",
+        "type": "noun",
+        "meaning": "manzara, peyzaj",
+        "examples": [
+          { "target": "The mountain {landscape} was breathtaking.", "source": "Dağ manzarası nefes kesiciydi." },
+          { "target": "The {landscape} changes as you drive north.", "source": "Kuzeye doğru ilerledikçe manzara değişiyor." },
+          { "target": "Artists often paint the local {landscape}.", "source": "Sanatçılar genellikle yerel manzarayı resmeder." },
+          { "target": "Climate change is altering the {landscape} of many regions.", "source": "İklim değişikliği pek çok bölgenin manzarasını değiştiriyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-9",
+        "kind": "word",
+        "term": "moisture",
+        "type": "noun",
+        "meaning": "nem, rutubet",
+        "examples": [
+          { "target": "Plants need {moisture} to grow.", "source": "Bitkilerin büyümesi için neme ihtiyaçları vardır." },
+          { "target": "The soil lacked {moisture} after weeks of drought.", "source": "Haftalarca süren kuraklığın ardından toprak nem bakımından yetersizdi." },
+          { "target": "She applied cream to add {moisture} to her skin.", "source": "Cildine nem katmak için krem sürdü." },
+          { "target": "High {moisture} in the air makes it feel hotter.", "source": "Havadaki yüksek nem hava sıcaklığını daha yüksek hissettiriyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-10",
+        "kind": "word",
+        "term": "pollution",
+        "type": "noun",
+        "meaning": "kirlilik, kirlenme",
+        "examples": [
+          { "target": "Air {pollution} is a major problem in big cities.", "source": "Hava kirliliği büyük şehirlerde önemli bir sorundur." },
+          { "target": "Water {pollution} kills fish and other wildlife.", "source": "Su kirliliği balık ve diğer yaban hayvanlarını öldürür." },
+          { "target": "We must reduce {pollution} to protect the environment.", "source": "Çevreyi korumak için kirliliği azaltmalıyız." },
+          { "target": "Factories are a major source of {pollution}.", "source": "Fabrikalar önemli bir kirlilik kaynağıdır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-11",
+        "kind": "word",
+        "term": "recycle",
+        "type": "verb",
+        "meaning": "geri dönüştürmek",
+        "examples": [
+          { "target": "We should {recycle} paper, glass, and plastic.", "source": "Kağıt, cam ve plastiği geri dönüştürmeliyiz." },
+          { "target": "This company {recycles} old electronics.", "source": "Bu şirket eski elektronik cihazları geri dönüştürüyor." },
+          { "target": "It's easy to {recycle} if you have separate bins.", "source": "Ayrı çöp kutularınız varsa geri dönüştürmek kolaydır." },
+          { "target": "Did you {recycle} that cardboard box?", "source": "O karton kutuyu geri dönüştürdün mü?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-12",
+        "kind": "word",
+        "term": "severe",
+        "type": "adjective",
+        "meaning": "şiddetli, ağır",
+        "examples": [
+          { "target": "The patient was in {severe} pain after surgery.", "source": "Hasta ameliyat sonrasında şiddetli ağrı duyuyordu." },
+          { "target": "A {severe} storm hit the coast last night.", "source": "Dün gece kıyıyı şiddetli bir fırtına vurdu." },
+          { "target": "There were {severe} delays on the highway.", "source": "Otoyolda ağır gecikmeler yaşandı." },
+          { "target": "He received a {severe} warning from his boss.", "source": "Patronundan sert bir uyarı aldı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-13",
+        "kind": "word",
+        "term": "tropical",
+        "type": "adjective",
+        "meaning": "tropikal",
+        "examples": [
+          { "target": "Mangoes grow in {tropical} climates.", "source": "Mango tropikal iklimlerde yetişir." },
+          { "target": "They went on a {tropical} island vacation.", "source": "Tropikal bir ada tatili yaptılar." },
+          { "target": "A {tropical} storm is approaching the coast.", "source": "Kıyıya tropikal bir fırtına yaklaşıyor." },
+          { "target": "The museum has a beautiful {tropical} fish exhibit.", "source": "Müzede güzel bir tropikal balık sergisi var." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-86-14",
+        "kind": "word",
+        "term": "wildfire",
+        "type": "noun",
+        "meaning": "orman yangını",
+        "examples": [
+          { "target": "A {wildfire} broke out in the mountains last week.", "source": "Geçen hafta dağlarda bir orman yangını çıktı." },
+          { "target": "{Wildfires} spread quickly in dry conditions.", "source": "Orman yangınları kuru koşullarda hızla yayılır." },
+          { "target": "Hundreds of firefighters battled the {wildfire}.", "source": "Yüzlerce itfaiyeci orman yangınıyla mücadele etti." },
+          { "target": "Climate change increases the risk of {wildfires}.", "source": "İklim değişikliği orman yangını riskini artırıyor." }
+        ]
+      }
+    ]
+  }
+]
