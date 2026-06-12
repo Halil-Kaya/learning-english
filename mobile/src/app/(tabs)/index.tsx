@@ -3,6 +3,7 @@ import { FlatList, StyleSheet, Text, View } from "react-native";
 import { Button } from "../../components/Button";
 import { Screen } from "../../components/Screen";
 import { SetCard } from "../../components/SetCard";
+import { StreakHeader } from "../../components/StreakHeader";
 import { useStudyListSets } from "../../data/useSets";
 import { t } from "../../i18n";
 import { colors, spacing } from "../../theme";
@@ -14,6 +15,7 @@ export default function Home() {
   return (
     <Screen>
       <Text style={styles.title}>{t("homeTitle")}</Text>
+      <StreakHeader />
 
       {sets.length === 0 ? (
         <View style={styles.empty}>
@@ -60,7 +62,7 @@ const styles = StyleSheet.create({
     fontWeight: "800",
     marginVertical: spacing.lg,
   },
-  list: { gap: spacing.md, paddingBottom: spacing.xl },
+  list: { gap: spacing.md, paddingTop: spacing.lg, paddingBottom: spacing.xl },
   empty: { flex: 1, alignItems: "center", justifyContent: "center", gap: spacing.sm },
   emptyEmoji: { fontSize: 48 },
   emptyTitle: { color: colors.text, fontSize: 18, fontWeight: "700" },

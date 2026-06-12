@@ -12,6 +12,7 @@ import { makeSpeak } from "../engine/speak";
 import { t } from "../i18n";
 import { useLibrary } from "../store/library";
 import { useSettings } from "../store/settings";
+import { useStreak } from "../store/streak";
 import { colors, radius, spacing } from "../theme";
 
 const QUICK_SIZE = 20;
@@ -28,6 +29,7 @@ export default function SelfTest() {
   const sound = useSettings((s) => s.sound);
   const learnedIds = useLibrary((s) => s.learnedSets[pair]) ?? [];
   const recordWord = useLibrary((s) => s.recordWord);
+  const tickStreak = useStreak((s) => s.tick);
   const allSets = useAllSets();
 
   const speak = useMemo(() => makeSpeak(pair, sound), [pair, sound]);
@@ -59,8 +61,10 @@ export default function SelfTest() {
       setLearn((l) => l + 1);
       setWrongEntries((w) => [...w, current]);
     }
-    if (idx + 1 >= deck.length) setDone(true);
-    else setIdx(idx + 1);
+    if (idx + 1 >= deck.length) {
+      tickStreak(); // tur bitti → günlük seri ilerlesin
+      setDone(true);
+    } else setIdx(idx + 1);
   };
 
   const retryWrong = () => {

@@ -167,6 +167,13 @@ export const tr = {
   memFinal: "3/3 · HİÇ BAKMADAN YAZ",
   memRowRestart: "✗ Yanlış harf — bu satır baştan",
   memSentenceRestart: "✗ Yanlış harf — cümle baştan",
+
+  // streak (günlük seri)
+  streakDayUnit: "gün",
+  streakBest: "en iyi",
+  streakWeekLabel: "Bu hafta",
+  streakNone: "Bugün bir tur yap, seriyi başlat 🔥",
+  streakWeekDayLetters: ["Pt", "Sa", "Ça", "Pe", "Cu", "Ct", "Pa"],
 } as const;
 
 export type Dict = typeof tr;

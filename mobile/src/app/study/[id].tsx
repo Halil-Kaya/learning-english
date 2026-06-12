@@ -20,6 +20,7 @@ import { useSet } from "../../data/useSets";
 import { makeSpeak } from "../../engine/speak";
 import { useLibrary } from "../../store/library";
 import { useSettings } from "../../store/settings";
+import { useStreak } from "../../store/streak";
 import { colors, spacing } from "../../theme";
 
 const MODE_COMPONENTS: Record<StudyMode, (p: ModeProps) => React.ReactElement | null> = {
@@ -42,6 +43,7 @@ export default function StudySession() {
   const pair = useSettings((s) => s.languagePair);
   const sound = useSettings((s) => s.sound);
   const recordWord = useLibrary((s) => s.recordWord);
+  const tickStreak = useStreak((s) => s.tick);
 
   const speak = useMemo(() => makeSpeak(pair, sound), [pair, sound]);
 
@@ -67,7 +69,11 @@ export default function StudySession() {
   };
 
   // Geçmiş UI'ı kaldırıldı (Öğrendiklerim'e dönüştü) — oturum kaydı tutulmuyor.
-  const onFinish = (res: ModeResult) => setResult(res);
+  // Tur bitişi günlük seriyi ilerletir (çalışma/oyun fark etmez).
+  const onFinish = (res: ModeResult) => {
+    tickStreak();
+    setResult(res);
+  };
 
   const onRecordWord: ModeProps["onRecordWord"] = (entryId, r) =>
     recordWord(pair, entryId, r);
