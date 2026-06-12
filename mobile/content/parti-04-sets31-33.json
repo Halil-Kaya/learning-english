@@ -1,0 +1,887 @@
+[
+  {
+    "id": "en-tr-beginner-31",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 31",
+    "level": "beginner",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-31-0",
+        "kind": "word",
+        "term": "number",
+        "type": "noun",
+        "meaning": "sayı / numara",
+        "examples": [
+          { "target": "She wrote her phone {number} on the paper.", "source": "Kağıda telefon numarasını yazdı." },
+          { "target": "He picked a lucky {number}.", "source": "Şanslı bir sayı seçti." },
+          { "target": "The {number} of students in the class is twenty.", "source": "Sınıftaki öğrenci sayısı yirmi." },
+          { "target": "She asked for the {number} of the hotel room.", "source": "Otel odasının numarasını sordu." },
+          { "target": "He memorized every {number} in the list.", "source": "Listedeki her sayıyı ezberledi." },
+          { "target": "She dialed the wrong {number}.", "source": "Yanlış numarayı çevirdi." },
+          { "target": "He wore {number} seven on his shirt.", "source": "Formasında yedi numarayı taşıdı." },
+          { "target": "The {number} of visitors increased this year.", "source": "Ziyaretçi sayısı bu yıl arttı." },
+          { "target": "She does not share her personal {number}.", "source": "Kişisel numarasını paylaşmaz." },
+          { "target": "He wrote the {number} at the top of the page.", "source": "Sayfanın üstüne numarayı yazdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-1",
+        "kind": "word",
+        "term": "digit",
+        "type": "noun",
+        "meaning": "rakam / basamak",
+        "examples": [
+          { "target": "The password must have six {digit}s.", "source": "Şifrenin altı rakamı olmalı." },
+          { "target": "She wrote each {digit} clearly.", "source": "Her rakamı açıkça yazdı." },
+          { "target": "He counted the {digit}s in the number.", "source": "Sayıdaki rakamları saydı." },
+          { "target": "The code is a four-{digit} number.", "source": "Kod dört haneli bir sayı." },
+          { "target": "She pressed each {digit} on the keypad.", "source": "Tuş takımındaki her rakama bastı." },
+          { "target": "He checked every {digit} in the account number.", "source": "Hesap numarasındaki her rakamı kontrol etti." },
+          { "target": "The last {digit} was wrong.", "source": "Son rakam yanlıştı." },
+          { "target": "She repeated the {digit}s slowly.", "source": "Rakamları yavaşça tekrar etti." },
+          { "target": "He read the {digit}s one by one.", "source": "Rakamları tek tek okudu." },
+          { "target": "The PIN has four {digit}s.", "source": "PIN dört rakamdan oluşuyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-2",
+        "kind": "word",
+        "term": "quantity",
+        "type": "noun",
+        "meaning": "miktar",
+        "examples": [
+          { "target": "She ordered a large {quantity} of flour.", "source": "Büyük miktarda un sipariş etti." },
+          { "target": "He checked the {quantity} of items in the box.", "source": "Kutudaki ürünlerin miktarını kontrol etti." },
+          { "target": "The {quantity} of water in the tank was low.", "source": "Depodaki su miktarı düşüktü." },
+          { "target": "She measured the {quantity} with a scale.", "source": "Miktarı teraziyle ölçtü." },
+          { "target": "He increased the {quantity} of the order.", "source": "Sipariş miktarını artırdı." },
+          { "target": "The recipe requires a small {quantity} of salt.", "source": "Tarif küçük miktarda tuz gerektiriyor." },
+          { "target": "She focused on quality rather than {quantity}.", "source": "Miktardan çok kaliteye odaklandı." },
+          { "target": "He noted the exact {quantity} needed.", "source": "Gereken tam miktarı not etti." },
+          { "target": "The {quantity} of emails she receives is huge.", "source": "Aldığı e-posta miktarı çok fazla." },
+          { "target": "He bought a small {quantity} to test the product.", "source": "Ürünü denemek için az miktarda aldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-3",
+        "kind": "word",
+        "term": "half",
+        "type": "noun",
+        "meaning": "yarım / yarı",
+        "examples": [
+          { "target": "She ate {half} of the sandwich.", "source": "Sandviçin yarısını yedi." },
+          { "target": "He finished the task in {half} an hour.", "source": "Görevi yarım saatte bitirdi." },
+          { "target": "She gave {half} her lunch to her friend.", "source": "Öğle yemeğinin yarısını arkadaşına verdi." },
+          { "target": "He cut the apple in {half}.", "source": "Elmayı ikiye böldü." },
+          { "target": "She only knows {half} the story.", "source": "Hikayenin yalnızca yarısını biliyor." },
+          { "target": "He arrived at {half} past eight.", "source": "Sekiz buçukta geldi." },
+          { "target": "She saved {half} of her salary.", "source": "Maaşının yarısını biriktirdi." },
+          { "target": "He filled the glass {half} full.", "source": "Bardağı yarısına kadar doldurdu." },
+          { "target": "She spent {half} the day reading.", "source": "Günün yarısını okuyarak geçirdi." },
+          { "target": "He said {half} a joke and stopped.", "source": "Yarım bir şaka yaptı ve durdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-4",
+        "kind": "word",
+        "term": "double",
+        "type": "adjective",
+        "meaning": "çift / iki kat",
+        "examples": [
+          { "target": "She asked for a {double} serving.", "source": "Çift porsiyon istedi." },
+          { "target": "He paid {double} the normal price.", "source": "Normal fiyatın iki katını ödedi." },
+          { "target": "She booked a {double} room at the hotel.", "source": "Otelde çift kişilik oda ayırttı." },
+          { "target": "He made a {double} knot to be safe.", "source": "Güvenli olmak için çift düğüm attı." },
+          { "target": "The profits {double}d in one year.", "source": "Karlar bir yılda iki katına çıktı." },
+          { "target": "She saw a {double} rainbow in the sky.", "source": "Gökyüzünde çift gökkuşağı gördü." },
+          { "target": "He uses {double} cream in his coffee.", "source": "Kahvesinde çift kreması kullanıyor." },
+          { "target": "She {double}d the recipe for more guests.", "source": "Daha fazla misafir için tarifi iki katına çıkardı." },
+          { "target": "He {double}-checked the answer.", "source": "Cevabı iki kez kontrol etti." },
+          { "target": "The bus has a {double} deck.", "source": "Otobüsün çift katı var." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-5",
+        "kind": "word",
+        "term": "single",
+        "type": "adjective",
+        "meaning": "tek / bekar",
+        "examples": [
+          { "target": "She bought a {single} ticket for the journey.", "source": "Yolculuk için tek yön bilet aldı." },
+          { "target": "He is {single} and lives alone.", "source": "Bekar ve tek başına yaşıyor." },
+          { "target": "She cooked a meal for a {single} person.", "source": "Tek kişilik yemek pişirdi." },
+          { "target": "He did not say a {single} word.", "source": "Tek bir kelime bile söylemedi." },
+          { "target": "She booked a {single} room at the hotel.", "source": "Otelde tek kişilik oda ayırttı." },
+          { "target": "He answered every question with a {single} sentence.", "source": "Her soruyu tek bir cümleyle yanıtladı." },
+          { "target": "She has a {single} goal this year.", "source": "Bu yıl tek bir hedefi var." },
+          { "target": "He wore a {single} earring.", "source": "Tek küpe taktı." },
+          { "target": "She read every {single} page.", "source": "Her tek sayfayı okudu." },
+          { "target": "He solved the problem with a {single} idea.", "source": "Sorunu tek bir fikirle çözdü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-6",
+        "kind": "word",
+        "term": "total",
+        "type": "noun",
+        "meaning": "toplam",
+        "examples": [
+          { "target": "She added the numbers to get the {total}.", "source": "Toplamı bulmak için sayıları ekledi." },
+          { "target": "He paid the {total} at the cashier.", "source": "Toplamı kasada ödedi." },
+          { "target": "The {total} cost was higher than expected.", "source": "Toplam maliyet beklenenden yüksekti." },
+          { "target": "She calculated the {total} sales.", "source": "Toplam satışları hesapladı." },
+          { "target": "He counted the votes and found the {total}.", "source": "Oyları saydı ve toplamı buldu." },
+          { "target": "The {total} number of participants was fifty.", "source": "Toplam katılımcı sayısı elliydi." },
+          { "target": "She checked the {total} on the receipt.", "source": "Fişin üzerindeki toplamı kontrol etti." },
+          { "target": "He added up the hours for a {total} of forty.", "source": "Saatleri toplayarak kırk buldu." },
+          { "target": "She gave a {total} of ten examples.", "source": "Toplamda on örnek verdi." },
+          { "target": "He agreed with the {total} plan.", "source": "Tüm planı kabul etti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-7",
+        "kind": "word",
+        "term": "zero",
+        "type": "noun",
+        "meaning": "sıfır",
+        "examples": [
+          { "target": "The temperature dropped to {zero}.", "source": "Sıcaklık sıfıra düştü." },
+          { "target": "He scored {zero} on the test.", "source": "Testten sıfır aldı." },
+          { "target": "She started from {zero} and built her business.", "source": "Sıfırdan başlayarak işini kurdu." },
+          { "target": "The timer reached {zero} and the alarm went off.", "source": "Sayaç sıfıra ulaştı ve alarm çaldı." },
+          { "target": "He has {zero} experience in cooking.", "source": "Yemek pişirme konusunda sıfır deneyimi var." },
+          { "target": "She reduced errors to {zero}.", "source": "Hataları sıfıra indirdi." },
+          { "target": "The balance in his account was {zero}.", "source": "Hesabındaki bakiye sıfırdı." },
+          { "target": "She started with {zero} money.", "source": "Sıfır parayla başladı." },
+          { "target": "He wrote {zero} as the answer.", "source": "Cevap olarak sıfır yazdı." },
+          { "target": "The risk is not {zero} but it is very low.", "source": "Risk sıfır değil ama çok düşük." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-8",
+        "kind": "word",
+        "term": "sum",
+        "type": "noun",
+        "meaning": "toplam / miktar",
+        "examples": [
+          { "target": "She paid a large {sum} of money.", "source": "Büyük bir miktar para ödedi." },
+          { "target": "He calculated the {sum} of all expenses.", "source": "Tüm giderlerin toplamını hesapladı." },
+          { "target": "The {sum} of the parts is greater than the whole.", "source": "Parçaların toplamı bütünden büyüktür." },
+          { "target": "She saved a small {sum} each month.", "source": "Her ay küçük bir miktar biriktirdi." },
+          { "target": "He was asked to solve the {sum}.", "source": "Toplamı çözmesi istendi." },
+          { "target": "She added the numbers and found the {sum}.", "source": "Sayıları topladı ve toplamı buldu." },
+          { "target": "He invested a large {sum} in the project.", "source": "Projeye büyük bir miktar para yatırdı." },
+          { "target": "The {sum} was too high for her budget.", "source": "Miktar, bütçesi için çok yüksekti." },
+          { "target": "She received a small {sum} as a reward.", "source": "Ödül olarak küçük bir miktar aldı." },
+          { "target": "He {sum}med up the key points at the end.", "source": "Sonunda ana noktaları özetledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-9",
+        "kind": "word",
+        "term": "percent",
+        "type": "noun",
+        "meaning": "yüzde",
+        "examples": [
+          { "target": "She got ninety {percent} on the exam.", "source": "Sınavdan yüzde doksan aldı." },
+          { "target": "He saves ten {percent} of his salary.", "source": "Maaşının yüzde onunu biriktiriyor." },
+          { "target": "The price increased by twenty {percent}.", "source": "Fiyat yüzde yirmi arttı." },
+          { "target": "She is one hundred {percent} sure.", "source": "Yüzde yüz emin." },
+          { "target": "He gave fifty {percent} discount.", "source": "Yüzde elli indirim yaptı." },
+          { "target": "The battery is at thirty {percent}.", "source": "Pil yüzde otuzda." },
+          { "target": "She finished eighty {percent} of the book.", "source": "Kitabın yüzde seksenini bitirdi." },
+          { "target": "He understood sixty {percent} of the lesson.", "source": "Dersin yüzde altmışını anladı." },
+          { "target": "The success rate was ninety-five {percent}.", "source": "Başarı oranı yüzde doksan beşti." },
+          { "target": "She reduced waste by forty {percent}.", "source": "İsrafı yüzde kırk azalttı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-10",
+        "kind": "word",
+        "term": "scale",
+        "type": "noun",
+        "meaning": "ölçek / terazi",
+        "examples": [
+          { "target": "She weighed the bag on a {scale}.", "source": "Çantayı terazide tarttı." },
+          { "target": "He looked at the map {scale} to judge the distance.", "source": "Mesafeyi ölçmek için harita ölçeğine baktı." },
+          { "target": "The project was done on a large {scale}.", "source": "Proje geniş çaplı yapıldı." },
+          { "target": "She adjusted the {scale} in the recipe.", "source": "Tarifte ölçeği ayarladı." },
+          { "target": "He checked his weight on the bathroom {scale}.", "source": "Banyo terazisinde kilosunu kontrol etti." },
+          { "target": "The model was built to a small {scale}.", "source": "Model küçük ölçekte yapıldı." },
+          { "target": "She drew the building on a {scale} of one to fifty.", "source": "Binayı bire elli ölçeğinde çizdi." },
+          { "target": "He understood the {scale} of the problem.", "source": "Problemin boyutunu anladı." },
+          { "target": "She climbed the {scale} of success step by step.", "source": "Başarı merdivenini adım adım tırmandı." },
+          { "target": "He used a kitchen {scale} for precise measurements.", "source": "Hassas ölçümler için mutfak terazisi kullandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-11",
+        "kind": "word",
+        "term": "size",
+        "type": "noun",
+        "meaning": "boyut / beden",
+        "examples": [
+          { "target": "She asked for the {size} of the shoes.", "source": "Ayakkabıların numarasını sordu." },
+          { "target": "He was surprised by the {size} of the crowd.", "source": "Kalabalığın büyüklüğüne şaşırdı." },
+          { "target": "She chose the wrong {size} at the shop.", "source": "Mağazada yanlış beden seçti." },
+          { "target": "He cut the paper to {size}.", "source": "Kağıdı boyutuna göre kesti." },
+          { "target": "The room was a good {size} for two people.", "source": "Oda iki kişi için uygun büyüklükteydi." },
+          { "target": "She ordered a medium {size} coffee.", "source": "Orta boy kahve sipariş etti." },
+          { "target": "He underestimated the {size} of the task.", "source": "Görevin büyüklüğünü küçümsedi." },
+          { "target": "She checked her {size} before buying the dress.", "source": "Elbiseyi satın almadan önce bedenini kontrol etti." },
+          { "target": "The {size} of the problem grew every day.", "source": "Problemin boyutu her gün büyüdü." },
+          { "target": "He judged the {size} of the box by eye.", "source": "Kutunun boyutunu gözle ölçtü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-12",
+        "kind": "word",
+        "term": "weight",
+        "type": "noun",
+        "meaning": "ağırlık / kilo",
+        "examples": [
+          { "target": "She checked her {weight} every week.", "source": "Her hafta kilosunu kontrol etti." },
+          { "target": "He lifted the {weight} slowly.", "source": "Ağırlığı yavaşça kaldırdı." },
+          { "target": "The {weight} of the bag was too much.", "source": "Çantanın ağırlığı çok fazlaydı." },
+          { "target": "She lost {weight} after changing her diet.", "source": "Diyetini değiştirdikten sonra kilo verdi." },
+          { "target": "He gained {weight} during the holidays.", "source": "Tatil sırasında kilo aldı." },
+          { "target": "The box had a {weight} limit.", "source": "Kutunun bir ağırlık sınırı vardı." },
+          { "target": "She carried the full {weight} of the responsibility.", "source": "Sorumluluğun tüm ağırlığını taşıdı." },
+          { "target": "He felt the {weight} of his mistake.", "source": "Hatasının ağırlığını hissetti." },
+          { "target": "She measured the {weight} of each ingredient.", "source": "Her malzemenin ağırlığını ölçtü." },
+          { "target": "His words carried great {weight}.", "source": "Sözleri büyük önem taşıyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-13",
+        "kind": "word",
+        "term": "length",
+        "type": "noun",
+        "meaning": "uzunluk",
+        "examples": [
+          { "target": "She measured the {length} of the room.", "source": "Odanın uzunluğunu ölçtü." },
+          { "target": "He checked the {length} of the rope.", "source": "İpin uzunluğunu kontrol etti." },
+          { "target": "She cut the fabric to the right {length}.", "source": "Kumaşı doğru uzunluğa kesti." },
+          { "target": "He was surprised by the {length} of the film.", "source": "Filmin uzunluğuna şaşırdı." },
+          { "target": "She noted the {length} and width of the table.", "source": "Masanın uzunluğunu ve genişliğini not etti." },
+          { "target": "He went to great {length}s to help her.", "source": "Ona yardım etmek için büyük çaba harcadı." },
+          { "target": "She adjusted the {length} of her dress.", "source": "Elbisesinin uzunluğunu ayarladı." },
+          { "target": "He read the full {length} of the report.", "source": "Raporun tamamını okudu." },
+          { "target": "The bridge has a {length} of five hundred meters.", "source": "Köprünün uzunluğu beş yüz metredir." },
+          { "target": "She talked at {length} about the project.", "source": "Proje hakkında uzun uzun konuştu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-31-14",
+        "kind": "word",
+        "term": "value",
+        "type": "noun",
+        "meaning": "değer",
+        "examples": [
+          { "target": "She knows the {value} of hard work.", "source": "Sıkı çalışmanın değerini biliyor." },
+          { "target": "He checked the market {value} of the house.", "source": "Evin piyasa değerini kontrol etti." },
+          { "target": "She gives {value} to every relationship.", "source": "Her ilişkiye değer veriyor." },
+          { "target": "He found a good {value} product at the store.", "source": "Mağazada iyi fiyatlı bir ürün buldu." },
+          { "target": "She understands the {value} of time.", "source": "Zamanın değerini anlıyor." },
+          { "target": "He increased the {value} of the company.", "source": "Şirketin değerini artırdı." },
+          { "target": "She shared her core {value}s with the team.", "source": "Temel değerlerini ekiple paylaştı." },
+          { "target": "He gave a {value} of one hundred to the item.", "source": "Ürüne yüz değeri biçti." },
+          { "target": "She offered something of great {value}.", "source": "Büyük değer taşıyan bir şey teklif etti." },
+          { "target": "He learned to {value} simple things in life.", "source": "Hayatın basit şeylerini değerlendirmeyi öğrendi." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-32",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 32",
+    "level": "beginner",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-32-0",
+        "kind": "word",
+        "term": "sofa",
+        "type": "noun",
+        "meaning": "kanepe",
+        "examples": [
+          { "target": "She sat on the {sofa} to watch TV.", "source": "TV izlemek için kanepede oturdu." },
+          { "target": "He fell asleep on the {sofa}.", "source": "Kanepede uyuyakaldı." },
+          { "target": "She bought a new {sofa} for the living room.", "source": "Oturma odası için yeni bir kanepe aldı." },
+          { "target": "He read a book on the {sofa} all afternoon.", "source": "Bütün öğle üstü kanepede kitap okudu." },
+          { "target": "The cat sat on the {sofa} all day.", "source": "Kedi bütün gün kanepede oturdu." },
+          { "target": "She put a blanket over the {sofa}.", "source": "Kanepanin üzerine battaniye örttü." },
+          { "target": "He stretched out on the {sofa} to relax.", "source": "Dinlenmek için kanepede uzandı." },
+          { "target": "She cleaned the {sofa} with a damp cloth.", "source": "Kanepеyi nemli bezle temizledi." },
+          { "target": "He moved the {sofa} to the other wall.", "source": "Kanepеyi diğer duvara taşıdı." },
+          { "target": "She chose a grey {sofa} for the room.", "source": "Oda için gri kanepe seçti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-1",
+        "kind": "word",
+        "term": "chair",
+        "type": "noun",
+        "meaning": "sandalye / koltuk",
+        "examples": [
+          { "target": "She pulled a {chair} to the table.", "source": "Masaya bir sandalye çekti." },
+          { "target": "He sat on the {chair} by the window.", "source": "Pencerenin yanındaki sandalyeye oturdu." },
+          { "target": "She offered her {chair} to the older guest.", "source": "Sandalyesini yaşlı misafire teklif etti." },
+          { "target": "He repaired the broken {chair} leg.", "source": "Kırık sandalye ayağını tamir etti." },
+          { "target": "She bought four {chair}s for the dining table.", "source": "Yemek masası için dört sandalye aldı." },
+          { "target": "He leaned back in his {chair}.", "source": "Sandalyesine yaslandı." },
+          { "target": "She dragged the {chair} across the floor.", "source": "Sandalyeyi zeminde sürükledi." },
+          { "target": "He placed a cushion on the {chair}.", "source": "Sandalyenin üzerine minder koydu." },
+          { "target": "She sat in the {chair} for hours.", "source": "Sandalyede saatlerce oturdu." },
+          { "target": "He is the {chair} of the committee.", "source": "Komitenin başkanı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-2",
+        "kind": "word",
+        "term": "table",
+        "type": "noun",
+        "meaning": "masa",
+        "examples": [
+          { "target": "She set the {table} for dinner.", "source": "Akşam yemeği için masayı kurdu." },
+          { "target": "He put his keys on the {table}.", "source": "Anahtarlarını masaya koydu." },
+          { "target": "She wiped the {table} clean.", "source": "Masayı temizledi." },
+          { "target": "He sat at the {table} to write.", "source": "Yazmak için masaya oturdu." },
+          { "target": "She bought a wooden {table} for the kitchen.", "source": "Mutfak için ahşap masa aldı." },
+          { "target": "He turned the {table}s in the negotiation.", "source": "Müzakerede dengeleri değiştirdi." },
+          { "target": "She laid the book on the {table}.", "source": "Kitabı masanın üzerine koydu." },
+          { "target": "He pushed the {table} against the wall.", "source": "Masayı duvara itti." },
+          { "target": "She left a note on the {table}.", "source": "Masaya bir not bıraktı." },
+          { "target": "He checked the {table} of contents in the book.", "source": "Kitaptaki içindekiler tablosuna baktı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-3",
+        "kind": "word",
+        "term": "desk",
+        "type": "noun",
+        "meaning": "yazı masası / ofis masası",
+        "examples": [
+          { "target": "She works at her {desk} for eight hours.", "source": "Yazı masasında sekiz saat çalışıyor." },
+          { "target": "He cleared his {desk} before leaving.", "source": "Ayrılmadan önce masasını topladı." },
+          { "target": "She placed her laptop on the {desk}.", "source": "Dizüstü bilgisayarını masaya koydu." },
+          { "target": "He sat at the front {desk}.", "source": "Ön masaya oturdu." },
+          { "target": "She organized her {desk} with storage boxes.", "source": "Masasını saklama kutularıyla düzenledi." },
+          { "target": "He has a plant on his {desk}.", "source": "Masasında bir bitki var." },
+          { "target": "She found an old letter in the {desk} drawer.", "source": "Masa çekmecesinde eski bir mektup buldu." },
+          { "target": "He reserved a {desk} at the library.", "source": "Kütüphanede bir masa ayırttı." },
+          { "target": "She left early without cleaning her {desk}.", "source": "Masasını temizlemeden erken ayrıldı." },
+          { "target": "He bought a standing {desk} for better posture.", "source": "Daha iyi duruş için ayaklı masa satın aldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-4",
+        "kind": "word",
+        "term": "bed",
+        "type": "noun",
+        "meaning": "yatak",
+        "examples": [
+          { "target": "She made her {bed} every morning.", "source": "Her sabah yatağını yaptı." },
+          { "target": "He jumped into {bed} after a long day.", "source": "Uzun bir günün ardından yatağa atladı." },
+          { "target": "She sat on the edge of the {bed}.", "source": "Yatağın kenarına oturdu." },
+          { "target": "He bought a new {bed} for the guest room.", "source": "Misafir odası için yeni bir yatak aldı." },
+          { "target": "She fell out of {bed} and hurt her arm.", "source": "Yataktan düştü ve kolunu incitti." },
+          { "target": "He reads in {bed} before sleeping.", "source": "Uyumadan önce yatakta okur." },
+          { "target": "She changed the {bed} sheets every week.", "source": "Her hafta yatak örtülerini değiştirdi." },
+          { "target": "He felt warm and safe in {bed}.", "source": "Yatakta sıcak ve güvende hissetti." },
+          { "target": "She had breakfast in {bed} on her birthday.", "source": "Doğum günü yatakta kahvaltı yaptı." },
+          { "target": "He chose a large {bed} for his new room.", "source": "Yeni odası için büyük bir yatak seçti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-5",
+        "kind": "word",
+        "term": "wardrobe",
+        "type": "noun",
+        "meaning": "gardırop / vestiyer",
+        "examples": [
+          { "target": "She hung her coat in the {wardrobe}.", "source": "Paltosunu gardıroba astı." },
+          { "target": "He organized his {wardrobe} by color.", "source": "Gardırobunu renge göre düzenledi." },
+          { "target": "She bought a large {wardrobe} for the bedroom.", "source": "Yatak odası için büyük bir gardırop aldı." },
+          { "target": "He found an old photo inside the {wardrobe}.", "source": "Gardırobun içinde eski bir fotoğraf buldu." },
+          { "target": "She needs to update her {wardrobe}.", "source": "Gardırobunu yenilenmesi gerekiyor." },
+          { "target": "He left the {wardrobe} door open.", "source": "Gardırop kapısını açık bıraktı." },
+          { "target": "She packed clothes from the {wardrobe} for the trip.", "source": "Yolculuk için gardıroptan kıyafetler aldı." },
+          { "target": "He built a walk-in {wardrobe}.", "source": "Girilip çıkılabilen bir gardırop yaptı." },
+          { "target": "She has a small {wardrobe} but dresses beautifully.", "source": "Küçük bir gardırobu var ama şık giyiniyor." },
+          { "target": "He added shelves inside the {wardrobe}.", "source": "Gardırobun içine raflar ekledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-6",
+        "kind": "word",
+        "term": "curtain",
+        "type": "noun",
+        "meaning": "perde",
+        "examples": [
+          { "target": "She drew the {curtain} to block the sun.", "source": "Güneşi engellemek için perdeyi çekti." },
+          { "target": "He opened the {curtain}s in the morning.", "source": "Sabah perdeleri açtı." },
+          { "target": "She bought new {curtain}s for the bedroom.", "source": "Yatak odası için yeni perdeler aldı." },
+          { "target": "He peeked through the {curtain}.", "source": "Perdeden gözetledi." },
+          { "target": "She hung the {curtain}s after washing them.", "source": "Perdleri yıkadıktan sonra astı." },
+          { "target": "He chose dark {curtain}s for better sleep.", "source": "Daha iyi uyku için koyu renkli perdeler seçti." },
+          { "target": "She sewed new {curtain}s by hand.", "source": "Yeni perdeleri elle dikti." },
+          { "target": "He pulled back the {curtain} to let in light.", "source": "Işık girmesi için perdeyi açtı." },
+          { "target": "She hid behind the {curtain} while playing.", "source": "Oyun oynarken perdenin arkasına saklandı." },
+          { "target": "The {curtain} fell and the show ended.", "source": "Perde indi ve gösteri sona erdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-7",
+        "kind": "word",
+        "term": "blanket",
+        "type": "noun",
+        "meaning": "battaniye",
+        "examples": [
+          { "target": "She wrapped herself in a warm {blanket}.", "source": "Kendini sıcak bir battaniyeye sardı." },
+          { "target": "He pulled the {blanket} over his head.", "source": "Battaniyeyi başının üstüne çekti." },
+          { "target": "She washed the {blanket} on Sunday.", "source": "Pazar günü battaniyeyi yıkadı." },
+          { "target": "He gave her a {blanket} when she felt cold.", "source": "Üşüdüğünde ona battaniye verdi." },
+          { "target": "She fell asleep under the {blanket}.", "source": "Battaniyenin altında uyudu." },
+          { "target": "He packed a {blanket} for the camping trip.", "source": "Kamp gezisi için battaniye götürdü." },
+          { "target": "She knitted a {blanket} for the baby.", "source": "Bebek için battaniye ördü." },
+          { "target": "He spread a {blanket} on the grass for the picnic.", "source": "Piknik için çimene battaniye serdi." },
+          { "target": "She tucked the {blanket} around him tightly.", "source": "Battaniyeyi etrafına sıkıca sardı." },
+          { "target": "A {blanket} of snow covered the street.", "source": "Kar örtüsü sokağı kapladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-8",
+        "kind": "word",
+        "term": "pillow",
+        "type": "noun",
+        "meaning": "yastık",
+        "examples": [
+          { "target": "She rested her head on the soft {pillow}.", "source": "Başını yumuşak yastığa yasladı." },
+          { "target": "He punched his {pillow} in frustration.", "source": "Sinirle yastığını yumrukladı." },
+          { "target": "She bought two {pillow}s for the guest room.", "source": "Misafir odası için iki yastık aldı." },
+          { "target": "He hid the note under his {pillow}.", "source": "Notu yastığının altına sakladı." },
+          { "target": "She changed the {pillow} covers every week.", "source": "Her hafta yastık kılıflarını değiştirdi." },
+          { "target": "He fluffed the {pillow} before lying down.", "source": "Uzanmadan önce yastığı kabarttı." },
+          { "target": "She prefers a firm {pillow} when sleeping.", "source": "Uyurken sert yastık tercih ediyor." },
+          { "target": "He found the TV remote under his {pillow}.", "source": "Yastığının altında TV kumandasını buldu." },
+          { "target": "She placed the {pillow} under her back for support.", "source": "Destek için yastığı sırtının altına koydu." },
+          { "target": "He threw a {pillow} across the room playfully.", "source": "Şakacı bir şekilde yastığı odanın karşısına fırlattı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-9",
+        "kind": "word",
+        "term": "drawer",
+        "type": "noun",
+        "meaning": "çekmece",
+        "examples": [
+          { "target": "She put the pens in the {drawer}.", "source": "Kalemleri çekmeceye koydu." },
+          { "target": "He pulled the {drawer} open.", "source": "Çekmeceyi çekip açtı." },
+          { "target": "She found the key in the bottom {drawer}.", "source": "Anahtarı en alt çekmeceде buldu." },
+          { "target": "He organized his {drawer} neatly.", "source": "Çekmecesini düzenli bir şekilde organize etti." },
+          { "target": "She locked the {drawer} to keep documents safe.", "source": "Belgeleri güvende tutmak için çekmeceyi kilitledi." },
+          { "target": "He left the {drawer} open by accident.", "source": "Yanlışlıkla çekmeceyi açık bıraktı." },
+          { "target": "She cleaned out every {drawer} in the room.", "source": "Odadaki her çekmeceyi temizledi." },
+          { "target": "He keeps his phone charger in the top {drawer}.", "source": "Telefon şarj aletini üst çekmeceде tutuyor." },
+          { "target": "She found an old receipt in the kitchen {drawer}.", "source": "Mutfak çekmecesinde eski bir fiş buldu." },
+          { "target": "He slid the {drawer} back quietly.", "source": "Çekmeceyi sessizce yerine itti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-10",
+        "kind": "word",
+        "term": "frame",
+        "type": "noun",
+        "meaning": "çerçeve",
+        "examples": [
+          { "target": "She put the photo in a gold {frame}.", "source": "Fotoğrafı altın çerçeveye koydu." },
+          { "target": "He built the {frame} of the house.", "source": "Evin iskeletini inşa etti." },
+          { "target": "She hung a painting in a wooden {frame}.", "source": "Ahşap çerçeveli bir tablo astı." },
+          { "target": "He adjusted the {frame} of his glasses.", "source": "Gözlüğünün çerçevesini ayarladı." },
+          { "target": "She chose a simple {frame} for the picture.", "source": "Resim için sade bir çerçeve seçti." },
+          { "target": "He broke the {frame} by accident.", "source": "Kazara çerçeveyi kırdı." },
+          { "target": "She painted the {frame} white.", "source": "Çerçeveyi beyaza boyadı." },
+          { "target": "He described it within the {frame} of the law.", "source": "Yasal çerçeve içinde anlattı." },
+          { "target": "She placed the certificate in a black {frame}.", "source": "Sertifikayı siyah çerçeveye koydu." },
+          { "target": "He saw her in the door {frame}.", "source": "Onu kapı çerçevesinde gördü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-11",
+        "kind": "word",
+        "term": "rug",
+        "type": "noun",
+        "meaning": "küçük halı / kilim",
+        "examples": [
+          { "target": "She placed a colorful {rug} under the table.", "source": "Masanın altına renkli bir kilim serdi." },
+          { "target": "He tripped on the {rug} in the hallway.", "source": "Koridordaki kilime takılıp düştü." },
+          { "target": "She washed the small {rug} by hand.", "source": "Küçük kilimi elle yıkadı." },
+          { "target": "He bought a {rug} from the market.", "source": "Pazardan bir kilim aldı." },
+          { "target": "She rolled out the {rug} in the living room.", "source": "Oturma odasına kilimi serdi." },
+          { "target": "He sat on the {rug} to play with the baby.", "source": "Bebekle oynamak için kilimin üzerinde oturdu." },
+          { "target": "She chose a patterned {rug} for the bedroom.", "source": "Yatak odası için desenli kilim seçti." },
+          { "target": "He swept the {rug} clean.", "source": "Kilimi süpürüp temizledi." },
+          { "target": "She pulled the {rug} from under his feet.", "source": "Ayaklarının altından kilimi çekti." },
+          { "target": "He kept the {rug} in the store room.", "source": "Kilimi kiler odasında sakladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-12",
+        "kind": "word",
+        "term": "bin",
+        "type": "noun",
+        "meaning": "çöp kutusu / teneke",
+        "examples": [
+          { "target": "She threw the wrapper in the {bin}.", "source": "Ambalajı çöp kutusuna attı." },
+          { "target": "He emptied the {bin} before it got full.", "source": "Dolmadan önce çöp kutusunu boşalttı." },
+          { "target": "She put the empty bottle in the recycling {bin}.", "source": "Boş şişeyi geri dönüşüm kutusuna koydu." },
+          { "target": "He lined the {bin} with a plastic bag.", "source": "Çöp kutusuna plastik torba taktı." },
+          { "target": "She knocked over the {bin} by mistake.", "source": "Yanlışlıkla çöp kutusunu devirdi." },
+          { "target": "He took the {bin} outside on collection day.", "source": "Toplama gününde çöp kutusunu dışarıya çıkardı." },
+          { "target": "She sorted her rubbish into different {bin}s.", "source": "Çöpünü farklı kutulara ayırdı." },
+          { "target": "He threw his notes in the {bin} after the exam.", "source": "Sınavın ardından notlarını çöpe attı." },
+          { "target": "She cleaned the kitchen {bin}.", "source": "Mutfak çöp kutusunu temizledi." },
+          { "target": "He looked for the receipt but it was in the {bin}.", "source": "Fişi aradı ama çöp kutusundaydı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-13",
+        "kind": "word",
+        "term": "kettle",
+        "type": "noun",
+        "meaning": "su ısıtıcısı / çaydanlık",
+        "examples": [
+          { "target": "She filled the {kettle} with water.", "source": "Su ısıtıcısını suyla doldurdu." },
+          { "target": "He boiled the {kettle} for tea.", "source": "Çay için su ısıtıcısını açtı." },
+          { "target": "The {kettle} whistled when the water was ready.", "source": "Su hazır olduğunda ısıtıcı ıslık çaldı." },
+          { "target": "She unplugged the {kettle} after use.", "source": "Kullandıktan sonra su ısıtıcısının fişini çekti." },
+          { "target": "He bought an electric {kettle} for the kitchen.", "source": "Mutfak için elektrikli su ısıtıcısı aldı." },
+          { "target": "She cleaned the {kettle} to remove lime scale.", "source": "Kireç temizlemek için ısıtıcıyı temizledi." },
+          { "target": "He left the {kettle} on and forgot about it.", "source": "Isıtıcıyı açık bıraktı ve unuttu." },
+          { "target": "She listened to the sound of the {kettle} boiling.", "source": "Isıtıcının kaynamasını dinledi." },
+          { "target": "He offered to put the {kettle} on for guests.", "source": "Misafirler için su ısıtıcısını açmayı teklif etti." },
+          { "target": "The {kettle} and the pot both hold water.", "source": "Isıtıcı da tencere de su tutar." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-32-14",
+        "kind": "word",
+        "term": "switch",
+        "type": "noun",
+        "meaning": "anahtar / düğme",
+        "examples": [
+          { "target": "She flipped the {switch} to turn on the light.", "source": "Işığı açmak için düğmeye bastı." },
+          { "target": "He found the {switch} in the dark.", "source": "Karanlıkta anahtarı buldu." },
+          { "target": "She installed a new light {switch}.", "source": "Yeni bir ışık anahtarı taktı." },
+          { "target": "He {switch}ed channels on the TV.", "source": "TV'de kanal değiştirdi." },
+          { "target": "She made a {switch} from coffee to tea.", "source": "Kahveden çaya geçiş yaptı." },
+          { "target": "He {switch}ed off the {switch} before leaving.", "source": "Ayrılmadan önce anahtarı kapattı." },
+          { "target": "She {switch}ed seats with her friend.", "source": "Arkadaşıyla yer değiştirdi." },
+          { "target": "He {switch}ed to a better plan.", "source": "Daha iyi bir plana geçti." },
+          { "target": "She touched the {switch} gently.", "source": "Anahtara nazikçe dokundu." },
+          { "target": "He pressed the wrong {switch} by mistake.", "source": "Yanlışlıkla yanlış düğmeye bastı." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-33",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 33",
+    "level": "beginner",
+    "category": "emotions",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-33-0",
+        "kind": "word",
+        "term": "excited",
+        "type": "adjective",
+        "meaning": "heyecanlı",
+        "examples": [
+          { "target": "She was {excited} about the trip.", "source": "Gezi için heyecanlıydı." },
+          { "target": "He felt {excited} when he got the news.", "source": "Haberi aldığında heyecanlandı." },
+          { "target": "She was {excited} to meet the famous author.", "source": "Ünlü yazarla tanışmak için heyecanlıydı." },
+          { "target": "He could not sleep because he was so {excited}.", "source": "O kadar heyecanlıydı ki uyuyamadı." },
+          { "target": "She looked {excited} on her first day at work.", "source": "İşteki ilk günü heyecanlı görünüyordu." },
+          { "target": "He was {excited} by the new project.", "source": "Yeni proje onu heyecanlandırdı." },
+          { "target": "She told me {excited}ly about her news.", "source": "Haberini heyecanla anlattı." },
+          { "target": "He was {excited} to see his family.", "source": "Ailesini görmek için heyecanlıydı." },
+          { "target": "She woke up {excited} on her birthday.", "source": "Doğum günü sabahı heyecanla uyandı." },
+          { "target": "He spoke in an {excited} voice.", "source": "Heyecanlı bir sesle konuştu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-1",
+        "kind": "word",
+        "term": "tense",
+        "type": "adjective",
+        "meaning": "gergin",
+        "examples": [
+          { "target": "She felt {tense} before the interview.", "source": "Mülakattan önce gergin hissetti." },
+          { "target": "He had a {tense} expression on his face.", "source": "Yüzünde gergin bir ifade vardı." },
+          { "target": "The atmosphere in the room was {tense}.", "source": "Odadaki atmosfer gergindi." },
+          { "target": "She was {tense} waiting for the results.", "source": "Sonuçları beklerken gergin hissetti." },
+          { "target": "He held his shoulders {tense}ly.", "source": "Omuzlarını gergin bir şekilde tutuyordu." },
+          { "target": "She felt the muscles in her neck grow {tense}.", "source": "Boynundaki kaslarının gerildiğini hissetti." },
+          { "target": "He gave a {tense} smile.", "source": "Gergin bir gülümseme verdi." },
+          { "target": "The game became {tense} in the final minutes.", "source": "Oyun son dakikalarda gerginleşti." },
+          { "target": "She took a deep breath to feel less {tense}.", "source": "Daha az gergin hissetmek için derin nefes aldı." },
+          { "target": "He stayed calm even when others were {tense}.", "source": "Başkaları gerginken bile sakin kaldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-2",
+        "kind": "word",
+        "term": "bored",
+        "type": "adjective",
+        "meaning": "sıkılmış",
+        "examples": [
+          { "target": "She felt {bored} during the long lecture.", "source": "Uzun ders sırasında sıkıldı." },
+          { "target": "He was {bored} and looked at his phone.", "source": "Sıkılmıştı ve telefonuna bakıyordu." },
+          { "target": "She is never {bored} when she has a book.", "source": "Kitabı olduğunda hiç sıkılmıyor." },
+          { "target": "He was {bored} waiting in the queue.", "source": "Kuyrukta beklerken sıkıldı." },
+          { "target": "She looked {bored} at the meeting.", "source": "Toplantıda sıkılmış görünüyordu." },
+          { "target": "He said he was {bored} of the same routine.", "source": "Aynı rutinden sıkıldığını söyledi." },
+          { "target": "She was {bored} on the long flight.", "source": "Uzun uçuşta sıkıldı." },
+          { "target": "He quickly got {bored} if he had nothing to do.", "source": "Yapacak bir şeyi olmadığında çabucak sıkılıyordu." },
+          { "target": "She was {bored} of always eating the same food.", "source": "Her zaman aynı yemeği yemekten sıkılmıştı." },
+          { "target": "He found the film {bored}.", "source": "Filmi sıkıcı buldu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-3",
+        "kind": "word",
+        "term": "surprised",
+        "type": "adjective",
+        "meaning": "şaşırmış / sürprizle karşılaşmış",
+        "examples": [
+          { "target": "She was {surprised} to see him there.", "source": "Onu orada görünce şaşırdı." },
+          { "target": "He looked {surprised} at the news.", "source": "Habere şaşırmış bir ifadeyle baktı." },
+          { "target": "She was {surprised} by the kind gesture.", "source": "Nazik davranış onu şaşırttı." },
+          { "target": "He was {surprised} when they threw a party for him.", "source": "Onun için parti düzenleyince şaşırdı." },
+          { "target": "She was pleasantly {surprised} by the result.", "source": "Sonuçtan hoş bir şekilde şaşırdı." },
+          { "target": "He was {surprised} that she remembered.", "source": "Hatırlamasına şaşırdı." },
+          { "target": "She gave a {surprised} laugh.", "source": "Şaşkınlıkla güldü." },
+          { "target": "He was {surprised} at how fast she learned.", "source": "Ne kadar hızlı öğrendiğine şaşırdı." },
+          { "target": "She was {surprised} to find the door open.", "source": "Kapıyı açık bulunca şaşırdı." },
+          { "target": "He never likes to be {surprised}.", "source": "Sürprize hiç bayılmaz." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-4",
+        "kind": "word",
+        "term": "delighted",
+        "type": "adjective",
+        "meaning": "çok memnun / son derece mutlu",
+        "examples": [
+          { "target": "She was {delighted} to receive the gift.", "source": "Hediyeyi alınca çok sevindi." },
+          { "target": "He was {delighted} to meet the team.", "source": "Ekiple tanışmaktan çok memnun oldu." },
+          { "target": "She was {delighted} by her son's success.", "source": "Oğlunun başarısından çok mutlu oldu." },
+          { "target": "He looked {delighted} when she agreed.", "source": "Kabul ettiğinde çok memnun görünüyordu." },
+          { "target": "She was {delighted} with the result.", "source": "Sonuçtan çok memnundu." },
+          { "target": "He was {delighted} to help.", "source": "Yardım etmekten çok memnuniyet duydu." },
+          { "target": "She felt {delighted} at the warm welcome.", "source": "Sıcak karşılamadan çok mutlu oldu." },
+          { "target": "He was {delighted} that everything went well.", "source": "Her şeyin yolunda gitmesinden çok memnundu." },
+          { "target": "She said she was {delighted} to be invited.", "source": "Davet edilmekten çok mutlu olduğunu söyledi." },
+          { "target": "He was {delighted} to see old friends.", "source": "Eski arkadaşlarını görmekten çok mutlu oldu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-5",
+        "kind": "word",
+        "term": "peaceful",
+        "type": "adjective",
+        "meaning": "huzurlu / sakin",
+        "examples": [
+          { "target": "She found the forest {peaceful} and quiet.", "source": "Ormanı huzurlu ve sakin buldu." },
+          { "target": "He had a {peaceful} sleep.", "source": "Huzurlu bir uyku uyudu." },
+          { "target": "She lived in a {peaceful} village.", "source": "Huzurlu bir köyde yaşıyordu." },
+          { "target": "He wanted a {peaceful} end to the argument.", "source": "Tartışmanın barışçıl bir şekilde bitmesini istedi." },
+          { "target": "She felt {peaceful} by the sea.", "source": "Deniz kenarında huzurlu hissetti." },
+          { "target": "He preferred a {peaceful} life.", "source": "Sakin bir hayatı tercih etti." },
+          { "target": "The morning was {peaceful} and still.", "source": "Sabah huzurlu ve durgun geçti." },
+          { "target": "She read in the {peaceful} garden.", "source": "Huzurlu bahçede okudu." },
+          { "target": "He gave a {peaceful} smile.", "source": "Sakin bir gülümseme verdi." },
+          { "target": "She meditated to feel more {peaceful}.", "source": "Daha huzurlu hissetmek için meditasyon yaptı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-6",
+        "kind": "word",
+        "term": "lonely",
+        "type": "adjective",
+        "meaning": "yalnız / ıssız",
+        "examples": [
+          { "target": "She felt {lonely} after moving to a new city.", "source": "Yeni şehre taşındıktan sonra yalnız hissetti." },
+          { "target": "He was {lonely} without his friends.", "source": "Arkadaşları olmadan yalnızdı." },
+          { "target": "She sat at a {lonely} table in the café.", "source": "Kafede yalnız bir masada oturdu." },
+          { "target": "He took long walks when he felt {lonely}.", "source": "Yalnız hissettiğinde uzun yürüyüşler yaptı." },
+          { "target": "She did not want him to feel {lonely}.", "source": "Onun yalnız hissetmesini istemiyordu." },
+          { "target": "He lived in a {lonely} house on the hill.", "source": "Tepedeki ıssız bir evde yaşıyordu." },
+          { "target": "She called her friend because she felt {lonely}.", "source": "Yalnız hissettiği için arkadaşını aradı." },
+          { "target": "He played music when the house was {lonely}.", "source": "Ev ıssız olduğunda müzik çaldı." },
+          { "target": "She wrote in her diary to feel less {lonely}.", "source": "Daha az yalnız hissetmek için günlüğüne yazdı." },
+          { "target": "He was {lonely} even in a crowd.", "source": "Kalabalıkta bile yalnızdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-7",
+        "kind": "word",
+        "term": "jealous",
+        "type": "adjective",
+        "meaning": "kıskanç",
+        "examples": [
+          { "target": "She felt {jealous} of her sister's success.", "source": "Kız kardeşinin başarısını kıskandı." },
+          { "target": "He was {jealous} when she talked to others.", "source": "Başkalarıyla konuşunca kıskançlık hissetti." },
+          { "target": "She tried not to be {jealous}.", "source": "Kıskanç olmamaya çalıştı." },
+          { "target": "He gave her a {jealous} look.", "source": "Ona kıskanç bir bakış attı." },
+          { "target": "She was {jealous} of her friend's new job.", "source": "Arkadaşının yeni işini kıskandı." },
+          { "target": "He admitted that he was {jealous}.", "source": "Kıskanç olduğunu kabul etti." },
+          { "target": "She felt {jealous} but hid it well.", "source": "Kıskanç hissetti ama iyi gizledi." },
+          { "target": "He was {jealous} of her talent.", "source": "Yeteneğini kıskandı." },
+          { "target": "She told him there was no reason to be {jealous}.", "source": "Kıskanmak için hiçbir neden olmadığını söyledi." },
+          { "target": "He managed his {jealous} feelings with time.", "source": "Zamanla kıskançlık duygularını yönetti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-8",
+        "kind": "word",
+        "term": "grateful",
+        "type": "adjective",
+        "meaning": "minnettar",
+        "examples": [
+          { "target": "She was {grateful} for the help.", "source": "Yardım için minnettardı." },
+          { "target": "He felt {grateful} every day.", "source": "Her gün minnettar hissediyordu." },
+          { "target": "She was {grateful} to have good friends.", "source": "İyi arkadaşları olduğu için minnettardı." },
+          { "target": "He was {grateful} for the opportunity.", "source": "Fırsat için minnettardı." },
+          { "target": "She wrote a note to say she was {grateful}.", "source": "Minnettar olduğunu belirtmek için bir not yazdı." },
+          { "target": "He was {grateful} that the problem was solved.", "source": "Sorunun çözülmesine minnettardı." },
+          { "target": "She was {grateful} for the warm welcome.", "source": "Sıcak karşılama için minnettardı." },
+          { "target": "He felt {grateful} after the difficult period.", "source": "Zor dönemin ardından minnettar hissetti." },
+          { "target": "She is {grateful} for simple things.", "source": "Basit şeyler için minnettardır." },
+          { "target": "He was {grateful} to everyone who helped him.", "source": "Kendisine yardım eden herkese minnettardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-9",
+        "kind": "word",
+        "term": "ashamed",
+        "type": "adjective",
+        "meaning": "utanmış",
+        "examples": [
+          { "target": "She felt {ashamed} of her mistake.", "source": "Hatasından utandı." },
+          { "target": "He was {ashamed} to ask for help.", "source": "Yardım istemekten utanıyordu." },
+          { "target": "She turned red because she was {ashamed}.", "source": "Utandığı için yüzü kızardı." },
+          { "target": "He was {ashamed} of how he acted.", "source": "Nasıl davrandığından utandı." },
+          { "target": "She felt {ashamed} and apologized.", "source": "Utandı ve özür diledi." },
+          { "target": "He was too {ashamed} to speak.", "source": "Konuşamayacak kadar utanmıştı." },
+          { "target": "She was {ashamed} that she had lied.", "source": "Yalan söylediği için utandı." },
+          { "target": "He said he was {ashamed} of his past.", "source": "Geçmişinden utandığını söyledi." },
+          { "target": "She hid because she was {ashamed}.", "source": "Utandığı için saklandı." },
+          { "target": "He was not {ashamed} of working hard.", "source": "Çok çalışmaktan utanmıyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-10",
+        "kind": "word",
+        "term": "puzzled",
+        "type": "adjective",
+        "meaning": "şaşkın / kafası karışmış",
+        "examples": [
+          { "target": "She looked {puzzled} at the question.", "source": "Soruya şaşkın bir ifadeyle baktı." },
+          { "target": "He was {puzzled} by her reaction.", "source": "Onun tepkisi karşısında şaşırdı." },
+          { "target": "She was {puzzled} about what to do.", "source": "Ne yapacağını bilemeyerek şaşırdı." },
+          { "target": "He scratched his head, looking {puzzled}.", "source": "Kafasını kaşıdı, şaşkın görünüyordu." },
+          { "target": "She was {puzzled} by the missing page.", "source": "Eksik sayfaya kafası karıştı." },
+          { "target": "He was {puzzled} by the sudden change.", "source": "Ani değişiklikten şaşırdı." },
+          { "target": "She gave a {puzzled} look and asked again.", "source": "Şaşkın bir bakış attı ve tekrar sordu." },
+          { "target": "He was {puzzled} that no one said anything.", "source": "Kimsenin hiçbir şey söylememesi onu şaşırttı." },
+          { "target": "She remained {puzzled} for a long time.", "source": "Uzun süre şaşkın kaldı." },
+          { "target": "He was {puzzled} by the difficult problem.", "source": "Zor sorun kafasını karıştırdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-11",
+        "kind": "word",
+        "term": "relaxed",
+        "type": "adjective",
+        "meaning": "rahatlamış / dingin",
+        "examples": [
+          { "target": "She felt {relaxed} after the massage.", "source": "Masajın ardından rahatladı." },
+          { "target": "He was {relaxed} on holiday.", "source": "Tatilde rahattı." },
+          { "target": "She looked {relaxed} in her favourite chair.", "source": "Sevdiği koltuğunda rahat görünüyordu." },
+          { "target": "He was {relaxed} about the changes.", "source": "Değişiklikler konusunda rahat bir tutum sergiledi." },
+          { "target": "She took a bath to feel {relaxed}.", "source": "Rahatlamak için banyo yaptı." },
+          { "target": "He had a {relaxed} smile.", "source": "Rahat bir gülümsemesi vardı." },
+          { "target": "She kept a {relaxed} posture throughout the meeting.", "source": "Toplantı boyunca rahat bir duruş sergiledi." },
+          { "target": "He was {relaxed} in the warm afternoon sun.", "source": "Sıcak öğleden sonra güneşinde rahattı." },
+          { "target": "She felt {relaxed} after a walk in nature.", "source": "Doğada yürüyüşten sonra rahatladı." },
+          { "target": "He was {relaxed} and focused at the same time.", "source": "Hem rahat hem de odaklanmış hissediyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-12",
+        "kind": "word",
+        "term": "restless",
+        "type": "adjective",
+        "meaning": "huzursuz / rahat duramayan",
+        "examples": [
+          { "target": "She felt {restless} during the long wait.", "source": "Uzun bekleme sırasında huzursuz hissetti." },
+          { "target": "He was {restless} and could not sit still.", "source": "Huzursuzdu ve yerinde duramıyordu." },
+          { "target": "She had a {restless} night.", "source": "Huzursuz bir gece geçirdi." },
+          { "target": "He was {restless} before the big event.", "source": "Büyük etkinlikten önce huzursuzdu." },
+          { "target": "She was {restless} in bed and kept turning.", "source": "Yatakta huzursuzca sürekli döndü durdu." },
+          { "target": "He had a {restless} mind that never stopped.", "source": "Hiç durmayan huzursuz bir zihni vardı." },
+          { "target": "She felt {restless} when the weather was bad.", "source": "Hava kötü olduğunda huzursuz hissediyordu." },
+          { "target": "He was {restless} from sitting too long.", "source": "Çok uzun süre oturmaktan bunaldı." },
+          { "target": "She walked back and forth in a {restless} way.", "source": "Huzursuz bir şekilde ileri geri yürüdü." },
+          { "target": "He was a {restless} person who always needed change.", "source": "Her zaman değişime ihtiyaç duyan huzursuz biriydi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-13",
+        "kind": "word",
+        "term": "miserable",
+        "type": "adjective",
+        "meaning": "perişan / çok mutsuz",
+        "examples": [
+          { "target": "She felt {miserable} after the bad news.", "source": "Kötü haberden sonra perişan hissetti." },
+          { "target": "He looked {miserable} in the rain.", "source": "Yağmurda perişan görünüyordu." },
+          { "target": "She was {miserable} and could not stop crying.", "source": "Perişandı ve ağlamayı durduramıyordu." },
+          { "target": "He had a {miserable} cold for a week.", "source": "Bir hafta boyunca kötü bir soğuk algınlığı geçirdi." },
+          { "target": "She made everyone around her {miserable}.", "source": "Etrafındaki herkesi mutsuz etti." },
+          { "target": "He was {miserable} without his dog.", "source": "Köpeği olmadan perişandı." },
+          { "target": "She spent a {miserable} day alone.", "source": "Yalnız, mutsuz bir gün geçirdi." },
+          { "target": "He tried to cheer up the {miserable} crowd.", "source": "Mutsuz kalabalığı neşelendirmeye çalıştı." },
+          { "target": "She was {miserable} in the cold weather.", "source": "Soğuk havada perişan hissetti." },
+          { "target": "He was {miserable} when the holiday ended.", "source": "Tatil bitince perişan oldu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-33-14",
+        "kind": "word",
+        "term": "content",
+        "type": "adjective",
+        "meaning": "memnun / hoşnut",
+        "examples": [
+          { "target": "She was {content} with her simple life.", "source": "Sade hayatından memnundu." },
+          { "target": "He felt {content} after finishing the book.", "source": "Kitabı bitirince memnuniyet hissetti." },
+          { "target": "She was {content} to stay at home.", "source": "Evde kalmaktan memnundu." },
+          { "target": "He was {content} with what he had.", "source": "Sahip olduklarından memnundu." },
+          { "target": "She smiled a {content} smile.", "source": "Memnun bir gülümsemeyle güldü." },
+          { "target": "He was {content} with the small things.", "source": "Küçük şeylerden memnundu." },
+          { "target": "She did not need more to feel {content}.", "source": "Memnun hissetmek için daha fazlasına ihtiyacı yoktu." },
+          { "target": "He was {content} to sit and listen.", "source": "Oturup dinlemekten memnundu." },
+          { "target": "She felt {content} when surrounded by nature.", "source": "Doğayla çevriliyken memnun hissetti." },
+          { "target": "He was {content} with the progress he made.", "source": "Yaptığı ilerlemeye memnundu." }
+        ]
+      }
+    ]
+  }
+]

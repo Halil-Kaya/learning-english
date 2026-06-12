@@ -9,7 +9,7 @@
 - [x] Parti 1 — Kelimeler 1–150 (sıklık: Başlangıç 1–10) ✓ 2026-06-11
 - [x] Parti 2 — Kelimeler 151–300 (sıklık: Başlangıç 11–20) ✓ 2026-06-11
 - [x] Parti 3 — Kelimeler 301–450 (sıklık: Başlangıç 21–30) ✓ 2026-06-12
-- [ ] Parti 4 — Kelimeler 451–600
+- [x] Parti 4 — Kelimeler 451–600 (sıklık: Başlangıç 31–40) ✓ 2026-06-12
 - [ ] Parti 5 — Kelimeler 601–750
 - [ ] Parti 6 — Kelimeler 751–900
 - [ ] Parti 7 — Kelimeler 901–1000 + Orta başlangıcı 1001–1050
@@ -46,13 +46,13 @@
 
 ## Mevcut Katalog Durumu
 
-- Mevcut set sayısı: 63 (Set 1–33 orijinal + Başlangıç 1–30 Parti 1–3)
-- Mevcut girdi sayısı: 946
+- Mevcut set sayısı: 73 (Set 1–33 orijinal + Başlangıç 1–40 Parti 1–4)
+- Mevcut girdi sayısı: 1096
 - Son güncelleme: 2026-06-12
 
 ## Sıradaki Adım
 
-**Parti 4** — Başlangıç kelimeler, sıklık 451–600 (Başlangıç 31–40)
+**Parti 5** — Başlangıç kelimeler, sıklık 601–750 (Başlangıç 41–50)
 
 "Devam et" dediğinde buradan devam edilecek.
 
