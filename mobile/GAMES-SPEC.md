@@ -91,7 +91,8 @@ Seçicide oyunlar mevcut 6 moddan görsel olarak ayrışır ("OYUNLAR" başlığ
       `AnagramMode.tsx`, `games` store (yüksek skor), ModePicker'da OYUNLAR grubu,
       skor sonuç ekranı (`ResultView` skor varyantı), `GAME_MODES` ile
       ilerleme/geçmiş ayrımı, ayarlardaki sıfırlama skorları da siler.
-- [ ] **Parti B** — Zaman Yarışı: `RaceMode.tsx` (+ süre/can/combo), rekor entegrasyonu.
+- [x] **Parti B** — Zaman Yarışı ✓ 2026-06-12: `engine/race.ts` (süre/puan sabitleri),
+      `RaceMode.tsx` (animasyonlu süre çubuğu, 3 can, combo, deste sarması), rekor entegrasyonu.
 - [ ] **Parti C** — Adam Asmaca: `engine/hangman.ts`, `HangmanMode.tsx`.
 - [ ] **Parti D** — Kelime Avı: `engine/wordhunt.ts` (grid üretici) + `HuntMode.tsx`.
 

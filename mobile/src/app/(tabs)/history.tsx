@@ -17,6 +17,7 @@ const MODE_LABEL: Record<StudyMode, string> = {
   write: "⌨️ Yazma",
   memorize: "🧗 Ezber",
   anagram: "🧩 Kelime Kur", // oyunlar geçmişe yazılmaz; tip bütünlüğü için
+  race: "⏱ Zaman Yarışı",
 };
 
 function formatDate(iso: string): string {

@@ -8,6 +8,7 @@ import { FillMode } from "../../components/modes/FillMode";
 import { MatchMode } from "../../components/modes/MatchMode";
 import { MemorizeMode } from "../../components/modes/MemorizeMode";
 import { ModePicker } from "../../components/modes/ModePicker";
+import { RaceMode } from "../../components/modes/RaceMode";
 import { ResultView } from "../../components/modes/ResultView";
 import { TestMode } from "../../components/modes/TestMode";
 import { WriteMode } from "../../components/modes/WriteMode";
@@ -27,6 +28,7 @@ const MODE_COMPONENTS: Record<StudyMode, (p: ModeProps) => React.ReactElement> =
   write: WriteMode,
   memorize: MemorizeMode,
   anagram: AnagramMode,
+  race: RaceMode,
 };
 
 export default function StudySession() {

@@ -75,6 +75,8 @@ export const tr = {
   pickerGamesHeader: "OYUNLAR",
   modeAnagram: "Kelime Kur",
   modeAnagramDesc: "Harfleri sıraya diz",
+  modeRace: "Zaman Yarışı",
+  modeRaceDesc: "Süre dolmadan seç",
 
   // games common
   gameScore: "SKOR",
@@ -84,6 +86,8 @@ export const tr = {
   gameNewRecord: "🏆 Yeni Rekor!",
   gameOver: "Oyun Bitti",
   gameHighScore: "Rekor",
+  gameRacePrompt: "DOĞRU KELİMEYİ SEÇ",
+  gameTimeUp: "⏱ Süre doldu!",
 
   // study common
   iKnow: "Biliyorum",
