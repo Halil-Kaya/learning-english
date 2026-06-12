@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "en-tr-intermediate-131",
+    "languagePair": "en-tr",
+    "name": "Orta 131",
+    "level": "intermediate",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-131-1",
+        "kind": "word",
+        "term": "acknowledge",
+        "type": "verb",
+        "meaning": "kabul etmek, onaylamak",
+        "examples": [
+          { "target": "She refused to {acknowledge} her mistake.", "source": "Hatasını kabul etmeyi reddetti." },
+          { "target": "The company {acknowledged} the delay.", "source": "Şirket gecikmyi kabul etti." },
+          { "target": "He {acknowledged} her contribution with a thank-you.", "source": "Teşekkür ederek katkısını onayladı." },
+          { "target": "Please {acknowledge} receipt of this message.", "source": "Lütfen bu mesajı aldığınızı onaylayın." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-2",
+        "kind": "word",
+        "term": "advocate",
+        "type": "verb",
+        "meaning": "savunmak, tavsiye etmek",
+        "examples": [
+          { "target": "She {advocates} for children's rights.", "source": "Çocuk hakları için savunuculuk yapıyor." },
+          { "target": "The doctor {advocates} a healthy diet.", "source": "Doktor sağlıklı bir diyeti tavsiye ediyor." },
+          { "target": "He {advocates} for stricter environmental laws.", "source": "Daha sıkı çevre yasaları için savunuculuk yapıyor." },
+          { "target": "She {advocated} change through peaceful means.", "source": "Barışçıl yollarla değişimi savundu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-3",
+        "kind": "word",
+        "term": "allocate",
+        "type": "verb",
+        "meaning": "tahsis etmek, ayırmak",
+        "examples": [
+          { "target": "The government will {allocate} funds for education.", "source": "Hükümet eğitime kaynak tahsis edecek." },
+          { "target": "Please {allocate} enough time for revision.", "source": "Lütfen revizyon için yeterli zaman ayırın." },
+          { "target": "Resources were {allocate}d fairly among departments.", "source": "Kaynaklar bölümler arasında adil biçimde dağıtıldı." },
+          { "target": "The manager {allocated} tasks to each team member.", "source": "Müdür her takım üyesine görev tahsis etti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-4",
+        "kind": "word",
+        "term": "apply",
+        "type": "verb",
+        "meaning": "uygulamak, başvurmak",
+        "examples": [
+          { "target": "She {applied} for a scholarship.", "source": "Burs için başvurdu." },
+          { "target": "{Apply} sunscreen before going outside.", "source": "Dışarı çıkmadan önce güneş kremi sürün." },
+          { "target": "The rules {apply} to everyone equally.", "source": "Kurallar herkese eşit biçimde uygulanır." },
+          { "target": "He {applied} pressure to stop the bleeding.", "source": "Kanamayi durdurmak için baskı uyguladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-5",
+        "kind": "word",
+        "term": "assign",
+        "type": "verb",
+        "meaning": "atamak, görevlendirmek",
+        "examples": [
+          { "target": "The teacher {assigned} homework for the weekend.", "source": "Öğretmen hafta sonu için ödev verdi." },
+          { "target": "She was {assigned} to lead the project.", "source": "Projeyi yönetmekle görevlendirildi." },
+          { "target": "Each student was {assigned} a topic.", "source": "Her öğrenciye bir konu atandı." },
+          { "target": "He was {assigned} a new office.", "source": "Kendisine yeni bir ofis tahsis edildi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-6",
+        "kind": "word",
+        "term": "calculate",
+        "type": "verb",
+        "meaning": "hesaplamak",
+        "examples": [
+          { "target": "Can you {calculate} the total cost?", "source": "Toplam maliyeti hesaplayabilir misin?" },
+          { "target": "She {calculated} the distance between the two cities.", "source": "İki şehir arasındaki mesafeyi hesapladı." },
+          { "target": "The accountant {calculated} the taxes carefully.", "source": "Muhasebeci vergileri dikkatle hesapladı." },
+          { "target": "Scientists {calculated} the orbit of the satellite.", "source": "Bilim insanları uydunun yörüngesini hesapladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-7",
+        "kind": "word",
+        "term": "clarify",
+        "type": "verb",
+        "meaning": "açıklamak, netleştirmek",
+        "examples": [
+          { "target": "Could you {clarify} what you mean?", "source": "Ne demek istediğinizi açıklar mısınız?" },
+          { "target": "She {clarified} the instructions for the students.", "source": "Öğrenciler için talimatları netleştirdi." },
+          { "target": "He wrote an email to {clarify} his position.", "source": "Tutumunu netleştirmek için bir e-posta yazdı." },
+          { "target": "Please {clarify} your answer with an example.", "source": "Lütfen cevabınızı bir örnekle netleştirin." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-8",
+        "kind": "word",
+        "term": "classify",
+        "type": "verb",
+        "meaning": "sınıflandırmak",
+        "examples": [
+          { "target": "Scientists {classify} animals by species.", "source": "Bilim insanları hayvanları türe göre sınıflandırır." },
+          { "target": "The documents were {classified} as confidential.", "source": "Belgeler gizli olarak sınıflandırıldı." },
+          { "target": "How do you {classify} this type of music?", "source": "Bu tür müziği nasıl sınıflandırırsınız?" },
+          { "target": "The library {classifies} books by topic.", "source": "Kütüphane kitapları konuya göre sınıflandırıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-9",
+        "kind": "word",
+        "term": "collaborate",
+        "type": "verb",
+        "meaning": "iş birliği yapmak",
+        "examples": [
+          { "target": "The two teams {collaborated} on the project.", "source": "İki takım projede iş birliği yaptı." },
+          { "target": "She {collaborated} with researchers from Europe.", "source": "Avrupalı araştırmacılarla iş birliği yaptı." },
+          { "target": "We need to {collaborate} more effectively.", "source": "Daha etkili biçimde iş birliği yapmamız gerekiyor." },
+          { "target": "Businesses {collaborate} to share resources.", "source": "İşletmeler kaynakları paylaşmak için iş birliği yapar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-10",
+        "kind": "word",
+        "term": "communicate",
+        "type": "verb",
+        "meaning": "iletişim kurmak",
+        "examples": [
+          { "target": "It's important to {communicate} clearly.", "source": "Açık iletişim kurmak önemlidir." },
+          { "target": "She {communicated} her concerns to the team.", "source": "Endişelerini takıma aktardı." },
+          { "target": "Dogs {communicate} through body language.", "source": "Köpekler beden dili aracılığıyla iletişim kurar." },
+          { "target": "Technology helps us {communicate} faster.", "source": "Teknoloji daha hızlı iletişim kurmamıza yardımcı olur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-11",
+        "kind": "word",
+        "term": "comprise",
+        "type": "verb",
+        "meaning": "oluşturmak, kapsamak",
+        "examples": [
+          { "target": "The committee {comprises} ten members.", "source": "Komite on üyeden oluşuyor." },
+          { "target": "The building {comprises} six floors.", "source": "Bina altı kattan oluşuyor." },
+          { "target": "The report {comprises} three main sections.", "source": "Rapor üç ana bölümden oluşuyor." },
+          { "target": "The team {comprises} experts from various fields.", "source": "Takım çeşitli alanlardan uzmanları kapsıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-12",
+        "kind": "word",
+        "term": "conduct",
+        "type": "verb",
+        "meaning": "yürütmek, davranmak",
+        "examples": [
+          { "target": "The university will {conduct} a survey.", "source": "Üniversite bir anket yapacak." },
+          { "target": "He {conducted} the meeting professionally.", "source": "Toplantıyı profesyonel biçimde yürüttü." },
+          { "target": "Students must {conduct} themselves appropriately.", "source": "Öğrenciler uygun biçimde davranmalıdır." },
+          { "target": "She {conducted} research for three years.", "source": "Üç yıl boyunca araştırma yürüttü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-13",
+        "kind": "word",
+        "term": "consult",
+        "type": "verb",
+        "meaning": "danışmak",
+        "examples": [
+          { "target": "You should {consult} a doctor before taking the medicine.", "source": "İlacı almadan önce bir doktora danışmalısınız." },
+          { "target": "She {consulted} her lawyer about the contract.", "source": "Sözleşme hakkında avukatına danıştı." },
+          { "target": "He {consulted} the dictionary for the meaning.", "source": "Anlam için sözlüğe baktı." },
+          { "target": "The manager {consulted} the team before deciding.", "source": "Müdür karar vermeden önce takıma danıştı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-14",
+        "kind": "word",
+        "term": "convey",
+        "type": "verb",
+        "meaning": "aktarmak, ifade etmek",
+        "examples": [
+          { "target": "She tried to {convey} her emotions through art.", "source": "Duygularını sanat aracılığıyla ifade etmeye çalıştı." },
+          { "target": "Words sometimes fail to {convey} feelings.", "source": "Kelimeler zaman zaman duyguları ifade etmekte yetersiz kalır." },
+          { "target": "He {conveyed} the message to the team.", "source": "Mesajı takıma iletti." },
+          { "target": "The painting {conveys} a sense of peace.", "source": "Tablo bir huzur duygusu aktarıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-131-15",
+        "kind": "word",
+        "term": "coordinate",
+        "type": "verb",
+        "meaning": "koordine etmek, düzenlemek",
+        "examples": [
+          { "target": "She {coordinates} events for the organization.", "source": "Kuruluş için etkinlikleri koordine ediyor." },
+          { "target": "The two teams must {coordinate} their efforts.", "source": "İki takım çabalarını koordine etmelidir." },
+          { "target": "He {coordinates} volunteers at the shelter.", "source": "Barınaktaki gönüllüleri yönetiyor." },
+          { "target": "The rescue teams {coordinated} the response.", "source": "Kurtarma ekipleri müdahaleyi koordine etti." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-132",
+    "languagePair": "en-tr",
+    "name": "Orta 132",
+    "level": "intermediate",
+    "category": "emotions",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-132-1",
+        "kind": "word",
+        "term": "admire",
+        "type": "verb",
+        "meaning": "hayran olmak, takdir etmek",
+        "examples": [
+          { "target": "I {admire} her courage in difficult situations.", "source": "Zor durumlardaki cesaretine hayranım." },
+          { "target": "He {admired} the painting for a long time.", "source": "Uzun süre tabloyu takdirle inceledi." },
+          { "target": "She is widely {admired} for her talent.", "source": "Yeteneği nedeniyle geniş çevrelerce takdir görüyor." },
+          { "target": "We all {admire} people who overcome hardship.", "source": "Hepimiz zorluğu aşan insanlara hayranızdır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-2",
+        "kind": "word",
+        "term": "despair",
+        "type": "noun",
+        "meaning": "umutsuzluk, çaresizlik",
+        "examples": [
+          { "target": "She felt deep {despair} after the loss.", "source": "Kayıptan sonra derin bir umutsuzluk hissetti." },
+          { "target": "His face showed total {despair}.", "source": "Yüzünde tam bir çaresizlik vardı." },
+          { "target": "Don't fall into {despair}; things will improve.", "source": "Umutsuzluğa düşme; işler düzelecek." },
+          { "target": "{Despair} can be overwhelming without support.", "source": "Destek olmadan umutsuzluk bunaltıcı olabilir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-3",
+        "kind": "word",
+        "term": "enthusiasm",
+        "type": "noun",
+        "meaning": "coşku, heves",
+        "examples": [
+          { "target": "She approached the project with great {enthusiasm}.", "source": "Projeye büyük bir coşkuyla yaklaştı." },
+          { "target": "His {enthusiasm} for learning is contagious.", "source": "Öğrenmeye duyduğu heves bulaşıcı." },
+          { "target": "The crowd greeted them with {enthusiasm}.", "source": "Kalabalık onları coşkuyla karşıladı." },
+          { "target": "Lack of {enthusiasm} affects team morale.", "source": "Coşku eksikliği takım moralini etkiler." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-4",
+        "kind": "word",
+        "term": "frustration",
+        "type": "noun",
+        "meaning": "hayal kırıklığı, sinirlenme",
+        "examples": [
+          { "target": "He expressed his {frustration} openly.", "source": "Hayal kırıklığını açıkça dile getirdi." },
+          { "target": "{Frustration} builds when communication fails.", "source": "İletişim bozulduğunda sinirlenme birikir." },
+          { "target": "She hid her {frustration} with a smile.", "source": "Hayal kırıklığını gülümsemeyle sakladı." },
+          { "target": "The delay caused great {frustration} among passengers.", "source": "Gecikme yolcular arasında büyük hayal kırıklığına yol açtı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-5",
+        "kind": "word",
+        "term": "gratitude",
+        "type": "noun",
+        "meaning": "minnettarlık, şükran",
+        "examples": [
+          { "target": "She expressed her {gratitude} with a heartfelt letter.", "source": "Samimi bir mektupla minnettarlığını dile getirdi." },
+          { "target": "Showing {gratitude} improves relationships.", "source": "Minnettarlık göstermek ilişkileri geliştirir." },
+          { "target": "He felt deep {gratitude} for the support.", "source": "Destek için derin bir şükran hissetti." },
+          { "target": "{Gratitude} is the foundation of happiness.", "source": "Şükran, mutluluğun temelidir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-6",
+        "kind": "word",
+        "term": "guilt",
+        "type": "noun",
+        "meaning": "suçluluk, günah",
+        "examples": [
+          { "target": "She felt {guilt} for not calling her mother.", "source": "Annesini aramadığı için suçluluk hissetti." },
+          { "target": "The {guilt} was evident on his face.", "source": "Yüzünde suçluluk hissi belliydi." },
+          { "target": "{Guilt} can motivate people to make amends.", "source": "Suçluluk insanları telafi etmeye motive edebilir." },
+          { "target": "Carrying {guilt} for too long is unhealthy.", "source": "Suçluluğu çok uzun süre taşımak sağlıksızdır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-7",
+        "kind": "word",
+        "term": "humiliation",
+        "type": "noun",
+        "meaning": "aşağılanma, utanç",
+        "examples": [
+          { "target": "The public {humiliation} was hard to bear.", "source": "Alenen aşağılanmayı kaldırmak zordu." },
+          { "target": "He felt deep {humiliation} after the incident.", "source": "Olaydan sonra derin bir utanç hissetti." },
+          { "target": "{Humiliation} can cause lasting emotional damage.", "source": "Aşağılanma kalıcı duygusal hasara yol açabilir." },
+          { "target": "She recovered from her {humiliation} with time.", "source": "Zamanla aşağılanmadan toparlandı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-8",
+        "kind": "word",
+        "term": "insecurity",
+        "type": "noun",
+        "meaning": "güvensizlik, endişe",
+        "examples": [
+          { "target": "His {insecurity} affected his relationships.", "source": "Güvensizliği ilişkilerini etkiledi." },
+          { "target": "Social {insecurity} can lead to isolation.", "source": "Sosyal güvensizlik yalnızlaşmaya yol açabilir." },
+          { "target": "She worked hard to overcome her {insecurity}.", "source": "Güvensizliğinin üstesinden gelmek için çok çalıştı." },
+          { "target": "Financial {insecurity} is a major source of stress.", "source": "Mali güvensizlik önemli bir stres kaynağıdır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-9",
+        "kind": "word",
+        "term": "loneliness",
+        "type": "noun",
+        "meaning": "yalnızlık",
+        "examples": [
+          { "target": "{Loneliness} is more common in large cities.", "source": "Yalnızlık büyük şehirlerde daha yaygın." },
+          { "target": "She struggled with {loneliness} after moving abroad.", "source": "Yurt dışına taşındıktan sonra yalnızlıkla mücadele etti." },
+          { "target": "Pets can reduce feelings of {loneliness}.", "source": "Evcil hayvanlar yalnızlık hissini azaltabilir." },
+          { "target": "{Loneliness} is different from being alone.", "source": "Yalnızlık, yalnız olmaktan farklıdır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-10",
+        "kind": "word",
+        "term": "nostalgia",
+        "type": "noun",
+        "meaning": "nostalji, geçmişe özlem",
+        "examples": [
+          { "target": "The song filled her with {nostalgia}.", "source": "Şarkı onu nostaljiyle doldurdu." },
+          { "target": "He felt a wave of {nostalgia} for his hometown.", "source": "Memleketi için bir nostalji dalgası hissetti." },
+          { "target": "{Nostalgia} makes the past seem better than it was.", "source": "Nostalji, geçmişi olduğundan daha iyi gösterir." },
+          { "target": "The old photographs triggered {nostalgia}.", "source": "Eski fotoğraflar nostaljiye yol açtı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-11",
+        "kind": "word",
+        "term": "optimism",
+        "type": "noun",
+        "meaning": "iyimserlik",
+        "examples": [
+          { "target": "Her {optimism} inspired the whole team.", "source": "İyimserliği tüm takımı ilham verdi." },
+          { "target": "{Optimism} helps people face challenges.", "source": "İyimserlik insanların zorluklarla yüzleşmesine yardımcı olur." },
+          { "target": "He maintained his {optimism} despite setbacks.", "source": "Geri adımlar atmasına rağmen iyimserliğini korudu." },
+          { "target": "A sense of {optimism} spread through the crowd.", "source": "Kalabalığa bir iyimserlik duygusu yayıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-12",
+        "kind": "word",
+        "term": "overwhelm",
+        "type": "verb",
+        "meaning": "bunaltmak, bastırmak",
+        "examples": [
+          { "target": "The workload {overwhelmed} her this week.", "source": "Bu hafta iş yükü onu bunalttı." },
+          { "target": "She was {overwhelmed} by the kindness of strangers.", "source": "Yabancıların iyiliği onu bunalttı." },
+          { "target": "Don't let stress {overwhelm} you.", "source": "Stresin seni bunaltmasına izin verme." },
+          { "target": "The response {overwhelmed} the organizers.", "source": "Gelen tepkiler organizatörleri bunalttı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-13",
+        "kind": "word",
+        "term": "passion",
+        "type": "noun",
+        "meaning": "tutku",
+        "examples": [
+          { "target": "She has a {passion} for music.", "source": "Müziğe karşı bir tutkusu var." },
+          { "target": "His {passion} for justice drove his career.", "source": "Adalet tutkusu kariyerini şekillendirdi." },
+          { "target": "Teaching is more than a job; it's a {passion}.", "source": "Öğretmenlik sadece bir iş değil; bir tutku." },
+          { "target": "Follow your {passion} and success will follow.", "source": "Tutkunun peşinden git, başarı gelecektir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-14",
+        "kind": "word",
+        "term": "relief",
+        "type": "noun",
+        "meaning": "rahatlama, ferahlama",
+        "examples": [
+          { "target": "She felt {relief} when the exam was over.", "source": "Sınav bitince rahatlama hissetti." },
+          { "target": "The news brought great {relief} to the family.", "source": "Haber aileye büyük bir ferahlama getirdi." },
+          { "target": "The medicine provided some {relief} from pain.", "source": "İlaç ağrıdan bir miktar ferahlama sağladı." },
+          { "target": "What a {relief}! I found my wallet.", "source": "Ne rahatlama! Cüzdanımı buldum." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-132-15",
+        "kind": "word",
+        "term": "resentment",
+        "type": "noun",
+        "meaning": "kırgınlık, içerleme",
+        "examples": [
+          { "target": "She felt {resentment} toward her colleague.", "source": "Meslektaşına karşı kırgınlık hissetti." },
+          { "target": "{Resentment} built up over years of inequality.", "source": "Yıllarca süren eşitsizlik içerleme biriktirdi." },
+          { "target": "He hid his {resentment} behind a calm face.", "source": "İçerlemeyi sakin bir yüzün arkasına sakladı." },
+          { "target": "Talking helps release feelings of {resentment}.", "source": "Konuşmak içerleme duygularını serbest bırakmaya yardımcı olur." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-133",
+    "languagePair": "en-tr",
+    "name": "Orta 133",
+    "level": "intermediate",
+    "category": "academic",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-133-1",
+        "kind": "word",
+        "term": "ambiguous",
+        "type": "adjective",
+        "meaning": "belirsiz, iki anlamlı",
+        "examples": [
+          { "target": "The instructions were {ambiguous} and confusing.", "source": "Talimatlar belirsiz ve kafa karıştırıcıydı." },
+          { "target": "Her answer was deliberately {ambiguous}.", "source": "Cevabı kasıtlı olarak iki anlamlıydı." },
+          { "target": "An {ambiguous} statement can be misinterpreted.", "source": "Belirsiz bir ifade yanlış yorumlanabilir." },
+          { "target": "The law was criticized for being too {ambiguous}.", "source": "Yasa fazla belirsiz olduğu için eleştirildi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-2",
+        "kind": "word",
+        "term": "comprehensive",
+        "type": "adjective",
+        "meaning": "kapsamlı, geniş çaplı",
+        "examples": [
+          { "target": "The report provided a {comprehensive} overview.", "source": "Rapor kapsamlı bir genel bakış sundu." },
+          { "target": "She conducted a {comprehensive} study.", "source": "Kapsamlı bir çalışma yürüttü." },
+          { "target": "The textbook offers a {comprehensive} guide.", "source": "Ders kitabı kapsamlı bir rehber sunuyor." },
+          { "target": "A {comprehensive} exam covers all topics.", "source": "Kapsamlı bir sınav tüm konuları içerir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-3",
+        "kind": "word",
+        "term": "controversial",
+        "type": "adjective",
+        "meaning": "tartışmalı, tartışma yaratan",
+        "examples": [
+          { "target": "The decision was highly {controversial}.", "source": "Karar son derece tartışmalıydı." },
+          { "target": "He avoided {controversial} topics at dinner.", "source": "Yemekte tartışmalı konulardan kaçındı." },
+          { "target": "The new law is {controversial} among experts.", "source": "Yeni yasa uzmanlar arasında tartışmalı." },
+          { "target": "She published a {controversial} article.", "source": "Tartışmalı bir makale yayımladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-4",
+        "kind": "word",
+        "term": "critical",
+        "type": "adjective",
+        "meaning": "eleştirel, kritik",
+        "examples": [
+          { "target": "She gave a {critical} analysis of the text.", "source": "Metnin eleştirel bir analizini yaptı." },
+          { "target": "This is a {critical} stage in the project.", "source": "Bu, projenin kritik bir aşaması." },
+          { "target": "He has a {critical} eye for design.", "source": "Tasarım konusunda eleştirel bir gözü var." },
+          { "target": "The patient is in {critical} condition.", "source": "Hasta kritik durumda." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-5",
+        "kind": "word",
+        "term": "dynamic",
+        "type": "adjective",
+        "meaning": "dinamik, hareketli",
+        "examples": [
+          { "target": "She is a {dynamic} and energetic leader.", "source": "Dinamik ve enerjik bir lider." },
+          { "target": "The market is constantly {dynamic}.", "source": "Piyasa sürekli dinamiktir." },
+          { "target": "A {dynamic} team adapts to changes quickly.", "source": "Dinamik bir takım değişimlere hızla uyum sağlar." },
+          { "target": "The city's {dynamic} culture attracts tourists.", "source": "Şehrin dinamik kültürü turistleri çekiyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-6",
+        "kind": "word",
+        "term": "ethical",
+        "type": "adjective",
+        "meaning": "etik, ahlaki",
+        "examples": [
+          { "target": "Is it {ethical} to test products on animals?", "source": "Ürünleri hayvanlar üzerinde test etmek etik mi?" },
+          { "target": "She made the {ethical} choice in a difficult situation.", "source": "Zor bir durumda etik seçimi yaptı." },
+          { "target": "Research must be conducted in an {ethical} manner.", "source": "Araştırma etik bir biçimde yürütülmelidir." },
+          { "target": "{Ethical} behavior builds trust in organizations.", "source": "Etik davranış, organizasyonlarda güven oluşturur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-7",
+        "kind": "word",
+        "term": "explicit",
+        "type": "adjective",
+        "meaning": "açık, net, belirgin",
+        "examples": [
+          { "target": "The contract contains {explicit} terms.", "source": "Sözleşme açık koşullar içeriyor." },
+          { "target": "She gave {explicit} instructions.", "source": "Net talimatlar verdi." },
+          { "target": "The film contains {explicit} content.", "source": "Filmde belirgin yetişkin içeriği var." },
+          { "target": "Please be more {explicit} about your requirements.", "source": "Lütfen gereksinimleriniz hakkında daha açık olun." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-8",
+        "kind": "word",
+        "term": "flexible",
+        "type": "adjective",
+        "meaning": "esnek, uyumlu",
+        "examples": [
+          { "target": "The job offers {flexible} working hours.", "source": "İş, esnek çalışma saatleri sunuyor." },
+          { "target": "She is {flexible} about the meeting time.", "source": "Toplantı saati konusunda esneklik gösteriyor." },
+          { "target": "A {flexible} material can bend without breaking.", "source": "Esnek bir malzeme kırılmadan bükülür." },
+          { "target": "You need to be {flexible} in negotiations.", "source": "Müzakerelerde esnek olmanız gerekir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-9",
+        "kind": "word",
+        "term": "implicit",
+        "type": "adjective",
+        "meaning": "örtük, ima edilen",
+        "examples": [
+          { "target": "There was an {implicit} understanding between them.", "source": "Aralarında örtük bir anlayış vardı." },
+          { "target": "His silence was an {implicit} agreement.", "source": "Sessizliği örtük bir onay niteliğindeydi." },
+          { "target": "The {implicit} message was that he didn't care.", "source": "İma edilen mesaj önemsemediğiydi." },
+          { "target": "{Implicit} bias affects decision-making.", "source": "Örtük önyargı karar vermeyi etkiler." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-10",
+        "kind": "word",
+        "term": "inherent",
+        "type": "adjective",
+        "meaning": "doğasında olan, içkin",
+        "examples": [
+          { "target": "There is an {inherent} risk in every business.", "source": "Her işte doğasında bulunan bir risk vardır." },
+          { "target": "Creativity is {inherent} in children.", "source": "Yaratıcılık çocukların doğasında vardır." },
+          { "target": "The {inherent} beauty of the landscape amazed us.", "source": "Manzaranın özündeki güzellik bizi hayrete düşürdü." },
+          { "target": "Trust {inherent} in the system was lost.", "source": "Sistemdeki içkin güven kayboldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-11",
+        "kind": "word",
+        "term": "logical",
+        "type": "adjective",
+        "meaning": "mantıklı, mantıksal",
+        "examples": [
+          { "target": "Her argument was clear and {logical}.", "source": "Argümanı net ve mantıklıydı." },
+          { "target": "The {logical} solution is to reduce waste.", "source": "Mantıksal çözüm israfı azaltmaktır." },
+          { "target": "His {logical} thinking helped solve the problem.", "source": "Mantıksal düşüncesi sorunu çözmeye yardımcı oldu." },
+          { "target": "A {logical} mind excels in mathematics.", "source": "Mantıklı bir zeka matematikte başarılı olur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-12",
+        "kind": "word",
+        "term": "persistent",
+        "type": "adjective",
+        "meaning": "ısrarcı, sürekli",
+        "examples": [
+          { "target": "She was {persistent} in pursuing her dream.", "source": "Hayalinin peşinden gitmekte ısrarcıydı." },
+          { "target": "The {persistent} rain flooded the streets.", "source": "Sürekli yağmur caddeleri su bastırdı." },
+          { "target": "He was {persistent} in his efforts to improve.", "source": "Gelişme çabalarında ısrarcı oldu." },
+          { "target": "{Persistent} practice leads to mastery.", "source": "Sürekli pratik ustalığa götürür." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-13",
+        "kind": "word",
+        "term": "rational",
+        "type": "adjective",
+        "meaning": "rasyonel, akılcı",
+        "examples": [
+          { "target": "Try to make a {rational} decision.", "source": "Akılcı bir karar vermeye çalış." },
+          { "target": "His response was calm and {rational}.", "source": "Yanıtı sakin ve mantıklıydı." },
+          { "target": "Humans are not always {rational} beings.", "source": "İnsanlar her zaman rasyonel varlıklar değildir." },
+          { "target": "A {rational} argument is based on evidence.", "source": "Rasyonel bir argüman kanıta dayanır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-14",
+        "kind": "word",
+        "term": "subtle",
+        "type": "adjective",
+        "meaning": "ince, fark edilmez, nüanslı",
+        "examples": [
+          { "target": "There was a {subtle} difference in the two versions.", "source": "İki versiyon arasında ince bir fark vardı." },
+          { "target": "Her approach was {subtle} but effective.", "source": "Yaklaşımı nüanslı ama etkiliydi." },
+          { "target": "The {subtle} humor was lost on him.", "source": "İnce mizah onun anlayışının ötesinde kaldı." },
+          { "target": "A {subtle} change in tone changed the meaning.", "source": "Tondaki ince bir değişim anlamı değiştirdi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-133-15",
+        "kind": "word",
+        "term": "trivial",
+        "type": "adjective",
+        "meaning": "önemsiz, basit",
+        "examples": [
+          { "target": "Don't waste time on {trivial} matters.", "source": "Önemsiz şeylerle zaman harcama." },
+          { "target": "The argument started over something {trivial}.", "source": "Tartışma önemsiz bir şeyden çıktı." },
+          { "target": "She ignored the {trivial} complaints.", "source": "Önemsiz şikayetleri görmezden geldi." },
+          { "target": "Not everything in life is {trivial}.", "source": "Hayattaki her şey önemsiz değildir." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-134",
+    "languagePair": "en-tr",
+    "name": "Orta 134",
+    "level": "intermediate",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-134-1",
+        "kind": "word",
+        "term": "afford",
+        "type": "verb",
+        "meaning": "karşılayabilmek, gücü yetmek",
+        "examples": [
+          { "target": "She can't {afford} to buy a new car.", "source": "Yeni bir araba alamaz." },
+          { "target": "We can't {afford} to make mistakes.", "source": "Hata yapma lüksümüz yok." },
+          { "target": "He {afforded} his children the best education.", "source": "Çocuklarına en iyi eğitimi sağladı." },
+          { "target": "Can you {afford} a holiday this summer?", "source": "Bu yaz tatil yapabilecek misin?" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-2",
+        "kind": "word",
+        "term": "borrow",
+        "type": "verb",
+        "meaning": "ödünç almak",
+        "examples": [
+          { "target": "Can I {borrow} your pen?", "source": "Kalemini ödünç alabilir miyim?" },
+          { "target": "She {borrowed} money from her friend.", "source": "Arkadaşından para ödünç aldı." },
+          { "target": "He {borrowed} a book from the library.", "source": "Kütüphaneden kitap ödünç aldı." },
+          { "target": "Don't {borrow} more than you can repay.", "source": "Geri ödeyebileceğinden fazlasını ödünç alma." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-3",
+        "kind": "word",
+        "term": "consume",
+        "type": "verb",
+        "meaning": "tüketmek",
+        "examples": [
+          { "target": "People {consume} more energy in winter.", "source": "İnsanlar kışın daha fazla enerji tüketir." },
+          { "target": "He {consumed} the entire pizza in minutes.", "source": "Dakikalar içinde pizzanın tamamını bitirdi." },
+          { "target": "Social media {consumes} a lot of time.", "source": "Sosyal medya çok fazla zaman tüketiyor." },
+          { "target": "The factory {consumes} large amounts of water.", "source": "Fabrika büyük miktarda su tüketiyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-4",
+        "kind": "word",
+        "term": "delivery",
+        "type": "noun",
+        "meaning": "teslimat, dağıtım",
+        "examples": [
+          { "target": "The {delivery} arrived a day late.", "source": "Teslimat bir gün geç geldi." },
+          { "target": "Free {delivery} is available for orders over $50.", "source": "50 doların üzerindeki siparişlerde ücretsiz teslimat mevcut." },
+          { "target": "She waited anxiously for the {delivery}.", "source": "Teslimatı sabırsızlıkla bekledi." },
+          { "target": "The hospital organized the {delivery} of medicines.", "source": "Hastane ilaçların teslimatını organize etti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-5",
+        "kind": "word",
+        "term": "discount",
+        "type": "noun",
+        "meaning": "indirim",
+        "examples": [
+          { "target": "The shop offers a 20% {discount} today.", "source": "Mağaza bugün %20 indirim sunuyor." },
+          { "target": "She got a student {discount} on the ticket.", "source": "Bilet için öğrenci indirimi aldı." },
+          { "target": "Ask if there is a {discount} for seniors.", "source": "Yaşlılara indirim olup olmadığını sorun." },
+          { "target": "The store gave a {discount} on bulk orders.", "source": "Mağaza toplu siparişlerde indirim verdi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-6",
+        "kind": "word",
+        "term": "donate",
+        "type": "verb",
+        "meaning": "bağışlamak",
+        "examples": [
+          { "target": "She {donated} clothes to the shelter.", "source": "Barınağa giysi bağışladı." },
+          { "target": "He {donated} a large sum to the hospital.", "source": "Hastaneye büyük bir meblağ bağışladı." },
+          { "target": "Please {donate} blood to save lives.", "source": "Lütfen hayat kurtarmak için kan bağışlayın." },
+          { "target": "The company {donated} to local charities.", "source": "Şirket yerel yardım kuruluşlarına bağış yaptı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-7",
+        "kind": "word",
+        "term": "efficient",
+        "type": "adjective",
+        "meaning": "verimli, etkin",
+        "examples": [
+          { "target": "The new machine is more {efficient}.", "source": "Yeni makine daha verimli." },
+          { "target": "She is very {efficient} at managing her time.", "source": "Zamanını yönetmekte çok etkin." },
+          { "target": "An {efficient} system saves time and money.", "source": "Verimli bir sistem zaman ve para tasarrufu sağlar." },
+          { "target": "LED bulbs are more {efficient} than traditional ones.", "source": "LED ampuller geleneksellerinden daha verimlidir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-8",
+        "kind": "word",
+        "term": "establish",
+        "type": "verb",
+        "meaning": "kurmak, tesis etmek",
+        "examples": [
+          { "target": "They {established} a new company last year.", "source": "Geçen yıl yeni bir şirket kurdular." },
+          { "target": "She {established} herself as a leading expert.", "source": "Kendini önde gelen bir uzman olarak kanıtladı." },
+          { "target": "The rules were {established} decades ago.", "source": "Kurallar on yıllar önce belirlendi." },
+          { "target": "He {established} a routine for his mornings.", "source": "Sabahları için bir rutin oluşturdu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-9",
+        "kind": "word",
+        "term": "expand",
+        "type": "verb",
+        "meaning": "genişlemek, büyümek",
+        "examples": [
+          { "target": "The company plans to {expand} to new markets.", "source": "Şirket yeni pazarlara genişlemeyi planlıyor." },
+          { "target": "Her vocabulary {expanded} through reading.", "source": "Kelime dağarcığı okuyarak genişledi." },
+          { "target": "The city has {expanded} rapidly in recent years.", "source": "Şehir son yıllarda hızla büyüdü." },
+          { "target": "Metal {expands} when heated.", "source": "Metal ısıtıldığında genişler." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-10",
+        "kind": "word",
+        "term": "invest",
+        "type": "verb",
+        "meaning": "yatırım yapmak",
+        "examples": [
+          { "target": "She decided to {invest} in real estate.", "source": "Gayrimenkule yatırım yapmaya karar verdi." },
+          { "target": "It's wise to {invest} in your education.", "source": "Eğitimine yatırım yapmak akıllıcadır." },
+          { "target": "He {invested} his savings in the stock market.", "source": "Birikimlerini borsaya yatırdı." },
+          { "target": "The government will {invest} in infrastructure.", "source": "Hükümet altyapıya yatırım yapacak." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-11",
+        "kind": "word",
+        "term": "maintenance",
+        "type": "noun",
+        "meaning": "bakım, idame",
+        "examples": [
+          { "target": "Regular {maintenance} extends the life of machinery.", "source": "Düzenli bakım makinelerin ömrünü uzatır." },
+          { "target": "He is responsible for building {maintenance}.", "source": "Bina bakımından sorumlu." },
+          { "target": "Car {maintenance} can be expensive.", "source": "Araç bakımı pahalı olabilir." },
+          { "target": "The app requires minimal {maintenance}.", "source": "Uygulama minimum bakım gerektiriyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-12",
+        "kind": "word",
+        "term": "minimize",
+        "type": "verb",
+        "meaning": "en aza indirmek",
+        "examples": [
+          { "target": "We need to {minimize} waste in production.", "source": "Üretimde israfı en aza indirmemiz gerekiyor." },
+          { "target": "She tried to {minimize} the risk.", "source": "Riski en aza indirmeye çalıştı." },
+          { "target": "The new design {minimize}s energy use.", "source": "Yeni tasarım enerji tüketimini en aza indiriyor." },
+          { "target": "Regular check-ups {minimize} health risks.", "source": "Düzenli kontroller sağlık risklerini en aza indirir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-13",
+        "kind": "word",
+        "term": "profit",
+        "type": "noun",
+        "meaning": "kâr, kazanç",
+        "examples": [
+          { "target": "The company reported record {profit}s.", "source": "Şirket rekor kâr açıkladı." },
+          { "target": "She sold the property at a {profit}.", "source": "Mülkü kârla sattı." },
+          { "target": "{Profit} is reinvested to grow the business.", "source": "Kâr, işi büyütmek için yeniden yatırılıyor." },
+          { "target": "Not all decisions are made for {profit}.", "source": "Tüm kararlar kâr için alınmaz." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-14",
+        "kind": "word",
+        "term": "qualify",
+        "type": "verb",
+        "meaning": "hak kazanmak, nitelendirmek",
+        "examples": [
+          { "target": "Does she {qualify} for the scholarship?", "source": "Burs için hak kazanıyor mu?" },
+          { "target": "He {qualified} for the final round.", "source": "Final turuna hak kazandı." },
+          { "target": "You need experience to {qualify} for the role.", "source": "Rol için deneyim sahibi olmanız gerekiyor." },
+          { "target": "I would {qualify} that statement as misleading.", "source": "O ifadeyi yanıltıcı olarak nitelendiririm." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-134-15",
+        "kind": "word",
+        "term": "replace",
+        "type": "verb",
+        "meaning": "değiştirmek, yerine geçmek",
+        "examples": [
+          { "target": "He {replaced} the broken part.", "source": "Kırık parçayı değiştirdi." },
+          { "target": "Technology may {replace} some jobs.", "source": "Teknoloji bazı işlerin yerini alabilir." },
+          { "target": "She was {replaced} by a younger candidate.", "source": "Daha genç bir adayla yer değiştirildi." },
+          { "target": "Nothing can {replace} a good night's sleep.", "source": "Hiçbir şey iyi bir gece uykusunun yerini tutamaz." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-135",
+    "languagePair": "en-tr",
+    "name": "Orta 135",
+    "level": "intermediate",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-135-1",
+        "kind": "word",
+        "term": "achieve",
+        "type": "verb",
+        "meaning": "başarmak, elde etmek",
+        "examples": [
+          { "target": "She {achieved} her goal through hard work.", "source": "Hedefine çok çalışarak ulaştı." },
+          { "target": "It's possible to {achieve} anything you set your mind to.", "source": "Aklını koyduğun her şeyi başarabilirsin." },
+          { "target": "He {achieved} the highest score in the class.", "source": "Sınıfta en yüksek puanı aldı." },
+          { "target": "The team {achieved} its target ahead of schedule.", "source": "Takım hedefine programdan önce ulaştı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-2",
+        "kind": "word",
+        "term": "acquire",
+        "type": "verb",
+        "meaning": "edinmek, kazanmak",
+        "examples": [
+          { "target": "She {acquired} new skills during the course.", "source": "Kurs sırasında yeni beceriler edindi." },
+          { "target": "The company {acquired} a smaller rival.", "source": "Şirket daha küçük bir rakibi satın aldı." },
+          { "target": "Languages are best {acquired} in childhood.", "source": "Diller en iyi çocuklukta öğrenilir." },
+          { "target": "He {acquired} a taste for jazz music.", "source": "Caz müziğine karşı bir zevk edindi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-3",
+        "kind": "word",
+        "term": "adjust",
+        "type": "verb",
+        "meaning": "ayarlamak, uyum sağlamak",
+        "examples": [
+          { "target": "Please {adjust} the volume on the speaker.", "source": "Lütfen hoparlörün sesini ayarlayın." },
+          { "target": "She {adjusted} to life in the new city quickly.", "source": "Yeni şehirdeki yaşama hızla uyum sağladı." },
+          { "target": "The plan was {adjusted} to meet new demands.", "source": "Plan yeni talepleri karşılamak için ayarlandı." },
+          { "target": "He {adjusted} his schedule to attend the meeting.", "source": "Toplantıya katılmak için programını ayarladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-4",
+        "kind": "word",
+        "term": "alter",
+        "type": "verb",
+        "meaning": "değiştirmek, dönüştürmek",
+        "examples": [
+          { "target": "She {altered} the dress to fit her better.", "source": "Elbiseyi daha iyi oturması için değiştirdi." },
+          { "target": "The accident {altered} his life completely.", "source": "Kaza hayatını tamamen değiştirdi." },
+          { "target": "The plan was {altered} at the last minute.", "source": "Plan son dakikada değiştirildi." },
+          { "target": "Nothing could {alter} his decision.", "source": "Hiçbir şey onun kararını değiştiremezdi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-5",
+        "kind": "word",
+        "term": "analyze",
+        "type": "verb",
+        "meaning": "analiz etmek, incelemek",
+        "examples": [
+          { "target": "She {analyzed} the data carefully.", "source": "Verileri dikkatli biçimde inceledi." },
+          { "target": "Scientists {analyze} air samples for pollution.", "source": "Bilim insanları kirlilik için hava örneklerini analiz eder." },
+          { "target": "The report {analyzes} trends in education.", "source": "Rapor eğitimdeki eğilimleri analiz ediyor." },
+          { "target": "He {analyzed} his opponent's strategy.", "source": "Rakibinin stratejisini inceledi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-6",
+        "kind": "word",
+        "term": "capacity",
+        "type": "noun",
+        "meaning": "kapasite, yetenek",
+        "examples": [
+          { "target": "The stadium has a {capacity} of 60,000 people.", "source": "Stadyumun kapasitesi 60.000 kişi." },
+          { "target": "She has a great {capacity} for learning.", "source": "Öğrenme kapasitesi çok yüksek." },
+          { "target": "The factory is operating at full {capacity}.", "source": "Fabrika tam kapasiteyle çalışıyor." },
+          { "target": "His {capacity} for patience is remarkable.", "source": "Sabır kapasitesi dikkat çekici." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-7",
+        "kind": "word",
+        "term": "capture",
+        "type": "verb",
+        "meaning": "yakalamak, ele geçirmek",
+        "examples": [
+          { "target": "The photographer {captured} a beautiful sunset.", "source": "Fotoğrafçı güzel bir günbatımını yakaladı." },
+          { "target": "The thief was {captured} by the police.", "source": "Hırsız polis tarafından yakalandı." },
+          { "target": "The film {captures} the spirit of the era.", "source": "Film dönemin ruhunu yakalıyor." },
+          { "target": "She {captured} the audience's attention immediately.", "source": "İzleyicilerin dikkatini hemen çekti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-8",
+        "kind": "word",
+        "term": "compete",
+        "type": "verb",
+        "meaning": "yarışmak, rekabet etmek",
+        "examples": [
+          { "target": "She {compete}d in three events at the Olympics.", "source": "Olimpiyatlarda üç dalda yarıştı." },
+          { "target": "Small businesses struggle to {compete} with large companies.", "source": "Küçük işletmeler büyük şirketlerle rekabet etmekte zorlanır." },
+          { "target": "He {competed} for the top position.", "source": "En üst pozisyon için yarıştı." },
+          { "target": "Ten countries {competed} in the final.", "source": "On ülke finalde yarıştı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-9",
+        "kind": "word",
+        "term": "criticize",
+        "type": "verb",
+        "meaning": "eleştirmek",
+        "examples": [
+          { "target": "She {criticized} the plan openly.", "source": "Planı açıkça eleştirdi." },
+          { "target": "Don't {criticize} without offering solutions.", "source": "Çözüm sunmadan eleştirme." },
+          { "target": "The media {criticized} the government's decision.", "source": "Medya hükümetin kararını eleştirdi." },
+          { "target": "He was harshly {criticized} for his behavior.", "source": "Davranışı nedeniyle sert biçimde eleştirildi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-10",
+        "kind": "word",
+        "term": "demand",
+        "type": "noun",
+        "meaning": "talep, istem",
+        "examples": [
+          { "target": "There is high {demand} for skilled workers.", "source": "Nitelikli işgücüne yüksek talep var." },
+          { "target": "She made a {demand} for better conditions.", "source": "Daha iyi koşullar için talepte bulundu." },
+          { "target": "Supply must meet {demand}.", "source": "Arz talebi karşılamalıdır." },
+          { "target": "The {demand} for electric cars is growing.", "source": "Elektrikli araçlara olan talep artıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-11",
+        "kind": "word",
+        "term": "enforce",
+        "type": "verb",
+        "meaning": "uygulatmak, zorlamak",
+        "examples": [
+          { "target": "Police {enforce} traffic laws.", "source": "Polis trafik yasalarını uygular." },
+          { "target": "The rule was hard to {enforce}.", "source": "Kuralı uygulatmak zordu." },
+          { "target": "Schools must {enforce} attendance policies.", "source": "Okullar devam politikalarını uygulamalıdır." },
+          { "target": "The contract will be {enforced} legally.", "source": "Sözleşme yasal yollarla uygulatılacak." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-12",
+        "kind": "word",
+        "term": "enhance",
+        "type": "verb",
+        "meaning": "geliştirmek, artırmak",
+        "examples": [
+          { "target": "Exercise can {enhance} your mood.", "source": "Egzersiz ruh halinizi geliştirebilir." },
+          { "target": "The upgrade {enhanced} the system's performance.", "source": "Yükseltme sistemin performansını artırdı." },
+          { "target": "Lighting can {enhance} the atmosphere.", "source": "Aydınlatma atmosferi zenginleştirebilir." },
+          { "target": "She took courses to {enhance} her skills.", "source": "Becerilerini geliştirmek için kurslar aldı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-13",
+        "kind": "word",
+        "term": "generate",
+        "type": "verb",
+        "meaning": "üretmek, oluşturmak",
+        "examples": [
+          { "target": "The turbine {generates} electricity.", "source": "Türbin elektrik üretiyor." },
+          { "target": "The campaign {generated} a lot of interest.", "source": "Kampanya büyük ilgi oluşturdu." },
+          { "target": "She {generated} new ideas during the meeting.", "source": "Toplantı sırasında yeni fikirler ortaya koydu." },
+          { "target": "The project will {generate} hundreds of jobs.", "source": "Proje yüzlerce iş yaratacak." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-14",
+        "kind": "word",
+        "term": "integrate",
+        "type": "verb",
+        "meaning": "entegre etmek, bütünleştirmek",
+        "examples": [
+          { "target": "The new system was {integrated} with existing tools.", "source": "Yeni sistem mevcut araçlarla entegre edildi." },
+          { "target": "She found it hard to {integrate} into the new culture.", "source": "Yeni kültüre uyum sağlamakta zorlandı." },
+          { "target": "The school aims to {integrate} all students.", "source": "Okul tüm öğrencileri bütünleştirmeyi amaçlıyor." },
+          { "target": "{Integrate} technology into everyday learning.", "source": "Teknoloji günlük öğrenimle bütünleştirin." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-135-15",
+        "kind": "word",
+        "term": "promote",
+        "type": "verb",
+        "meaning": "tanıtmak, terfi ettirmek, desteklemek",
+        "examples": [
+          { "target": "She was {promoted} to manager last year.", "source": "Geçen yıl müdürlüğe terfi etti." },
+          { "target": "The campaign {promotes} healthy eating habits.", "source": "Kampanya sağlıklı beslenme alışkanlıklarını destekliyor." },
+          { "target": "The company {promote}s its products globally.", "source": "Şirket ürünlerini küresel çapta tanıtıyor." },
+          { "target": "Sport {promotes} teamwork and discipline.", "source": "Spor takım çalışmasını ve disiplini destekler." }
+        ]
+      }
+    ]
+  }
+]
