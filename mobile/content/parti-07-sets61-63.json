@@ -1,0 +1,887 @@
+[
+  {
+    "id": "en-tr-beginner-61",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 61",
+    "level": "beginner",
+    "category": "emotions",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-61-0",
+        "kind": "word",
+        "term": "brave",
+        "type": "adjective",
+        "meaning": "cesur",
+        "examples": [
+          { "target": "She was {brave} enough to speak up in front of everyone.", "source": "Herkesin önünde konuşacak kadar cesurdu." },
+          { "target": "He did a very {brave} thing by standing up for his friend.", "source": "Arkadaşını savunarak çok cesurca bir şey yaptı." },
+          { "target": "The {brave} firefighter ran into the burning building.", "source": "Cesur itfaiyeci yanan binaya koştu." },
+          { "target": "She was scared but tried to be {brave}.", "source": "Korkmuştu ama cesur olmaya çalıştı." },
+          { "target": "He made a {brave} decision that changed everything.", "source": "Her şeyi değiştiren cesur bir karar aldı." },
+          { "target": "The children were {brave} when they got their vaccines.", "source": "Çocuklar aşılarını yaptırırken cesurdu." },
+          { "target": "She gave a {brave} smile despite the pain.", "source": "Acıya rağmen cesurca gülümsedi." },
+          { "target": "He has always been {brave} in difficult situations.", "source": "Zor durumlarda her zaman cesur olmuştur." },
+          { "target": "The {brave} young soldier protected the village.", "source": "Cesur genç asker köyü korudu." },
+          { "target": "It is {brave} to admit when you are wrong.", "source": "Yanlış olduğunu kabul etmek cesaret ister." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-1",
+        "kind": "word",
+        "term": "kind",
+        "type": "adjective",
+        "meaning": "nazik, iyi kalpli",
+        "examples": [
+          { "target": "She is always {kind} to strangers.", "source": "Yabancılara karşı her zaman naziktir." },
+          { "target": "He did a {kind} thing by helping the old lady cross the street.", "source": "Yaşlı kadına yolu geçmesinde yardım ederek nazik bir şey yaptı." },
+          { "target": "It was very {kind} of you to bring food.", "source": "Yiyecek getirmeniz çok nazikti." },
+          { "target": "She has a {kind} heart and always helps others.", "source": "İyi bir kalbi var ve her zaman başkalarına yardım eder." },
+          { "target": "He spoke in a {kind} and gentle way.", "source": "Nazik ve yumuşak bir şekilde konuştu." },
+          { "target": "The {kind} teacher stayed after class to help her.", "source": "Nazik öğretmen ona yardım etmek için ders sonrasında kaldı." },
+          { "target": "She was {kind} enough to share her umbrella.", "source": "Şemsiyesini paylaşacak kadar nazikti." },
+          { "target": "People remember those who are {kind} to them.", "source": "İnsanlar onlara karşı nazik olanları hatırlar." },
+          { "target": "He tried to be {kind} even when he was tired.", "source": "Yorgun olsa bile nazik olmaya çalıştı." },
+          { "target": "A small {kind} act can make someone's whole day.", "source": "Küçük bir nezaket, birinin tüm gününü güzelleştirebilir." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-2",
+        "kind": "word",
+        "term": "rude",
+        "type": "adjective",
+        "meaning": "kaba, saygısız",
+        "examples": [
+          { "target": "It is {rude} to interrupt someone when they are speaking.", "source": "Biri konuşurken sözünü kesmek kabalıktır." },
+          { "target": "She was upset because he was {rude} to her.", "source": "Ona kaba davrandığı için üzüldü." },
+          { "target": "He made a {rude} comment and everyone went silent.", "source": "Kaba bir yorum yaptı ve herkes sessizleşti." },
+          { "target": "The customer was {rude} to the waiter for no reason.", "source": "Müşteri sebepsiz yere garsona kaba davrandı." },
+          { "target": "She found his behavior {rude} and unprofessional.", "source": "Davranışını kaba ve meslekten uzak buldu." },
+          { "target": "It's {rude} to talk with your mouth full.", "source": "Ağzı dolu konuşmak kabalıktır." },
+          { "target": "He didn't mean to be {rude} — it just came out wrong.", "source": "Kaba olmak istemedi — sadece yanlış çıktı." },
+          { "target": "She told him his {rude} remarks were not welcome.", "source": "Kaba yorumlarının kabul görmediğini söyledi." },
+          { "target": "Being {rude} to service workers is never acceptable.", "source": "Servis görevlilerine kaba davranmak hiçbir zaman kabul edilemez." },
+          { "target": "He apologized for being {rude} earlier in the meeting.", "source": "Toplantıda daha önce kaba davrandığı için özür diledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-3",
+        "kind": "word",
+        "term": "strict",
+        "type": "adjective",
+        "meaning": "sert, katı, disiplinli",
+        "examples": [
+          { "target": "Her parents were very {strict} about bedtime.", "source": "Ailesi uyku vakti konusunda çok katıydı." },
+          { "target": "The teacher was {strict} but fair.", "source": "Öğretmen katıydı ama adildi." },
+          { "target": "He follows a {strict} diet with no exceptions.", "source": "İstisna tanımayan katı bir diyet uyguluyor." },
+          { "target": "The school has {strict} rules about mobile phones.", "source": "Okulun cep telefonları hakkında katı kuralları var." },
+          { "target": "She was raised by {strict} but loving parents.", "source": "Sert ama sevgi dolu ebeveynler tarafından büyütüldü." },
+          { "target": "The manager is {strict} about punctuality.", "source": "Yönetici dakiklik konusunda katıdır." },
+          { "target": "He has a {strict} routine and never breaks it.", "source": "Katı bir rutini var ve hiç bozmaz." },
+          { "target": "The border control was very {strict} that day.", "source": "O gün sınır kontrolü çok sıkıydı." },
+          { "target": "She enforces {strict} safety standards in her lab.", "source": "Laboratuvarında katı güvenlik standartlarını uygular." },
+          { "target": "A {strict} coach can push athletes to their best.", "source": "Sert bir antrenör sporcuları en iyisini yapmaya zorlayabilir." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-4",
+        "kind": "word",
+        "term": "selfish",
+        "type": "adjective",
+        "meaning": "bencil",
+        "examples": [
+          { "target": "It was {selfish} of him to eat all the cake.", "source": "Tüm pastayı yemesi bencilceydi." },
+          { "target": "She accused him of being {selfish} with his time.", "source": "Zamanı konusunda bencil olduğu için onu suçladı." },
+          { "target": "He didn't share and everyone thought he was {selfish}.", "source": "Paylaşmadı ve herkes onun bencil olduğunu düşündü." },
+          { "target": "She realized her decision had been {selfish}.", "source": "Kararının bencilce olduğunu fark etti." },
+          { "target": "It is {selfish} to think only about yourself.", "source": "Sadece kendin hakkında düşünmek bencilliktir." },
+          { "target": "He was {selfish} and always put himself first.", "source": "Bencildi ve her zaman kendini önde tuttu." },
+          { "target": "She didn't want to seem {selfish} so she agreed.", "source": "Bencil görünmek istemedi bu yüzden kabul etti." },
+          { "target": "Being {selfish} sometimes hurts the people around you.", "source": "Bencil olmak bazen etrafındaki insanları incitir." },
+          { "target": "He changed when he realized how {selfish} he had been.", "source": "Ne kadar bencil olduğunu anlayınca değişti." },
+          { "target": "She thought it was {selfish} to keep all the credit.", "source": "Tüm övgüyü kendine saklamanın bencillik olduğunu düşündü." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-5",
+        "kind": "word",
+        "term": "tolerant",
+        "type": "adjective",
+        "meaning": "hoşgörülü",
+        "examples": [
+          { "target": "She is very {tolerant} of different opinions.", "source": "Farklı görüşlere karşı çok hoşgörülüdür." },
+          { "target": "He is {tolerant} of noise because he grew up in a big family.", "source": "Büyük bir ailede büyüdüğü için gürültüye toleranslıdır." },
+          { "target": "A good teacher is {tolerant} of mistakes.", "source": "İyi bir öğretmen hatalara karşı hoşgörülüdür." },
+          { "target": "She tried to be {tolerant} even when she disagreed.", "source": "Katılmasa bile hoşgörülü olmaya çalıştı." },
+          { "target": "He is more {tolerant} of uncertainty than most people.", "source": "Belirsizliğe çoğu insandan daha fazla toleransı var." },
+          { "target": "The community is known for being {tolerant} and welcoming.", "source": "Topluluk hoşgörülü ve kucaklayıcı olmasıyla bilinir." },
+          { "target": "She raised her children to be {tolerant} of others.", "source": "Çocuklarını başkalarına karşı hoşgörülü olmaları için yetiştirdi." },
+          { "target": "He is {tolerant} of slow internet but hates lag in games.", "source": "Yavaş internete toleranslı ama oyunlarda gecikmeye dayanamaz." },
+          { "target": "Being {tolerant} does not mean accepting everything.", "source": "Hoşgörülü olmak her şeyi kabul etmek anlamına gelmez." },
+          { "target": "She was {tolerant} but had her limits.", "source": "Hoşgörülüydü ama sınırları vardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-6",
+        "kind": "word",
+        "term": "friendly",
+        "type": "adjective",
+        "meaning": "arkadaş canlısı, samimi",
+        "examples": [
+          { "target": "She was very {friendly} when they first met.", "source": "İlk karşılaştıklarında çok samimiydi." },
+          { "target": "He has a {friendly} smile that puts people at ease.", "source": "İnsanları rahatlatacak arkadaş canlısı bir gülümsemesi var." },
+          { "target": "The staff at the hotel were incredibly {friendly}.", "source": "Oteldeki personel inanılmaz derecede arkadaş canlısıydı." },
+          { "target": "She made {friendly} conversation with the other passengers.", "source": "Diğer yolcularla samimi bir sohbet kurdu." },
+          { "target": "He is naturally {friendly} and makes friends easily.", "source": "Doğası gereği arkadaş canlısıdır ve kolayca arkadaş edinir." },
+          { "target": "The dog was {friendly} and wagged its tail at everyone.", "source": "Köpek arkadaş canlısıydı ve herkese kuyruğunu salladı." },
+          { "target": "She sent a {friendly} reminder about the deadline.", "source": "Son tarih hakkında nazikçe bir hatırlatma gönderdi." },
+          { "target": "He was {friendly} with all his neighbors.", "source": "Tüm komşularıyla samimi ilişkisi vardı." },
+          { "target": "The app has a {friendly} design that is easy to use.", "source": "Uygulamanın kullanımı kolay, kullanıcı dostu bir tasarımı var." },
+          { "target": "She was {friendly} but also professional.", "source": "Samimiydi ama aynı zamanda profesyoneldi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-7",
+        "kind": "word",
+        "term": "energetic",
+        "type": "adjective",
+        "meaning": "enerjik",
+        "examples": [
+          { "target": "She is always so {energetic} in the morning.", "source": "Sabahları her zaman çok enerjiktir." },
+          { "target": "He gave an {energetic} performance that wowed the crowd.", "source": "Kalabalığı etkileyen enerjik bir performans sergiledi." },
+          { "target": "The children were {energetic} and ran around all day.", "source": "Çocuklar enerjikliydi ve bütün gün koşturdular." },
+          { "target": "She feels most {energetic} after a good night's sleep.", "source": "İyi bir uyku sonrasında kendini en enerjik hisseder." },
+          { "target": "He is so {energetic} — he never seems to get tired.", "source": "O kadar enerjik ki hiç yorulmuyor gibi." },
+          { "target": "The {energetic} puppy kept running in circles.", "source": "Enerjik yavru köpek daireler çizerek koşmaya devam etti." },
+          { "target": "She leads {energetic} fitness classes every morning.", "source": "Her sabah enerjik fitness dersleri veriyor." },
+          { "target": "He became more {energetic} after changing his diet.", "source": "Diyetini değiştirdikten sonra daha enerjik oldu." },
+          { "target": "She was {energetic} and full of ideas at the meeting.", "source": "Toplantıda enerjikti ve fikirlerle doluydu." },
+          { "target": "The band played an {energetic} set that lasted two hours.", "source": "Grup iki saat süren enerjik bir set çaldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-8",
+        "kind": "word",
+        "term": "talkative",
+        "type": "adjective",
+        "meaning": "konuşkan",
+        "examples": [
+          { "target": "She is very {talkative} and always has something to say.", "source": "Çok konuşkandır ve her zaman söyleyecek bir şeyi vardır." },
+          { "target": "He was unusually {talkative} that morning.", "source": "O sabah alışılmadık ölçüde konuşkandı." },
+          { "target": "The {talkative} child asked questions all day.", "source": "Konuşkan çocuk bütün gün soru sordu." },
+          { "target": "She is less {talkative} when she's nervous.", "source": "Gergin olduğunda daha az konuşkan olur." },
+          { "target": "He sat next to a very {talkative} passenger on the train.", "source": "Trende çok konuşkan bir yolcunun yanına oturdu." },
+          { "target": "She became more {talkative} once she felt comfortable.", "source": "Kendini rahat hissedince daha konuşkan oldu." },
+          { "target": "He is {talkative} in social settings but quiet at home.", "source": "Sosyal ortamlarda konuşkan ama evde sessizdir." },
+          { "target": "The {talkative} student distracted everyone in class.", "source": "Konuşkan öğrenci sınıftaki herkesi dikkati dağıttı." },
+          { "target": "She is so {talkative} that the meeting went over time.", "source": "Çok konuşkan olduğundan toplantı zamanının üzerine çıktı." },
+          { "target": "He is not very {talkative} but a great listener.", "source": "Çok konuşkan değil ama mükemmel bir dinleyici." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-9",
+        "kind": "word",
+        "term": "ambitious",
+        "type": "adjective",
+        "meaning": "hırslı, azimli",
+        "examples": [
+          { "target": "She is very {ambitious} and wants to become a doctor.", "source": "Çok hırslı ve doktor olmak istiyor." },
+          { "target": "He set {ambitious} goals for the new year.", "source": "Yeni yıl için hırslı hedefler belirledi." },
+          { "target": "The company has {ambitious} plans for expansion.", "source": "Şirketin büyüme konusunda hırslı planları var." },
+          { "target": "She was {ambitious} from a young age.", "source": "Küçük yaştan itibaren hırslıydı." },
+          { "target": "He is {ambitious} but also realistic about his limits.", "source": "Hırslı ama sınırları konusunda da gerçekçi." },
+          { "target": "The {ambitious} project required months of preparation.", "source": "Hırslı proje aylarca hazırlık gerektirdi." },
+          { "target": "She praised her students for being {ambitious}.", "source": "Öğrencilerini hırslı oldukları için övdü." },
+          { "target": "He was {ambitious} but never stepped on others to get ahead.", "source": "Hırslıydı ama asla başkalarını çiğneyerek ilerlemedi." },
+          { "target": "She has an {ambitious} mind that is always looking for more.", "source": "Her zaman daha fazlasını arayan hırslı bir aklı var." },
+          { "target": "Being {ambitious} helped him achieve things others thought impossible.", "source": "Hırslı olmak, başkalarının imkânsız sandığı şeylere ulaşmasına yardımcı oldu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-10",
+        "kind": "word",
+        "term": "sensitive",
+        "type": "adjective",
+        "meaning": "hassas, duygusal",
+        "examples": [
+          { "target": "She is very {sensitive} to criticism.", "source": "Eleştiriye karşı çok hassas." },
+          { "target": "He is a {sensitive} person who cares deeply about others.", "source": "Başkalarına derin bir şekilde önem veren hassas bir insan." },
+          { "target": "The topic is {sensitive} so please be careful.", "source": "Konu hassas bu yüzden lütfen dikkatli olun." },
+          { "target": "She has {sensitive} skin that reacts to most soaps.", "source": "Çoğu sabuna tepki veren hassas derisi var." },
+          { "target": "He was {sensitive} to loud noises as a child.", "source": "Çocukken yüksek seslere karşı hassastı." },
+          { "target": "She appreciated that he was {sensitive} to her feelings.", "source": "Duygularına karşı hassas olduğu için memnundu." },
+          { "target": "The camera is very {sensitive} and captures every detail.", "source": "Kamera çok hassas ve her ayrıntıyı yakalıyor." },
+          { "target": "He cried at films — he's always been {sensitive}.", "source": "Filmlerde ağladı — her zaman duygusal olmuştur." },
+          { "target": "She handles {sensitive} data with great care.", "source": "Hassas verileri büyük bir özenle ele alır." },
+          { "target": "Being {sensitive} is a strength, not a weakness.", "source": "Hassas olmak bir güçtür, zayıflık değil." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-11",
+        "kind": "word",
+        "term": "flexible",
+        "type": "adjective",
+        "meaning": "esnek",
+        "examples": [
+          { "target": "She has a {flexible} schedule and can meet anytime.", "source": "Esnek bir programı var ve her zaman buluşabilir." },
+          { "target": "He is {flexible} and adapts quickly to change.", "source": "Esnektir ve değişime hızlıca uyum sağlar." },
+          { "target": "The job requires someone who is {flexible} and reliable.", "source": "İş, esnek ve güvenilir birini gerektiriyor." },
+          { "target": "She does yoga to keep her body {flexible}.", "source": "Vücudunu esnek tutmak için yoga yapıyor." },
+          { "target": "He offered a {flexible} payment plan to the customer.", "source": "Müşteriye esnek bir ödeme planı sundu." },
+          { "target": "The software is {flexible} enough to fit any workflow.", "source": "Yazılım herhangi bir iş akışına uyacak kadar esnek." },
+          { "target": "She is {flexible} about where to eat dinner.", "source": "Nerede yemek yiyeceği konusunda esnektir." },
+          { "target": "He remained {flexible} when the plans changed.", "source": "Planlar değiştiğinde esnek kalmayı sürdürdü." },
+          { "target": "The new policy is more {flexible} than the old one.", "source": "Yeni politika eskisinden daha esnek." },
+          { "target": "She is {flexible} in her thinking and open to new ideas.", "source": "Düşüncesinde esnektir ve yeni fikirlere açıktır." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-12",
+        "kind": "word",
+        "term": "arrogant",
+        "type": "adjective",
+        "meaning": "kibirli, kendini beğenmiş",
+        "examples": [
+          { "target": "He came across as {arrogant} at the first meeting.", "source": "İlk toplantıda kibirli biri gibi göründü." },
+          { "target": "She doesn't like people who are {arrogant}.", "source": "Kibirli insanlardan hoşlanmıyor." },
+          { "target": "His {arrogant} attitude pushed people away.", "source": "Kibirli tavrı insanları uzaklaştırdı." },
+          { "target": "He was so {arrogant} that he refused to admit any mistake.", "source": "O kadar kibirceydi ki hiçbir hatayı kabul etmeyi reddetti." },
+          { "target": "She found him {arrogant} for dismissing everyone's opinion.", "source": "Herkesin fikrini görmezden geldiği için onu kibirli buldu." },
+          { "target": "The {arrogant} student interrupted the teacher repeatedly.", "source": "Kibirli öğrenci öğretmeni defalarca böldü." },
+          { "target": "He became less {arrogant} after facing failure.", "source": "Başarısızlıkla karşılaştıktan sonra daha az kibirli oldu." },
+          { "target": "She spoke in an {arrogant} tone that annoyed everyone.", "source": "Herkesi rahatsız eden kibirli bir tonla konuştu." },
+          { "target": "He was talented but too {arrogant} to take advice.", "source": "Yetenekliydi ama tavsiye almak için çok kibirliydi." },
+          { "target": "Being {arrogant} is different from being confident.", "source": "Kibirli olmak, kendinden emin olmaktan farklıdır." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-13",
+        "kind": "word",
+        "term": "modest",
+        "type": "adjective",
+        "meaning": "alçakgönüllü, mütevazı",
+        "examples": [
+          { "target": "She was {modest} about her achievements.", "source": "Başarıları konusunda alçakgönüllüydü." },
+          { "target": "He is very talented but stays {modest}.", "source": "Çok yetenekli ama mütevazı kalmayı sürdürüyor." },
+          { "target": "She gave a {modest} answer even though she had done all the work.", "source": "Tüm işi o yapmış olsa da mütevazı bir cevap verdi." },
+          { "target": "He lives a {modest} life with few material possessions.", "source": "Az maddi eşyayla mütevazı bir hayat sürüyor." },
+          { "target": "She was {modest} in her dress and manner.", "source": "Giyinişi ve tavrında mütevazıydı." },
+          { "target": "He gave a {modest} salary estimate for his work.", "source": "Çalışması için mütevazı bir maaş tahmini verdi." },
+          { "target": "She is so {modest} that she never talks about her awards.", "source": "O kadar alçakgönüllüdür ki ödüllerinden hiç bahsetmez." },
+          { "target": "He made a {modest} proposal that everyone accepted.", "source": "Herkesin kabul ettiği mütevazı bir teklif yaptı." },
+          { "target": "Being {modest} doesn't mean lacking confidence.", "source": "Alçakgönüllü olmak özgüven eksikliği anlamına gelmez." },
+          { "target": "She is {modest} about her language skills but speaks four languages.", "source": "Dil becerileri konusunda mütevazıdır ama dört dil konuşuyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-61-14",
+        "kind": "word",
+        "term": "grumpy",
+        "type": "adjective",
+        "meaning": "huysuz, asık suratlı",
+        "examples": [
+          { "target": "He is always {grumpy} before his morning coffee.", "source": "Sabah kahvesinden önce her zaman huysuz olur." },
+          { "target": "She was {grumpy} after the long flight.", "source": "Uzun uçuşun ardından huysuzdu." },
+          { "target": "The old man on the corner is known for being {grumpy}.", "source": "Köşedeki yaşlı adam huysuzluğuyla bilinir." },
+          { "target": "He gets {grumpy} when he hasn't slept enough.", "source": "Yeterince uyumadığında huysuzlaşır." },
+          { "target": "She was {grumpy} all day and no one knew why.", "source": "Bütün gün huysuzdı ve kimse nedenini bilmiyordu." },
+          { "target": "The {grumpy} character in the story turned kind in the end.", "source": "Hikayedeki asık suratlı karakter sonunda nazikleşti." },
+          { "target": "He was {grumpy} about the change in plans.", "source": "Plan değişikliği konusunda huysuzlandı." },
+          { "target": "She didn't want to be {grumpy} on her birthday.", "source": "Doğum gününde huysuz olmak istemedi." },
+          { "target": "He tends to get {grumpy} when he's hungry.", "source": "Aç olduğunda huysuzlaşma eğilimindedir." },
+          { "target": "The {grumpy} cat refused to leave its warm spot.", "source": "Huysuz kedi sıcak yerinden ayrılmayı reddetti." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-62",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 62",
+    "level": "beginner",
+    "category": "health",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-62-0",
+        "kind": "word",
+        "term": "heal",
+        "type": "verb",
+        "meaning": "iyileşmek, iyileştirmek",
+        "examples": [
+          { "target": "The wound took two weeks to {heal}.", "source": "Yaranın iyileşmesi iki hafta sürdü." },
+          { "target": "She {healed} quickly after the surgery.", "source": "Ameliyattan sonra hızla iyileşti." },
+          { "target": "Time can {heal} emotional pain.", "source": "Zaman duygusal acıyı iyileştirebilir." },
+          { "target": "He used a special cream to {heal} his dry skin.", "source": "Kuru cildini iyileştirmek için özel bir krem kullandı." },
+          { "target": "She {healed} from the injury just in time for the race.", "source": "Tam yarış zamanında sakatlıktan iyileşti." },
+          { "target": "Music helped him {heal} after the difficult breakup.", "source": "Müzik zorlu ayrılığın ardından iyileşmesine yardımcı oldu." },
+          { "target": "The doctor said the bone would {heal} on its own.", "source": "Doktor kemiğin kendi kendine iyileşeceğini söyledi." },
+          { "target": "She volunteered to help {heal} communities after the disaster.", "source": "Felaketten sonra toplulukların iyileşmesine yardım etmek için gönüllü oldu." },
+          { "target": "He {healed} the rift with his brother through honest conversation.", "source": "Dürüst bir konuşmayla kardeşiyle arasındaki uçurumu kapattı." },
+          { "target": "The scar {healed} but remained visible.", "source": "Yara izi iyileşti ama görünür kaldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-1",
+        "kind": "word",
+        "term": "sneeze",
+        "type": "verb",
+        "meaning": "hapşırmak",
+        "examples": [
+          { "target": "She {sneezed} three times in a row.", "source": "Art arda üç kez hapşırdı." },
+          { "target": "He {sneezed} so loudly that everyone looked up.", "source": "O kadar yüksek sesle hapşırdı ki herkes başını kaldırdı." },
+          { "target": "She can't stop {sneezing} in spring because of allergies.", "source": "Alerjiler nedeniyle ilkbaharda hapşırmayı durduramıyor." },
+          { "target": "He covered his mouth when he {sneezed}.", "source": "Hapşırdığında ağzını kapattı." },
+          { "target": "She {sneezed} into her elbow to avoid spreading germs.", "source": "Mikrop yaymamak için dirseine hapşırdı." },
+          { "target": "The cat made her {sneeze} every time she visited.", "source": "Ziyaret ettiği her seferinde kedi onu hapşırttı." },
+          { "target": "He {sneezed} and his glasses flew off.", "source": "Hapşırdı ve gözlükleri uçtu." },
+          { "target": "She felt a tickle in her nose just before she {sneezed}.", "source": "Hapşırmadan hemen önce burnunda bir kaşıntı hissetti." },
+          { "target": "He tried not to {sneeze} during the quiet ceremony.", "source": "Sessiz tören sırasında hapşırmamaya çalıştı." },
+          { "target": "She {sneezed} and then apologized to everyone around her.", "source": "Hapşırdı ve sonra etrafındaki herkesten özür diledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-2",
+        "kind": "word",
+        "term": "chest",
+        "type": "noun",
+        "meaning": "göğüs",
+        "examples": [
+          { "target": "He felt pain in his {chest} and went to see a doctor.", "source": "Göğsünde ağrı hissetti ve doktora gitti." },
+          { "target": "She held the baby close to her {chest}.", "source": "Bebeği göğsüne yakın tuttu." },
+          { "target": "He has a broad {chest} from years of swimming.", "source": "Yıllarca yüzmekten geniş bir göğsü var." },
+          { "target": "She felt a tightness in her {chest} after running.", "source": "Koşunun ardından göğsünde bir sıkışma hissetti." },
+          { "target": "The doctor listened to his {chest} with a stethoscope.", "source": "Doktor stetoskopla göğsünü dinledi." },
+          { "target": "He puffed out his {chest} with pride.", "source": "Gururla göğsünü ileri çıkardı." },
+          { "target": "She has a cold and her {chest} feels heavy.", "source": "Soğuk algınlığı var ve göğsü ağır hissettiriyor." },
+          { "target": "He tattooed his {chest} with a symbol of strength.", "source": "Göğsüne güç sembolü dövme yaptırdı." },
+          { "target": "The old {chest} in the attic was full of memories.", "source": "Çatı katındaki eski sandık anılarla doluydu." },
+          { "target": "She pressed her hand to her {chest} in surprise.", "source": "Şaşkınlıkla elini göğsüne bastırdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-3",
+        "kind": "word",
+        "term": "bone",
+        "type": "noun",
+        "meaning": "kemik",
+        "examples": [
+          { "target": "She broke a {bone} in her wrist during the fall.", "source": "Düşme sırasında bileğindeki bir kemiği kırdı." },
+          { "target": "He has strong {bones} from drinking milk every day.", "source": "Her gün süt içmekten güçlü kemikleri var." },
+          { "target": "The dog buried the {bone} in the garden.", "source": "Köpek kemiği bahçeye gömdü." },
+          { "target": "Her {bone} density was tested at the clinic.", "source": "Klinik'te kemik yoğunluğu test edildi." },
+          { "target": "He felt it in his {bones} that something was wrong.", "source": "Bir şeylerin yanlış gittiğini kemiklerinde hissetti." },
+          { "target": "The doctor said the {bone} would heal in six weeks.", "source": "Doktor kemiğin altı haftada iyileşeceğini söyledi." },
+          { "target": "She has {bone} structure that makes her look elegant.", "source": "Ona zarif bir görünüm veren kemik yapısına sahip." },
+          { "target": "The fossil showed the {bones} of an ancient creature.", "source": "Fosil eski bir yaratığın kemiklerini ortaya koyuyordu." },
+          { "target": "He made {bone} broth to recover from his illness.", "source": "Hastalığından iyileşmek için kemik suyu yaptı." },
+          { "target": "The cold weather made her old {bone} injury ache.", "source": "Soğuk hava eski kemik yarasını ağrıttı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-4",
+        "kind": "word",
+        "term": "muscle",
+        "type": "noun",
+        "meaning": "kas",
+        "examples": [
+          { "target": "He pulled a {muscle} in his leg during training.", "source": "Antrenman sırasında bacağındaki bir kası çekti." },
+          { "target": "She built up {muscle} through regular weight training.", "source": "Düzenli ağırlık antrenmanıyla kas geliştirdi." },
+          { "target": "The {muscle} in his back was very tense.", "source": "Sırtındaki kas çok gergildi." },
+          { "target": "She felt her {muscles} ache after the long hike.", "source": "Uzun yürüyüşün ardından kaslarının ağrıdığını hissetti." },
+          { "target": "He stretched his {muscles} before exercising.", "source": "Egzersizden önce kaslarını esnetledi." },
+          { "target": "Strong {muscles} protect the joints from injury.", "source": "Güçlü kaslar eklemleri yaralanmalardan korur." },
+          { "target": "She massaged the sore {muscle} with oil.", "source": "Ağrıyan kası yağla masaj yaptı." },
+          { "target": "He used every {muscle} in his body to lift the weight.", "source": "Ağırlığı kaldırmak için vücudundaki her kası kullandı." },
+          { "target": "The {muscle} recovered after a few days of rest.", "source": "Birkaç günlük dinlenmenin ardından kas iyileşti." },
+          { "target": "She felt a {muscle} cramp in her foot.", "source": "Ayağında bir kas krampı hissetti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-5",
+        "kind": "word",
+        "term": "sweat",
+        "type": "verb",
+        "meaning": "terlemek",
+        "examples": [
+          { "target": "She was {sweating} after the long run.", "source": "Uzun koşunun ardından terlemişti." },
+          { "target": "He {sweats} a lot in the summer heat.", "source": "Yaz sıcağında çok terler." },
+          { "target": "She {sweated} through her shirt during the interview.", "source": "Mülakat sırasında gömleği terden ıslandı." },
+          { "target": "He {sweats} when he's nervous.", "source": "Gergin olduğunda terler." },
+          { "target": "She {sweated} in the crowded gym.", "source": "Kalabalık spor salonunda terdi." },
+          { "target": "He {sweated} all night with a high fever.", "source": "Yüksek ateşle bütün gece terdi." },
+          { "target": "She could feel herself {sweating} in the hot sun.", "source": "Sıcak güneşte terlediğini hissedebiliyordu." },
+          { "target": "He {sweats} so much that he always carries a towel.", "source": "O kadar çok terler ki her zaman yanında havlu taşır." },
+          { "target": "She {sweated} over the difficult exam for two hours.", "source": "Zor sınav üzerinde iki saat ter döktü." },
+          { "target": "The athletes {sweated} in the heat of the final match.", "source": "Sporcular final maçının sıcağında terlediler." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-6",
+        "kind": "word",
+        "term": "scar",
+        "type": "noun",
+        "meaning": "yara izi",
+        "examples": [
+          { "target": "He has a small {scar} on his chin from a childhood fall.", "source": "Çocukluktan bir düşmenin sonucu çenesinde küçük bir yara izi var." },
+          { "target": "The surgery left a visible {scar} on her arm.", "source": "Ameliyat kolunda görünür bir yara izi bıraktı." },
+          { "target": "She hid her {scar} with makeup for years.", "source": "Yıllarca yara izini makyajla sakladı." },
+          { "target": "He wore his {scar} proudly as a sign of survival.", "source": "Yara izini hayatta kalmanın bir simgesi olarak gururla taşıdı." },
+          { "target": "The {scar} faded over time but never fully disappeared.", "source": "Yara izi zamanla soldu ama hiç tamamen kaybolmadı." },
+          { "target": "She got a {scar} from a bicycle accident when she was seven.", "source": "Yedi yaşındayken bisiklet kazasından bir yara izi aldı." },
+          { "target": "The {scar} on his hand told the story of his hard work.", "source": "Elindeki yara izi sıkı çalışmasının hikayesini anlatıyordu." },
+          { "target": "He applied cream daily to reduce the {scar}.", "source": "Yara izini azaltmak için her gün krem sürdü." },
+          { "target": "The trauma left an emotional {scar} that took years to heal.", "source": "Travma, iyileşmesi yıllar alan duygusal bir iz bıraktı." },
+          { "target": "She covered her {scar} with a bracelet.", "source": "Yara izini bilekliyle kapattı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-7",
+        "kind": "word",
+        "term": "pregnant",
+        "type": "adjective",
+        "meaning": "hamile",
+        "examples": [
+          { "target": "She announced that she was {pregnant} at the family dinner.", "source": "Aile yemeğinde hamile olduğunu açıkladı." },
+          { "target": "He was overjoyed when he found out she was {pregnant}.", "source": "Hamile olduğunu öğrenince çok sevinçliydi." },
+          { "target": "She stayed healthy while {pregnant} by eating well.", "source": "İyi beslenerek hamilelik sürecinde sağlıklı kaldı." },
+          { "target": "The doctor confirmed she was three months {pregnant}.", "source": "Doktor üç aylık hamile olduğunu doğruladı." },
+          { "target": "She read many books about being {pregnant}.", "source": "Hamilelik hakkında pek çok kitap okudu." },
+          { "target": "He made sure she was comfortable throughout her {pregnant} months.", "source": "Hamilelik ayları boyunca rahat etmesini sağladı." },
+          { "target": "She took prenatal vitamins as soon as she knew she was {pregnant}.", "source": "Hamile olduğunu öğrenir öğrenmez doğum öncesi vitaminler almaya başladı." },
+          { "target": "A {pregnant} pause filled the room after the announcement.", "source": "Duyurunun ardından odayı anlamlı bir sessizlik kapladı." },
+          { "target": "She kept working while {pregnant} until the last month.", "source": "Son aya kadar hamile iken çalışmaya devam etti." },
+          { "target": "He supported her fully while she was {pregnant}.", "source": "Hamile olduğu süreçte ona tam destek verdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-8",
+        "kind": "word",
+        "term": "allergy",
+        "type": "noun",
+        "meaning": "alerji",
+        "examples": [
+          { "target": "She has an {allergy} to peanuts.", "source": "Fıstığa alerjisi var." },
+          { "target": "He discovered his {allergy} to cat hair after adopting a cat.", "source": "Kedi sahiplendikten sonra kedi tüyüne alerjisini keşfetti." },
+          { "target": "She carries medication for her {allergy} at all times.", "source": "Alerjisi için her zaman ilaç taşır." },
+          { "target": "The doctor ran tests to identify his {allergy}.", "source": "Doktor alerjisini belirlemek için testler yaptı." },
+          { "target": "She developed a new {allergy} in her thirties.", "source": "Otuzlu yaşlarında yeni bir alerji geliştirdi." },
+          { "target": "He told the waiter about his shellfish {allergy} before ordering.", "source": "Sipariş vermeden önce garsona kabuklu deniz ürünü alerjisini söyledi." },
+          { "target": "The {allergy} season was particularly bad this year.", "source": "Bu yıl alerji sezonu özellikle kötü geçti." },
+          { "target": "She takes antihistamines to control her {allergy} symptoms.", "source": "Alerji semptomlarını kontrol etmek için antihistaminikler alıyor." },
+          { "target": "His {allergy} to dust makes cleaning difficult.", "source": "Toz alerjisi temizliği zorlaştırıyor." },
+          { "target": "She informed the school about her child's food {allergy}.", "source": "Okulu çocuğunun gıda alerjisi hakkında bilgilendirdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-9",
+        "kind": "word",
+        "term": "symptom",
+        "type": "noun",
+        "meaning": "belirti, semptom",
+        "examples": [
+          { "target": "Fever and fatigue are common {symptoms} of the flu.", "source": "Ateş ve yorgunluk gripte sık görülen belirtilerdir." },
+          { "target": "She described her {symptoms} to the doctor over the phone.", "source": "Belirtilerini telefonda doktora anlattı." },
+          { "target": "He noticed the first {symptoms} on a Monday morning.", "source": "İlk belirtileri Pazartesi sabahı fark etti." },
+          { "target": "The {symptoms} disappeared after a few days of rest.", "source": "Birkaç günlük dinlenmenin ardından belirtiler geçti." },
+          { "target": "She searched online for what her {symptoms} could mean.", "source": "Belirtilerinin ne anlama gelebileceğini internette araştırdı." },
+          { "target": "The doctor said those {symptoms} could be related to stress.", "source": "Doktor o belirtilerin stresle bağlantılı olabileceğini söyledi." },
+          { "target": "He had no {symptoms} but still tested positive.", "source": "Hiç belirtisi yoktu ama yine de pozitif çıktı." },
+          { "target": "The early {symptoms} were mild and easy to ignore.", "source": "Erken belirtiler hafifti ve görmezden gelmek kolaydı." },
+          { "target": "She paid close attention to her {symptoms} and went to the hospital.", "source": "Belirtilerine dikkat etti ve hastaneye gitti." },
+          { "target": "The medication reduced the {symptoms} within a few hours.", "source": "İlaç birkaç saat içinde belirtileri azalttı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-10",
+        "kind": "word",
+        "term": "treat",
+        "type": "verb",
+        "meaning": "tedavi etmek, muamele etmek",
+        "examples": [
+          { "target": "The doctor {treated} the infection with antibiotics.", "source": "Doktor enfeksiyonu antibiyotikle tedavi etti." },
+          { "target": "She was {treated} at the hospital for three days.", "source": "Hastanede üç gün boyunca tedavi gördü." },
+          { "target": "He always {treats} people with respect.", "source": "İnsanlara her zaman saygıyla muamele eder." },
+          { "target": "She {treats} herself to a massage every month.", "source": "Kendine her ay bir masaj ikramında bulunur." },
+          { "target": "He {treated} the wound with antiseptic and bandaged it.", "source": "Yarayı antiseptikle tedavi etti ve bandajladı." },
+          { "target": "She was {treated} poorly by the management.", "source": "Yönetim tarafından kötü muamele gördü." },
+          { "target": "He {treats} his team like family.", "source": "Ekibine aile gibi davranır." },
+          { "target": "The vet {treated} the injured bird.", "source": "Veteriner yaralı kuşu tedavi etti." },
+          { "target": "She {treated} her guests to a home-cooked meal.", "source": "Misafirlerine evde pişirdiği yemekle ikram etti." },
+          { "target": "He refused to be {treated} as inferior.", "source": "Aşağı muamele görmeyi reddetti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-11",
+        "kind": "word",
+        "term": "diagnose",
+        "type": "verb",
+        "meaning": "teşhis koymak",
+        "examples": [
+          { "target": "The doctor {diagnosed} her with diabetes.", "source": "Doktor ona diyabet teşhisi koydu." },
+          { "target": "He was {diagnosed} after several rounds of testing.", "source": "Birkaç test turunun ardından teşhis kondu." },
+          { "target": "She was {diagnosed} at an early stage, which helped a lot.", "source": "Erken aşamada teşhis kondu, bu çok yardımcı oldu." },
+          { "target": "The specialist {diagnosed} the condition in just one appointment.", "source": "Uzman tek randevuda durumu teşhis etti." },
+          { "target": "He was relieved to finally be {diagnosed} after years of uncertainty.", "source": "Yıllarca belirsizliğin ardından nihayet teşhis konmasından rahatladı." },
+          { "target": "She {diagnosed} the problem with the machine quickly.", "source": "Makineyle ilgili sorunu hızla teşhis etti." },
+          { "target": "The test results helped {diagnose} the illness correctly.", "source": "Test sonuçları hastalığın doğru teşhis edilmesine yardımcı oldu." },
+          { "target": "He was {diagnosed} with anxiety and started therapy.", "source": "Anksiyete teşhisi kondu ve terapiye başladı." },
+          { "target": "She {diagnosed} the network issue before calling technical support.", "source": "Teknik destek aramadan önce ağ sorununu teşhis etti." },
+          { "target": "The illness was difficult to {diagnose} because symptoms were rare.", "source": "Hastalığın belirtileri nadir olduğundan teşhis koymak zordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-12",
+        "kind": "word",
+        "term": "recover",
+        "type": "verb",
+        "meaning": "iyileşmek, toparlanmak",
+        "examples": [
+          { "target": "She {recovered} fully from the surgery.", "source": "Ameliyattan tamamen iyileşti." },
+          { "target": "He {recovered} quickly and returned to work.", "source": "Hızla toparlandı ve işe geri döndü." },
+          { "target": "The economy began to {recover} after the recession.", "source": "Ekonomi durgunluğun ardından toparlanmaya başladı." },
+          { "target": "She needed several months to {recover} from the accident.", "source": "Kazadan iyileşmesi birkaç ay sürdü." },
+          { "target": "He was determined to {recover} and start training again.", "source": "İyileşmeye ve yeniden antrenmana başlamaya kararlıydı." },
+          { "target": "She {recovered} her lost files using a backup.", "source": "Kayıp dosyalarını yedeklemeyle geri aldı." },
+          { "target": "He struggled to {recover} emotionally after the loss.", "source": "Kayıptan sonra duygusal olarak toparlanmakta güçlük çekti." },
+          { "target": "The team {recovered} from a slow start to win the game.", "source": "Takım yavaş bir başlangıçtan toparlanarak oyunu kazandı." },
+          { "target": "She {recovered} her stolen phone through a tracking app.", "source": "Çalınan telefonunu bir izleme uygulaması sayesinde geri aldı." },
+          { "target": "He gave himself time to {recover} before making any big decisions.", "source": "Büyük kararlar vermeden önce kendine iyileşmek için zaman tanıdı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-13",
+        "kind": "word",
+        "term": "prevent",
+        "type": "verb",
+        "meaning": "önlemek, engellemek",
+        "examples": [
+          { "target": "She washed her hands often to {prevent} illness.", "source": "Hastalığı önlemek için sık sık ellerini yıkadı." },
+          { "target": "He wore a helmet to {prevent} head injuries.", "source": "Kafa yaralanmalarını önlemek için kask taktı." },
+          { "target": "The fence was built to {prevent} animals from escaping.", "source": "Hayvanların kaçmasını önlemek için çit yapıldı." },
+          { "target": "She took vitamins daily to {prevent} colds.", "source": "Soğuk algınlığını önlemek için her gün vitamin aldı." },
+          { "target": "He tried to {prevent} the argument from escalating.", "source": "Tartışmanın büyümesini engellemeye çalıştı." },
+          { "target": "The law was designed to {prevent} unfair practices.", "source": "Yasa, haksız uygulamaları önlemek için tasarlandı." },
+          { "target": "She installed a lock to {prevent} unauthorized access.", "source": "Yetkisiz erişimi önlemek için kilit taktı." },
+          { "target": "He took steps to {prevent} further damage to the roof.", "source": "Çatıdaki hasarın daha da büyümesini önlemek için adım attı." },
+          { "target": "Vaccination can {prevent} many serious diseases.", "source": "Aşılama pek çok ciddi hastalığı önleyebilir." },
+          { "target": "She {prevented} the child from running into the road.", "source": "Çocuğun yola fırlamasını engelledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-62-14",
+        "kind": "word",
+        "term": "hygiene",
+        "type": "noun",
+        "meaning": "hijyen, temizlik",
+        "examples": [
+          { "target": "Good {hygiene} is essential for staying healthy.", "source": "İyi hijyen, sağlıklı kalmak için gereklidir." },
+          { "target": "She teaches her children the importance of personal {hygiene}.", "source": "Çocuklarına kişisel hijyenin önemini öğretiyor." },
+          { "target": "He maintains strict {hygiene} in his kitchen.", "source": "Mutfağında sıkı hijyen standartlarını sürdürüyor." },
+          { "target": "The restaurant was closed due to poor {hygiene}.", "source": "Restoran yetersiz hijyen nedeniyle kapatıldı." },
+          { "target": "She always carries hand sanitizer for {hygiene}.", "source": "Hijyen için her zaman el dezenfektanı taşır." },
+          { "target": "Good oral {hygiene} includes brushing and flossing daily.", "source": "İyi ağız hijyeni, günlük fırçalamayı ve diş ipi kullanımını kapsar." },
+          { "target": "The hospital follows strict {hygiene} protocols.", "source": "Hastane sıkı hijyen protokollerine uyuyor." },
+          { "target": "He was taught about {hygiene} in school.", "source": "Okulda hijyen hakkında öğretildi." },
+          { "target": "She bought organic products for better personal {hygiene}.", "source": "Daha iyi kişisel hijyen için organik ürünler satın aldı." },
+          { "target": "Poor {hygiene} can lead to the spread of disease.", "source": "Yetersiz hijyen hastalıkların yayılmasına yol açabilir." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-63",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 63",
+    "level": "beginner",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-63-0",
+        "kind": "word",
+        "term": "subway",
+        "type": "noun",
+        "meaning": "metro",
+        "examples": [
+          { "target": "She takes the {subway} to work every morning.", "source": "Her sabah işe metroyla gider." },
+          { "target": "He missed the last {subway} and had to take a taxi.", "source": "Son metroyu kaçırdı ve taksi almak zorunda kaldı." },
+          { "target": "The {subway} in this city runs twenty-four hours.", "source": "Bu şehirdeki metro yirmi dört saat çalışıyor." },
+          { "target": "She found the {subway} map confusing at first.", "source": "İlk başta metro haritasını kafa karıştırıcı buldu." },
+          { "target": "He stood on the {subway} platform and waited.", "source": "Metro peronunda durdu ve bekledi." },
+          { "target": "The {subway} was packed during rush hour.", "source": "Metro, iş çıkış saatlerinde tıklım tıklımdı." },
+          { "target": "She read a book during her {subway} commute.", "source": "Metro yolculuğunda kitap okudu." },
+          { "target": "He lost his wallet on the {subway}.", "source": "Metroda cüzdanını kaybetti." },
+          { "target": "The {subway} line was closed for maintenance.", "source": "Metro hattı bakım nedeniyle kapalıydı." },
+          { "target": "She loves the {subway} because it's fast and cheap.", "source": "Hızlı ve ucuz olduğu için metroyu seviyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-1",
+        "kind": "word",
+        "term": "highway",
+        "type": "noun",
+        "meaning": "otoyol, karayolu",
+        "examples": [
+          { "target": "She drove on the {highway} for three hours.", "source": "Otoyolda üç saat boyunca sürdü." },
+          { "target": "He joined the {highway} at the on-ramp.", "source": "Bağlantı yolundan otoyola girdi." },
+          { "target": "The {highway} was closed due to an accident.", "source": "Otoyol bir kaza nedeniyle kapatıldı." },
+          { "target": "She felt free driving on the open {highway}.", "source": "Açık otoyolda sürerken özgür hissetti." },
+          { "target": "He avoids the {highway} during rush hour.", "source": "İş çıkış saatlerinde otoyoldan kaçınıyor." },
+          { "target": "The {highway} connects the two largest cities.", "source": "Otoyol iki büyük şehri birbirine bağlıyor." },
+          { "target": "She picked up a hitchhiker on the {highway}.", "source": "Otoyolda otostopçu aldı." },
+          { "target": "He ran out of fuel in the middle of the {highway}.", "source": "Otoyolun ortasında yakıtı bitti." },
+          { "target": "The {highway} is under construction until next year.", "source": "Otoyol gelecek yıla kadar inşaat halinde." },
+          { "target": "She enjoyed the view of the mountains from the {highway}.", "source": "Otoyoldan dağların manzarasının tadını çıkardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-2",
+        "kind": "word",
+        "term": "crosswalk",
+        "type": "noun",
+        "meaning": "yaya geçidi",
+        "examples": [
+          { "target": "She waited at the {crosswalk} for the light to turn green.", "source": "Işığın yeşile dönmesi için yaya geçidinde bekledi." },
+          { "target": "He ran across the {crosswalk} without looking.", "source": "Bakmadan yaya geçidinden geçti." },
+          { "target": "The {crosswalk} is painted with bright stripes.", "source": "Yaya geçidi parlak çizgilerle boyanmış." },
+          { "target": "She always uses the {crosswalk} to stay safe.", "source": "Güvende kalmak için her zaman yaya geçidini kullanır." },
+          { "target": "The driver stopped at the {crosswalk} to let people pass.", "source": "Sürücü insanların geçmesi için yaya geçidinde durdu." },
+          { "target": "He helped the elderly woman across the {crosswalk}.", "source": "Yaşlı kadının yaya geçidini geçmesine yardım etti." },
+          { "target": "The city painted a new {crosswalk} near the school.", "source": "Şehir okulun yakınına yeni bir yaya geçidi çizdi." },
+          { "target": "She pressed the button to activate the {crosswalk} signal.", "source": "Yaya geçidi sinyalini aktif etmek için düğmeye bastı." },
+          { "target": "The child learned to always cross at the {crosswalk}.", "source": "Çocuk her zaman yaya geçidinden geçmesi gerektiğini öğrendi." },
+          { "target": "He barely made it across the {crosswalk} before the light changed.", "source": "Işık değişmeden hemen önce yaya geçidini zor geçti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-3",
+        "kind": "word",
+        "term": "parking",
+        "type": "noun",
+        "meaning": "otopark, park etme",
+        "examples": [
+          { "target": "She had trouble finding {parking} near the office.", "source": "Ofisin yakınında park yeri bulmakta güçlük çekti." },
+          { "target": "He paid for {parking} using the app.", "source": "Uygulamayı kullanarak otopark ücretini ödedi." },
+          { "target": "The {parking} lot was full on Saturday afternoon.", "source": "Cumartesi öğleden sonra otopark doluydu." },
+          { "target": "She got a {parking} fine for staying too long.", "source": "Çok uzun süre park ettiği için otopark cezası aldı." },
+          { "target": "He found a free {parking} spot right in front of the door.", "source": "Kapının tam önünde ücretsiz bir park yeri buldu." },
+          { "target": "The building has underground {parking} for residents.", "source": "Bina, sakinler için yeraltı otoparkına sahip." },
+          { "target": "She circled the block three times looking for {parking}.", "source": "Park yeri arayarak bloğu üç kez döndü." },
+          { "target": "He uses the {parking} garage when it rains.", "source": "Yağmur yağdığında kapalı otoparkı kullanır." },
+          { "target": "The {parking} rules in this area are strict.", "source": "Bu bölgedeki park kuralları katıdır." },
+          { "target": "She reserved a {parking} space in advance.", "source": "Önceden park yeri ayırtı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-4",
+        "kind": "word",
+        "term": "vehicle",
+        "type": "noun",
+        "meaning": "araç, taşıt",
+        "examples": [
+          { "target": "The police stopped the {vehicle} at the checkpoint.", "source": "Polis aracı kontrol noktasında durdurdu." },
+          { "target": "She drives a small {vehicle} that is easy to park.", "source": "Park etmesi kolay küçük bir araç kullanıyor." },
+          { "target": "His {vehicle} broke down on the way to work.", "source": "İşe giderken aracı bozuldu." },
+          { "target": "The {vehicle} registration must be renewed every year.", "source": "Araç kaydının her yıl yenilenmesi gerekiyor." },
+          { "target": "She checked all {vehicles} before releasing them from the garage.", "source": "Garajdan çıkarmadan önce tüm araçları kontrol etti." },
+          { "target": "He chose a fuel-efficient {vehicle} to save on costs.", "source": "Masrafları kısmak için yakıt tasarruflu bir araç seçti." },
+          { "target": "The {vehicle} was parked illegally and towed away.", "source": "Araç yasadışı park ettiği için çekildi." },
+          { "target": "She uses her {vehicle} for both personal and work trips.", "source": "Aracını hem kişisel hem de iş seyahatleri için kullanıyor." },
+          { "target": "Electric {vehicles} are becoming more common.", "source": "Elektrikli araçlar giderek daha yaygın hale geliyor." },
+          { "target": "He insured his {vehicle} before taking it on the road.", "source": "Aracını yola çıkarmadan önce sigortalattı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-5",
+        "kind": "word",
+        "term": "taxi",
+        "type": "noun",
+        "meaning": "taksi",
+        "examples": [
+          { "target": "She called a {taxi} because she missed the bus.", "source": "Otobüsü kaçırdığı için taksi çağırdı." },
+          { "target": "He hailed a {taxi} on the busy street.", "source": "Kalabalık caddede taksi durdurdu." },
+          { "target": "The {taxi} arrived in less than five minutes.", "source": "Taksi beş dakikadan kısa sürede geldi." },
+          { "target": "She shared a {taxi} with a colleague to save money.", "source": "Para biriktirmek için bir meslektaşıyla taksi paylaştı." },
+          { "target": "He tipped the {taxi} driver generously.", "source": "Taksi şoförüne cömertçe bahşiş verdi." },
+          { "target": "The {taxi} driver knew every shortcut in the city.", "source": "Taksi şoförü şehirdeki her kısa yolu biliyordu." },
+          { "target": "She ordered a {taxi} through an app on her phone.", "source": "Telefonundaki uygulama üzerinden taksi sipariş etti." },
+          { "target": "He got into the wrong {taxi} at the airport.", "source": "Havalimanında yanlış taksiye bindi." },
+          { "target": "The {taxi} meter showed a high fare after the traffic jam.", "source": "Trafik sıkışıklığının ardından taksi sayacı yüksek bir ücret gösterdi." },
+          { "target": "She always takes a {taxi} when she's running late.", "source": "Geç kaldığında her zaman taksi alır." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-6",
+        "kind": "word",
+        "term": "pedestrian",
+        "type": "noun",
+        "meaning": "yaya",
+        "examples": [
+          { "target": "The street was full of {pedestrians} on Sunday morning.", "source": "Pazar sabahı sokak yayalarla doluydu." },
+          { "target": "He stopped to let the {pedestrian} cross.", "source": "Yayanın geçmesi için durdu." },
+          { "target": "The city installed better lighting for {pedestrian} safety.", "source": "Şehir, yaya güvenliği için daha iyi aydınlatma kurdu." },
+          { "target": "She almost hit a {pedestrian} who stepped into the road.", "source": "Yola adım atan bir yayaya neredeyse çarptı." },
+          { "target": "The {pedestrian} zone is car-free on weekends.", "source": "Yaya bölgesi hafta sonları araçsızdır." },
+          { "target": "He is a {pedestrian} who walks everywhere.", "source": "Her yere yürüyerek giden bir yaya." },
+          { "target": "The {pedestrian} bridge connects the park to the station.", "source": "Yaya köprüsü parkı istasyona bağlıyor." },
+          { "target": "She gave directions to a confused {pedestrian}.", "source": "Şaşırmış bir yayaya yol tarif etti." },
+          { "target": "The new road design prioritizes {pedestrian} access.", "source": "Yeni yol tasarımı, yaya erişimine öncelik veriyor." },
+          { "target": "He waited patiently for the {pedestrian} light to change.", "source": "Yaya ışığının değişmesini sabırla bekledi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-7",
+        "kind": "word",
+        "term": "traffic",
+        "type": "noun",
+        "meaning": "trafik",
+        "examples": [
+          { "target": "She was late because of heavy {traffic}.", "source": "Yoğun trafik nedeniyle geç kaldı." },
+          { "target": "He checks the {traffic} report before leaving home.", "source": "Evden çıkmadan önce trafik raporunu kontrol eder." },
+          { "target": "The {traffic} was moving slowly due to road works.", "source": "Yol çalışmaları nedeniyle trafik yavaş ilerliyordu." },
+          { "target": "She takes back roads to avoid the morning {traffic}.", "source": "Sabah trafiğinden kaçınmak için ara sokaklardan gider." },
+          { "target": "He honked at the car blocking the {traffic}.", "source": "Trafiği tıkayan arabaya korna çaldı." },
+          { "target": "The app shows live {traffic} conditions.", "source": "Uygulama canlı trafik durumunu gösteriyor." },
+          { "target": "She sat in {traffic} for two hours on the motorway.", "source": "Otoyolda iki saat trafikte bekledi." },
+          { "target": "He uses the cycle lane to avoid {traffic}.", "source": "Trafikten kaçınmak için bisiklet şeridini kullanıyor." },
+          { "target": "The {traffic} lights were not working at the junction.", "source": "Kavşaktaki trafik ışıkları çalışmıyordu." },
+          { "target": "She finally escaped the {traffic} and reached the coast.", "source": "Sonunda trafikten kurtuldu ve kıyıya ulaştı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-8",
+        "kind": "word",
+        "term": "tunnel",
+        "type": "noun",
+        "meaning": "tünel",
+        "examples": [
+          { "target": "The train passed through a long {tunnel} under the mountain.", "source": "Tren dağın altındaki uzun tünelden geçti." },
+          { "target": "She felt nervous driving through the dark {tunnel}.", "source": "Karanlık tünelden geçerken sinirli hissetti." },
+          { "target": "He lost signal when the car entered the {tunnel}.", "source": "Araba tünele girince sinyali kesildi." },
+          { "target": "Workers have been building the {tunnel} for five years.", "source": "İşçiler beş yıldır tüneli inşa ediyor." },
+          { "target": "The {tunnel} under the river was an engineering marvel.", "source": "Nehrin altındaki tünel bir mühendislik harikaydı." },
+          { "target": "She could see the light at the end of the {tunnel}.", "source": "Tünelin sonundaki ışığı görebildi." },
+          { "target": "He loved the echo his voice made inside the {tunnel}.", "source": "Sesinin tünel içinde yarattığı yankıyı sevdi." },
+          { "target": "The {tunnel} reduced the travel time between the cities.", "source": "Tünel, şehirler arasındaki yolculuk süresini kısalttı." },
+          { "target": "She was relieved when the car emerged from the {tunnel}.", "source": "Araba tünelden çıkınca rahatladı." },
+          { "target": "The {tunnel} is only wide enough for one car at a time.", "source": "Tünel aynı anda yalnızca bir araba geçecek kadar geniş." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-9",
+        "kind": "word",
+        "term": "intersection",
+        "type": "noun",
+        "meaning": "kavşak, yol ayrımı",
+        "examples": [
+          { "target": "She turned left at the {intersection}.", "source": "Kavşakta sola döndü." },
+          { "target": "The accident happened at a busy {intersection}.", "source": "Kaza kalabalık bir kavşakta meydana geldi." },
+          { "target": "He waited for the signal at the {intersection}.", "source": "Kavşakta sinyal için bekledi." },
+          { "target": "The {intersection} was redesigned to improve safety.", "source": "Kavşak güvenliği artırmak için yeniden tasarlandı." },
+          { "target": "She always slows down when approaching an {intersection}.", "source": "Kavşağa yaklaşırken her zaman yavaşlar." },
+          { "target": "He got confused at the five-way {intersection}.", "source": "Beş yönlü kavşakta kafası karıştı." },
+          { "target": "The police directed traffic at the broken-light {intersection}.", "source": "Polis ışığı bozuk kavşakta trafiği yönetti." },
+          { "target": "She could see the shops at the {intersection} from far away.", "source": "Kavşaktaki dükkanları uzaktan görebildi." },
+          { "target": "He met her at the {intersection} of two busy streets.", "source": "Onunla iki kalabalık caddenin kavşağında buluştu." },
+          { "target": "The {intersection} is a key point on the city map.", "source": "Kavşak, şehir haritasında önemli bir noktadır." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-10",
+        "kind": "word",
+        "term": "neighborhood",
+        "type": "noun",
+        "meaning": "mahalle",
+        "examples": [
+          { "target": "She grew up in a quiet {neighborhood} outside the city.", "source": "Şehrin dışındaki sessiz bir mahallede büyüdü." },
+          { "target": "He knows everyone in his {neighborhood}.", "source": "Mahallesindeki herkesi tanır." },
+          { "target": "The {neighborhood} has changed a lot over the years.", "source": "Mahalle yıllar içinde çok değişti." },
+          { "target": "She chose the apartment for its safe {neighborhood}.", "source": "Güvenli mahallesi için o daireyi seçti." },
+          { "target": "He organized a clean-up event for the whole {neighborhood}.", "source": "Tüm mahalle için bir temizlik etkinliği düzenledi." },
+          { "target": "The {neighborhood} has a great community spirit.", "source": "Mahallenin güçlü bir topluluk ruhu var." },
+          { "target": "She went for a walk around the {neighborhood} after dinner.", "source": "Akşam yemeğinin ardından mahalleyi gezdi." },
+          { "target": "He moved to a new {neighborhood} and felt like a stranger at first.", "source": "Yeni bir mahalleye taşındı ve başlangıçta kendini yabancı gibi hissetti." },
+          { "target": "The children in the {neighborhood} play together every evening.", "source": "Mahalledeki çocuklar her akşam birlikte oynar." },
+          { "target": "She loves the cafes and parks in her {neighborhood}.", "source": "Mahallesindeki kafeleri ve parkları seviyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-11",
+        "kind": "word",
+        "term": "sidewalk",
+        "type": "noun",
+        "meaning": "kaldırım",
+        "examples": [
+          { "target": "She walked along the {sidewalk} to the bus stop.", "source": "Otobüs durağına kadar kaldırımda yürüdü." },
+          { "target": "He fell on the cracked {sidewalk} and hurt his knee.", "source": "Çatlak kaldırımda düştü ve dizini incitti." },
+          { "target": "The children drew pictures on the {sidewalk} with chalk.", "source": "Çocuklar kaldırıma tebeşirle resimler çizdi." },
+          { "target": "She parked her bike on the {sidewalk}.", "source": "Bisikletini kaldırıma park etti." },
+          { "target": "He stepped off the {sidewalk} to let others pass.", "source": "Başkalarının geçmesi için kaldırımdan indi." },
+          { "target": "The {sidewalk} was icy and dangerous to walk on.", "source": "Kaldırım buzlanmıştı ve yürümek tehlikeliydi." },
+          { "target": "She set up her lemonade stand on the {sidewalk}.", "source": "Limonata tezgahını kaldırıma kurdu." },
+          { "target": "He swept the {sidewalk} in front of his shop every morning.", "source": "Her sabah dükkânının önündeki kaldırımı süpürdü." },
+          { "target": "The {sidewalk} café had tables outside in the summer.", "source": "Kaldırım kafesi, yazın dışarıda masalar koyuyordu." },
+          { "target": "She always walked her dog on the {sidewalk}.", "source": "Köpeğini her zaman kaldırımda gezdirdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-12",
+        "kind": "word",
+        "term": "fountain",
+        "type": "noun",
+        "meaning": "çeşme, fıskiye",
+        "examples": [
+          { "target": "She sat by the {fountain} and read her book.", "source": "Çeşmenin yanına oturdu ve kitabını okudu." },
+          { "target": "He tossed a coin into the {fountain} and made a wish.", "source": "Çeşmeye para attı ve dilek tuttu." },
+          { "target": "The {fountain} in the city center was lit up at night.", "source": "Şehir merkezindeki fıskiye geceleri aydınlatılıyordu." },
+          { "target": "She filled her bottle from the drinking {fountain}.", "source": "Şişesini içme çeşmesinden doldurdu." },
+          { "target": "The {fountain} was turned off for winter maintenance.", "source": "Fıskiye kış bakımı için kapatıldı." },
+          { "target": "He met her near the old stone {fountain}.", "source": "Eski taş çeşmenin yakınında onunla buluştu." },
+          { "target": "The children played around the {fountain} on hot days.", "source": "Çocuklar sıcak günlerde fıskiyenin etrafında oynadı." },
+          { "target": "She photographed the {fountain} for her travel blog.", "source": "Seyahat blogu için çeşmenin fotoğrafını çekti." },
+          { "target": "The park has a beautiful {fountain} at its entrance.", "source": "Parkın girişinde güzel bir fıskiye var." },
+          { "target": "He drank from the {fountain} after his morning run.", "source": "Sabah koşusunun ardından çeşmeden su içti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-13",
+        "kind": "word",
+        "term": "avenue",
+        "type": "noun",
+        "meaning": "bulvar, cadde",
+        "examples": [
+          { "target": "She walked down the tree-lined {avenue}.", "source": "Ağaç sıralı bulvarda yürüdü." },
+          { "target": "He lives on a quiet {avenue} near the park.", "source": "Parkın yakınındaki sakin bir caddede yaşıyor." },
+          { "target": "The parade moved down the main {avenue}.", "source": "Geçit töreni ana bulvarda ilerledi." },
+          { "target": "She found a charming café on the {avenue}.", "source": "Bulvarda büyüleyici bir kafe buldu." },
+          { "target": "He drove slowly down the busy {avenue}.", "source": "Kalabalık bulvarda yavaşça ilerledi." },
+          { "target": "The grand {avenue} was lined with historic buildings.", "source": "Görkemli bulvar tarihi binalarla kaplıydı." },
+          { "target": "She explored every {avenue} before making her decision.", "source": "Kararını vermeden önce her yolu araştırdı." },
+          { "target": "He met his old teacher on Fifth {Avenue} by accident.", "source": "Beşinci Cadde'de eski öğretmeniyle tesadüfen karşılaştı." },
+          { "target": "The shops on the {avenue} were closed on Sundays.", "source": "Bulvardaki dükkanlar Pazar günleri kapalıydı." },
+          { "target": "She felt the energy of the city on the main {avenue}.", "source": "Ana bulvarda şehrin enerjisini hissetti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-63-14",
+        "kind": "word",
+        "term": "district",
+        "type": "noun",
+        "meaning": "semt, ilçe, bölge",
+        "examples": [
+          { "target": "She lives in the historic {district} of the city.", "source": "Şehrin tarihi semtinde yaşıyor." },
+          { "target": "He works in the financial {district}.", "source": "Finans bölgesinde çalışıyor." },
+          { "target": "The school {district} announced new term dates.", "source": "Okul ilçesi yeni dönem tarihlerini açıkladı." },
+          { "target": "She explored the arts {district} on her visit.", "source": "Ziyaretinde sanat semtini gezdi." },
+          { "target": "He was elected as the representative of his {district}.", "source": "İlçesinin temsilcisi olarak seçildi." },
+          { "target": "The {district} has many restaurants and shops.", "source": "Semtte pek çok restoran ve dükkan var." },
+          { "target": "She moved to a different {district} to be closer to work.", "source": "İşe daha yakın olmak için farklı bir semte taşındı." },
+          { "target": "He mapped out every {district} of the city.", "source": "Şehrin her semtini haritaladı." },
+          { "target": "The shopping {district} was crowded on weekends.", "source": "Alışveriş semti hafta sonları kalabalıktı." },
+          { "target": "She donated to a food bank in her {district}.", "source": "Kendi semtindeki bir yiyecek bankasına bağış yaptı." }
+        ]
+      }
+    ]
+  }
+]
