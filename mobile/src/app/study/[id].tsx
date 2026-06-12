@@ -17,6 +17,7 @@ import { WriteMode } from "../../components/modes/WriteMode";
 import type { ModeProps, ModeResult } from "../../components/modes/types";
 import type { Entry, StudyMode } from "../../data/types";
 import { useSet } from "../../data/useSets";
+import { buildNotifyContext, refreshNotifications } from "../../engine/notify";
 import { makeSpeak } from "../../engine/speak";
 import { useLibrary } from "../../store/library";
 import { useSettings } from "../../store/settings";
@@ -73,6 +74,8 @@ export default function StudySession() {
   const onFinish = (res: ModeResult) => {
     tickStreak();
     setResult(res);
+    // seri değişti → bildirim metinleri güncel kalsın (kapalıysa no-op)
+    refreshNotifications(buildNotifyContext());
   };
 
   const onRecordWord: ModeProps["onRecordWord"] = (entryId, r) =>

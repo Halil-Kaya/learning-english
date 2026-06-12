@@ -1,9 +1,11 @@
 import { Stack } from "expo-router";
 import { StatusBar } from "expo-status-bar";
+import { useEffect } from "react";
 import { ActivityIndicator, View } from "react-native";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import { MilestoneModal } from "../components/MilestoneModal";
+import { buildNotifyContext, refreshNotifications } from "../engine/notify";
 import { setUiLanguage } from "../i18n";
 import { useHydrated } from "../store/hydration";
 import { colors } from "../theme";
@@ -12,6 +14,11 @@ setUiLanguage("tr"); // v1: tek arayüz dili
 
 export default function RootLayout() {
   const hydrated = useHydrated();
+
+  // Açılışta planlı bildirimleri güncel duruma göre yeniden kur (izin İSTEMEZ).
+  useEffect(() => {
+    if (hydrated) refreshNotifications(buildNotifyContext());
+  }, [hydrated]);
 
   if (!hydrated) {
     return (

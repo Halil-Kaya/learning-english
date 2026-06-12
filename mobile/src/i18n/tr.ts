@@ -185,6 +185,35 @@ export const tr = {
   settingsWeeklyGoal: "Haftalık Hedef",
   settingsWeeklyGoalHint: "Haftada kaç gün çalışmayı hedefliyorsun?",
   settingsWeeklyGoalUnit: "gün",
+
+  // bildirimler — ayarlar
+  settingsNotify: "Bildirimler",
+  settingsNotifyToggle: "Günlük hatırlatma",
+  settingsNotifyTime: "Hatırlatma saati",
+  settingsNotifyDenied:
+    "Bildirim izni kapalı. Telefon ayarlarından izin verebilirsin.",
+  notifyTimePickerTitle: "Saat seç",
+  notifyTimePickerDone: "Tamam",
+
+  // bildirim metinleri — {set} ve {n} yer tutucuları doldurulur
+  notifyMsgsSet: [
+    '"{set}" seti öğrenilmeyi bekliyor 📚',
+    'Bugün 15 kelime = 5 dakika. "{set}" hazır ✨',
+    'Kaldığın yerden devam: "{set}" 🚀',
+    'Birkaç dakikanı ayır — "{set}" seni bekliyor 📖',
+  ],
+  notifyMsgsStreak: [
+    "🔥 {n} günlük serin bozulmasın!",
+    "Seri devam etsin — bugünün turunu yap 🔥",
+    "{n} gündür aralıksız! Bugünü de ekle 💪",
+    "Alevi söndürme — kısa bir tur yeter 🔥",
+  ],
+  notifyMsgsExplore: [
+    "Yeni kelimeler seni bekliyor — bir set keşfet 🧭",
+    "Günde 5 dakika yeter. Hadi bir set seç 📖",
+    "Bugün yeni bir kelime öğrenmeye ne dersin? ✨",
+    "Keşfet'te seni bekleyen setler var 🗺",
+  ],
 } as const;
 
 export type Dict = typeof tr;

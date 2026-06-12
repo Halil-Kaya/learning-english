@@ -121,9 +121,10 @@
       (saf, birim mantık — smoke testli), `store/streak.ts`, `tick()` bağlama
       (study onFinish + self-test tur bitişi), Hedefim'de StreakHeader
       (🔥 görünen seri + en iyi + Pzt–Paz hafta noktaları + haftalık hedef sayacı).
-- [ ] **Parti B — Milestone + haftalık hedef ayarı**: kutlama
-      modalı (eşik geçişinde), Ayarlar'da haftalık hedef chip'leri,
-      hafta devri (Pazartesi) tembel temizliği.
+- [x] **Parti B — Milestone + haftalık hedef ayarı** ✓ 2026-06-12: kutlama
+      modalı (eşik geçişinde, kök layout'ta global), Ayarlar'da haftalık hedef
+      chip'leri (3–7), hafta devri (Pazartesi) tembel temizliği (engine'de),
+      sıfırlama streak'i de temizler.
 - [ ] **Parti C — Bildirim altyapısı + Ayarlar**:
       `expo-notifications` kurulumu, `engine/notify.ts` (izin, kanal,
       7 günlük planlama, mesaj havuzları), Ayarlar "Bildirimler" bölümü

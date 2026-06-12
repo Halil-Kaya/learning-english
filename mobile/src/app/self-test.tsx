@@ -8,6 +8,7 @@ import { SwipeCard } from "../components/SwipeCard";
 import type { Entry } from "../data/types";
 import { useAllSets } from "../data/useSets";
 import { shuffle } from "../engine";
+import { buildNotifyContext, refreshNotifications } from "../engine/notify";
 import { makeSpeak } from "../engine/speak";
 import { t } from "../i18n";
 import { useLibrary } from "../store/library";
@@ -63,6 +64,7 @@ export default function SelfTest() {
     }
     if (idx + 1 >= deck.length) {
       tickStreak(); // tur bitti → günlük seri ilerlesin
+      refreshNotifications(buildNotifyContext()); // metinleri güncelle (kapalıysa no-op)
       setDone(true);
     } else setIdx(idx + 1);
   };

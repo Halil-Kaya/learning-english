@@ -1,7 +1,15 @@
 import Constants from "expo-constants";
+import { useState } from "react";
 import { Alert, Pressable, ScrollView, StyleSheet, Switch, Text, View } from "react-native";
 import { Screen } from "../../components/Screen";
+import { TimePickerModal } from "../../components/TimePickerModal";
 import { isPairAvailable, PAIRS } from "../../data/languages";
+import {
+  buildNotifyContext,
+  disableNotifications,
+  enableNotifications,
+  refreshNotifications,
+} from "../../engine/notify";
 import { t } from "../../i18n";
 import { useGames } from "../../store/games";
 import { useLibrary } from "../../store/library";
@@ -10,14 +18,39 @@ import { useStreak } from "../../store/streak";
 import { colors, radius, spacing } from "../../theme";
 
 const WEEKLY_GOAL_OPTIONS = [3, 4, 5, 6, 7];
+const pad = (n: number) => String(n).padStart(2, "0");
 
 export default function Settings() {
   const { languagePair, sound, setLanguagePair, setSound } = useSettings();
+  const notifyEnabled = useSettings((s) => s.notifyEnabled);
+  const notifyHour = useSettings((s) => s.notifyHour);
+  const notifyMinute = useSettings((s) => s.notifyMinute);
+  const setNotify = useSettings((s) => s.setNotify);
   const weeklyGoal = useStreak((s) => s.weeklyGoal);
   const setWeeklyGoal = useStreak((s) => s.setWeeklyGoal);
   const resetLibrary = useLibrary((s) => s.reset);
   const resetGames = useGames((s) => s.reset);
   const resetStreak = useStreak((s) => s.reset);
+
+  const [timePickerOpen, setTimePickerOpen] = useState(false);
+
+  const toggleNotify = async (on: boolean) => {
+    if (on) {
+      const granted = await enableNotifications(buildNotifyContext());
+      if (granted) setNotify({ enabled: true });
+      else Alert.alert(t("settingsNotify"), t("settingsNotifyDenied"));
+    } else {
+      setNotify({ enabled: false });
+      await disableNotifications();
+    }
+  };
+
+  const onPickTime = (hour: number, minute: number) => {
+    setNotify({ hour, minute });
+    setTimePickerOpen(false);
+    // enabled değilse refresh no-op'tur (yalnız iptal eder)
+    refreshNotifications(buildNotifyContext());
+  };
 
   const confirmReset = () => {
     Alert.alert(t("settingsReset"), t("settingsResetConfirm"), [
@@ -74,6 +107,28 @@ export default function Settings() {
           </View>
         </View>
 
+        <Text style={styles.section}>{t("settingsNotify")}</Text>
+        <View style={styles.card}>
+          <View style={styles.toggleRow}>
+            <Text style={styles.toggleLabel}>{t("settingsNotifyToggle")}</Text>
+            <Switch
+              value={notifyEnabled}
+              onValueChange={toggleNotify}
+              trackColor={{ true: colors.accent, false: colors.border }}
+              thumbColor="#fff"
+            />
+          </View>
+          <Pressable
+            style={[styles.toggleRow, styles.timeRow, !notifyEnabled && styles.disabled]}
+            onPress={() => notifyEnabled && setTimePickerOpen(true)}
+          >
+            <Text style={styles.toggleLabel}>{t("settingsNotifyTime")}</Text>
+            <Text style={styles.timeValue}>
+              {pad(notifyHour)}:{pad(notifyMinute)}
+            </Text>
+          </Pressable>
+        </View>
+
         <Text style={styles.section}>{t("settingsWeeklyGoal")}</Text>
         <View style={[styles.card, styles.goalCard]}>
           <Text style={styles.goalHint}>{t("settingsWeeklyGoalHint")}</Text>
@@ -108,6 +163,14 @@ export default function Settings() {
           <Text style={styles.dangerText}>{t("settingsReset")}</Text>
         </View>
       </ScrollView>
+
+      <TimePickerModal
+        visible={timePickerOpen}
+        hour={notifyHour}
+        minute={notifyMinute}
+        onClose={() => setTimePickerOpen(false)}
+        onConfirm={onPickTime}
+      />
     </Screen>
   );
 }
@@ -159,6 +222,11 @@ const styles = StyleSheet.create({
   },
   toggleLabel: { color: colors.text, fontSize: 15 },
   value: { color: colors.muted, fontSize: 15 },
+  timeRow: {
+    borderTopWidth: StyleSheet.hairlineWidth,
+    borderTopColor: colors.border,
+  },
+  timeValue: { color: colors.accent, fontSize: 16, fontWeight: "700" },
   goalCard: { padding: spacing.lg, gap: spacing.md },
   goalHint: { color: colors.muted, fontSize: 13 },
   goalChips: { flexDirection: "row", gap: spacing.sm },
