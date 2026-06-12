@@ -1,0 +1,887 @@
+[
+  {
+    "id": "en-tr-beginner-44",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 44",
+    "level": "beginner",
+    "category": "work-career",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-44-0",
+        "kind": "word",
+        "term": "promote",
+        "type": "verb",
+        "meaning": "terfi ettirmek, tanıtmak",
+        "examples": [
+          { "target": "She was {promoted} to manager after three years.", "source": "Üç yıl sonra müdürlüğe terfi etti." },
+          { "target": "The company will {promote} him next month.", "source": "Şirket onu gelecek ay terfi ettirecek." },
+          { "target": "They use social media to {promote} their products.", "source": "Ürünlerini tanıtmak için sosyal medya kullanıyorlar." },
+          { "target": "He was {promoted} to a senior position.", "source": "Üst düzey bir pozisyona terfi etti." },
+          { "target": "The organization works to {promote} healthy eating habits.", "source": "Kuruluş sağlıklı beslenme alışkanlıklarını teşvik etmek için çalışıyor." },
+          { "target": "She has been working hard to get {promoted}.", "source": "Terfi etmek için çok çalışıyor." },
+          { "target": "They hired a team to {promote} the new film.", "source": "Yeni filmi tanıtmak için bir ekip tuttular." },
+          { "target": "He was {promoted} twice in the same year.", "source": "Aynı yıl iki kez terfi etti." },
+          { "target": "The manager decided to {promote} the youngest employee.", "source": "Müdür en genç çalışanı terfi ettirmeye karar verdi." },
+          { "target": "She worked hard to {promote} her ideas in the company.", "source": "Şirketteki fikirlerini hayata geçirmek için çok çalıştı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-1",
+        "kind": "word",
+        "term": "resign",
+        "type": "verb",
+        "meaning": "istifa etmek",
+        "examples": [
+          { "target": "He decided to {resign} from his job.", "source": "İşinden istifa etmeye karar verdi." },
+          { "target": "She {resigned} after the disagreement with the director.", "source": "Müdürle anlaşmazlığın ardından istifa etti." },
+          { "target": "He was forced to {resign} due to the scandal.", "source": "Skandal nedeniyle istifa etmek zorunda kaldı." },
+          { "target": "She {resigned} and started her own business.", "source": "İstifa etti ve kendi işini kurdu." },
+          { "target": "Three employees {resigned} last week.", "source": "Geçen hafta üç çalışan istifa etti." },
+          { "target": "He finally {resigned} after years of unhappiness at work.", "source": "İşteki yıllarca süren mutsuzluktan sonra sonunda istifa etti." },
+          { "target": "She wrote a formal letter to {resign}.", "source": "İstifa etmek için resmi bir mektup yazdı." },
+          { "target": "He is thinking about {resigning} before the end of the year.", "source": "Yıl bitmeden önce istifa etmeyi düşünüyor." },
+          { "target": "The director {resigned} to spend more time with family.", "source": "Müdür ailesiyle daha fazla zaman geçirmek için istifa etti." },
+          { "target": "She had to {resign} herself to the fact that things would change.", "source": "İşlerin değişeceği gerçeğini kabullenmek zorunda kaldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-2",
+        "kind": "word",
+        "term": "employ",
+        "type": "verb",
+        "meaning": "işe almak, istihdam etmek",
+        "examples": [
+          { "target": "The factory {employs} over 500 workers.", "source": "Fabrika 500'den fazla işçi çalıştırıyor." },
+          { "target": "They plan to {employ} new staff next spring.", "source": "Gelecek ilkbaharda yeni personel almayı planlıyorlar." },
+          { "target": "He was {employed} by the company for ten years.", "source": "Şirkette on yıl çalıştı." },
+          { "target": "She {employs} different strategies to solve problems.", "source": "Sorunları çözmek için farklı stratejiler kullanıyor." },
+          { "target": "The hospital needs to {employ} more nurses.", "source": "Hastane daha fazla hemşire istihdam etmeli." },
+          { "target": "He is currently {employed} as a software engineer.", "source": "Şu anda yazılım mühendisi olarak çalışıyor." },
+          { "target": "The company {employs} people from many different countries.", "source": "Şirket birçok farklı ülkeden insan çalıştırıyor." },
+          { "target": "She was {employed} on a part-time basis.", "source": "Yarı zamanlı olarak istihdam edildi." },
+          { "target": "The school wants to {employ} a new language teacher.", "source": "Okul yeni bir dil öğretmeni almak istiyor." },
+          { "target": "He used creative methods {employed} in modern teaching.", "source": "Modern öğretimde kullanılan yaratıcı yöntemlerden faydalandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-3",
+        "kind": "word",
+        "term": "position",
+        "type": "noun",
+        "meaning": "pozisyon, konum, yer",
+        "examples": [
+          { "target": "She applied for a management {position}.", "source": "Yönetim pozisyonuna başvurdu." },
+          { "target": "He is in a difficult {position} right now.", "source": "Şu an zor bir konumda." },
+          { "target": "The {position} requires good communication skills.", "source": "Pozisyon iyi iletişim becerileri gerektiriyor." },
+          { "target": "She changed her {position} in the debate.", "source": "Tartışmada tutumunu değiştirdi." },
+          { "target": "He adjusted the mirror to a better {position}.", "source": "Aynayı daha iyi bir konuma getirdi." },
+          { "target": "The company is looking to fill a senior {position}.", "source": "Şirket üst düzey bir pozisyon doldurmak istiyor." },
+          { "target": "She held the same {position} for over a decade.", "source": "On yıldan fazla aynı pozisyonda kaldı." },
+          { "target": "What is your official {position} on this matter?", "source": "Bu konudaki resmi tutumun nedir?" },
+          { "target": "He was promoted to a higher {position}.", "source": "Daha üst bir pozisyona terfi etti." },
+          { "target": "She stood in a comfortable {position} during the meeting.", "source": "Toplantı sırasında rahat bir pozisyonda durdu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-4",
+        "kind": "word",
+        "term": "profit",
+        "type": "noun",
+        "meaning": "kâr, kazanç",
+        "examples": [
+          { "target": "The business made a {profit} of 20% last year.", "source": "İşletme geçen yıl yüzde 20 kâr etti." },
+          { "target": "They reinvested the {profit} into the company.", "source": "Kârı şirkete yeniden yatırdılar." },
+          { "target": "She sold her old car and made a small {profit}.", "source": "Eski arabasını satıp küçük bir kâr elde etti." },
+          { "target": "The store's {profit} increased after the renovation.", "source": "Yenilemenin ardından mağazanın kârı arttı." },
+          { "target": "He was pleased to see a {profit} at the end of the quarter.", "source": "Çeyrek sonunda kâr görmekten memnun oldu." },
+          { "target": "A nonprofit organization does not aim to make {profit}.", "source": "Kâr amacı gütmeyen kuruluş kâr etmeyi hedeflemez." },
+          { "target": "They lost money instead of making a {profit}.", "source": "Kâr etmek yerine para kaybettiler." },
+          { "target": "The {profit} from the event was donated to charity.", "source": "Etkinlikten elde edilen kâr bağışa verildi." },
+          { "target": "He learned that {profit} is not always the most important thing.", "source": "Kârın her zaman en önemli şey olmadığını öğrendi." },
+          { "target": "The company reported a {profit} despite the difficult market.", "source": "Şirket, zorlu piyasaya rağmen kâr açıkladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-5",
+        "kind": "word",
+        "term": "loss",
+        "type": "noun",
+        "meaning": "kayıp, zarar",
+        "examples": [
+          { "target": "The company suffered a big {loss} this year.", "source": "Şirket bu yıl büyük bir zarar gördü." },
+          { "target": "She felt a deep sense of {loss} after her friend moved away.", "source": "Arkadaşı taşındıktan sonra derin bir kayıp hissetti." },
+          { "target": "The {loss} of the game disappointed the whole team.", "source": "Maçtaki yenilgi tüm takımı hayal kırıklığına uğrattı." },
+          { "target": "They reported a financial {loss} for the second quarter.", "source": "İkinci çeyrek için finansal zarar açıkladılar." },
+          { "target": "He was at a {loss} for words when he heard the news.", "source": "Haberi duyunca ne diyeceğini bilemedi." },
+          { "target": "The {loss} of her phone was very inconvenient.", "source": "Telefonunun kaybolması çok can sıkıcıydı." },
+          { "target": "The {loss} of jobs in the region was a major concern.", "source": "Bölgedeki iş kayıpları büyük bir endişe kaynağıydı." },
+          { "target": "She accepted her {loss} gracefully and congratulated the winner.", "source": "Yenilgiyi güzellikle kabullendi ve kazananı tebrik etti." },
+          { "target": "The {loss} of the old building was a tragedy for the community.", "source": "Eski binanın kaybı topluluk için bir trajedi oldu." },
+          { "target": "Profits can turn into {loss} if costs are not managed.", "source": "Maliyetler yönetilmezse kârlar zarara dönüşebilir." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-6",
+        "kind": "word",
+        "term": "business",
+        "type": "noun",
+        "meaning": "iş, ticaret, işletme",
+        "examples": [
+          { "target": "She started her own {business} at the age of 25.", "source": "25 yaşında kendi işletmesini kurdu." },
+          { "target": "He travels for {business} every month.", "source": "Her ay iş için seyahat ediyor." },
+          { "target": "The {business} has grown rapidly over the past few years.", "source": "İşletme son birkaç yılda hızla büyüdü." },
+          { "target": "Mind your own {business}!", "source": "Kendi işine bak!" },
+          { "target": "They met to discuss {business} opportunities.", "source": "İş fırsatlarını görüşmek için bir araya geldiler." },
+          { "target": "The hotel {business} is very competitive.", "source": "Otelcilik sektörü çok rekabetçidir." },
+          { "target": "He studied {business} administration at university.", "source": "Üniversitede işletme okurdu." },
+          { "target": "Her {business} plan impressed all the investors.", "source": "İş planı tüm yatırımcıları etkiledi." },
+          { "target": "The new law affected many small {businesses}.", "source": "Yeni yasa pek çok küçük işletmeyi etkiledi." },
+          { "target": "Running a {business} requires a lot of dedication.", "source": "Bir işletme yürütmek çok fedakârlık gerektirir." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-7",
+        "kind": "word",
+        "term": "schedule",
+        "type": "noun",
+        "meaning": "program, takvim, çizelge",
+        "examples": [
+          { "target": "Can you check my {schedule} for tomorrow?", "source": "Yarınki programıma bakabilir misin?" },
+          { "target": "The project is ahead of {schedule}.", "source": "Proje plandan önde." },
+          { "target": "She has a very busy {schedule} this week.", "source": "Bu hafta çok yoğun bir programı var." },
+          { "target": "He adjusted his {schedule} to attend the meeting.", "source": "Toplantıya katılmak için programını ayarladı." },
+          { "target": "The flight departed according to {schedule}.", "source": "Uçuş programa göre kalktı." },
+          { "target": "Please send me your {schedule} for the week.", "source": "Lütfen haftanın programını bana gönderin." },
+          { "target": "The train runs on a fixed {schedule}.", "source": "Tren sabit bir programa göre çalışıyor." },
+          { "target": "She {scheduled} a meeting for Friday afternoon.", "source": "Cuma öğleden sonrasına bir toplantı planladı." },
+          { "target": "Due to illness, his {schedule} was rearranged.", "source": "Hastalık nedeniyle programı yeniden düzenlendi." },
+          { "target": "The construction work is behind {schedule}.", "source": "İnşaat çalışması plandan geri." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-8",
+        "kind": "word",
+        "term": "role",
+        "type": "noun",
+        "meaning": "rol, görev",
+        "examples": [
+          { "target": "She played the lead {role} in the film.", "source": "Filmde başrolu oynadı." },
+          { "target": "What is your {role} in this project?", "source": "Bu projedeki rolün ne?" },
+          { "target": "He takes his {role} as a father very seriously.", "source": "Babalık rolünü çok ciddiye alıyor." },
+          { "target": "Education plays an important {role} in development.", "source": "Eğitim kalkınmada önemli bir rol oynar." },
+          { "target": "She was offered a new {role} at the company.", "source": "Şirkette yeni bir görev teklif edildi." },
+          { "target": "The government's {role} in healthcare is essential.", "source": "Hükümetin sağlıktaki rolü çok önemlidir." },
+          { "target": "He took on the {role} of team leader.", "source": "Takım lideri rolünü üstlendi." },
+          { "target": "She played a key {role} in the success of the event.", "source": "Etkinliğin başarısında kilit bir rol oynadı." },
+          { "target": "Every team member has a clear {role} and responsibility.", "source": "Her ekip üyesinin net bir rolü ve sorumluluğu var." },
+          { "target": "The {role} of technology in modern life is undeniable.", "source": "Teknolojinin modern hayattaki rolü inkâr edilemez." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-9",
+        "kind": "word",
+        "term": "bonus",
+        "type": "noun",
+        "meaning": "prim, ek ödül, bonus",
+        "examples": [
+          { "target": "She received a year-end {bonus} for her hard work.", "source": "Sıkı çalışması nedeniyle yıl sonu ikramiyesi aldı." },
+          { "target": "The company gave every employee a holiday {bonus}.", "source": "Şirket her çalışana tatil ikramiyesi verdi." },
+          { "target": "As a {bonus}, the package includes free delivery.", "source": "Ek bir avantaj olarak, paket ücretsiz teslimat içeriyor." },
+          { "target": "He was motivated by the performance {bonus}.", "source": "Performans piriminden motive oldu." },
+          { "target": "Getting good weather on our trip was a great {bonus}.", "source": "Gezimizde iyi hava almak harika bir bonustu." },
+          { "target": "She negotiated a signing {bonus} before joining the firm.", "source": "Firmaya katılmadan önce imzalama bonusunu müzakere etti." },
+          { "target": "They offer a {bonus} if you refer a new customer.", "source": "Yeni bir müşteri yönlendirirseniz prim veriyorlar." },
+          { "target": "The {bonus} structure is tied to company performance.", "source": "Prim yapısı şirket performansına bağlıdır." },
+          { "target": "He earned a {bonus} for completing the project early.", "source": "Projeyi erken tamamladığı için prim kazandı." },
+          { "target": "A {bonus} level was unlocked after completing the game.", "source": "Oyunu tamamladıktan sonra bir bonus seviye açıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-10",
+        "kind": "word",
+        "term": "contract",
+        "type": "noun",
+        "meaning": "sözleşme, kontrat",
+        "examples": [
+          { "target": "She signed the {contract} before starting work.", "source": "İşe başlamadan önce sözleşmeyi imzaladı." },
+          { "target": "The {contract} lasts for one year.", "source": "Sözleşme bir yıl sürelidir." },
+          { "target": "He broke the {contract} and had to pay a fine.", "source": "Sözleşmeyi bozdu ve para cezası ödemek zorunda kaldı." },
+          { "target": "Please read the {contract} carefully before signing.", "source": "İmzalamadan önce lütfen sözleşmeyi dikkatlice okuyun." },
+          { "target": "The company offered her a new {contract} with better pay.", "source": "Şirket ona daha iyi maaşlı yeni bir sözleşme teklif etti." },
+          { "target": "They renewed their {contract} for another three years.", "source": "Sözleşmelerini üç yıl daha uzattılar." },
+          { "target": "A {contract} was drawn up between the two parties.", "source": "İki taraf arasında bir sözleşme hazırlandı." },
+          { "target": "He is on a temporary {contract} for six months.", "source": "Altı aylık geçici bir sözleşmeyle çalışıyor." },
+          { "target": "The {contract} includes details about salary and benefits.", "source": "Sözleşme maaş ve haklar hakkında ayrıntıları içeriyor." },
+          { "target": "She terminated the {contract} before the deadline.", "source": "Son tarihten önce sözleşmeyi feshetti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-11",
+        "kind": "word",
+        "term": "overtime",
+        "type": "noun",
+        "meaning": "mesai, fazla mesai",
+        "examples": [
+          { "target": "He worked {overtime} to finish the project on time.", "source": "Projeyi zamanında bitirmek için fazla mesai yaptı." },
+          { "target": "She gets paid extra for working {overtime}.", "source": "Fazla mesai yaptığı için ek ücret alıyor." },
+          { "target": "They asked the staff to do {overtime} this week.", "source": "Bu hafta personelden fazla mesai yapmalarını istediler." },
+          { "target": "He put in many hours of {overtime} during the busy season.", "source": "Yoğun sezonda saatlerce fazla mesai yaptı." },
+          { "target": "Working {overtime} every night is not healthy.", "source": "Her gece fazla mesai yapmak sağlıklı değil.", "source": "Her gece fazla mesai yapmak sağlıklı değildir." },
+          { "target": "She refused to work {overtime} without extra pay.", "source": "Ek ödeme olmadan fazla mesai yapmayı reddetti." },
+          { "target": "The match went into {overtime} and lasted three hours.", "source": "Maç uzatmaya gidip üç saat sürdü." },
+          { "target": "Employees are not required to work {overtime} in this company.", "source": "Bu şirkette çalışanların fazla mesai yapması zorunlu değildir." },
+          { "target": "He was exhausted from too much {overtime}.", "source": "Fazla mesaiden tükenmiş haldeydi." },
+          { "target": "The factory operated {overtime} to meet the demand.", "source": "Fabrika talebi karşılamak için fazla mesai yaptı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-12",
+        "kind": "word",
+        "term": "assign",
+        "type": "verb",
+        "meaning": "atamak, görevlendirmek, vermek",
+        "examples": [
+          { "target": "The teacher will {assign} homework every Friday.", "source": "Öğretmen her Cuma ödev verecek." },
+          { "target": "She was {assigned} to the new project.", "source": "Yeni projeye atandı." },
+          { "target": "He {assigned} each team member a specific task.", "source": "Her ekip üyesine belirli bir görev verdi." },
+          { "target": "Please {assign} the rooms to the guests.", "source": "Lütfen misafirlere odaları tahsis edin." },
+          { "target": "The manager {assigned} her to lead the presentation.", "source": "Müdür onu sunumu yönetmesi için görevlendirdi." },
+          { "target": "The student was {assigned} a new research topic.", "source": "Öğrenciye yeni bir araştırma konusu verildi." },
+          { "target": "They {assigned} a guide to each group of visitors.", "source": "Her ziyaretçi grubuna bir rehber görevlendirdiler." },
+          { "target": "He was {assigned} to the night shift this week.", "source": "Bu hafta gece vardiyasına atandı." },
+          { "target": "The judge {assigned} the case to a different court.", "source": "Hâkim davayı farklı bir mahkemeye havale etti." },
+          { "target": "Can you {assign} this task to someone available?", "source": "Bu görevi müsait birine verebilir misin?" }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-13",
+        "kind": "word",
+        "term": "approve",
+        "type": "verb",
+        "meaning": "onaylamak",
+        "examples": [
+          { "target": "The manager needs to {approve} your request.", "source": "Müdürün talebini onaylaması gerekiyor." },
+          { "target": "The plan was {approved} by the committee.", "source": "Plan komite tarafından onaylandı." },
+          { "target": "She doesn't {approve} of his decision.", "source": "Onun kararını onaylamıyor." },
+          { "target": "The bank {approved} the loan application.", "source": "Banka kredi başvurusunu onayladı." },
+          { "target": "He {approved} the final design for the website.", "source": "Web sitesi için nihai tasarımı onayladı." },
+          { "target": "The parents {approved} of the school their child chose.", "source": "Ebeveynler çocuğunun seçtiği okulu onayladı." },
+          { "target": "She waited weeks for the document to be {approved}.", "source": "Belgenin onaylanması için haftalarca bekledi." },
+          { "target": "The proposal was not {approved} due to budget concerns.", "source": "Teklif bütçe kaygıları nedeniyle onaylanmadı." },
+          { "target": "Does the supervisor need to {approve} every small change?", "source": "Amirin her küçük değişikliği onaylaması gerekiyor mu?" },
+          { "target": "The new policy was {approved} after a long debate.", "source": "Yeni politika uzun bir tartışmanın ardından onaylandı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-44-14",
+        "kind": "word",
+        "term": "launch",
+        "type": "verb",
+        "meaning": "başlatmak, piyasaya sürmek, fırlatmak",
+        "examples": [
+          { "target": "The company will {launch} a new product next month.", "source": "Şirket gelecek ay yeni bir ürünü piyasaya sürecek." },
+          { "target": "They {launched} the campaign with a big event.", "source": "Kampanyayı büyük bir etkinlikle başlattılar." },
+          { "target": "The space agency {launched} a rocket into orbit.", "source": "Uzay ajansı bir roketi yörüngeye fırlattı." },
+          { "target": "She {launched} her new online store yesterday.", "source": "Dün yeni çevrimiçi mağazasını açtı." },
+          { "target": "The government {launched} a program to help small businesses.", "source": "Hükümet küçük işletmelere yardım etmek için bir program başlattı." },
+          { "target": "The app was {launched} in the market last spring.", "source": "Uygulama geçen ilkbaharda piyasaya sürüldü." },
+          { "target": "He {launched} an investigation into the missing money.", "source": "Kayıp para için soruşturma başlattı." },
+          { "target": "They plan to {launch} the new service in three countries.", "source": "Yeni hizmetin üç ülkede faaliyete geçirilmesi planlıyor." },
+          { "target": "She was nervous before {launching} the new website.", "source": "Yeni web sitesini başlatmadan önce gergin hissediyordu." },
+          { "target": "The school {launched} a recycling initiative this year.", "source": "Okul bu yıl bir geri dönüşüm girişimi başlattı." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-45",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 45",
+    "level": "beginner",
+    "category": "nature",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-45-0",
+        "kind": "word",
+        "term": "lake",
+        "type": "noun",
+        "meaning": "göl",
+        "examples": [
+          { "target": "We spent the afternoon swimming in the {lake}.", "source": "Öğleden sonrayı gölde yüzerek geçirdik." },
+          { "target": "The {lake} was perfectly still on a calm morning.", "source": "Sakin bir sabahta göl tamamen durgundu." },
+          { "target": "Ducks were swimming across the {lake}.", "source": "Ördekler gölün karşısına yüzüyordu." },
+          { "target": "They built a small cabin near the {lake}.", "source": "Gölün yakınına küçük bir kulübe inşa ettiler." },
+          { "target": "The {lake} freezes over every winter.", "source": "Göl her kış donar." },
+          { "target": "She caught a fish in the {lake} near her home.", "source": "Evinin yakınındaki gölde bir balık yakaladı." },
+          { "target": "The reflection of the mountains on the {lake} was breathtaking.", "source": "Dağların göldeki yansıması nefes kesiciydi." },
+          { "target": "There is a famous {lake} at the top of that mountain.", "source": "O dağın zirvesinde ünlü bir göl var." },
+          { "target": "The children loved playing by the {lake}.", "source": "Çocuklar gölün kenarında oynamayı çok sevdi." },
+          { "target": "They kayaked around the {lake} for two hours.", "source": "Göl boyunca iki saat kayak yaptılar." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-1",
+        "kind": "word",
+        "term": "valley",
+        "type": "noun",
+        "meaning": "vadi",
+        "examples": [
+          { "target": "The small village is nestled in a quiet {valley}.", "source": "Küçük köy sakin bir vadiye yerleşmiş." },
+          { "target": "A river flows through the center of the {valley}.", "source": "Bir nehir vadinin ortasından akıyor." },
+          { "target": "They hiked down into the {valley} as the sun set.", "source": "Güneş batarken vadiye doğru yürüdüler." },
+          { "target": "The {valley} was filled with colorful wildflowers.", "source": "Vadi renkli kır çiçekleriyle doluydu." },
+          { "target": "From the mountain, they could see the whole {valley} below.", "source": "Dağdan aşağıdaki vadinin tamamını görebiliyorlardı." },
+          { "target": "Fog often fills the {valley} in the early morning.", "source": "Sabahın erken saatlerinde vadi çoğunlukla sisle dolar." },
+          { "target": "The {valley} is known for its wine production.", "source": "Vadi şarap üretimiyle bilinir." },
+          { "target": "The road winds through the {valley} for 20 kilometers.", "source": "Yol 20 kilometre boyunca vadide kıvrılıyor." },
+          { "target": "Farmers grow crops in the fertile {valley}.", "source": "Çiftçiler verimli vadide ekin yetiştiriyor." },
+          { "target": "Eagles nest in the cliffs surrounding the {valley}.", "source": "Kartallar vadinin çevresindeki kayalıklarda yuva kurar." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-2",
+        "kind": "word",
+        "term": "coast",
+        "type": "noun",
+        "meaning": "kıyı, sahil şeridi",
+        "examples": [
+          { "target": "They drove along the {coast} and enjoyed the sea view.", "source": "Kıyı boyunca araba sürdüler ve deniz manzarasının tadını çıkardılar." },
+          { "target": "The storm hit the {coast} and caused damage.", "source": "Fırtına kıyıya vurdu ve hasar verdi." },
+          { "target": "She grew up near the {coast} and loves the ocean.", "source": "Kıyıya yakın büyüdü ve denizi çok sever." },
+          { "target": "The {coast} is lined with small fishing villages.", "source": "Kıyı boyunca küçük balıkçı köyleri sıralanmış." },
+          { "target": "We watched the sunrise from the rocky {coast}.", "source": "Kayalık kıyıdan gün doğuşunu izledik." },
+          { "target": "The {coast} guard rescued the sailors.", "source": "Sahil güvenlik denizcileri kurtardı." },
+          { "target": "The sea is calm on this part of the {coast}.", "source": "Kıyının bu bölümünde deniz sakin." },
+          { "target": "Many tourists visit the beautiful southern {coast}.", "source": "Pek çok turist güzel güney kıyısını ziyaret ediyor." },
+          { "target": "There are dolphins swimming near this {coast}.", "source": "Bu kıyıya yakın yunus balıkları yüzüyor." },
+          { "target": "The {coast} stretches for hundreds of kilometers.", "source": "Kıyı yüzlerce kilometre boyunca uzanıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-3",
+        "kind": "word",
+        "term": "cliff",
+        "type": "noun",
+        "meaning": "uçurum, yalıyar",
+        "examples": [
+          { "target": "She stood at the edge of the {cliff} and looked down.", "source": "Uçurumun kenarında durdu ve aşağıya baktı." },
+          { "target": "The bird made its nest on the {cliff} face.", "source": "Kuş uçurumun yüzeyine yuva yaptı." },
+          { "target": "He jumped from the {cliff} into the sea below.", "source": "Uçurumdan aşağıdaki denize atladı." },
+          { "target": "The {cliff} path is dangerous in wet weather.", "source": "Yağışlı havada uçurum yolu tehlikelidir." },
+          { "target": "We admired the dramatic {cliff} view from the boat.", "source": "Tekneden çarpıcı uçurum manzarasına hayran kaldık." },
+          { "target": "Seabirds nest in the rocky {cliff}.", "source": "Deniz kuşları kayalık uçurumlarda yuva kurar." },
+          { "target": "The car stopped just before the edge of the {cliff}.", "source": "Araba uçurumun hemen öncesinde durdu." },
+          { "target": "The ancient castle sits on top of a tall {cliff}.", "source": "Eski kale yüksek bir uçurumun üzerinde yer alıyor." },
+          { "target": "Hikers were warned not to get too close to the {cliff}.", "source": "Yürüyüşçüler uçuruma çok yaklaşmamaları konusunda uyarıldı." },
+          { "target": "From the top of the {cliff}, the view was spectacular.", "source": "Uçurumun tepesinden manzara muhteşemdi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-4",
+        "kind": "word",
+        "term": "grass",
+        "type": "noun",
+        "meaning": "çimen, ot",
+        "examples": [
+          { "target": "The children played on the green {grass} all afternoon.", "source": "Çocuklar bütün öğleden sonra yeşil çimenlerde oynadı." },
+          { "target": "The {grass} in the garden needs cutting.", "source": "Bahçedeki çimenin kesilmesi gerekiyor." },
+          { "target": "Cows were grazing on the {grass} by the river.", "source": "İnekler nehir kenarındaki çimenlerde otluyordu." },
+          { "target": "She sat on the {grass} and watched the clouds.", "source": "Çimlere oturup bulutları izledi." },
+          { "target": "The {grass} was covered in morning dew.", "source": "Çimenler sabah çiyiyle kaplıydı." },
+          { "target": "He lay down on the soft {grass} after the hike.", "source": "Yürüyüşün ardından yumuşak çimenlere uzandı." },
+          { "target": "Please keep off the {grass}.", "source": "Lütfen çimenlere basmayın." },
+          { "target": "The {grass} turns yellow in dry summer months.", "source": "Çimenler kuru yaz aylarında sarıya döner." },
+          { "target": "The dog loves rolling in the {grass}.", "source": "Köpek çimenlere yuvarlanmayı sever." },
+          { "target": "After the rain, the {grass} smelled fresh.", "source": "Yağmurdan sonra çimenler taze kokuyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-5",
+        "kind": "word",
+        "term": "rock",
+        "type": "noun",
+        "meaning": "kaya, taş",
+        "examples": [
+          { "target": "She sat on a smooth {rock} by the river.", "source": "Nehir kenarında düzgün bir kayanın üzerine oturdu." },
+          { "target": "The child picked up a small {rock} from the ground.", "source": "Çocuk yerden küçük bir taş aldı." },
+          { "target": "The ship hit a {rock} and began to sink.", "source": "Gemi bir kayaya çarptı ve batmaya başladı." },
+          { "target": "They climbed the tall {rock} to get a better view.", "source": "Daha iyi bir manzara için yüksek kayaya tırmandılar." },
+          { "target": "The path was blocked by a large {rock}.", "source": "Yol büyük bir kaya tarafından tıkanmıştı." },
+          { "target": "She found an interesting {rock} with shiny crystals inside.", "source": "İçinde parlak kristaller olan ilginç bir kaya buldu." },
+          { "target": "The foundation of the house is built on solid {rock}.", "source": "Evin temeli sağlam kaya üzerine inşa edilmiş." },
+          { "target": "He threw a {rock} into the pond and watched the ripples.", "source": "Havuza bir taş attı ve dalgalanmaları izledi." },
+          { "target": "The ancient {rock} paintings were thousands of years old.", "source": "Antik kaya resimleri binlerce yıl öncesine dayanıyordu." },
+          { "target": "Small {rocks} covered the bottom of the stream.", "source": "Küçük taşlar derenin tabanını kaplıyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-6",
+        "kind": "word",
+        "term": "sea",
+        "type": "noun",
+        "meaning": "deniz",
+        "examples": [
+          { "target": "We spent our holiday by the {sea}.", "source": "Tatilimizi deniz kenarında geçirdik." },
+          { "target": "The {sea} was rough that morning.", "source": "O sabah deniz dalgalıydı." },
+          { "target": "She could hear the sound of the {sea} from her window.", "source": "Penceresinden denizin sesini duyabiliyordu." },
+          { "target": "The sailors set off across the {sea}.", "source": "Denizciler denizi geçmek için yola çıktı." },
+          { "target": "The {sea} is full of amazing creatures.", "source": "Deniz inanılmaz canlılarla dolu." },
+          { "target": "He loves swimming in the open {sea}.", "source": "Açık denizde yüzmeyi çok sever." },
+          { "target": "The {sea} turns a beautiful blue on sunny days.", "source": "Güneşli günlerde deniz güzel bir mavi renk alır." },
+          { "target": "The lighthouse warned ships at {sea}.", "source": "Deniz feneri denizden gelen gemileri uyardı." },
+          { "target": "A calm {sea} makes sailing easy.", "source": "Sakin bir deniz yelken açmayı kolaylaştırır." },
+          { "target": "She grew up by the {sea} and swims very well.", "source": "Deniz kenarında büyüdü ve çok iyi yüzüyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-7",
+        "kind": "word",
+        "term": "pond",
+        "type": "noun",
+        "meaning": "gölet, küçük göl",
+        "examples": [
+          { "target": "There is a small {pond} in the garden with goldfish.", "source": "Bahçede altın balıklı küçük bir gölet var." },
+          { "target": "The children threw bread to the ducks in the {pond}.", "source": "Çocuklar göletin içindeki ördeklere ekmek attı." },
+          { "target": "Frogs often jump into the {pond} at night.", "source": "Kurbağalar geceleri sıklıkla gölede atlarlar." },
+          { "target": "The {pond} froze over in the deep winter.", "source": "Gölet kışın ortasında dondu." },
+          { "target": "Lily pads floated gently on the surface of the {pond}.", "source": "Nilüfer yaprakları göletin yüzeyinde nazikçe süzülüyordu." },
+          { "target": "She sat beside the {pond} and painted the scene.", "source": "Göleti boyunca oturdu ve sahneyi resmetti." },
+          { "target": "The {pond} is home to many types of wildlife.", "source": "Gölet pek çok tür yabani hayvana ev sahipliği yapıyor." },
+          { "target": "He built a {pond} in his backyard for his fish.", "source": "Balıkları için arka bahçesine bir gölet inşa etti." },
+          { "target": "Ducks nest near the {pond} every spring.", "source": "Ördekler her ilkbaharda gölet yakınına yuva kurar." },
+          { "target": "The {pond} dried up during the long summer drought.", "source": "Uzun yaz kuraklığında gölet kurudu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-8",
+        "kind": "word",
+        "term": "stream",
+        "type": "noun",
+        "meaning": "dere, akarsu",
+        "examples": [
+          { "target": "We crossed the {stream} by stepping on the stones.", "source": "Taşlara basarak dereyi geçtik." },
+          { "target": "The {stream} runs through the forest.", "source": "Dere ormanın içinden akıyor." },
+          { "target": "She sat by the {stream} and listened to the water.", "source": "Derenin yanına oturdu ve suyun sesini dinledi." },
+          { "target": "The {stream} was shallow enough to wade through.", "source": "Dere içinden geçilebilecek kadar sığdı." },
+          { "target": "He caught a small fish in the clear {stream}.", "source": "Berrak derede küçük bir balık yakaladı." },
+          { "target": "The {stream} flows into the lake below the hill.", "source": "Dere tepenin altındaki göle akıyor." },
+          { "target": "After the rain, the {stream} rose quickly.", "source": "Yağmurdan sonra dere hızla yükseldi." },
+          { "target": "They followed the {stream} to find a source of water.", "source": "Bir su kaynağı bulmak için dereyi takip ettiler." },
+          { "target": "Children love to play near a {stream} on hot days.", "source": "Çocuklar sıcak günlerde dere kenarında oynamayı sever." },
+          { "target": "The sound of the {stream} was calming.", "source": "Derenin sesi rahatlatıcıydı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-9",
+        "kind": "word",
+        "term": "cave",
+        "type": "noun",
+        "meaning": "mağara",
+        "examples": [
+          { "target": "The explorers entered the dark {cave} with torches.", "source": "Kaşifler meşalelerle karanlık mağaraya girdi." },
+          { "target": "Bears sometimes sleep in a {cave} during winter.", "source": "Ayılar kışın bazen mağarada uyur." },
+          { "target": "The {cave} contained ancient wall paintings.", "source": "Mağara antik duvar resimleri içeriyordu." },
+          { "target": "They found shelter in a {cave} during the storm.", "source": "Fırtına sırasında bir mağarada sığınak buldular." },
+          { "target": "The {cave} was so deep that their light couldn't reach the end.", "source": "Mağara o kadar derindi ki ışıkları sonuna ulaşamadı." },
+          { "target": "She discovered a beautiful {cave} near the beach.", "source": "Sahil yakınında güzel bir mağara keşfetti." },
+          { "target": "Bats hung from the ceiling of the {cave}.", "source": "Yarasalar mağaranın tavanından sarkıyordu." },
+          { "target": "The {cave} echoed when he called out.", "source": "Bağırdığında mağara yankılandı." },
+          { "target": "Children love exploring small {caves} by the sea.", "source": "Çocuklar deniz kenarındaki küçük mağaraları keşfetmeyi sever." },
+          { "target": "Stalactites hung from the roof of the {cave}.", "source": "Mağaranın tavanından sarkıtlar sarkıyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-10",
+        "kind": "word",
+        "term": "desert",
+        "type": "noun",
+        "meaning": "çöl",
+        "examples": [
+          { "target": "The {desert} is one of the harshest environments on Earth.", "source": "Çöl, Dünya'nın en sert ortamlarından biridir." },
+          { "target": "They crossed the {desert} on camels.", "source": "Çölü develerle geçtiler." },
+          { "target": "Very little rain falls in the {desert}.", "source": "Çölde çok az yağmur yağar." },
+          { "target": "The {desert} sand can reach extremely high temperatures.", "source": "Çöl kumu çok yüksek sıcaklıklara ulaşabilir." },
+          { "target": "Some animals have adapted to live in the {desert}.", "source": "Bazı hayvanlar çölde yaşamaya uyum sağlamıştır." },
+          { "target": "At night, the {desert} becomes surprisingly cold.", "source": "Gece olunca çöl şaşırtıcı derecede soğur." },
+          { "target": "She dreamed of visiting the great {desert}.", "source": "Büyük çölü ziyaret etmeyi hayal etti." },
+          { "target": "Oases provide water in the middle of the {desert}.", "source": "Vahalar çölün ortasında su sağlar." },
+          { "target": "The explorer was lost in the {desert} for three days.", "source": "Kaşif çölde üç gün boyunca kayboldu." },
+          { "target": "Sand dunes roll across the {desert} like frozen waves.", "source": "Kum tepeleri donmuş dalgalar gibi çöl boyunca uzanır." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-11",
+        "kind": "word",
+        "term": "jungle",
+        "type": "noun",
+        "meaning": "orman, yoğun tropikal orman",
+        "examples": [
+          { "target": "The expedition team explored the deep {jungle}.", "source": "Keşif ekibi derin ormana girdi." },
+          { "target": "Many rare animals live in the tropical {jungle}.", "source": "Pek çok nadir hayvan tropikal ormanda yaşar." },
+          { "target": "They cut a path through the thick {jungle}.", "source": "Yoğun ormanda bir yol açtılar." },
+          { "target": "The {jungle} is full of sounds day and night.", "source": "Orman gece gündüz seslerle dolu." },
+          { "target": "She was amazed by the beauty of the {jungle}.", "source": "Ormanın güzelliğine hayran kaldı." },
+          { "target": "The city sometimes feels like a concrete {jungle}.", "source": "Şehir zaman zaman beton bir orman gibi hissettiriyor." },
+          { "target": "Insects and reptiles thrive in the humid {jungle}.", "source": "Böcekler ve sürüngenler nemli ormanda gelişir." },
+          { "target": "It is easy to get lost in the dense {jungle}.", "source": "Yoğun ormanda kaybolmak kolaydır." },
+          { "target": "The river snaked through the {jungle} for miles.", "source": "Nehir ormanda kilometrelerce kıvrılarak aktı." },
+          { "target": "Colorful birds filled the trees of the {jungle}.", "source": "Renkli kuşlar ormanın ağaçlarını dolduruyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-12",
+        "kind": "word",
+        "term": "hill",
+        "type": "noun",
+        "meaning": "tepe",
+        "examples": [
+          { "target": "They ran up the {hill} and looked out over the town.", "source": "Tepeye koştular ve kasabaya baktılar." },
+          { "target": "The village sits at the top of a gentle {hill}.", "source": "Köy yavaş yükselen bir tepenin üzerinde yer alıyor." },
+          { "target": "We rolled down the {hill} on the grass.", "source": "Çimende tepeden aşağı yuvarlandık." },
+          { "target": "She picked wildflowers on the side of the {hill}.", "source": "Tepenin yamacındaki kır çiçeklerini topladı." },
+          { "target": "The road goes up and down many {hills}.", "source": "Yol pek çok tepeden geçiyor." },
+          { "target": "A strong wind blew across the open {hill}.", "source": "Açık tepeden güçlü bir rüzgar esti." },
+          { "target": "The old church was built on top of a {hill}.", "source": "Eski kilise bir tepenin üzerine inşa edilmişti." },
+          { "target": "Sheep grazed quietly on the grassy {hill}.", "source": "Koyunlar çimenli tepede sessizce otluyordu." },
+          { "target": "The children loved sledding down the snowy {hill}.", "source": "Çocuklar karlı tepeden kızakla aşağı inmeyi çok sevdi." },
+          { "target": "From that {hill}, you can see three different villages.", "source": "O tepeden üç farklı köy görebilirsiniz." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-13",
+        "kind": "word",
+        "term": "field",
+        "type": "noun",
+        "meaning": "tarla, alan, saha",
+        "examples": [
+          { "target": "The farmer works in his {field} every morning.", "source": "Çiftçi her sabah tarlasında çalışır." },
+          { "target": "The children played football on the open {field}.", "source": "Çocuklar açık alanda futbol oynadı." },
+          { "target": "The {field} was covered in yellow sunflowers.", "source": "Tarla sarı ayçiçekleriyle kaplıydı." },
+          { "target": "She is an expert in the {field} of medicine.", "source": "Tıp alanında uzmandır." },
+          { "target": "Cows grazed in the green {field} near the barn.", "source": "İnekler ahırın yanındaki yeşil tarlada otluyordu." },
+          { "target": "He spent his career working in the {field} of education.", "source": "Kariyerini eğitim alanında çalışarak geçirdi." },
+          { "target": "A thick fog covered the {field} in the early morning.", "source": "Sabahın erken saatlerinde kalın bir sis tarlayı kapladı." },
+          { "target": "The soldiers practiced on the training {field}.", "source": "Askerler eğitim sahasında pratik yaptı." },
+          { "target": "She loves taking walks through the {fields} in spring.", "source": "İlkbaharda tarlalardan yürüyüş yapmayı çok sever." },
+          { "target": "The research {field} is rapidly changing.", "source": "Araştırma alanı hızla değişiyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-45-14",
+        "kind": "word",
+        "term": "leaf",
+        "type": "noun",
+        "meaning": "yaprak",
+        "examples": [
+          { "target": "A single {leaf} fell from the tree.", "source": "Ağaçtan tek bir yaprak düştü." },
+          { "target": "The {leaves} change color in autumn.", "source": "Yapraklar sonbaharda renk değiştirir." },
+          { "target": "She pressed a colorful {leaf} in her book.", "source": "Renkli bir yaprağı kitabına bastı." },
+          { "target": "The {leaf} was covered in tiny water droplets.", "source": "Yaprak küçük su damlacıklarıyla kaplıydı." },
+          { "target": "He drew the shape of a {leaf} in his notebook.", "source": "Defterine bir yaprak şekli çizdi." },
+          { "target": "The ground was thick with {leaves} after the storm.", "source": "Fırtınanın ardından zemin yaprak kalınlığında bir tabakaya dönüştü." },
+          { "target": "She used a large {leaf} as an umbrella in the rain.", "source": "Yağmurda büyük bir yaprağı şemsiye olarak kullandı." },
+          { "target": "The insect blended perfectly with the green {leaf}.", "source": "Böcek yeşil yaprakla mükemmel şekilde uyum sağladı." },
+          { "target": "Every {leaf} on that tree looks unique.", "source": "O ağaçtaki her yaprak benzersiz görünüyor." },
+          { "target": "He turned over a new {leaf} and changed his habits.", "source": "Yeni bir sayfa açtı ve alışkanlıklarını değiştirdi." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-beginner-46",
+    "languagePair": "en-tr",
+    "name": "Başlangıç 46",
+    "level": "beginner",
+    "category": "travel",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-beginner-46-0",
+        "kind": "word",
+        "term": "travel",
+        "type": "verb",
+        "meaning": "seyahat etmek",
+        "examples": [
+          { "target": "She loves to {travel} to new countries.", "source": "Yeni ülkelere seyahat etmeyi çok sever." },
+          { "target": "He {travels} for work at least twice a month.", "source": "Ayda en az iki kez iş için seyahat ediyor." },
+          { "target": "We plan to {travel} across Europe next summer.", "source": "Gelecek yaz Avrupa'yı gezmeyi planlıyoruz." },
+          { "target": "She {traveled} to ten countries before she was thirty.", "source": "Otuz yaşından önce on ülkeye seyahat etti." },
+          { "target": "Light {travels} faster than sound.", "source": "Işık sesten daha hızlı yayılır." },
+          { "target": "They prefer to {travel} by train.", "source": "Trenle seyahat etmeyi tercih ederler." },
+          { "target": "He {traveled} alone for the first time and enjoyed it.", "source": "İlk kez yalnız seyahat etti ve keyif aldı." },
+          { "target": "News {travels} fast in small towns.", "source": "Küçük kasabalarda haberler hızla yayılır." },
+          { "target": "She {travels} light, with only a small backpack.", "source": "Sadece küçük bir sırt çantasıyla seyahat eder." },
+          { "target": "He dreams of {traveling} the whole world one day.", "source": "Bir gün dünyayı gezmeyi hayal ediyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-1",
+        "kind": "word",
+        "term": "trip",
+        "type": "noun",
+        "meaning": "gezi, seyahat, yolculuk",
+        "examples": [
+          { "target": "They went on a {trip} to the countryside last weekend.", "source": "Geçen hafta sonu kırsala gezi yaptılar." },
+          { "target": "The school {trip} was a great learning experience.", "source": "Okul gezisi harika bir öğrenme deneyimiydi." },
+          { "target": "She planned every detail of the {trip} carefully.", "source": "Gezinin her ayrıntısını dikkatle planladı." },
+          { "target": "It was his first {trip} abroad.", "source": "Yurt dışına ilk seyahatiydi." },
+          { "target": "They took a day {trip} to the nearby town.", "source": "Yakın kasabaya bir günlük gezi yaptılar." },
+          { "target": "The business {trip} lasted five days.", "source": "İş seyahati beş gün sürdü." },
+          { "target": "She bought many souvenirs during her {trip}.", "source": "Gezisi sırasında çok hediyelik eşya aldı." },
+          { "target": "The road {trip} took them through three different states.", "source": "Yol gezisi onları üç farklı eyaletten geçirdi." },
+          { "target": "He {tripped} on the stairs and fell.", "source": "Merdivende takılıp düştü." },
+          { "target": "The {trip} was short but memorable.", "source": "Gezi kısaydı ama akılda kalıcıydı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-2",
+        "kind": "word",
+        "term": "flight",
+        "type": "noun",
+        "meaning": "uçuş",
+        "examples": [
+          { "target": "Her {flight} to London takes two hours.", "source": "Londra'ya uçuşu iki saat sürüyor." },
+          { "target": "They booked a direct {flight} to save time.", "source": "Zaman kazanmak için direkt uçuş rezervasyonu yaptılar." },
+          { "target": "The {flight} was delayed by an hour due to bad weather.", "source": "Kötü hava nedeniyle uçuş bir saat gecikmeli kalktı." },
+          { "target": "She always reads books during a long {flight}.", "source": "Uzun bir uçuşta her zaman kitap okur." },
+          { "target": "His {flight} arrived early in the morning.", "source": "Uçuşu sabahın erken saatlerinde indi." },
+          { "target": "The {flight} was completely full.", "source": "Uçuş tamamen doluydu." },
+          { "target": "She is afraid of {flight} but forces herself to fly.", "source": "Uçuştan korkuyor ama kendini zorla uçuyor." },
+          { "target": "He missed his {flight} because of the traffic.", "source": "Trafik yüzünden uçuşunu kaçırdı." },
+          { "target": "The {flight} attendant brought them water.", "source": "Uçuş görevlisi onlara su getirdi." },
+          { "target": "During the {flight}, we flew over the Alps.", "source": "Uçuş sırasında Alplerden geçtik." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-3",
+        "kind": "word",
+        "term": "hotel",
+        "type": "noun",
+        "meaning": "otel",
+        "examples": [
+          { "target": "They stayed at a comfortable {hotel} near the beach.", "source": "Sahil yakınındaki rahat bir otelde kaldılar." },
+          { "target": "She booked the {hotel} room three weeks in advance.", "source": "Otel odasını üç hafta önceden rezerve etti." },
+          { "target": "The {hotel} had a swimming pool and a restaurant.", "source": "Otelin yüzme havuzu ve restoranı vardı." },
+          { "target": "He checked in to the {hotel} late at night.", "source": "Gece geç saatte otele giriş yaptı." },
+          { "target": "The {hotel} breakfast was included in the price.", "source": "Otel kahvaltısı fiyata dahildi." },
+          { "target": "She loved the view from her {hotel} room.", "source": "Otel odasından gördüğü manzarayı çok sevdi." },
+          { "target": "They found a cheap {hotel} near the station.", "source": "İstasyonun yakınında ucuz bir otel buldular." },
+          { "target": "The {hotel} had excellent customer service.", "source": "Otelin müşteri hizmetleri mükemmeldi." },
+          { "target": "He ordered room service from the {hotel} menu.", "source": "Otel menüsünden oda servisi sipariş etti." },
+          { "target": "The {hotel} was fully booked during the festival.", "source": "Festival süresince otel tamamen doluydu." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-4",
+        "kind": "word",
+        "term": "luggage",
+        "type": "noun",
+        "meaning": "bagaj, valiz",
+        "examples": [
+          { "target": "Her {luggage} was too heavy to carry alone.", "source": "Bagajı tek başına taşıyamayacak kadar ağırdı." },
+          { "target": "He left his {luggage} at the hotel reception.", "source": "Bagajını otel resepsiyonunda bıraktı." },
+          { "target": "All {luggage} must go through security.", "source": "Bütün bagajlar güvenlik kontrolünden geçmelidir." },
+          { "target": "She packed her {luggage} the night before the flight.", "source": "Uçuştan bir gece önce bagajını hazırladı." },
+          { "target": "The airline lost his {luggage}.", "source": "Havayolu şirketi bagajını kaybetti." },
+          { "target": "They stored their {luggage} in a locker at the station.", "source": "Bagajlarını istasyondaki dolapta sakladılar." },
+          { "target": "She travels with only carry-on {luggage}.", "source": "Sadece kabin bagajıyla seyahat eder." },
+          { "target": "There is a charge for extra {luggage}.", "source": "Fazla bagaj için ücret alınır." },
+          { "target": "He dragged his heavy {luggage} across the airport.", "source": "Ağır bagajını havalimanı boyunca sürükledi." },
+          { "target": "Her {luggage} arrived a day after she did.", "source": "Bagajı kendisinden bir gün sonra geldi." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-5",
+        "kind": "word",
+        "term": "passport",
+        "type": "noun",
+        "meaning": "pasaport",
+        "examples": [
+          { "target": "She renewed her {passport} before the trip.", "source": "Seyahatten önce pasaportunu yeniledi." },
+          { "target": "You need a valid {passport} to travel abroad.", "source": "Yurt dışına seyahat etmek için geçerli bir pasaport gerekir." },
+          { "target": "He lost his {passport} at the airport.", "source": "Havalimanında pasaportunu kaybetti." },
+          { "target": "The officer checked his {passport} at the border.", "source": "Yetkili sınırda pasaportunu kontrol etti." },
+          { "target": "Always keep your {passport} in a safe place.", "source": "Pasaportunuzu her zaman güvenli bir yerde saklayın." },
+          { "target": "Her {passport} expires next year.", "source": "Pasaportunun süresi gelecek yıl dolacak." },
+          { "target": "He forgot his {passport} at home and missed the flight.", "source": "Pasaportunu evde unuttu ve uçuşunu kaçırdı." },
+          { "target": "A {passport} is required to enter some countries.", "source": "Bazı ülkelere girmek için pasaport gereklidir." },
+          { "target": "She applied for a new {passport} at the embassy.", "source": "Büyükelçilikten yeni bir pasaport başvurusunda bulundu." },
+          { "target": "His {passport} had stamps from over 30 countries.", "source": "Pasaportununda 30'dan fazla ülkenin damgası vardı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-6",
+        "kind": "word",
+        "term": "border",
+        "type": "noun",
+        "meaning": "sınır",
+        "examples": [
+          { "target": "They crossed the {border} early in the morning.", "source": "Sabahın erken saatlerinde sınırı geçtiler." },
+          { "target": "The two countries share a long {border}.", "source": "İki ülke uzun bir sınırı paylaşıyor." },
+          { "target": "There was a long queue at the {border} crossing.", "source": "Sınır kapısında uzun bir kuyruk vardı." },
+          { "target": "The town is located right on the {border}.", "source": "Kasaba tam sınırın üzerinde yer alıyor." },
+          { "target": "She was stopped at the {border} for a document check.", "source": "Belge kontrolü için sınırda durduruldu." },
+          { "target": "The river forms the natural {border} between the regions.", "source": "Nehir bölgeler arasında doğal sınırı oluşturuyor." },
+          { "target": "Crossing the {border} required a visa.", "source": "Sınırı geçmek için vize gerekiyordu." },
+          { "target": "He grew up near the {border} and speaks two languages.", "source": "Sınır yakınında büyüdü ve iki dil konuşuyor." },
+          { "target": "The soldiers guarded the {border} at night.", "source": "Askerler geceleri sınırı korudu." },
+          { "target": "The {border} was closed due to security concerns.", "source": "Sınır güvenlik endişeleri nedeniyle kapatıldı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-7",
+        "kind": "word",
+        "term": "arrival",
+        "type": "noun",
+        "meaning": "varış, geliş",
+        "examples": [
+          { "target": "Her {arrival} at the airport was greeted with cheers.", "source": "Havalimanına gelişi tezahüratlarla karşılandı." },
+          { "target": "Please check the {arrival} time of the train.", "source": "Lütfen trenin varış saatini kontrol edin." },
+          { "target": "His {arrival} was unexpected and surprised everyone.", "source": "Gelişi beklenmedikti ve herkesi şaşırttı." },
+          { "target": "After our {arrival}, we went straight to the hotel.", "source": "Varışımızın ardından doğruca otele gittik." },
+          { "target": "The {arrival} board showed a 20-minute delay.", "source": "Varış panosu 20 dakikalık gecikme gösteriyordu." },
+          { "target": "On {arrival}, guests will receive a welcome gift.", "source": "Varışlarında misafirlere hoş geldin hediyesi verilecek." },
+          { "target": "The birth of the baby was a joyful {arrival}.", "source": "Bebeğin doğumu sevinçli bir gelişti." },
+          { "target": "He prepared everything before her {arrival}.", "source": "Geliş öncesinde her şeyi hazırladı." },
+          { "target": "The {arrival} of spring brings warmer weather.", "source": "İlkbaharın gelişi daha ılık hava getirir." },
+          { "target": "We waited for two hours for the {arrival} of the package.", "source": "Paketin varışı için iki saat bekledik." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-8",
+        "kind": "word",
+        "term": "departure",
+        "type": "noun",
+        "meaning": "kalkış, ayrılış",
+        "examples": [
+          { "target": "The {departure} time is 9:30 in the morning.", "source": "Kalkış saati sabah 9:30." },
+          { "target": "She was sad at his {departure}.", "source": "Onun ayrılışına üzüldü." },
+          { "target": "Please be at the gate 30 minutes before {departure}.", "source": "Lütfen kalkıştan 30 dakika önce kapıda olun." },
+          { "target": "The {departure} hall was very crowded.", "source": "Kalkış salonu çok kalabalıktı." },
+          { "target": "His {departure} was a big loss for the company.", "source": "Onun ayrılışı şirket için büyük bir kayıptı." },
+          { "target": "Check your {departure} gate before heading to the airport.", "source": "Havalimanına gitmeden önce kalkış kapınızı kontrol edin." },
+          { "target": "The {departure} was delayed by two hours.", "source": "Kalkış iki saat gecikti." },
+          { "target": "She waved goodbye until the bus was out of sight after its {departure}.", "source": "Ayrılıştan sonra otobüs gözden kaybolana kadar veda etti." },
+          { "target": "They announced the {departure} of the train over the speaker.", "source": "Hoparlörden trenin kalkışını duyurdular." },
+          { "target": "His sudden {departure} shocked the whole team.", "source": "Ani ayrılışı tüm ekibi şok etti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-9",
+        "kind": "word",
+        "term": "route",
+        "type": "noun",
+        "meaning": "güzergah, rota",
+        "examples": [
+          { "target": "They took the scenic {route} through the mountains.", "source": "Dağlardan geçen manzaralı güzergahı tercih ettiler." },
+          { "target": "What is the best {route} to get to the city center?", "source": "Şehir merkezine gitmek için en iyi güzergah hangisi?" },
+          { "target": "The GPS suggested a new {route} to avoid traffic.", "source": "GPS trafiği atlatmak için yeni bir rota önerdi." },
+          { "target": "She walked the same {route} to work every day.", "source": "Her gün işe aynı rotadan yürüdü." },
+          { "target": "The trade {route} was used for thousands of years.", "source": "Ticaret güzergahı binlerce yıldır kullanılıyor." },
+          { "target": "He studied the {route} carefully before starting.", "source": "Başlamadan önce rotayı dikkatlice inceledi." },
+          { "target": "The bus {route} changed due to roadworks.", "source": "Otobüs güzergahı yol çalışmaları nedeniyle değişti." },
+          { "target": "They mapped out the {route} before setting off.", "source": "Yola çıkmadan önce güzergahı haritalandırdılar." },
+          { "target": "The hiking {route} passes through several villages.", "source": "Yürüyüş rotası birkaç köyden geçiyor." },
+          { "target": "The pilot announced a change of {route} due to weather.", "source": "Pilot hava nedeniyle rota değişikliğini açıkladı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-10",
+        "kind": "word",
+        "term": "destination",
+        "type": "noun",
+        "meaning": "hedef, varış noktası",
+        "examples": [
+          { "target": "Paris is her dream travel {destination}.", "source": "Paris onun hayal ettiği seyahat hedefidir." },
+          { "target": "We reached our {destination} after six hours.", "source": "Altı saat sonra varış noktamıza ulaştık." },
+          { "target": "The tour guide showed us the {destination} on the map.", "source": "Tur rehberi haritada bize hedefi gösterdi." },
+          { "target": "The package was delivered to the wrong {destination}.", "source": "Paket yanlış adrese teslim edildi." },
+          { "target": "She didn't know what her final {destination} would be.", "source": "Son varış noktasının ne olacağını bilmiyordu." },
+          { "target": "The city has become a popular tourist {destination}.", "source": "Şehir popüler bir turizm merkezine dönüştü." },
+          { "target": "They set off without a specific {destination} in mind.", "source": "Belirli bir hedef düşünmeden yola çıktılar." },
+          { "target": "The ship's {destination} was a small island.", "source": "Geminin varış yeri küçük bir adaydı." },
+          { "target": "The journey was as enjoyable as the {destination}.", "source": "Yolculuk varış noktası kadar keyifliydi." },
+          { "target": "He chose his {destination} based on the weather forecast.", "source": "Hava tahminlerine göre hedefini seçti." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-11",
+        "kind": "word",
+        "term": "explore",
+        "type": "verb",
+        "meaning": "keşfetmek, gezmek",
+        "examples": [
+          { "target": "She loves to {explore} new places during her travels.", "source": "Seyahatlerinde yeni yerleri keşfetmeyi çok sever." },
+          { "target": "They {explored} the old city on foot.", "source": "Eski şehri yürüyerek gezdiler." },
+          { "target": "He wants to {explore} every corner of the country.", "source": "Ülkenin her köşesini keşfetmek istiyor." },
+          { "target": "The children {explored} the forest near the house.", "source": "Çocuklar evin yakınındaki ormanı keşfettiler." },
+          { "target": "Scientists {explore} the deep sea for new species.", "source": "Bilim insanları yeni türler için derin denizi keşfediyor." },
+          { "target": "She {explored} different career options before deciding.", "source": "Karar vermeden önce farklı kariyer seçeneklerini araştırdı." },
+          { "target": "He {explored} the mountain trails every weekend.", "source": "Her hafta sonu dağ yollarını gezdi." },
+          { "target": "The team was hired to {explore} new markets.", "source": "Ekip yeni pazarları keşfetmek için tutuldu." },
+          { "target": "She encouraged her children to {explore} and be curious.", "source": "Çocuklarını keşfetmeye ve meraklı olmaya teşvik etti." },
+          { "target": "They {explored} all the possibilities before making a plan.", "source": "Plan yapmadan önce tüm olasılıkları araştırdılar." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-12",
+        "kind": "word",
+        "term": "visa",
+        "type": "noun",
+        "meaning": "vize",
+        "examples": [
+          { "target": "She applied for a tourist {visa} to visit the country.", "source": "Ülkeyi ziyaret etmek için turist vizesi başvurusunda bulundu." },
+          { "target": "His {visa} was rejected at the embassy.", "source": "Vizesi büyükelçilikte reddedildi." },
+          { "target": "You need a {visa} to enter that country.", "source": "O ülkeye girmek için vizye ihtiyacınız var." },
+          { "target": "She got her {visa} approved in just one week.", "source": "Vizyesini sadece bir haftada onaylattı." },
+          { "target": "The {visa} allows her to stay for three months.", "source": "Vize ona üç ay kalma izni veriyor." },
+          { "target": "He forgot to renew his {visa} before it expired.", "source": "Vizesinin süresi dolmadan yenilemesini unuttu." },
+          { "target": "Applying for a {visa} requires many documents.", "source": "Vize başvurusu için pek çok belge gerekiyor." },
+          { "target": "Her student {visa} allows her to work part-time.", "source": "Öğrenci vizesi ona yarı zamanlı çalışma izni veriyor." },
+          { "target": "Some countries offer a {visa} on arrival.", "source": "Bazı ülkeler havalimanında vize imkânı sunuyor." },
+          { "target": "He spent weeks preparing his {visa} application.", "source": "Vize başvurusunu hazırlamak için haftalarca uğraştı." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-13",
+        "kind": "word",
+        "term": "rent",
+        "type": "verb",
+        "meaning": "kiralamak",
+        "examples": [
+          { "target": "She decided to {rent} a car for the trip.", "source": "Gezi için araba kiralamaya karar verdi." },
+          { "target": "He {rented} a small apartment in the city.", "source": "Şehirde küçük bir daire kiraladı." },
+          { "target": "They {rent} bicycles to tourists near the park.", "source": "Parkın yanında turistlere bisiklet kiralıyorlar." },
+          { "target": "How much does it cost to {rent} a room here?", "source": "Burada bir oda kiralamak ne kadar?" },
+          { "target": "She {rented} a cabin by the lake for two weeks.", "source": "Göl kenarında iki haftalığına bir kulübe kiraladı." },
+          { "target": "They couldn't afford to buy, so they {rented} a house.", "source": "Satın alamadıkları için bir ev kiraladılar." },
+          { "target": "He {rents} a motorbike whenever he visits Thailand.", "source": "Tayland'a her gidişinde motosiklet kiralıyor." },
+          { "target": "We {rented} a boat for the afternoon on the lake.", "source": "Göl üzerinde öğleden sonra için tekne kiraladık." },
+          { "target": "The company {rented} office space downtown.", "source": "Şirket şehir merkezinde ofis alanı kiraladı." },
+          { "target": "She prefers to {rent} rather than buy.", "source": "Satın almak yerine kiralamayı tercih ediyor." }
+        ]
+      },
+      {
+        "id": "en-tr-beginner-46-14",
+        "kind": "word",
+        "term": "guide",
+        "type": "noun",
+        "meaning": "rehber, kılavuz",
+        "examples": [
+          { "target": "They hired a local {guide} to show them around.", "source": "Çevreyi gezdirmeleri için yerel bir rehber tuttular." },
+          { "target": "The tour {guide} spoke both English and French.", "source": "Tur rehberi hem İngilizce hem Fransızca konuşuyordu." },
+          { "target": "She bought a travel {guide} before visiting Italy.", "source": "İtalya'yı ziyaret etmeden önce bir seyahat rehberi satın aldı." },
+          { "target": "The {guide} led them through the museum.", "source": "Rehber onları müze boyunca götürdü." },
+          { "target": "He served as a mountain {guide} for many years.", "source": "Yıllarca dağ rehberliği yaptı." },
+          { "target": "The installation {guide} explains how to set up the device.", "source": "Kurulum kılavuzu cihazın nasıl kurulacağını açıklıyor." },
+          { "target": "A good {guide} helps you avoid tourist traps.", "source": "İyi bir rehber turistik tuzaklardan kaçınmanıza yardımcı olur." },
+          { "target": "She relied on the map as her only {guide}.", "source": "Haritayı tek kılavuzu olarak kullandı." },
+          { "target": "The nature {guide} identified every plant on the trail.", "source": "Doğa rehberi patikadaki her bitkiyi tanımladı." },
+          { "target": "He wrote a beginner's {guide} to cooking.", "source": "Yemek pişirmek için yeni başlayanlar için bir rehber yazdı." }
+        ]
+      }
+    ]
+  }
+]
