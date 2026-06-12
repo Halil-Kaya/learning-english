@@ -79,6 +79,8 @@ export const tr = {
   modeRaceDesc: "Süre dolmadan seç",
   modeHangman: "Adam Asmaca",
   modeHangmanDesc: "Harf tahmin et",
+  modeHunt: "Kelime Avı",
+  modeHuntDesc: "Izgarada gizli kelimeler",
 
   // games common
   gameScore: "SKOR",
@@ -92,6 +94,8 @@ export const tr = {
   gameTimeUp: "⏱ Süre doldu!",
   gameLivesLeft: "HAK",
   gameHangmanLost: "✗ Asıldın! Kelime:",
+  gameHuntRound: "TUR",
+  gameHuntTargets: "BULUNACAK KELİMELER",
 
   // study common
   iKnow: "Biliyorum",

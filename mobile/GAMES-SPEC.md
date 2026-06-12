@@ -96,7 +96,9 @@ Seçicide oyunlar mevcut 6 moddan görsel olarak ayrışır ("OYUNLAR" başlığ
 - [x] **Parti C** — Adam Asmaca ✓ 2026-06-12: `engine/hangman.ts` (klavye setin
       harflerinden türetilir — dil bağımsız), `HangmanMode.tsx` (monospace figür,
       6 hak, puan = kalan can × harf sayısı).
-- [ ] **Parti D** — Kelime Avı: `engine/wordhunt.ts` (grid üretici) + `HuntMode.tsx`.
+- [x] **Parti D** — Kelime Avı ✓ 2026-06-12: `engine/wordhunt.ts` (geri izlemeli
+      yerleştirici; 40 set × 4 tur üretim testinde 160/160 başarılı, çakışma/komşuluk
+      doğrulaması hatasız) + `HuntMode.tsx` (tıklayarak yol çizme, ipucu, tur sistemi).
 
 Her parti sonunda: `npx tsc --noEmit` → commit → push.
 

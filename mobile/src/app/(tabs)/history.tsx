@@ -19,6 +19,7 @@ const MODE_LABEL: Record<StudyMode, string> = {
   anagram: "🧩 Kelime Kur", // oyunlar geçmişe yazılmaz; tip bütünlüğü için
   race: "⏱ Zaman Yarışı",
   hangman: "🪢 Adam Asmaca",
+  hunt: "🗺 Kelime Avı",
 };
 
 function formatDate(iso: string): string {

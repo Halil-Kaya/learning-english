@@ -6,6 +6,7 @@ import { AnagramMode } from "../../components/modes/AnagramMode";
 import { CardsMode } from "../../components/modes/CardsMode";
 import { FillMode } from "../../components/modes/FillMode";
 import { HangmanMode } from "../../components/modes/HangmanMode";
+import { HuntMode } from "../../components/modes/HuntMode";
 import { MatchMode } from "../../components/modes/MatchMode";
 import { MemorizeMode } from "../../components/modes/MemorizeMode";
 import { ModePicker } from "../../components/modes/ModePicker";
@@ -21,7 +22,7 @@ import { useLibrary } from "../../store/library";
 import { useSettings } from "../../store/settings";
 import { colors, spacing } from "../../theme";
 
-const MODE_COMPONENTS: Record<StudyMode, (p: ModeProps) => React.ReactElement> = {
+const MODE_COMPONENTS: Record<StudyMode, (p: ModeProps) => React.ReactElement | null> = {
   cards: CardsMode,
   test: TestMode,
   match: MatchMode,
@@ -31,6 +32,7 @@ const MODE_COMPONENTS: Record<StudyMode, (p: ModeProps) => React.ReactElement> =
   anagram: AnagramMode,
   race: RaceMode,
   hangman: HangmanMode,
+  hunt: HuntMode,
 };
 
 export default function StudySession() {

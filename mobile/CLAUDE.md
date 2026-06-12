@@ -94,7 +94,9 @@ kategorileri gösterir.
 modu yaz → `ModePicker` ve `study/[id].tsx`'teki `MODE_COMPONENTS`'e ekle →
 `StudyMode` union'ına (`types.ts`) anahtar ekle.
 
-- **cards / test / match / fill / write / memorize**
+- **cards / test / match / fill / write / memorize** + oyunlar:
+  **anagram / race / hangman / hunt** (oyunlar `GAME_MODES`'ta — ilerleme ve
+  geçmişe YAZMAZ, yalnız yüksek skor `src/store/games.ts`; bkz. GAMES-SPEC.md)
 - **Ezber (`memorize`)** akışı (piramit kaldırıldı — webdeki spec'ten ayrışır):
   yaz (kelimeyi 10 kez, bakarak) → cümle (3 örnek cümlede boşluk doldur) → final test.
   Yazmada hata = yalnız o satır baştan; cümlede hata = o cümle baştan; final yanlışsa

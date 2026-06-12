@@ -89,7 +89,8 @@ export type StudyMode =
   | "memorize"
   | "anagram"
   | "race"
-  | "hangman";
+  | "hangman"
+  | "hunt";
 
 /**
  * Oyun modları: kelime ilerlemesine (recordWord) ve oturum geçmişine
@@ -99,6 +100,7 @@ export const GAME_MODES: ReadonlySet<StudyMode> = new Set([
   "anagram",
   "race",
   "hangman",
+  "hunt",
 ]);
 
 /** Tamamlanan bir çalışma oturumunun kaydı. */
