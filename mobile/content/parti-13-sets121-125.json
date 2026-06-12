@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "en-tr-intermediate-121",
+    "languagePair": "en-tr",
+    "name": "Orta 121",
+    "level": "intermediate",
+    "category": "general",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-121-1",
+        "kind": "word",
+        "term": "absorb",
+        "type": "verb",
+        "meaning": "emmek, özümsemek",
+        "examples": [
+          { "target": "Sponges can {absorb} large amounts of liquid.", "source": "Süngerler büyük miktarda sıvıyı emebilir." },
+          { "target": "She tried to {absorb} all the information quickly.", "source": "Tüm bilgiyi hızla özümsemeye çalıştı." },
+          { "target": "The dark cloth {absorbs} heat from the sun.", "source": "Koyu renkli kumaş güneşten gelen ısıyı emer." },
+          { "target": "Children {absorb} language naturally at a young age.", "source": "Çocuklar küçük yaşta dili doğal olarak özümser." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-2",
+        "kind": "word",
+        "term": "adapt",
+        "type": "verb",
+        "meaning": "uyum sağlamak, adapte olmak",
+        "examples": [
+          { "target": "Animals {adapt} to their environment over time.", "source": "Hayvanlar zamanla çevrelerine uyum sağlar." },
+          { "target": "She quickly {adapted} to her new workplace.", "source": "Yeni işyerine hızla uyum sağladı." },
+          { "target": "The novel was {adapted} for the screen.", "source": "Roman sinemaya uyarlandı." },
+          { "target": "You must {adapt} your style to the audience.", "source": "Tarzını izleyiciye göre ayarlamalısın." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-3",
+        "kind": "word",
+        "term": "anticipate",
+        "type": "verb",
+        "meaning": "öngörmek, beklemek",
+        "examples": [
+          { "target": "We {anticipate} strong sales this season.", "source": "Bu sezon güçlü satışlar bekliyoruz." },
+          { "target": "She {anticipated} the question before it was asked.", "source": "Soru sorulmadan önce onu öngördü." },
+          { "target": "Can you {anticipate} any problems with the plan?", "source": "Planla ilgili herhangi bir sorun öngörebiliyor musun?" },
+          { "target": "The team {anticipated} a difficult match.", "source": "Takım zorlu bir maç bekliyordu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-4",
+        "kind": "word",
+        "term": "approach",
+        "type": "verb",
+        "meaning": "yaklaşmak, ele almak",
+        "examples": [
+          { "target": "Please {approach} the subject with care.", "source": "Lütfen konuya dikkatli yaklaşın." },
+          { "target": "He {approached} her and introduced himself.", "source": "Ona yaklaştı ve kendini tanıttı." },
+          { "target": "We need to {approach} this problem differently.", "source": "Bu soruna farklı yaklaşmamız gerekiyor." },
+          { "target": "Winter is {approaching} fast this year.", "source": "Bu yıl kış hızla yaklaşıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-5",
+        "kind": "word",
+        "term": "assess",
+        "type": "verb",
+        "meaning": "değerlendirmek, ölçmek",
+        "examples": [
+          { "target": "The doctor will {assess} the patient's condition.", "source": "Doktor hastanın durumunu değerlendirecek." },
+          { "target": "We need to {assess} the risks before continuing.", "source": "Devam etmeden önce riskleri değerlendirmeliyiz." },
+          { "target": "Teachers {assess} students through exams.", "source": "Öğretmenler öğrencileri sınavlarla değerlendirir." },
+          { "target": "An expert was hired to {assess} the damage.", "source": "Hasarı değerlendirmek için uzman tutuldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-6",
+        "kind": "word",
+        "term": "collapse",
+        "type": "verb",
+        "meaning": "çökmek, yıkılmak",
+        "examples": [
+          { "target": "The old building {collapsed} during the earthquake.", "source": "Eski bina depremde çöktü." },
+          { "target": "She {collapsed} from exhaustion after the race.", "source": "Yarıştan sonra yorgunluktan yıkıldı." },
+          { "target": "The company {collapsed} due to mismanagement.", "source": "Şirket yanlış yönetim nedeniyle çöktü." },
+          { "target": "The bridge {collapsed} under the weight.", "source": "Köprü ağırlık altında çöktü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-7",
+        "kind": "word",
+        "term": "concentrate",
+        "type": "verb",
+        "meaning": "odaklanmak, yoğunlaşmak",
+        "examples": [
+          { "target": "I can't {concentrate} with all this noise.", "source": "Tüm bu gürültüyle odaklanamıyorum." },
+          { "target": "She {concentrated} on her breathing.", "source": "Nefesine odaklandı." },
+          { "target": "The company plans to {concentrate} on new markets.", "source": "Şirket yeni pazarlara odaklanmayı planlıyor." },
+          { "target": "Try to {concentrate} during the exam.", "source": "Sınav sırasında odaklanmaya çalışın." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-8",
+        "kind": "word",
+        "term": "confirm",
+        "type": "verb",
+        "meaning": "onaylamak, doğrulamak",
+        "examples": [
+          { "target": "Please {confirm} your reservation by email.", "source": "Lütfen rezervasyonunuzu e-posta ile onaylayın." },
+          { "target": "The test {confirmed} our suspicions.", "source": "Test şüphelerimizi doğruladı." },
+          { "target": "Can you {confirm} the time of the meeting?", "source": "Toplantı saatini onaylayabilir misiniz?" },
+          { "target": "The manager {confirmed} the new policy.", "source": "Müdür yeni politikayı onayladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-9",
+        "kind": "word",
+        "term": "contribute",
+        "type": "verb",
+        "meaning": "katkıda bulunmak",
+        "examples": [
+          { "target": "Everyone can {contribute} to the project.", "source": "Herkes projeye katkıda bulunabilir." },
+          { "target": "She {contributed} her ideas during the meeting.", "source": "Toplantı sırasında fikirlerini paylaştı." },
+          { "target": "Pollution {contributes} to climate change.", "source": "Kirlilik iklim değişikliğine katkıda bulunur." },
+          { "target": "He {contributed} a large sum to the charity.", "source": "Yardım kuruluşuna büyük bir meblağ bağışladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-10",
+        "kind": "word",
+        "term": "convince",
+        "type": "verb",
+        "meaning": "ikna etmek",
+        "examples": [
+          { "target": "She tried to {convince} him to stay.", "source": "Onu kalmaya ikna etmeye çalıştı." },
+          { "target": "The evidence {convinced} the jury.", "source": "Kanıtlar jüriyi ikna etti." },
+          { "target": "Can you {convince} the manager to change the policy?", "source": "Müdürü politikayı değiştirmeye ikna edebilir misin?" },
+          { "target": "He {convinced} himself that everything would be fine.", "source": "Her şeyin yoluna gireceğine kendini ikna etti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-11",
+        "kind": "word",
+        "term": "debate",
+        "type": "verb",
+        "meaning": "tartışmak, müzakere etmek",
+        "examples": [
+          { "target": "They {debated} the issue for hours.", "source": "Saatlerce meseleyi tartıştılar." },
+          { "target": "Students {debate} current events in class.", "source": "Öğrenciler sınıfta güncel olayları tartışır." },
+          { "target": "Politicians {debated} the new budget.", "source": "Politikacılar yeni bütçeyi müzakere etti." },
+          { "target": "She {debated} whether to accept the offer.", "source": "Teklifi kabul edip etmemeyi düşündü." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-12",
+        "kind": "word",
+        "term": "decline",
+        "type": "verb",
+        "meaning": "reddetmek, azalmak",
+        "examples": [
+          { "target": "She {declined} the invitation politely.", "source": "Daveti kibarca reddetti." },
+          { "target": "Sales {declined} sharply in the third quarter.", "source": "Satışlar üçüncü çeyrekte keskin biçimde düştü." },
+          { "target": "He {declined} to comment on the matter.", "source": "Mesele hakkında yorum yapmayı reddetti." },
+          { "target": "Her health has been {declining} slowly.", "source": "Sağlığı yavaş yavaş kötüleşiyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-13",
+        "kind": "word",
+        "term": "delay",
+        "type": "verb",
+        "meaning": "ertelemek, geciktirmek",
+        "examples": [
+          { "target": "The flight was {delayed} by two hours.", "source": "Uçuş iki saat gecikti." },
+          { "target": "Don't {delay} in responding to the message.", "source": "Mesajı yanıtlamayı geciktirme." },
+          { "target": "The project was {delayed} due to bad weather.", "source": "Proje kötü hava nedeniyle ertelendi." },
+          { "target": "Stop {delay}ing and start working!", "source": "Ertelemeyi bırak ve çalışmaya başla!" }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-14",
+        "kind": "word",
+        "term": "demonstrate",
+        "type": "verb",
+        "meaning": "göstermek, kanıtlamak",
+        "examples": [
+          { "target": "She {demonstrated} how to use the software.", "source": "Yazılımın nasıl kullanılacağını gösterdi." },
+          { "target": "He {demonstrated} great courage under pressure.", "source": "Baskı altında büyük cesaret gösterdi." },
+          { "target": "The experiment {demonstrated} the theory.", "source": "Deney teoriyi kanıtladı." },
+          { "target": "They {demonstrated} outside the parliament.", "source": "Parlamentonun önünde gösteri yaptılar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-121-15",
+        "kind": "word",
+        "term": "distinguish",
+        "type": "verb",
+        "meaning": "ayırt etmek, tanımak",
+        "examples": [
+          { "target": "Can you {distinguish} between the two sounds?", "source": "İki ses arasındaki farkı ayırt edebilir misin?" },
+          { "target": "It's hard to {distinguish} the twins.", "source": "İkizleri birbirinden ayırt etmek zor." },
+          { "target": "Color-blind people struggle to {distinguish} red from green.", "source": "Renk körleri kırmızı ile yeşili ayırt etmekte zorlanır." },
+          { "target": "Her talent {distinguished} her from the rest.", "source": "Yeteneği onu diğerlerinden ayırdı." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-122",
+    "languagePair": "en-tr",
+    "name": "Orta 122",
+    "level": "intermediate",
+    "category": "daily-life",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-122-1",
+        "kind": "word",
+        "term": "appliance",
+        "type": "noun",
+        "meaning": "ev aleti, cihaz",
+        "examples": [
+          { "target": "The kitchen {appliance} broke down this morning.", "source": "Mutfak aleti bu sabah bozuldu." },
+          { "target": "We bought new {appliance}s for the house.", "source": "Ev için yeni aletler satın aldık." },
+          { "target": "Energy-efficient {appliance}s reduce electricity bills.", "source": "Enerji verimli cihazlar elektrik faturasını düşürür." },
+          { "target": "The store sells all kinds of household {appliance}s.", "source": "Mağazada her türlü ev aleti satılıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-2",
+        "kind": "word",
+        "term": "budget",
+        "type": "noun",
+        "meaning": "bütçe",
+        "examples": [
+          { "target": "We need to stick to the {budget}.", "source": "Bütçeye sadık kalmamız gerekiyor." },
+          { "target": "The project is over {budget}.", "source": "Proje bütçeyi aştı." },
+          { "target": "She manages the household {budget} carefully.", "source": "Ev bütçesini dikkatli yönetiyor." },
+          { "target": "The government announced a new national {budget}.", "source": "Hükümet yeni ulusal bütçeyi açıkladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-3",
+        "kind": "word",
+        "term": "chore",
+        "type": "noun",
+        "meaning": "ev işi, görev",
+        "examples": [
+          { "target": "Cleaning is a {chore} I hate doing.", "source": "Temizlik yapmaktan nefret ettiğim bir iştir." },
+          { "target": "The children help with household {chore}s.", "source": "Çocuklar ev işlerine yardım eder." },
+          { "target": "Shopping for groceries is a weekly {chore}.", "source": "Market alışverişi haftalık bir rutin." },
+          { "target": "He divided the {chore}s fairly between them.", "source": "Ev işlerini aralarında adil biçimde paylaştırdı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-4",
+        "kind": "word",
+        "term": "commute",
+        "type": "noun",
+        "meaning": "işe gidip gelme",
+        "examples": [
+          { "target": "Her {commute} to work takes an hour.", "source": "İşe gidip gelmesi bir saat sürüyor." },
+          { "target": "He prefers to {commute} by bicycle.", "source": "İşe bisikletle gitmeyi tercih eder." },
+          { "target": "The long {commute} exhausts her every day.", "source": "Uzun yolculuk onu her gün yoruyor." },
+          { "target": "Working from home eliminated her {commute}.", "source": "Evden çalışmak işe gidip gelmesini ortadan kaldırdı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-5",
+        "kind": "word",
+        "term": "convenience",
+        "type": "noun",
+        "meaning": "kolaylık, uygunluk",
+        "examples": [
+          { "target": "Online shopping offers great {convenience}.", "source": "Online alışveriş büyük kolaylık sağlıyor." },
+          { "target": "The hotel was chosen for its {convenience} to the airport.", "source": "Otel havalimanına yakınlığı nedeniyle seçildi." },
+          { "target": "At your {convenience}, please call me.", "source": "Uygun olduğunuzda lütfen beni arayın." },
+          { "target": "Microwaves were invented for {convenience}.", "source": "Mikrodalga fırınlar kolaylık için icat edildi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-6",
+        "kind": "word",
+        "term": "routine",
+        "type": "noun",
+        "meaning": "rutin, alışkanlık",
+        "examples": [
+          { "target": "Morning exercise is part of my {routine}.", "source": "Sabah egzersizi rutinim." },
+          { "target": "She follows the same {routine} every day.", "source": "Her gün aynı rutini izliyor." },
+          { "target": "Breaking your {routine} can feel refreshing.", "source": "Rutininizi bozmak canlandırıcı gelebilir." },
+          { "target": "His {routine} helped him stay productive.", "source": "Rutini verimliliğini korumasına yardımcı oldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-7",
+        "kind": "word",
+        "term": "schedule",
+        "type": "noun",
+        "meaning": "program, takvim",
+        "examples": [
+          { "target": "My {schedule} is very busy this week.", "source": "Bu hafta programım çok yoğun." },
+          { "target": "The train {schedule} was delayed.", "source": "Tren takvimi gecikti." },
+          { "target": "She checks her {schedule} every morning.", "source": "Her sabah programına bakıyor." },
+          { "target": "The event is on {schedule}.", "source": "Etkinlik planlandığı gibi ilerliyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-8",
+        "kind": "word",
+        "term": "subscription",
+        "type": "noun",
+        "meaning": "abonelik",
+        "examples": [
+          { "target": "She has a {subscription} to the streaming service.", "source": "Yayın platformuna aboneliği var." },
+          { "target": "Cancel your {subscription} before the trial ends.", "source": "Deneme süresi bitmeden aboneliğini iptal et." },
+          { "target": "A monthly {subscription} costs less than a daily fee.", "source": "Aylık abonelik günlük ücret ödemeye göre daha ucuz." },
+          { "target": "He renewed his magazine {subscription} online.", "source": "Dergi aboneliğini çevrimiçi yeniledi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-9",
+        "kind": "word",
+        "term": "transaction",
+        "type": "noun",
+        "meaning": "işlem, alışveriş",
+        "examples": [
+          { "target": "The bank blocked the suspicious {transaction}.", "source": "Banka şüpheli işlemi engelledi." },
+          { "target": "Each {transaction} is recorded in the system.", "source": "Her işlem sisteme kaydedilir." },
+          { "target": "The {transaction} was completed in seconds.", "source": "İşlem saniyeler içinde tamamlandı." },
+          { "target": "Online {transaction}s are protected by encryption.", "source": "Çevrimiçi işlemler şifrelemeyle korunur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-10",
+        "kind": "word",
+        "term": "appointment",
+        "type": "noun",
+        "meaning": "randevu",
+        "examples": [
+          { "target": "I have a doctor's {appointment} at 3 PM.", "source": "Saat 15'te doktor randevum var." },
+          { "target": "She missed her {appointment}.", "source": "Randevusunu kaçırdı." },
+          { "target": "Please make an {appointment} in advance.", "source": "Lütfen önceden randevu alın." },
+          { "target": "His {appointment} as director was announced.", "source": "Müdürlüğe atanması duyuruldu." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-11",
+        "kind": "word",
+        "term": "deadline",
+        "type": "noun",
+        "meaning": "son teslim tarihi",
+        "examples": [
+          { "target": "The {deadline} for the project is Friday.", "source": "Projenin son teslim tarihi Cuma." },
+          { "target": "She always meets her {deadline}s.", "source": "Son teslim tarihlerine hep uyar." },
+          { "target": "Missing the {deadline} will have consequences.", "source": "Son tarihi kaçırmanın sonuçları olacak." },
+          { "target": "He worked all night to beat the {deadline}.", "source": "Son tarihi yetiştirmek için bütün gece çalıştı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-12",
+        "kind": "word",
+        "term": "habit",
+        "type": "noun",
+        "meaning": "alışkanlık",
+        "examples": [
+          { "target": "Reading every night is a good {habit}.", "source": "Her gece okumak iyi bir alışkanlıktır." },
+          { "target": "It takes 21 days to form a new {habit}.", "source": "Yeni bir alışkanlık oluşturmak 21 gün sürer." },
+          { "target": "She broke her {habit} of checking her phone at dinner.", "source": "Yemekte telefon kontrol etme alışkanlığını bıraktı." },
+          { "target": "Smoking is a hard {habit} to quit.", "source": "Sigara bırakılması zor bir alışkanlıktır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-13",
+        "kind": "word",
+        "term": "income",
+        "type": "noun",
+        "meaning": "gelir",
+        "examples": [
+          { "target": "Her monthly {income} covers all expenses.", "source": "Aylık geliri tüm giderleri karşılıyor." },
+          { "target": "He has multiple sources of {income}.", "source": "Birden fazla gelir kaynağı var." },
+          { "target": "{Income} tax must be filed by April.", "source": "Gelir vergisi Nisan'a kadar beyan edilmelidir." },
+          { "target": "A stable {income} provides financial security.", "source": "İstikrarlı bir gelir mali güvence sağlar." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-14",
+        "kind": "word",
+        "term": "insurance",
+        "type": "noun",
+        "meaning": "sigorta",
+        "examples": [
+          { "target": "Health {insurance} is mandatory in many countries.", "source": "Pek çok ülkede sağlık sigortası zorunludur." },
+          { "target": "He filed a claim with his {insurance} company.", "source": "Sigorta şirketine hasar bildirdi." },
+          { "target": "Car {insurance} protects you in accidents.", "source": "Araç sigortası kazalarda sizi korur." },
+          { "target": "She took out travel {insurance} for the trip.", "source": "Gezi için seyahat sigortası yaptırdı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-122-15",
+        "kind": "word",
+        "term": "lease",
+        "type": "noun",
+        "meaning": "kira sözleşmesi, kiralamak",
+        "examples": [
+          { "target": "They signed a one-year {lease} on the apartment.", "source": "Daire için bir yıllık kira sözleşmesi imzaladılar." },
+          { "target": "The {lease} expires at the end of the month.", "source": "Kira sözleşmesi ay sonunda sona eriyor." },
+          { "target": "She decided to {lease} a car instead of buying.", "source": "Satın almak yerine araba kiralamaya karar verdi." },
+          { "target": "Read the {lease} carefully before signing.", "source": "İmzalamadan önce kira sözleşmesini dikkatlice okuyun." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-123",
+    "languagePair": "en-tr",
+    "name": "Orta 123",
+    "level": "intermediate",
+    "category": "health",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-123-1",
+        "kind": "word",
+        "term": "allergy",
+        "type": "noun",
+        "meaning": "alerji",
+        "examples": [
+          { "target": "She has a severe {allergy} to peanuts.", "source": "Fıstığa karşı şiddetli alerjisi var." },
+          { "target": "Spring pollen causes his {allergy} to flare up.", "source": "Bahar poleni alerjisinin alevlenmesine neden olur." },
+          { "target": "The doctor diagnosed a food {allergy}.", "source": "Doktor besin alerjisi teşhisi koydu." },
+          { "target": "Her {allergy} symptoms include sneezing and itching.", "source": "Alerji belirtileri arasında hapşırma ve kaşınma var." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-2",
+        "kind": "word",
+        "term": "anxiety",
+        "type": "noun",
+        "meaning": "kaygı, endişe",
+        "examples": [
+          { "target": "She feels {anxiety} before public speaking.", "source": "Halka açık konuşmadan önce kaygı hisseder." },
+          { "target": "His {anxiety} kept him awake at night.", "source": "Kaygısı onu geceleri uyutmuyordu." },
+          { "target": "Exercise can reduce {anxiety} levels.", "source": "Egzersiz kaygı düzeyini azaltabilir." },
+          { "target": "{Anxiety} disorders are common worldwide.", "source": "Kaygı bozuklukları dünya genelinde yaygındır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-3",
+        "kind": "word",
+        "term": "chronic",
+        "type": "adjective",
+        "meaning": "kronik, süreğen",
+        "examples": [
+          { "target": "He suffers from {chronic} back pain.", "source": "Kronik sırt ağrısından mustarip." },
+          { "target": "{Chronic} stress can weaken the immune system.", "source": "Kronik stres bağışıklık sistemini zayıflatabilir." },
+          { "target": "She has a {chronic} lung condition.", "source": "Kronik bir akciğer hastalığı var." },
+          { "target": "{Chronic} diseases require long-term treatment.", "source": "Kronik hastalıklar uzun süreli tedavi gerektirir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-4",
+        "kind": "word",
+        "term": "diagnosis",
+        "type": "noun",
+        "meaning": "teşhis",
+        "examples": [
+          { "target": "The {diagnosis} came as a shock to the family.", "source": "Teşhis aileye şok gibi geldi." },
+          { "target": "Early {diagnosis} improves treatment outcomes.", "source": "Erken teşhis tedavi sonuçlarını iyileştirir." },
+          { "target": "The doctor made a correct {diagnosis}.", "source": "Doktor doğru teşhisi koydu." },
+          { "target": "Blood tests confirmed the {diagnosis}.", "source": "Kan testleri teşhisi doğruladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-5",
+        "kind": "word",
+        "term": "dosage",
+        "type": "noun",
+        "meaning": "dozaj, doz",
+        "examples": [
+          { "target": "Follow the prescribed {dosage} carefully.", "source": "Reçete edilen dozajı dikkatlice takip edin." },
+          { "target": "The {dosage} was increased after a week.", "source": "Bir hafta sonra doz artırıldı." },
+          { "target": "An incorrect {dosage} can be dangerous.", "source": "Yanlış bir doz tehlikeli olabilir." },
+          { "target": "The {dosage} depends on the patient's weight.", "source": "Doz hastanın kilosuna bağlıdır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-6",
+        "kind": "word",
+        "term": "immune",
+        "type": "adjective",
+        "meaning": "bağışık, dokunulmaz",
+        "examples": [
+          { "target": "She seems {immune} to colds.", "source": "Nezleye karşı bağışık görünüyor." },
+          { "target": "The vaccine makes the body {immune} to the virus.", "source": "Aşı, vücudu virüse karşı bağışık kılar." },
+          { "target": "No one is {immune} to criticism.", "source": "Kimse eleştiriden muaf değildir." },
+          { "target": "The {immune} system fights infections.", "source": "Bağışıklık sistemi enfeksiyonlarla savaşır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-7",
+        "kind": "word",
+        "term": "inflammation",
+        "type": "noun",
+        "meaning": "iltihaplanma, yangı",
+        "examples": [
+          { "target": "The injury caused {inflammation} around the joint.", "source": "Yaralanma eklem çevresinde iltihaplanmaya yol açtı." },
+          { "target": "Ice helps reduce {inflammation}.", "source": "Buz iltihaplanmayı azaltmaya yardımcı olur." },
+          { "target": "{Inflammation} is the body's response to injury.", "source": "İltihaplanma vücudun yaralanmaya verdiği yanıttır." },
+          { "target": "Chronic {inflammation} is linked to many diseases.", "source": "Kronik iltihaplanma pek çok hastalıkla bağlantılıdır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-8",
+        "kind": "word",
+        "term": "nutrition",
+        "type": "noun",
+        "meaning": "beslenme, besin değeri",
+        "examples": [
+          { "target": "Good {nutrition} is essential for children's growth.", "source": "Çocukların büyümesi için iyi beslenme esastır." },
+          { "target": "The label shows the product's {nutrition} facts.", "source": "Etiket ürünün besin değerlerini gösteriyor." },
+          { "target": "She studied {nutrition} at university.", "source": "Üniversitede beslenme eğitimi aldı." },
+          { "target": "Poor {nutrition} can lead to serious health problems.", "source": "Yetersiz beslenme ciddi sağlık sorunlarına yol açabilir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-9",
+        "kind": "word",
+        "term": "obesity",
+        "type": "noun",
+        "meaning": "obezite, aşırı şişmanlık",
+        "examples": [
+          { "target": "{Obesity} is a growing health concern worldwide.", "source": "Obezite dünya genelinde büyüyen bir sağlık sorunu." },
+          { "target": "Sugary drinks contribute to childhood {obesity}.", "source": "Şekerli içecekler çocukluk çağı obezitesine katkıda bulunur." },
+          { "target": "{Obesity} increases the risk of heart disease.", "source": "Obezite kalp hastalığı riskini artırır." },
+          { "target": "Diet and exercise can prevent {obesity}.", "source": "Diyet ve egzersiz obeziteyi önleyebilir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-10",
+        "kind": "word",
+        "term": "prescription",
+        "type": "noun",
+        "meaning": "reçete",
+        "examples": [
+          { "target": "You need a {prescription} for this medicine.", "source": "Bu ilaç için reçete gerekiyor." },
+          { "target": "The doctor wrote a {prescription} for antibiotics.", "source": "Doktor antibiyotik reçetesi yazdı." },
+          { "target": "She filled her {prescription} at the pharmacy.", "source": "Eczanede reçetesini yaptırdı." },
+          { "target": "Keep your {prescription} in a safe place.", "source": "Reçetenizi güvenli bir yerde saklayın." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-11",
+        "kind": "word",
+        "term": "recovery",
+        "type": "noun",
+        "meaning": "iyileşme, toparlanma",
+        "examples": [
+          { "target": "Her {recovery} from surgery was quick.", "source": "Ameliyattan iyileşmesi hızlı oldu." },
+          { "target": "Rest is important for full {recovery}.", "source": "Tam iyileşme için dinlenmek önemlidir." },
+          { "target": "The economy showed signs of {recovery}.", "source": "Ekonomi toparlanma belirtileri gösterdi." },
+          { "target": "He is in {recovery} after the accident.", "source": "Kazadan sonra iyileşme sürecinde." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-12",
+        "kind": "word",
+        "term": "symptom",
+        "type": "noun",
+        "meaning": "belirti, semptom",
+        "examples": [
+          { "target": "Fever is a common {symptom} of infection.", "source": "Ateş, enfeksiyonun yaygın bir belirtisidir." },
+          { "target": "She reported her {symptom}s to the doctor.", "source": "Belirtilerini doktora bildirdi." },
+          { "target": "Fatigue can be a {symptom} of depression.", "source": "Yorgunluk, depresyonun belirtisi olabilir." },
+          { "target": "The {symptom}s appeared after eating.", "source": "Belirtiler yemek yedikten sonra ortaya çıktı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-13",
+        "kind": "word",
+        "term": "therapy",
+        "type": "noun",
+        "meaning": "terapi, tedavi",
+        "examples": [
+          { "target": "She has been attending {therapy} for six months.", "source": "Altı aydır terapiye gidiyor." },
+          { "target": "{Therapy} helped him process his emotions.", "source": "Terapi duygularını işlemlemesine yardımcı oldu." },
+          { "target": "Physical {therapy} aids in recovery.", "source": "Fizik tedavi iyileşmeye yardımcı olur." },
+          { "target": "Speech {therapy} improved her communication skills.", "source": "Konuşma terapisi iletişim becerilerini geliştirdi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-14",
+        "kind": "word",
+        "term": "vaccine",
+        "type": "noun",
+        "meaning": "aşı",
+        "examples": [
+          { "target": "The {vaccine} protected millions from the disease.", "source": "Aşı milyonlarca kişiyi hastalıktan korudu." },
+          { "target": "Children receive multiple {vaccine}s in their first year.", "source": "Çocuklar ilk yıllarında birden fazla aşı alır." },
+          { "target": "A new {vaccine} was approved by the health authority.", "source": "Sağlık otoritesi yeni bir aşıyı onayladı." },
+          { "target": "He was hesitant to take the {vaccine}.", "source": "Aşı olmaktan çekindi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-123-15",
+        "kind": "word",
+        "term": "wound",
+        "type": "noun",
+        "meaning": "yara",
+        "examples": [
+          { "target": "He cleaned the {wound} carefully.", "source": "Yarayı dikkatlice temizledi." },
+          { "target": "The {wound} healed quickly with proper care.", "source": "Uygun bakımla yara hızla iyileşti." },
+          { "target": "The soldier had a bullet {wound} in his leg.", "source": "Askerin bacağında kurşun yarası vardı." },
+          { "target": "A {wound} to the heart is hard to heal.", "source": "Kalbe vurlan yara iyileşmesi zor." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-124",
+    "languagePair": "en-tr",
+    "name": "Orta 124",
+    "level": "intermediate",
+    "category": "technology",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-124-1",
+        "kind": "word",
+        "term": "algorithm",
+        "type": "noun",
+        "meaning": "algoritma",
+        "examples": [
+          { "target": "The search engine uses a complex {algorithm}.", "source": "Arama motoru karmaşık bir algoritma kullanır." },
+          { "target": "An {algorithm} is a set of instructions for solving a problem.", "source": "Algoritma bir sorunu çözmek için talimatlar bütünüdür." },
+          { "target": "Social media {algorithm}s decide what you see.", "source": "Sosyal medya algoritmaları neleri göreceğinize karar verir." },
+          { "target": "She wrote an {algorithm} to sort the data.", "source": "Verileri sıralamak için bir algoritma yazdı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-2",
+        "kind": "word",
+        "term": "bandwidth",
+        "type": "noun",
+        "meaning": "bant genişliği",
+        "examples": [
+          { "target": "Streaming videos requires a lot of {bandwidth}.", "source": "Video yayını çok {bant genişliği} gerektirir." },
+          { "target": "Our office needs higher {bandwidth} for video calls.", "source": "Ofisimiz görüntülü aramalar için daha yüksek bant genişliğine ihtiyaç duyuyor." },
+          { "target": "Limited {bandwidth} causes slow loading times.", "source": "Sınırlı bant genişliği yavaş yüklenme sürelerine neden olur." },
+          { "target": "The provider offers unlimited {bandwidth}.", "source": "Sağlayıcı sınırsız bant genişliği sunuyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-3",
+        "kind": "word",
+        "term": "database",
+        "type": "noun",
+        "meaning": "veritabanı",
+        "examples": [
+          { "target": "All customer records are stored in the {database}.", "source": "Tüm müşteri kayıtları veritabanında saklanıyor." },
+          { "target": "The hacker breached the company's {database}.", "source": "Hacker şirketin veritabanını ihlal etti." },
+          { "target": "She queries the {database} daily for reports.", "source": "Raporlar için her gün veritabanını sorgular." },
+          { "target": "The {database} was updated with new entries.", "source": "Veritabanı yeni girişlerle güncellendi." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-4",
+        "kind": "word",
+        "term": "encryption",
+        "type": "noun",
+        "meaning": "şifreleme",
+        "examples": [
+          { "target": "{Encryption} protects data from unauthorized access.", "source": "Şifreleme, verileri yetkisiz erişimden korur." },
+          { "target": "End-to-end {encryption} secures your messages.", "source": "Uçtan uca şifreleme mesajlarınızı güvence altına alır." },
+          { "target": "The bank uses strong {encryption} standards.", "source": "Banka güçlü şifreleme standartları kullanıyor." },
+          { "target": "Breaking {encryption} requires enormous computing power.", "source": "Şifrelemeyi kırmak muazzam işlem gücü gerektirir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-5",
+        "kind": "word",
+        "term": "interface",
+        "type": "noun",
+        "meaning": "arayüz",
+        "examples": [
+          { "target": "The app has an intuitive user {interface}.", "source": "Uygulamanın sezgisel bir kullanıcı arayüzü var." },
+          { "target": "Designers worked hard on the {interface} layout.", "source": "Tasarımcılar arayüz düzeni üzerinde çok çalıştı." },
+          { "target": "The {interface} connects the hardware and software.", "source": "Arayüz, donanım ile yazılımı birbirine bağlar." },
+          { "target": "A clean {interface} improves user experience.", "source": "Temiz bir arayüz kullanıcı deneyimini geliştirir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-6",
+        "kind": "word",
+        "term": "malware",
+        "type": "noun",
+        "meaning": "kötü amaçlı yazılım",
+        "examples": [
+          { "target": "The computer was infected with {malware}.", "source": "Bilgisayar kötü amaçlı yazılıma bulaştı." },
+          { "target": "{Malware} can steal your personal information.", "source": "Kötü amaçlı yazılım kişisel bilgilerinizi çalabilir." },
+          { "target": "Install an antivirus to protect against {malware}.", "source": "Kötü amaçlı yazılımlara karşı korumak için antivirüs yükleyin." },
+          { "target": "She detected {malware} during a routine scan.", "source": "Rutin taramada kötü amaçlı yazılım tespit etti." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-7",
+        "kind": "word",
+        "term": "platform",
+        "type": "noun",
+        "meaning": "platform",
+        "examples": [
+          { "target": "The app is available on all major {platform}s.", "source": "Uygulama tüm büyük platformlarda mevcut." },
+          { "target": "Social media {platform}s have billions of users.", "source": "Sosyal medya platformlarının milyarlarca kullanıcısı var." },
+          { "target": "Developers release updates for each {platform} separately.", "source": "Geliştiriciler her platform için ayrı güncellemeler yayınlar." },
+          { "target": "The politician used the {platform} to share ideas.", "source": "Politikacı fikirleri paylaşmak için platformu kullandı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-8",
+        "kind": "word",
+        "term": "prototype",
+        "type": "noun",
+        "meaning": "prototip",
+        "examples": [
+          { "target": "Engineers built a {prototype} of the new product.", "source": "Mühendisler yeni ürünün prototipini oluşturdu." },
+          { "target": "The {prototype} was tested before mass production.", "source": "Prototip, seri üretimden önce test edildi." },
+          { "target": "She designed a {prototype} for the app.", "source": "Uygulama için prototip tasarladı." },
+          { "target": "The {prototype} revealed several design flaws.", "source": "Prototip birkaç tasarım hatasını ortaya çıkardı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-9",
+        "kind": "word",
+        "term": "server",
+        "type": "noun",
+        "meaning": "sunucu",
+        "examples": [
+          { "target": "The website crashed because the {server} was overloaded.", "source": "Web sitesi, sunucu aşırı yüklendiği için çöktü." },
+          { "target": "Data is stored on a remote {server}.", "source": "Veriler uzak bir sunucuda depolanır." },
+          { "target": "The company upgraded its {server}s.", "source": "Şirket sunucularını yükseltti." },
+          { "target": "A {server} handles requests from multiple users.", "source": "Sunucu, birden fazla kullanıcıdan gelen istekleri işler." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-10",
+        "kind": "word",
+        "term": "software",
+        "type": "noun",
+        "meaning": "yazılım",
+        "examples": [
+          { "target": "Update your {software} to stay secure.", "source": "Güvende kalmak için yazılımınızı güncelleyin." },
+          { "target": "The company develops {software} for hospitals.", "source": "Şirket hastaneler için yazılım geliştiriyor." },
+          { "target": "She learned to code to build her own {software}.", "source": "Kendi yazılımını geliştirmek için kod yazmayı öğrendi." },
+          { "target": "The {software} requires at least 4GB of RAM.", "source": "Yazılım en az 4 GB RAM gerektiriyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-11",
+        "kind": "word",
+        "term": "streaming",
+        "type": "noun",
+        "meaning": "akış (medya), yayın",
+        "examples": [
+          { "target": "{Streaming} services have replaced cable TV.", "source": "Yayın hizmetleri kablo TV'nin yerini aldı." },
+          { "target": "She spent the evening {streaming} movies.", "source": "Akşamı film izleyerek geçirdi." },
+          { "target": "Live {streaming} lets anyone broadcast worldwide.", "source": "Canlı yayın herkese dünyaya yayın yapma imkânı verir." },
+          { "target": "The {streaming} quality depends on your internet speed.", "source": "Yayın kalitesi internet hızınıza bağlıdır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-12",
+        "kind": "word",
+        "term": "update",
+        "type": "noun",
+        "meaning": "güncelleme",
+        "examples": [
+          { "target": "Install the latest {update} to fix the bug.", "source": "Hatayı düzeltmek için son güncellemeyi yükleyin." },
+          { "target": "She received a news {update} on her phone.", "source": "Telefonuna haber güncellemesi geldi." },
+          { "target": "The {update} improved the app's performance.", "source": "Güncelleme uygulamanın performansını artırdı." },
+          { "target": "Automatic {update}s run in the background.", "source": "Otomatik güncellemeler arka planda çalışır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-13",
+        "kind": "word",
+        "term": "virtual",
+        "type": "adjective",
+        "meaning": "sanal",
+        "examples": [
+          { "target": "The company held a {virtual} meeting last week.", "source": "Şirket geçen hafta sanal bir toplantı düzenledi." },
+          { "target": "{Virtual} reality creates immersive experiences.", "source": "Sanal gerçeklik sürükleyici deneyimler yaratır." },
+          { "target": "She attended a {virtual} conference from home.", "source": "Evden sanal bir konferansa katıldı." },
+          { "target": "The {virtual} classroom connected students worldwide.", "source": "Sanal sınıf dünya genelinde öğrencileri birbirine bağladı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-14",
+        "kind": "word",
+        "term": "wireless",
+        "type": "adjective",
+        "meaning": "kablosuz",
+        "examples": [
+          { "target": "The office has {wireless} internet throughout.", "source": "Ofiste her yerde kablosuz internet var." },
+          { "target": "She bought {wireless} headphones for her commute.", "source": "Yolculuğu için kablosuz kulaklık aldı." },
+          { "target": "{Wireless} technology has transformed communication.", "source": "Kablosuz teknoloji iletişimi dönüştürdü." },
+          { "target": "The {wireless} speaker connects via Bluetooth.", "source": "Kablosuz hoparlör Bluetooth ile bağlanıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-124-15",
+        "kind": "word",
+        "term": "upload",
+        "type": "verb",
+        "meaning": "yüklemek (internete)",
+        "examples": [
+          { "target": "She {upload}ed the photo to the website.", "source": "Fotoğrafı web sitesine yükledi." },
+          { "target": "Please {upload} the file before noon.", "source": "Lütfen dosyayı öğleden önce yükleyin." },
+          { "target": "It takes time to {upload} large videos.", "source": "Büyük videoları yüklemek zaman alır." },
+          { "target": "He {upload}ed his CV to the job portal.", "source": "CV'sini iş portalına yükledi." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "en-tr-intermediate-125",
+    "languagePair": "en-tr",
+    "name": "Orta 125",
+    "level": "intermediate",
+    "category": "nature",
+    "source": "catalog",
+    "entries": [
+      {
+        "id": "en-tr-intermediate-125-1",
+        "kind": "word",
+        "term": "biodiversity",
+        "type": "noun",
+        "meaning": "biyoçeşitlilik",
+        "examples": [
+          { "target": "Rainforests are rich in {biodiversity}.", "source": "Yağmur ormanları biyoçeşitlilik açısından zengindir." },
+          { "target": "Pollution threatens {biodiversity}.", "source": "Kirlilik biyoçeşitliliği tehdit ediyor." },
+          { "target": "Scientists study {biodiversity} to understand ecosystems.", "source": "Bilim insanları ekosistemleri anlamak için biyoçeşitliliği inceliyor." },
+          { "target": "Protecting {biodiversity} is essential for our future.", "source": "Biyoçeşitliliği korumak geleceğimiz için esastır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-2",
+        "kind": "word",
+        "term": "carbon",
+        "type": "noun",
+        "meaning": "karbon",
+        "examples": [
+          { "target": "We need to reduce our {carbon} footprint.", "source": "Karbon ayak izimizi azaltmamız gerekiyor." },
+          { "target": "{Carbon} dioxide is a greenhouse gas.", "source": "Karbondioksit bir sera gazıdır." },
+          { "target": "Diamond is made of pure {carbon}.", "source": "Elmas saf karbondan oluşur." },
+          { "target": "Airlines are investing in {carbon} offsetting.", "source": "Havayolları karbon dengelemeye yatırım yapıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-3",
+        "kind": "word",
+        "term": "conservation",
+        "type": "noun",
+        "meaning": "koruma, muhafaza",
+        "examples": [
+          { "target": "Wildlife {conservation} protects endangered animals.", "source": "Yaban hayatı koruma, nesli tükenmekte olan hayvanları korur." },
+          { "target": "Energy {conservation} reduces costs.", "source": "Enerji tasarrufu maliyetleri düşürür." },
+          { "target": "The {conservation} of forests is vital.", "source": "Ormanların korunması hayati önem taşır." },
+          { "target": "She volunteers for a {conservation} organization.", "source": "Bir koruma kuruluşunda gönüllü olarak çalışıyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-4",
+        "kind": "word",
+        "term": "drought",
+        "type": "noun",
+        "meaning": "kuraklık",
+        "examples": [
+          { "target": "The region has been suffering from {drought} for years.", "source": "Bölge yıllardır kuraklıktan muzdarip." },
+          { "target": "{Drought} threatens food production in many countries.", "source": "Kuraklık pek çok ülkede gıda üretimini tehdit ediyor." },
+          { "target": "The {drought} dried up the river completely.", "source": "Kuraklık nehri tamamen kuruttu." },
+          { "target": "Farmers suffered heavy losses due to {drought}.", "source": "Çiftçiler kuraklık nedeniyle büyük kayıplar yaşadı." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-5",
+        "kind": "word",
+        "term": "ecosystem",
+        "type": "noun",
+        "meaning": "ekosistem",
+        "examples": [
+          { "target": "Coral reefs are a complex {ecosystem}.", "source": "Mercan resifleri karmaşık bir ekosistemdir." },
+          { "target": "Human activity is disrupting the {ecosystem}.", "source": "İnsan faaliyeti ekosistemi bozuyor." },
+          { "target": "Each species plays a role in the {ecosystem}.", "source": "Her tür ekosistemde bir rol oynar." },
+          { "target": "Protecting the {ecosystem} is everyone's responsibility.", "source": "Ekosistemi korumak herkesin sorumluluğudur." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-6",
+        "kind": "word",
+        "term": "erosion",
+        "type": "noun",
+        "meaning": "erozyon, aşınma",
+        "examples": [
+          { "target": "{Erosion} washed away the topsoil.", "source": "Erozyon üst toprağı akıttı." },
+          { "target": "Coastal {erosion} threatens homes near the sea.", "source": "Kıyı erozyonu deniz kenarındaki evleri tehdit ediyor." },
+          { "target": "Trees help prevent soil {erosion}.", "source": "Ağaçlar toprak erozyonunu önlemeye yardımcı olur." },
+          { "target": "The {erosion} of trust takes years to repair.", "source": "Güvenin erozyonu, onarılması için yıllar gerektirir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-7",
+        "kind": "word",
+        "term": "fossil",
+        "type": "noun",
+        "meaning": "fosil",
+        "examples": [
+          { "target": "Scientists found a dinosaur {fossil} in the desert.", "source": "Bilim insanları çölde bir dinozor fosili buldu." },
+          { "target": "{Fossil} fuels include coal and oil.", "source": "Fosil yakıtlar arasında kömür ve petrol yer alır." },
+          { "target": "The {fossil} was millions of years old.", "source": "Fosil milyonlarca yıl öncesine aitti." },
+          { "target": "Museums display {fossil}s from ancient species.", "source": "Müzeler eski türlere ait fosilleri sergiliyor." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-8",
+        "kind": "word",
+        "term": "glacier",
+        "type": "noun",
+        "meaning": "buzul",
+        "examples": [
+          { "target": "{Glacier}s are melting due to climate change.", "source": "Buzullar iklim değişikliği nedeniyle eriyor." },
+          { "target": "The {glacier} carved out the valley over centuries.", "source": "Buzul, yüzyıllar boyunca vadeyi oydu." },
+          { "target": "Tourists visit the {glacier} for its beauty.", "source": "Turistler güzelliği için buzulu ziyaret ediyor." },
+          { "target": "A {glacier} can be several kilometers thick.", "source": "Bir buzul birkaç kilometre kalınlığında olabilir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-9",
+        "kind": "word",
+        "term": "habitat",
+        "type": "noun",
+        "meaning": "habitat, doğal ortam",
+        "examples": [
+          { "target": "The polar bear's {habitat} is threatened by warming.", "source": "Kutup ayısının habitatı ısınma nedeniyle tehdit altında." },
+          { "target": "Deforestation destroys animal {habitat}.", "source": "Ormansızlaşma hayvan habitatını tahrip eder." },
+          { "target": "Wetlands serve as important {habitat}s.", "source": "Sulak alanlar önemli habitatlar olarak hizmet eder." },
+          { "target": "Each species has a specific {habitat}.", "source": "Her türün kendine özgü bir habitatı vardır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-10",
+        "kind": "word",
+        "term": "mineral",
+        "type": "noun",
+        "meaning": "mineral",
+        "examples": [
+          { "target": "Iron is an important {mineral} for the body.", "source": "Demir, vücut için önemli bir mineraldir." },
+          { "target": "The region is rich in natural {mineral}s.", "source": "Bölge doğal mineraller açısından zengindir." },
+          { "target": "{Mineral} water contains calcium and magnesium.", "source": "Mineral su kalsiyum ve magnezyum içerir." },
+          { "target": "Mining extracts {mineral}s from the earth.", "source": "Madencilik, yerden mineral çıkarır." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-11",
+        "kind": "word",
+        "term": "renewable",
+        "type": "adjective",
+        "meaning": "yenilenebilir",
+        "examples": [
+          { "target": "Solar energy is a {renewable} resource.", "source": "Güneş enerjisi yenilenebilir bir kaynaktır." },
+          { "target": "Countries are investing in {renewable} energy.", "source": "Ülkeler yenilenebilir enerjiye yatırım yapıyor." },
+          { "target": "Wind power is a {renewable} and clean option.", "source": "Rüzgar enerjisi yenilenebilir ve temiz bir seçenektir." },
+          { "target": "{Renewable} resources do not run out over time.", "source": "Yenilenebilir kaynaklar zamanla tükenmez." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-12",
+        "kind": "word",
+        "term": "species",
+        "type": "noun",
+        "meaning": "tür (biyoloji)",
+        "examples": [
+          { "target": "Many {species} are at risk of extinction.", "source": "Pek çok tür nesli tükenme tehlikesiyle karşı karşıya." },
+          { "target": "Scientists have classified over a million {species}.", "source": "Bilim insanları bir milyonun üzerinde tür sınıflandırdı." },
+          { "target": "This {species} is found only in the Amazon.", "source": "Bu tür yalnızca Amazon'da bulunur." },
+          { "target": "Invasive {species} can harm local ecosystems.", "source": "İstilacı türler yerel ekosistemlere zarar verebilir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-13",
+        "kind": "word",
+        "term": "sustainable",
+        "type": "adjective",
+        "meaning": "sürdürülebilir",
+        "examples": [
+          { "target": "We need {sustainable} solutions to climate change.", "source": "İklim değişikliğine sürdürülebilir çözümler gerekiyor." },
+          { "target": "The farm practices {sustainable} agriculture.", "source": "Çiftlik sürdürülebilir tarım uyguluyor." },
+          { "target": "{Sustainable} tourism protects local culture.", "source": "Sürdürülebilir turizm yerel kültürü korur." },
+          { "target": "Building a {sustainable} future requires cooperation.", "source": "Sürdürülebilir bir gelecek inşa etmek iş birliği gerektirir." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-14",
+        "kind": "word",
+        "term": "toxic",
+        "type": "adjective",
+        "meaning": "toksik, zehirli",
+        "examples": [
+          { "target": "The chemical was found to be {toxic}.", "source": "Kimyasalın toksik olduğu saptandı." },
+          { "target": "Avoid {toxic} plants in the wild.", "source": "Doğada zehirli bitkilerden kaçının." },
+          { "target": "The factory released {toxic} waste into the river.", "source": "Fabrika nehre toksik atık bıraktı." },
+          { "target": "A {toxic} work environment affects mental health.", "source": "Toksik bir çalışma ortamı ruh sağlığını etkiler." }
+        ]
+      },
+      {
+        "id": "en-tr-intermediate-125-15",
+        "kind": "word",
+        "term": "wildfire",
+        "type": "noun",
+        "meaning": "orman yangını",
+        "examples": [
+          { "target": "A {wildfire} destroyed thousands of acres of forest.", "source": "Bir orman yangını binlerce hektar ormanu yaktı." },
+          { "target": "Drought conditions increase the risk of {wildfire}.", "source": "Kuraklık koşulları orman yangını riskini artırır." },
+          { "target": "Firefighters battled the {wildfire} for days.", "source": "İtfaiyeciler günlerce orman yangınıyla mücadele etti." },
+          { "target": "{Wildfire} smoke affected air quality across the region.", "source": "Orman yangını dumanı bölge genelinde hava kalitesini etkiledi." }
+        ]
+      }
+    ]
+  }
+]
